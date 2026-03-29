@@ -286,25 +286,6 @@ img {
   padding-left: 1.2rem;
 }
 
-.contact-list__item {
-  display: flex;
-  align-items: center;
-  gap: 0.55rem;
-  flex-wrap: wrap;
-}
-
-.contact-list__item + .contact-list__item {
-  margin-top: 0.2rem;
-}
-
-.contact-list__label {
-  font-weight: 600;
-}
-
-.contact-list__value {
-  overflow-wrap: anywhere;
-}
-
 .copy-row {
   display: inline-flex;
   align-items: center;
@@ -312,17 +293,17 @@ img {
   flex-wrap: wrap;
 }
 
-.icon-action-button,
 .copy-button {
   appearance: none;
   border: 1px solid var(--line);
   background: rgba(255, 255, 255, 0.92);
   color: var(--text);
-  border-radius: 999px;
-  width: 2.5rem;
-  height: 2.5rem;
-  padding: 0;
+  border-radius: 0.6rem;
+  min-height: 1.9rem;
+  padding: 0.18rem 0.62rem;
   font: inherit;
+  font-size: 0.88rem;
+  line-height: 1.1;
   cursor: pointer;
   display: inline-flex;
   align-items: center;
@@ -334,70 +315,18 @@ img {
     transform 160ms ease;
 }
 
-.icon-action-button:hover,
 .copy-button:hover {
   background: var(--accent-soft);
 }
 
-.icon-action-button:active,
 .copy-button:active {
   transform: scale(0.96);
 }
 
-.icon-action-button.is-feedback-active,
 .copy-button.is-copied {
   background: var(--accent);
   color: #ffffff;
   border-color: var(--accent);
-}
-
-.copy-button__icon {
-  position: relative;
-  width: 1.3rem;
-  height: 1.3rem;
-  display: inline-block;
-}
-
-.copy-icon {
-  position: absolute;
-  border-radius: 0.26rem;
-  transition:
-    border-color 160ms ease,
-    background-color 160ms ease,
-    box-shadow 160ms ease,
-    transform 160ms ease;
-}
-
-.copy-icon--back {
-  width: 0.78rem;
-  height: 0.78rem;
-  right: 0.08rem;
-  bottom: 0.08rem;
-  border: 0.14rem solid rgba(10, 108, 116, 0.52);
-}
-
-.copy-icon--front {
-  width: 0.8rem;
-  height: 0.8rem;
-  left: 0.08rem;
-  top: 0.08rem;
-  background: rgba(255, 255, 255, 0.96);
-  border: 0.14rem solid #1f2330;
-  box-shadow: 0 0 0 0.04rem rgba(255, 255, 255, 0.58);
-}
-
-.icon-action-button.is-feedback-active .copy-icon--back,
-.copy-button.is-copied .copy-icon--back {
-  border-color: rgba(255, 255, 255, 0.85);
-  transform: translate(0.03rem, 0.03rem);
-}
-
-.icon-action-button.is-feedback-active .copy-icon--front,
-.copy-button.is-copied .copy-icon--front {
-  background: transparent;
-  border-color: #ffffff;
-  box-shadow: none;
-  transform: translate(-0.03rem, -0.03rem);
 }
 
 .feedback-toast {
@@ -453,6 +382,7 @@ img {
   display: flex;
   justify-content: space-between;
   gap: 1rem;
+  flex-wrap: wrap;
   border-top: 1px solid var(--line);
   padding-top: 1rem;
   color: var(--muted);
