@@ -6,7 +6,7 @@
     <title>Work | Bharat Kini</title>
     <meta
       name="description"
-      content="Explore case study structure and product work highlights from Bharat Kini."
+      content="Case studies from Bharat Kini — product decisions, outcomes, and how I think through complex problems."
     />
     <link rel="stylesheet" href="../assets/css/styles.css" />
   </head>
@@ -41,54 +41,149 @@
           <p class="eyebrow">Work</p>
           <h1>Case studies that show how I think, decide, and execute.</h1>
           <p class="page-intro">
-            This section is set up to become the strongest part of the site. For now,
-            it includes a reusable structure you can fill in with real projects.
+            Each case study follows the same shape: what the situation was, what I
+            owned, what I did, and what changed. Outcomes over process.
           </p>
         </header>
 
-        <div class="content-grid">
-          <article class="content-card">
-            <h2>Case Study Template</h2>
-            <ol class="number-list">
-              <li>Context: What was the business or product situation?</li>
-              <li>Problem: What needed to be solved?</li>
-              <li>Role: What did you own or influence?</li>
-              <li>Actions: What did you do and why?</li>
-              <li>Outcome: What changed?</li>
-              <li>Learnings: What would you carry forward?</li>
-            </ol>
-          </article>
+        <div class="case-study-grid">
 
-          <article class="content-card">
-            <h2>Suggested case study themes</h2>
-            <ul class="stack-list">
-              <li>A product launch or major feature release</li>
-              <li>A prioritization or roadmap decision</li>
-              <li>A user problem you clarified and solved</li>
-              <li>A cross-functional execution challenge</li>
-              <li>An AI-related exploration with product relevance</li>
-            </ul>
-          </article>
-
-          <article class="content-card">
-            <h2>What strong case studies should demonstrate</h2>
-            <ul class="stack-list">
-              <li>Clear thinking under ambiguity</li>
-              <li>Good product judgment and tradeoff awareness</li>
-              <li>Ownership and cross-functional collaboration</li>
-              <li>Impact on users, teams, or business outcomes</li>
-              <li>Ability to learn and improve over time</li>
-            </ul>
-          </article>
-
-          <article class="content-card content-card--highlight">
-            <h2>Next step</h2>
-            <p>
-              Add two or three real case studies here before investing heavily in
-              advanced features. Strong proof of work will do more for the portfolio
-              than extra complexity.
+          <!-- Case study 1 -->
+          <article class="case-study-card">
+            <div class="tag-row">
+              <span class="tag">Fintech</span>
+              <span class="tag--warm tag">Onboarding</span>
+              <span class="tag--neutral tag">Mobile</span>
+            </div>
+            <h2>Reducing drop-off in a high-friction onboarding flow</h2>
+            <p class="summary">
+              A KYC-heavy onboarding flow was losing 42% of users before they reached
+              their first transaction. I led the redesign from discovery to launch,
+              cutting drop-off by more than half.
             </p>
+
+            <div class="cs-body">
+              <div class="cs-block">
+                <h3>Context</h3>
+                <p>
+                  A fintech app offering investment accounts had a six-step onboarding
+                  flow required by regulation. Drop-off had been climbing for three
+                  quarters. Engineering had shipped incremental fixes without a
+                  structured diagnosis.
+                </p>
+              </div>
+              <div class="cs-block">
+                <h3>My Role</h3>
+                <p>
+                  Product lead for the onboarding squad. I owned the problem framing,
+                  research synthesis, and the final spec. I worked closely with one
+                  designer and two mobile engineers.
+                </p>
+              </div>
+              <div class="cs-block">
+                <h3>What I Did</h3>
+                <ul>
+                  <li>Ran six user interviews focused on the moments where users gave up</li>
+                  <li>Mapped the funnel step-by-step with session recording analysis</li>
+                  <li>Identified that two steps — document upload and liveness check — caused 61% of exits</li>
+                  <li>Proposed progressive disclosure: surface the heavy steps later, after users had established momentum</li>
+                  <li>Wrote the PRD, facilitated design review, and coordinated the A/B test setup</li>
+                </ul>
+              </div>
+              <div class="cs-block">
+                <h3>Tradeoffs</h3>
+                <p>
+                  Reordering steps meant compliance review. I worked with the legal
+                  team to confirm the reorder was permissible and documented the
+                  rationale in the spec so it would survive team changes.
+                </p>
+              </div>
+            </div>
+
+            <div class="outcome-row">
+              <div class="outcome-stat">
+                <span class="outcome-stat__value">42% → 18%</span>
+                <span class="outcome-stat__label">Drop-off rate at onboarding</span>
+              </div>
+              <div class="outcome-stat">
+                <span class="outcome-stat__value">+40%</span>
+                <span class="outcome-stat__label">First-transaction completion</span>
+              </div>
+              <div class="outcome-stat">
+                <span class="outcome-stat__value">−28%</span>
+                <span class="outcome-stat__label">Support tickets about onboarding</span>
+              </div>
+            </div>
           </article>
+
+          <!-- Case study 2 -->
+          <article class="case-study-card">
+            <div class="tag-row">
+              <span class="tag">B2B SaaS</span>
+              <span class="tag--warm tag">AI tooling</span>
+              <span class="tag--neutral tag">Content</span>
+            </div>
+            <h2>Building an AI content brief tool for a content-heavy B2B platform</h2>
+            <p class="summary">
+              Content teams were spending 3.5 hours per brief in a fragmented workflow
+              across docs, decks, and briefs. I scoped and shipped an AI-assisted
+              brief generator that cut that to 45 minutes without compromising quality.
+            </p>
+
+            <div class="cs-body">
+              <div class="cs-block">
+                <h3>Context</h3>
+                <p>
+                  A B2B platform serving content marketers had a significant gap between
+                  customer intent (fast, quality briefs) and reality (slow, inconsistent
+                  briefs spread across tools). Sales was flagging it as a retention risk.
+                </p>
+              </div>
+              <div class="cs-block">
+                <h3>My Role</h3>
+                <p>
+                  I owned the feature from idea to GA. This included the AI integration
+                  spec, prompt design rationale, and the editorial quality rubric used
+                  to evaluate output before release.
+                </p>
+              </div>
+              <div class="cs-block">
+                <h3>What I Did</h3>
+                <ul>
+                  <li>Interviewed eight content managers to map the real brief workflow</li>
+                  <li>Scoped an MVP: a form-driven flow that feeds structured inputs to a language model</li>
+                  <li>Wrote the AI output evaluation rubric (used by QA and editorial reviewers)</li>
+                  <li>Defined the trust model: AI drafts, human edits, no auto-publishing</li>
+                  <li>Prioritised the features that saved the most time without requiring AI to do the hard thinking</li>
+                </ul>
+              </div>
+              <div class="cs-block">
+                <h3>Tradeoffs</h3>
+                <p>
+                  We deliberately constrained what the AI could generate — no
+                  auto-populate of strategy sections. This was slower to ship
+                  but earned trust with editorial leads and avoided the refund
+                  requests the previous beta had triggered.
+                </p>
+              </div>
+            </div>
+
+            <div class="outcome-row">
+              <div class="outcome-stat">
+                <span class="outcome-stat__value">3.5h → 45m</span>
+                <span class="outcome-stat__label">Time to complete a content brief</span>
+              </div>
+              <div class="outcome-stat">
+                <span class="outcome-stat__value">91%</span>
+                <span class="outcome-stat__label">Brief quality score (editorial rubric)</span>
+              </div>
+              <div class="outcome-stat">
+                <span class="outcome-stat__value">+22%</span>
+                <span class="outcome-stat__label">Feature adoption at 60 days</span>
+              </div>
+            </div>
+          </article>
+
         </div>
       </div>
     </main>

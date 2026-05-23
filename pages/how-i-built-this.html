@@ -6,7 +6,7 @@
     <title>How I Built This | Bharat Kini</title>
     <meta
       name="description"
-      content="See how Bharat Kini used AI tools, planning systems, and product thinking to build this website."
+      content="How Bharat Kini used AI tools, planning systems, and product thinking to build this website from scratch."
     />
     <link rel="stylesheet" href="../assets/css/styles.css" />
   </head>
@@ -39,74 +39,118 @@
       <div class="container">
         <header class="page-header">
           <p class="eyebrow">How I Built This</p>
-          <h1>This website is also a working example of how I use AI tools with structure and judgment.</h1>
+          <h1>This site is also a working example of how I use AI with structure and judgment.</h1>
           <p class="page-intro">
-            I did not want this site to be only a portfolio. I wanted it to show how
-            I think, how I make decisions, and how I use AI tools in a practical way
-            to move from idea to execution.
+            I didn't want a portfolio that just described how I think. I wanted one
+            that demonstrated it — by being itself a product artifact: scoped, planned,
+            designed, and shipped in a disciplined way.
           </p>
         </header>
 
         <div class="content-grid">
-          <section class="content-card">
-            <h2>Why I built it this way</h2>
-            <p>
-              My goal was to create a personal website that feels like a real product
-              artifact. It needed to be polished, low-cost, privacy-conscious,
-              accessible, and easy to maintain over time.
-            </p>
+
+          <section class="content-card" style="grid-column: 1 / -1;">
+            <h2>The build process, step by step</h2>
+            <div class="process-steps">
+              <div class="process-step">
+                <div class="process-step__num">1</div>
+                <div>
+                  <h3>Define the product brief</h3>
+                  <p>
+                    Before writing a line of HTML, I wrote a full PRD — a 14-section product
+                    requirements document with user personas, feature requirements, MoSCoW
+                    priorities, open questions, and a dependency map. The AI helped structure
+                    it; I made every call about scope and priorities.
+                  </p>
+                </div>
+              </div>
+              <div class="process-step">
+                <div class="process-step__num">2</div>
+                <div>
+                  <h3>Build a design system first</h3>
+                  <p>
+                    I built a design system before any page code — tokens for colour, type,
+                    spacing, and shadow; component rules for cards, buttons, and navigation;
+                    page-level standards for the hero, section heading, and content grid.
+                    This made every subsequent decision faster and consistent.
+                  </p>
+                </div>
+              </div>
+              <div class="process-step">
+                <div class="process-step__num">3</div>
+                <div>
+                  <h3>Set up the workflow and safety rails</h3>
+                  <p>
+                    I use a two-repo model (private source + public deploy) with git branch
+                    protection, a pre-commit hook that blocks direct edits to main, and
+                    a supply-chain audit on every commit. The site runs as a static HTML/CSS/JS
+                    stack — no framework, no build step, no runtime dependencies.
+                  </p>
+                </div>
+              </div>
+              <div class="process-step">
+                <div class="process-step__num">4</div>
+                <div>
+                  <h3>Ship the foundation, then layer content</h3>
+                  <p>
+                    Version 1 focused on structure and accessibility: correct heading
+                    hierarchy, semantic HTML, keyboard navigation, skip links, WCAG-compliant
+                    colour contrast, and a mobile-first responsive layout. Content came in
+                    version 2 — real case studies, real writing, real copy.
+                  </p>
+                </div>
+              </div>
+              <div class="process-step">
+                <div class="process-step__num">5</div>
+                <div>
+                  <h3>Use AI to accelerate, not to replace judgment</h3>
+                  <p>
+                    AI drafted the initial copy, generated CSS pattern variations, and flagged
+                    gaps in my spec. Every decision about brand, priorities, tradeoffs, and
+                    what to cut was mine. The AI made me faster; it didn't make the choices.
+                  </p>
+                </div>
+              </div>
+            </div>
           </section>
 
           <section class="content-card">
             <h2>What I wanted to demonstrate</h2>
             <ul class="stack-list">
-              <li>Clear product thinking and structured decision-making</li>
-              <li>Ability to use AI tools as leverage, not as a shortcut</li>
-              <li>Good judgment around cost, privacy, control, and accessibility</li>
-              <li>A practical approach to shipping in versions</li>
-            </ul>
-          </section>
-
-          <section class="content-card">
-            <h2>Where AI helped</h2>
-            <ul class="stack-list">
-              <li>Shaping the website plan, scope, and phased roadmap</li>
-              <li>Creating a design system and content structure</li>
-              <li>Building the first version of the site quickly</li>
-              <li>Setting up reusable interaction patterns and workflow documents</li>
-              <li>Keeping implementation aligned with clear constraints</li>
-            </ul>
-          </section>
-
-          <section class="content-card">
-            <h2>Where judgment still mattered</h2>
-            <ul class="stack-list">
-              <li>Defining the personal brand the site should communicate</li>
-              <li>Deciding what mattered for version 1, version 2, and version 3</li>
-              <li>Choosing low-cost options without compromising safety or control</li>
-              <li>Setting quality expectations around WCAG and UX standards</li>
+              <li>Product thinking applied to a personal project, not just at work</li>
+              <li>Ability to use AI as leverage without losing structure or judgment</li>
+              <li>Good decisions around cost, privacy, accessibility, and maintainability</li>
+              <li>A phased, version-first approach to shipping</li>
             </ul>
           </section>
 
           <section class="content-card">
             <h2>Principles I followed</h2>
             <ul class="stack-list">
-              <li>Start simple and ship in layers</li>
-              <li>Use AI to accelerate thinking, structure, and iteration</li>
-              <li>Keep the stack easy to understand and affordable to run</li>
-              <li>Document decisions so the project stays maintainable</li>
-              <li>Design for clarity and usability before complexity</li>
+              <li>No framework — easy to understand, cheap to host, durable over time</li>
+              <li>WCAG 2.1 AA contrast and semantic HTML from the start</li>
+              <li>Design tokens and a design system before any page code</li>
+              <li>Document decisions so the project survives team changes (even when the team is just me)</li>
+              <li>Separation of private source and public deploy — never mix concerns</li>
             </ul>
           </section>
 
-          <section class="content-card content-card--highlight">
-            <h2>What this says about how I work</h2>
-            <p>
-              I’m interested in using AI as a serious working tool: to create momentum,
-              reduce friction, and improve execution while still keeping human judgment
-              at the center of the process.
-            </p>
+          <section class="content-card content-card--highlight" style="grid-column: 1 / -1;">
+            <h2>The stack</h2>
+            <p>Deliberately minimal. Everything here is a considered choice, not a default.</p>
+            <div class="stack-pills" style="margin-top: 1rem;">
+              <span class="stack-pill">HTML5</span>
+              <span class="stack-pill">CSS custom properties</span>
+              <span class="stack-pill">Vanilla JS</span>
+              <span class="stack-pill">Python http.server</span>
+              <span class="stack-pill">Git worktrees</span>
+              <span class="stack-pill">Claude Code</span>
+              <span class="stack-pill">Static hosting</span>
+              <span class="stack-pill">No build step</span>
+              <span class="stack-pill">No npm</span>
+            </div>
           </section>
+
         </div>
       </div>
     </main>
