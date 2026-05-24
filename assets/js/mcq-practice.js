@@ -318,32 +318,36 @@ function renderQuizChoices() {
   const savedAttempt = loadSavedAttempt();
   const completions = loadCompletions();
   const inProgressId = savedAttempt ? savedAttempt.quizId : null;
-  const baselineId = "drill-2-garg-style";
 
   const rowsHtml = QUIZ_BANKS.map((quiz, index) => {
     const completion = completions[quiz.id];
     const isInProgress = quiz.id === inProgressId;
-    const isBaseline = quiz.id === baselineId;
     const rowClasses = ["mcq-drill-row"];
     if (isInProgress) rowClasses.push("is-in-progress");
-    if (isBaseline) rowClasses.push("is-baseline");
 
     const lastCompletionCell = isInProgress
       ? `<span class="mcq-resume-tag">Resume ⟳</span>`
       : completion
-        ? `<span class="mcq-completion"><strong>${escapeHtml(formatDuration(completion.durationSeconds))}</strong> · ${completion.correct}/${completion.total}</span>`
+        ? (() => {
+            const attempted = completion.attempted ?? completion.total;
+            const scoreStr = `${completion.correct}/${completion.total} correct`;
+            const attemptedStr = attempted < completion.total
+              ? `<span class="mcq-completion-attempted">${attempted} answered</span>`
+              : "";
+            return `<span class="mcq-completion"><strong>${escapeHtml(formatDuration(completion.durationSeconds))}</strong><span class="mcq-completion-score">${escapeHtml(scoreStr)}</span>${attemptedStr}</span>`;
+          })()
         : `<span class="mcq-empty">—</span>`;
-
-    const baselineBadge = isBaseline ? ` <span class="mcq-baseline-badge">Baseline</span>` : "";
 
     const actionLabel = isInProgress ? "Resume" : "Start drill";
     const actionClass = isInProgress ? "button button--secondary mcq-action-button" : "button button--primary mcq-action-button";
+    const hasDownloadData = isInProgress || Boolean(completion && Array.isArray(completion.rows));
+    const downloadDisabledAttr = hasDownloadData ? "" : "disabled";
 
     return `
       <tr class="${rowClasses.join(" ")}">
         <td data-label="#"><span class="mcq-drill-number">${index + 1}</span></td>
         <td data-label="Drill">
-          <strong>${escapeHtml(quiz.title.replace(/^Drill \d+ — /, ""))}</strong>${baselineBadge}
+          <strong>${escapeHtml(quiz.title.replace(/^Drill \d+ — /, ""))}</strong>
           <span class="mcq-drill-source">${escapeHtml(quiz.source)}</span>
           <span class="mcq-drill-description">${escapeHtml(quiz.description)}</span>
         </td>
@@ -355,8 +359,13 @@ function renderQuizChoices() {
         <td data-label="Questions">${quiz.questions.length}</td>
         <td data-label="Time limit">${quiz.durationMinutes} min</td>
         <td data-label="Last completion">${lastCompletionCell}</td>
-        <td data-label="Action">
-          <button class="${actionClass}" type="button" data-start-quiz="${escapeHtml(quiz.id)}">${actionLabel}</button>
+        <td data-label="Actions">
+          <div class="mcq-action-buttons">
+            <button class="${actionClass}" type="button" data-start-quiz="${escapeHtml(quiz.id)}">${actionLabel}</button>
+            <span class="mcq-tooltip-wrap"${hasDownloadData ? "" : ` data-tooltip="Start the drill first to enable this download"`}>
+              <button class="button button--secondary mcq-action-button" type="button" data-download-quiz="${escapeHtml(quiz.id)}" ${downloadDisabledAttr}>Download report</button>
+            </span>
+          </div>
         </td>
       </tr>
     `;
@@ -373,7 +382,7 @@ function renderQuizChoices() {
           <th scope="col">Questions</th>
           <th scope="col">Time limit</th>
           <th scope="col">Last completion</th>
-          <th scope="col"><span class="visually-hidden">Action</span></th>
+          <th scope="col">Actions</th>
         </tr>
       </thead>
       <tbody>${rowsHtml}</tbody>
@@ -690,6 +699,7 @@ function finishAttempt(message) {
 
   reportRows = buildReportRows();
   const correct = reportRows.filter((row) => row.isCorrect).length;
+  const attempted = reportRows.filter((row) => row.result !== "Unanswered").length;
   const total = reportRows.length;
   const percent = Math.round((correct / total) * 100);
   const durationSeconds = Math.max(0, (Date.now() - startedAt) / 1000);
@@ -698,7 +708,17 @@ function finishAttempt(message) {
     durationSeconds,
     completedAt: Date.now(),
     correct,
+    attempted,
     total,
+    // Store pre-computed rows so the drill-table download button works after completion.
+    rows: reportRows.map((r) => ({
+      question: r.question,
+      options: r.options,
+      selected: r.selected,
+      answer: r.answer,
+      reviewStatus: r.reviewStatus,
+      result: r.result,
+    })),
   });
 
   scoreSummary.textContent = `${message} Score: ${correct} / ${total} (${percent}%). Time: ${formatDuration(durationSeconds)}. Attempt ID: ${attemptId}.`;
@@ -889,6 +909,72 @@ function createXlsxBlob(rows) {
   ]);
 }
 
+// Build report rows from any saved attempt for the drill-table download button.
+// Unanswered questions are labelled "Unattempted" rather than "Not answered".
+function buildDownloadRowsFromAttempt(quiz, attempt) {
+  return quiz.questions.map((question, index) => {
+    const sel = attempt.answers[index] || "";
+    const flagged = attempt.reviewFlags[index];
+    const left = attempt.reviewLeft[index];
+    const revisited = attempt.reviewRevisited[index];
+    const changed = attempt.reviewAnswerChanged[index];
+
+    let rvStatus;
+    if (!flagged) {
+      rvStatus = "Not marked for review";
+    } else if (left && !revisited) {
+      rvStatus = "Marked for review and not visited later";
+    } else if (changed) {
+      rvStatus = "Marked for review and answer changed";
+    } else if (revisited && !changed) {
+      rvStatus = "Marked for review and answer not changed";
+    } else if (sel) {
+      rvStatus = "Marked for review and answered";
+    } else {
+      rvStatus = "Marked for review and not answered";
+    }
+
+    return {
+      question: `Q${question.sourceNumber}. ${question.question}`,
+      options: question.options.map((o) => `${o.label}) ${o.text}`).join(" | "),
+      selected: sel ? optionText(question, sel) : "Unattempted",
+      answer: optionText(question, question.answer),
+      reviewStatus: rvStatus,
+      result: sel ? (sel === question.answer ? "Right" : "Wrong") : "Unattempted",
+    };
+  });
+}
+
+// Download the Excel report for a drill directly from the drill-selection table.
+// Works for both in-progress (saved attempt) and completed (stored rows) drills.
+function downloadExcelForQuiz(quizId) {
+  const quiz = QUIZ_BANKS.find((b) => b.id === quizId);
+  if (!quiz) return;
+
+  const savedAttempt = loadSavedAttempt();
+  const completions = loadCompletions();
+  const completion = completions[quizId];
+
+  let rows;
+  if (savedAttempt && savedAttempt.quizId === quizId) {
+    rows = buildDownloadRowsFromAttempt(quiz, savedAttempt);
+  } else if (completion && Array.isArray(completion.rows)) {
+    rows = completion.rows;
+  } else {
+    return;
+  }
+
+  const blob = createXlsxBlob(rows);
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = `${quiz.id}-report.xlsx`;
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  URL.revokeObjectURL(url);
+}
+
 function downloadExcel() {
   const rows = sortRows(filteredRows());
   const blob = createXlsxBlob(rows);
@@ -921,10 +1007,15 @@ function handleBrowserBack() {
 }
 
 quizOptions?.addEventListener("click", (event) => {
-  const button = event.target.closest("[data-start-quiz]");
+  const startButton = event.target.closest("[data-start-quiz]");
+  if (startButton) {
+    startQuiz(startButton.dataset.startQuiz);
+    return;
+  }
 
-  if (button) {
-    startQuiz(button.dataset.startQuiz);
+  const downloadButton = event.target.closest("[data-download-quiz]");
+  if (downloadButton && !downloadButton.disabled) {
+    downloadExcelForQuiz(downloadButton.dataset.downloadQuiz);
   }
 });
 

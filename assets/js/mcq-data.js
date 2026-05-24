@@ -1164,10 +1164,10 @@ const QUIZ_BANKS = [
     ]
   },
   {
-    "id": "drill-2-garg-style",
-    "title": "Drill 2 — Garg-style scenarios",
+    "id": "drill-2-scenarios",
+    "title": "Drill 2 — Applied scenarios",
     "source": "practice-mcqs-v2.md (Q16–Q65)",
-    "description": "Short scenario-based questions modelled on the professor's sample-question style.",
+    "description": "Short scenario-based questions in an applied, exam-like style.",
     "durationMinutes": 60,
     "difficulty": "★★",
     "difficultyLabel": "Baseline",

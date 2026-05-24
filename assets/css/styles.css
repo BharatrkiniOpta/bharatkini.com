@@ -175,6 +175,9 @@ img {
 .page-intro {
   font-size: 1.1rem;
   color: var(--muted);
+}
+
+.hero__lede {
   max-width: 44rem;
 }
 
@@ -258,7 +261,6 @@ img {
 .section-heading h2,
 .page-header h1 {
   font-size: clamp(2rem, 4.5vw, 3.4rem);
-  max-width: 14ch;
 }
 
 .card-grid {
@@ -303,7 +305,7 @@ img {
   border: 1px solid var(--line);
   background: rgba(255, 255, 255, 0.92);
   color: var(--text);
-  border-radius: 0.6rem;
+  border-radius: 999px;
   min-height: 1.9rem;
   padding: 0.18rem 0.62rem;
   font: inherit;
@@ -623,7 +625,7 @@ img {
 
 .cs-body {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 1rem;
   margin-bottom: 1.5rem;
 }
@@ -802,16 +804,20 @@ img {
   .expertise-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
+  .cs-body {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .cs-body {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* ── MCQ / Exam-prep page ───────────────────────────────────────────────── */
 
-/* Remove the global 14ch max-width that wraps page headings on other pages;
-   these headings are short enough to sit on one line at desktop widths. */
-.mcq-header h1,
-.mcq-selection .section-heading h2 {
-  max-width: none;
-}
 
 .mcq-header {
   display: flex;
@@ -1155,10 +1161,79 @@ img {
   background: var(--accent-strong);
 }
 
-.mcq-actions .button:disabled {
+.mcq-actions .button:disabled,
+.mcq-action-buttons .button:disabled {
   cursor: not-allowed;
   opacity: 0.55;
   box-shadow: none;
+  pointer-events: none;
+}
+
+.mcq-action-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.mcq-action-buttons .mcq-action-button,
+.mcq-action-buttons .mcq-tooltip-wrap {
+  min-width: 8.75rem;
+  width: 100%;
+}
+
+.mcq-action-buttons .mcq-tooltip-wrap .mcq-action-button {
+  width: 100%;
+}
+
+/* Tooltip wrapper for the disabled Download report button.
+   Since pointer-events:none on the button passes hover to this span,
+   the ::after tooltip fires correctly even over a disabled element.
+   Tooltip is right-anchored so it never overflows the table's right edge. */
+.mcq-tooltip-wrap {
+  position: relative;
+  display: block;
+}
+
+@keyframes mcq-tooltip-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.mcq-tooltip-wrap[data-tooltip]:hover::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 10px);
+  right: 0;
+  background: rgba(16, 16, 20, 0.93);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: #f0f0f2;
+  font-size: 0.725rem;
+  font-weight: 500;
+  line-height: 1.45;
+  letter-spacing: 0.018em;
+  padding: 0.5rem 0.8rem;
+  border-radius: 8px;
+  white-space: nowrap;
+  pointer-events: none;
+  z-index: 30;
+  box-shadow:
+    0 8px 24px rgba(0, 0, 0, 0.3),
+    0 0 0 1px rgba(255, 255, 255, 0.1);
+  animation: mcq-tooltip-in 0.15s ease forwards;
+}
+
+/* Caret — pinned to the right side matching the right-anchored tooltip */
+.mcq-tooltip-wrap[data-tooltip]:hover::before {
+  content: "";
+  position: absolute;
+  bottom: calc(100% + 4px);
+  right: 18px;
+  border: 6px solid transparent;
+  border-top-color: rgba(16, 16, 20, 0.93);
+  pointer-events: none;
+  z-index: 30;
 }
 
 @media (max-width: 900px) {
@@ -1204,7 +1279,7 @@ img {
 }
 
 .mcq-drill-table thead th {
-  text-align: left;
+  text-align: center;
   padding: 0.85rem 0.9rem;
   background: var(--surface-strong);
   color: var(--muted);
@@ -1221,13 +1296,26 @@ img {
   vertical-align: middle;
 }
 
+.mcq-drill-table tbody td:first-child {
+  text-align: center;
+}
+
+.mcq-drill-table tbody td[data-label="Difficulty"],
+.mcq-drill-table tbody td[data-label="Use it for"],
+.mcq-drill-table tbody td[data-label="Questions"],
+.mcq-drill-table tbody td[data-label="Time limit"],
+.mcq-drill-table tbody td[data-label="Last completion"] {
+  text-align: center;
+}
+
+.mcq-drill-table tbody td:last-child {
+  text-align: center;
+}
+
 .mcq-drill-table tbody tr:last-child td {
   border-bottom: 0;
 }
 
-.mcq-drill-table tbody tr.is-baseline {
-  background: rgba(221, 243, 239, 0.45);
-}
 
 .mcq-drill-table tbody tr.is-in-progress {
   border-left: 3px solid var(--warm);
@@ -1262,19 +1350,6 @@ img {
   max-width: 32rem;
 }
 
-.mcq-baseline-badge {
-  display: inline-block;
-  margin-left: 0.4rem;
-  padding: 0.08rem 0.5rem;
-  border-radius: 999px;
-  background: var(--accent-soft);
-  color: var(--accent-strong);
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  vertical-align: middle;
-}
 
 .mcq-difficulty-stars {
   display: block;
@@ -1291,9 +1366,26 @@ img {
   margin-top: 0.2rem;
 }
 
+.mcq-completion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.1rem;
+}
+
 .mcq-completion strong {
   font-variant-numeric: tabular-nums;
   font-size: 1rem;
+}
+
+.mcq-completion-score {
+  font-size: 0.8rem;
+  color: var(--text);
+}
+
+.mcq-completion-attempted {
+  font-size: 0.72rem;
+  color: var(--muted);
 }
 
 .mcq-empty {
@@ -1382,7 +1474,10 @@ img {
   .mcq-drill-description {
     max-width: none;
   }
-  .mcq-drill-table tbody td[data-label="Action"] .mcq-action-button {
+  .mcq-drill-table tbody td[data-label="Actions"] .mcq-action-buttons {
+    width: 100%;
+  }
+  .mcq-drill-table tbody td[data-label="Actions"] .mcq-action-button {
     width: 100%;
   }
 }
