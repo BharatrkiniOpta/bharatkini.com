@@ -96,7 +96,13 @@ img {
   justify-content: space-between;
   gap: 1rem;
   min-height: 4.5rem;
-  position: relative;
+}
+
+.site-header__right {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-shrink: 0;
 }
 
 .wordmark {
@@ -830,9 +836,8 @@ img {
 }
 
 .mcq-header-timer {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
+  /* Pill sits as the middle flex child; space-between centres it in the gap
+     between the wordmark and the nav group */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -841,9 +846,9 @@ img {
   color: #ffffff;
   padding: 0.35rem 1.1rem 0.4rem;
   border-radius: 999px;
-  pointer-events: none;
   white-space: nowrap;
   box-shadow: var(--shadow);
+  flex-shrink: 0;
 }
 
 .mcq-timer__label {
