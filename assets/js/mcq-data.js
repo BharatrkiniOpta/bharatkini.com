@@ -3,7 +3,7 @@
 const QUIZ_BANKS = [
   {
     "id": "drill-1-original",
-    "title": "Drill 1 — Original 50 MCQs",
+    "title": "Drill 1 — Your First 50 MCQs",
     "source": "practice-mcqs.md",
     "description": "Definition-recall questions covering all 14 modules. Single-sentence stems.",
     "durationMinutes": 60,
