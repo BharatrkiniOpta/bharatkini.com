@@ -46,6 +46,10 @@
     <header class="site-header">
       <div class="container site-header__inner">
         <a class="wordmark" href="../index.html">Bharat Kini</a>
+        <div id="header-timer-wrap" class="mcq-header-timer" hidden aria-live="polite">
+          <span class="mcq-timer__label">Timer</span>
+          <strong id="timer-display">60:00</strong>
+        </div>
         <button
           class="nav-toggle"
           type="button"
@@ -80,18 +84,12 @@
         </div>
       </div>
       <div class="container">
-        <header class="page-header mcq-header">
-          <div>
-            <p class="eyebrow">Exam Prep</p>
-            <h1>Timed MCQ practice.</h1>
-            <p class="page-intro">
-              Pick one drill, answer one question at a time, and review only after the attempt ends.
-            </p>
-          </div>
-          <div class="mcq-timer" aria-live="polite">
-            <span class="mcq-timer__label">Timer</span>
-            <strong id="timer-display">60:00</strong>
-          </div>
+        <header id="mcq-page-header" class="page-header mcq-header">
+          <p class="eyebrow">Exam Prep</p>
+          <h1>Timed MCQ practice.</h1>
+          <p class="page-intro">
+            Pick one drill, answer one question at a time, and review only after the attempt ends.
+          </p>
         </header>
 
         <section id="resume-panel" class="mcq-resume" hidden aria-labelledby="resume-title">

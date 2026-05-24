@@ -26,6 +26,8 @@ const resultsTable = document.querySelector("#results-table");
 const resultsBody = resultsTable?.querySelector("tbody");
 const columnFilters = document.querySelectorAll("[data-column-filter]");
 const resetCompletionsButton = document.querySelector("#reset-completions");
+const mcqPageHeader = document.querySelector("#mcq-page-header");
+const headerTimerWrap = document.querySelector("#header-timer-wrap");
 const disclaimerModal = document.querySelector("#disclaimer-modal");
 const disclaimerCheckbox = document.querySelector("#disclaimer-checkbox");
 const disclaimerDeny = document.querySelector("#disclaimer-deny");
@@ -423,6 +425,10 @@ function beginAttempt(attempt) {
   resumePanel.hidden = true;
   resultsPanel.hidden = true;
   quizPanel.hidden = false;
+  if (headerTimerWrap) headerTimerWrap.hidden = false;
+  if (mcqPageHeader) mcqPageHeader.hidden = true;
+  stopRotatingBanner();
+  if (disclaimerBanner) disclaimerBanner.hidden = true;
   quizTitle.textContent = activeQuiz.title;
   quizSource.textContent = activeQuiz.source;
   history.pushState(ATTEMPT_HISTORY_STATE, "", window.location.href);
@@ -693,6 +699,7 @@ function finishAttempt(message) {
   window.clearInterval(timerId);
   isAttemptActive = false;
   clearSavedAttempt();
+  if (headerTimerWrap) headerTimerWrap.hidden = true;
   quizPanel.hidden = true;
   resumePanel.hidden = true;
   resultsPanel.hidden = false;
@@ -1059,6 +1066,9 @@ restartQuiz?.addEventListener("click", () => {
   isAttemptActive = false;
   activeQuiz = undefined;
   timerDisplay.textContent = "60:00";
+  if (headerTimerWrap) headerTimerWrap.hidden = true;
+  if (mcqPageHeader) mcqPageHeader.hidden = false;
+  if (loadDisclaimerStatus() === "accepted") startRotatingBanner();
   resultsPanel.hidden = true;
   quizSelection.hidden = false;
   renderQuizChoices();

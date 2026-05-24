@@ -96,6 +96,7 @@ img {
   justify-content: space-between;
   gap: 1rem;
   min-height: 4.5rem;
+  position: relative;
 }
 
 .wordmark {
@@ -819,36 +820,46 @@ img {
 /* ── MCQ / Exam-prep page ───────────────────────────────────────────────── */
 
 
-.mcq-header {
-  display: flex;
-  justify-content: space-between;
-  gap: 1rem;
-  align-items: center;
+.mcq-header[hidden] {
+  display: none;
 }
 
-.mcq-timer {
-  min-width: 9rem;
-  padding: 1rem;
-  border: 1px solid var(--line);
-  border-radius: var(--radius-md);
+/* Timer pill displayed inside the sticky site-header during an active drill */
+.mcq-header-timer[hidden] {
+  display: none;
+}
+
+.mcq-header-timer {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.05rem;
   background: var(--surface-dark);
   color: #ffffff;
-  text-align: right;
+  padding: 0.35rem 1.1rem 0.4rem;
+  border-radius: 999px;
+  pointer-events: none;
+  white-space: nowrap;
   box-shadow: var(--shadow);
 }
 
 .mcq-timer__label {
-  display: block;
-  color: rgba(255, 255, 255, 0.72);
-  font-size: 0.82rem;
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 0.6rem;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.12em;
+  line-height: 1;
 }
 
-.mcq-timer strong {
-  display: block;
-  font-size: 2rem;
+.mcq-header-timer strong {
+  font-family: ui-monospace, "SF Mono", "Cascadia Mono", Menlo, monospace;
+  font-size: 1.1rem;
+  font-weight: 700;
   line-height: 1.1;
+  letter-spacing: 0.04em;
 }
 
 .mcq-option-grid {
@@ -1237,7 +1248,6 @@ img {
 }
 
 @media (max-width: 900px) {
-  .mcq-header,
   .mcq-option-grid,
   .mcq-toolbar,
   .mcq-results__summary,
@@ -1249,9 +1259,12 @@ img {
     align-items: stretch;
   }
 
-  .mcq-timer {
-    width: 100%;
-    text-align: left;
+  .mcq-header-timer .mcq-timer__label {
+    display: none;
+  }
+
+  .mcq-header-timer strong {
+    font-size: 0.95rem;
   }
 
   .mcq-resume,
