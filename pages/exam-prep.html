@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MCQ Practice Drills | Bharat Kini</title>
+    <meta
+      name="description"
+      content="Timed MCQ practice drills with local scoring, review table, filters, sorting, and Excel export."
+    />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'none'"
+    />
+    <link rel="stylesheet" href="../assets/css/styles.css" />
+  </head>
+  <body>
+    <!-- Disclaimer modal: shown on first visit until user accepts -->
+    <div id="disclaimer-modal" class="mcq-disclaimer-modal" role="dialog" aria-modal="true" aria-labelledby="disclaimer-modal-title" hidden>
+      <div class="mcq-disclaimer-modal__inner">
+        <h2 id="disclaimer-modal-title">Disclaimer</h2>
+        <div class="mcq-disclaimer-modal__body">
+          <p>These MCQ drills are a personal study tool built by Bharat Kini to prepare for his own exam. They are not affiliated with, endorsed by, or sourced from any institution, university, professor, examination body, or educational organisation.</p>
+          <p>The questions were drafted by Bharat with the help of AI based on publicly available online study material — they are not official, verified, or curated by any subject-matter authority.</p>
+          <p>If you choose to use these drills:</p>
+          <ul>
+            <li>You do so entirely at your own risk and on the understanding that the questions, options, and stated answers may contain errors, outdated information, or misinterpretations.</li>
+            <li>The drills are not a substitute for official study materials, coursework, or examination-preparation resources from your institution. You are strongly encouraged to use professionally prepared materials instead.</li>
+            <li>You release Bharat Kini from any liability for outcomes including (but not limited to) incorrect answers, exam performance, lost study time, missed grades, or any other direct or indirect consequence of using this content.</li>
+            <li>The author does not recommend using these drills as your primary or sole preparation resource.</li>
+          </ul>
+          <p>By starting any drill on this page you acknowledge that you have read and accept this disclaimer.</p>
+        </div>
+        <label class="mcq-disclaimer-modal__check" for="disclaimer-checkbox">
+          <input type="checkbox" id="disclaimer-checkbox" />
+          I have read and understood the disclaimer above
+        </label>
+        <div class="mcq-disclaimer-modal__actions">
+          <button id="disclaimer-deny" class="button button--secondary" type="button">Deny</button>
+          <button id="disclaimer-accept" class="button button--primary" type="button" disabled>Accept</button>
+        </div>
+      </div>
+    </div>
+
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <div class="container site-header__inner">
+        <a class="wordmark" href="../index.html">Bharat Kini</a>
+        <button
+          class="nav-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="site-nav"
+          aria-label="Open navigation"
+        >
+          Menu
+        </button>
+        <nav id="site-nav" class="site-nav" aria-label="Primary">
+          <a href="../index.html">Home</a>
+          <a href="about.html">About</a>
+          <a href="work.html">Work</a>
+          <a href="writing.html">Writing</a>
+          <a href="how-i-built-this.html">How I Built This</a>
+          <a aria-current="page" href="exam-prep.html">Exam Prep</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" class="page-shell mcq-page">
+      <!-- Disclaimer banner: shown after acceptance, rotates through disclaimer segments.
+           Hover expands to show the full disclaimer text. -->
+      <div id="disclaimer-banner" class="mcq-disclaimer-banner" hidden aria-live="polite">
+        <p class="mcq-disclaimer-banner__text" id="disclaimer-banner-text"></p>
+        <div class="mcq-disclaimer-banner__full" aria-hidden="true">
+          <p>These MCQ drills are a personal study tool built by Bharat Kini to prepare for his own exam. They are not affiliated with, endorsed by, or sourced from any institution, university, professor, examination body, or educational organisation.</p>
+          <p>The questions were drafted by Bharat with the help of AI based on publicly available online study material — they are not official, verified, or curated by any subject-matter authority.</p>
+          <p>If you choose to use these drills: You do so entirely at your own risk and on the understanding that the questions, options, and stated answers may contain errors, outdated information, or misinterpretations. The drills are not a substitute for official study materials, coursework, or examination-preparation resources from your institution. You are strongly encouraged to use professionally prepared materials instead. You release Bharat Kini from any liability for outcomes including (but not limited to) incorrect answers, exam performance, lost study time, missed grades, or any other direct or indirect consequence of using this content. The author does not recommend using these drills as your primary or sole preparation resource.</p>
+          <p>By starting any drill on this page you acknowledge that you have read and accept this disclaimer.</p>
+        </div>
+      </div>
+      <div class="container">
+        <header class="page-header mcq-header">
+          <div>
+            <p class="eyebrow">Exam Prep</p>
+            <h1>Timed MCQ practice.</h1>
+            <p class="page-intro">
+              Pick one drill, answer one question at a time, and review only after the attempt ends.
+            </p>
+          </div>
+          <div class="mcq-timer" aria-live="polite">
+            <span class="mcq-timer__label">Timer</span>
+            <strong id="timer-display">60:00</strong>
+          </div>
+        </header>
+
+        <section id="resume-panel" class="mcq-resume" hidden aria-labelledby="resume-title">
+          <div>
+            <p class="eyebrow">Saved Attempt</p>
+            <h2 id="resume-title">Resume your in-progress drill</h2>
+            <p id="resume-summary"></p>
+          </div>
+          <div class="mcq-resume__actions">
+            <button id="resume-attempt" class="button button--primary" type="button">Resume</button>
+            <button id="discard-attempt" class="button button--secondary" type="button">Discard</button>
+          </div>
+        </section>
+
+        <section id="quiz-selection" class="mcq-selection" aria-labelledby="quiz-selection-title">
+          <div class="section-heading">
+            <p class="eyebrow">Choose Drill</p>
+            <h2 id="quiz-selection-title">Select your MCQ set.</h2>
+            <p class="page-intro">
+              Five drills tiered by difficulty. Drill 2 is the baseline. Completion time is saved on this device only.
+            </p>
+          </div>
+          <div id="quiz-options" class="mcq-drill-table-wrap"></div>
+          <p class="mcq-table-footnote">
+            <button id="reset-completions" type="button" class="link-button">Reset completion times</button>
+          </p>
+        </section>
+
+        <section id="quiz-panel" class="mcq-panel" hidden aria-labelledby="quiz-title">
+          <div class="mcq-toolbar">
+            <div>
+              <p class="eyebrow" id="quiz-source">Practice</p>
+              <h2 id="quiz-title">Question</h2>
+            </div>
+          </div>
+
+          <article class="mcq-question-card" aria-live="polite">
+            <div class="mcq-progress-row">
+              <span id="question-progress">Question 1 of 50</span>
+              <span id="answered-count">0 answered</span>
+            </div>
+            <h3 id="question-text"></h3>
+            <fieldset id="option-list" class="mcq-options">
+              <legend class="visually-hidden">Select one answer</legend>
+            </fieldset>
+            <div class="mcq-actions">
+              <button id="prev-question" class="button button--secondary" type="button">Previous</button>
+              <button id="mark-review" class="button button--secondary" type="button" aria-pressed="false">Mark for review</button>
+              <button id="next-question" class="button button--primary" type="button">Next</button>
+            </div>
+          </article>
+
+          <div class="mcq-below-card-controls">
+            <nav id="question-navigator" class="mcq-question-nav" aria-label="Question navigator"></nav>
+            <button id="finish-quiz" class="button button--secondary mcq-finish-button" type="button">Finish attempt</button>
+          </div>
+        </section>
+
+        <section id="results-panel" class="mcq-results" hidden aria-labelledby="results-title">
+          <div class="mcq-results__summary">
+            <div>
+              <p class="eyebrow">Results</p>
+              <h2 id="results-title">Attempt report</h2>
+              <p id="score-summary"></p>
+            </div>
+            <button id="restart-quiz" class="button button--secondary" type="button">Choose another drill</button>
+          </div>
+
+          <div class="mcq-table-tools">
+            <label class="search-field">
+              <span>Search report</span>
+              <input id="global-report-search" type="search" inputmode="search" autocomplete="off" />
+            </label>
+            <button id="download-report" class="button button--primary" type="button">Download Excel</button>
+          </div>
+
+          <div class="mcq-table-wrap">
+            <table id="results-table" class="mcq-report-table">
+              <thead>
+                <tr>
+                  <th scope="col" data-sort="question">Question</th>
+                  <th scope="col" data-sort="options">4 options</th>
+                  <th scope="col" data-sort="selected">Selected option</th>
+                  <th scope="col" data-sort="answer">Right answer</th>
+                  <th scope="col" data-sort="reviewStatus">Review status</th>
+                  <th scope="col" data-sort="result">Result</th>
+                </tr>
+                <tr class="column-filter-row">
+                  <th scope="col"><input type="search" data-column-filter="question" aria-label="Filter questions" /></th>
+                  <th scope="col"><input type="search" data-column-filter="options" aria-label="Filter options" /></th>
+                  <th scope="col"><input type="search" data-column-filter="selected" aria-label="Filter selected answers" /></th>
+                  <th scope="col"><input type="search" data-column-filter="answer" aria-label="Filter right answers" /></th>
+                  <th scope="col"><input type="search" data-column-filter="reviewStatus" aria-label="Filter review statuses" /></th>
+                  <th scope="col"><input type="search" data-column-filter="result" aria-label="Filter result" /></th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container site-footer__inner">
+        <p>Bharat Kini</p>
+        <p>&copy; 2026 Bharat Kini. All rights reserved.</p>
+        <p>Practice under timer, review after submission.</p>
+      </div>
+    </footer>
+
+    <script src="../assets/js/script.js"></script>
+    <script src="../assets/js/mcq-data.js"></script>
+    <script src="../assets/js/mcq-practice.js"></script>
+  </body>
+</html>
