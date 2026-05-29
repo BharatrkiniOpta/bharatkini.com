@@ -298,11 +298,37 @@ function startRotatingBanner() {
   bannerRotateId = window.setInterval(rotateBannerSegment, 5000);
 }
 
+// Mark everything except the modal as inert + hidden from assistive tech, so
+// keyboard and screen-reader users can't reach the obscured page behind it.
+function setBackgroundInert(on) {
+  document.querySelectorAll("body > *:not(#disclaimer-modal)").forEach((el) => {
+    if (on) {
+      el.setAttribute("inert", "");
+      el.setAttribute("aria-hidden", "true");
+    } else {
+      el.removeAttribute("inert");
+      el.removeAttribute("aria-hidden");
+    }
+  });
+}
+
+// Currently focusable, enabled controls inside the modal (Accept is disabled
+// until the checkbox is ticked, so the set is recomputed on each Tab).
+function getModalFocusables() {
+  if (!disclaimerModal) {
+    return [];
+  }
+  return Array.from(
+    disclaimerModal.querySelectorAll('button, [href], input, [tabindex]:not([tabindex="-1"])')
+  ).filter((el) => !el.disabled && !el.hidden && el.offsetParent !== null);
+}
+
 function checkDisclaimer() {
   if (loadDisclaimerStatus() === "accepted") {
     startRotatingBanner();
   } else if (disclaimerModal) {
     disclaimerModal.hidden = false;
+    setBackgroundInert(true);
     // Move keyboard focus into the modal so screen-reader and keyboard users
     // land inside it rather than tabbing through the obscured page behind it.
     disclaimerDeny?.focus();
@@ -1131,6 +1157,31 @@ function denyDisclaimer() {
 disclaimerModal?.addEventListener("keydown", (event) => {
   if (event.key === "Escape") {
     denyDisclaimer();
+    return;
+  }
+
+  if (event.key !== "Tab") {
+    return;
+  }
+
+  // Trap Tab / Shift+Tab so focus cycles within the modal.
+  const focusables = getModalFocusables();
+  if (focusables.length === 0) {
+    return;
+  }
+
+  const first = focusables[0];
+  const last = focusables[focusables.length - 1];
+  const active = document.activeElement;
+
+  if (event.shiftKey) {
+    if (active === first || !disclaimerModal.contains(active)) {
+      event.preventDefault();
+      last.focus();
+    }
+  } else if (active === last || !disclaimerModal.contains(active)) {
+    event.preventDefault();
+    first.focus();
   }
 });
 
@@ -1141,6 +1192,7 @@ disclaimerAccept?.addEventListener("click", () => {
   if (disclaimerModal) {
     disclaimerModal.hidden = true;
   }
+  setBackgroundInert(false);
   startRotatingBanner();
 });
 

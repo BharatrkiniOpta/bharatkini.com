@@ -444,48 +444,6 @@ img {
   }
 }
 
-@media (max-width: 900px) {
-  .hero__grid,
-  .card-grid,
-  .content-grid,
-  .timeline {
-    grid-template-columns: 1fr;
-  }
-
-  .nav-toggle {
-    display: inline-flex;
-  }
-
-  .site-nav {
-    position: absolute;
-    top: 100%;
-    right: 1rem;
-    left: 1rem;
-    display: none;
-    flex-direction: column;
-    align-items: stretch;
-    padding: 0.75rem;
-    background: rgba(255, 255, 255, 0.98);
-    border: 1px solid var(--line);
-    border-radius: var(--radius-md);
-    box-shadow: var(--shadow);
-  }
-
-  .site-nav.is-open {
-    display: flex;
-  }
-
-  .site-nav a {
-    padding: 0.8rem 1rem;
-  }
-
-  .site-footer__inner,
-  .cta {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-}
-
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
@@ -1656,4 +1614,24 @@ img {
 
 .mcq-disclaimer-banner__full p + p {
   margin-top: 0.55rem;
+}
+
+/* Utility classes — replace inline style attributes so a strict
+   Content-Security-Policy (style-src 'self', no 'unsafe-inline') applies. */
+.cta-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.section--flush-top {
+  padding-top: 0;
+}
+
+.col-span-full {
+  grid-column: 1 / -1;
+}
+
+.mt-1 {
+  margin-top: 1rem;
 }
