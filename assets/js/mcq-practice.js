@@ -216,10 +216,54 @@ function renderSavedAttemptNotice() {
   resumePanel.hidden = false;
 }
 
+// ── localStorage is attacker-controllable: treat completion data as untrusted ──
+// Coerce every field to a safe type on load so nothing read from storage can
+// reach an HTML render path as markup. (Security: BK-SEC-001 / BK-VAPT-002.)
+function safeInteger(value, fallback = 0) {
+  const number = Number(value);
+  return Number.isInteger(number) && number >= 0 ? number : fallback;
+}
+
+function safeFiniteNumber(value, fallback = 0) {
+  const number = Number(value);
+  return Number.isFinite(number) && number >= 0 ? number : fallback;
+}
+
+const ALLOWED_RESULTS = ["Right", "Wrong", "Unanswered", "Unattempted"];
+
+function sanitizeReportRow(row) {
+  if (!row || typeof row !== "object") return null;
+  return {
+    question: String(row.question ?? "").slice(0, 1000),
+    options: String(row.options ?? "").slice(0, 2000),
+    selected: String(row.selected ?? "").slice(0, 1000),
+    answer: String(row.answer ?? "").slice(0, 1000),
+    reviewStatus: String(row.reviewStatus ?? "").slice(0, 500),
+    result: ALLOWED_RESULTS.includes(row.result) ? row.result : "Unanswered",
+  };
+}
+
+function sanitizeCompletion(raw) {
+  if (!raw || typeof raw !== "object") return null;
+  return {
+    durationSeconds: safeFiniteNumber(raw.durationSeconds),
+    completedAt: safeFiniteNumber(raw.completedAt),
+    correct: safeInteger(raw.correct),
+    attempted: safeInteger(raw.attempted),
+    total: safeInteger(raw.total),
+    rows: Array.isArray(raw.rows) ? raw.rows.map(sanitizeReportRow).filter(Boolean) : [],
+  };
+}
+
 function loadCompletions() {
   try {
     const raw = JSON.parse(localStorage.getItem(COMPLETION_STORAGE_KEY));
-    return raw && typeof raw === "object" ? raw : {};
+    if (!raw || typeof raw !== "object") return {};
+    return Object.fromEntries(
+      Object.entries(raw)
+        .map(([quizId, completion]) => [quizId, sanitizeCompletion(completion)])
+        .filter((entry) => entry[1])
+    );
   } catch (_error) {
     return {};
   }
@@ -357,10 +401,12 @@ function renderQuizChoices() {
       ? `<span class="mcq-resume-tag">Resume ⟳</span>`
       : completion
         ? (() => {
-            const attempted = completion.attempted ?? completion.total;
-            const scoreStr = `${completion.correct}/${completion.total} correct`;
-            const attemptedStr = attempted < completion.total
-              ? `<span class="mcq-completion-attempted">${attempted} answered</span>`
+            const total = safeInteger(completion.total);
+            const correct = safeInteger(completion.correct);
+            const attempted = safeInteger(completion.attempted ?? total);
+            const scoreStr = `${correct}/${total} correct`;
+            const attemptedStr = attempted < total
+              ? `<span class="mcq-completion-attempted">${escapeHtml(String(attempted))} answered</span>`
               : "";
             return `<span class="mcq-completion"><strong>${escapeHtml(formatDuration(completion.durationSeconds))}</strong><span class="mcq-completion-score">${escapeHtml(scoreStr)}</span>${attemptedStr}</span>`;
           })()
@@ -909,8 +955,16 @@ function createZip(files) {
   });
 }
 
+// Neutralize spreadsheet formula injection: a cell beginning with = + - @ (or a
+// control char) can execute when opened in Excel/Sheets. Prefix with a single
+// quote so the app treats it as text. (Security: BK-SEC-008 / BK-VAPT-004.)
+function neutralizeSpreadsheetFormula(value) {
+  const text = String(value ?? "");
+  return /^[=+\-@\t\r]/.test(text) ? `'${text}` : text;
+}
+
 function spreadsheetCell(value) {
-  return `<c t="inlineStr"><is><t>${escapeHtml(value)}</t></is></c>`;
+  return `<c t="inlineStr"><is><t>${escapeHtml(neutralizeSpreadsheetFormula(value))}</t></is></c>`;
 }
 
 function spreadsheetRow(values, rowIndex) {
