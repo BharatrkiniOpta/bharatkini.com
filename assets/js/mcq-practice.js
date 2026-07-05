@@ -64,6 +64,7 @@ let timerId;
 let reportRows = [];
 let sortState = { key: "result", direction: "asc" };
 let isAttemptActive = false;
+let activeExam = 1;
 
 function pad(value) {
   return String(value).padStart(2, "0");
@@ -391,7 +392,9 @@ function renderQuizChoices() {
   const completions = loadCompletions();
   const inProgressId = savedAttempt ? savedAttempt.quizId : null;
 
-  const rowsHtml = QUIZ_BANKS.map((quiz, index) => {
+  const filteredQuizzes = QUIZ_BANKS.filter((quiz) => (quiz.exam ?? 1) === activeExam);
+
+  const rowsHtml = filteredQuizzes.map((quiz, index) => {
     const completion = completions[quiz.id];
     const isInProgress = quiz.id === inProgressId;
     const rowClasses = ["mcq-drill-row"];
@@ -1258,6 +1261,32 @@ disclaimerBanner?.addEventListener("mouseenter", () => {
 disclaimerBanner?.addEventListener("mouseleave", () => {
   bannerRotateId = window.setInterval(rotateBannerSegment, 5000);
 });
+
+const tabExam1 = document.querySelector("#tab-exam1");
+const tabExam2 = document.querySelector("#tab-exam2");
+
+function setActiveTab(examNumber) {
+  activeExam = examNumber;
+  
+  if (tabExam1 && tabExam2) {
+    if (examNumber === 1) {
+      tabExam1.classList.add("mcq-tabs__button--active");
+      tabExam1.setAttribute("aria-selected", "true");
+      tabExam2.classList.remove("mcq-tabs__button--active");
+      tabExam2.setAttribute("aria-selected", "false");
+    } else {
+      tabExam2.classList.add("mcq-tabs__button--active");
+      tabExam2.setAttribute("aria-selected", "true");
+      tabExam1.classList.remove("mcq-tabs__button--active");
+      tabExam1.setAttribute("aria-selected", "false");
+    }
+  }
+  
+  renderQuizChoices();
+}
+
+tabExam1?.addEventListener("click", () => setActiveTab(1));
+tabExam2?.addEventListener("click", () => setActiveTab(2));
 
 checkDisclaimer();
 renderQuizChoices();
