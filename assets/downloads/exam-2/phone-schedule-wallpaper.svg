@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#bgGrad)"/>
+  <rect x="40" y="80" width="1000" height="180" rx="16" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <text x="70" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="32" font-weight="bold" fill="#F0F6FC">DDPM EXAM 2 — SCHEDULE &amp; RULES</text>
+  <text x="70" y="185" font-family="-apple-system, sans-serif" font-size="22" fill="#58A6FF">Sunday 16 Aug | 3:30–4:30 PM IST | Proctor: Mettl</text>
+  <text x="70" y="225" font-family="-apple-system, sans-serif" font-size="20" font-weight="bold" fill="#7EE787">45 Qs | 60 Mins | No Negative Marking | Target: ≥60%</text>
+
+  <rect x="40" y="290" width="1000" height="660" rx="16" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <text x="70" y="340" font-family="-apple-system, sans-serif" font-size="26" font-weight="bold" fill="#FFA657">📅 SATURDAY 15 AUG — INTENSIVE PREP</text>
+  <text x="70" y="395" font-family="sans-serif" font-size="20" fill="#F0F6FC">08:30–10:00  Block 1: Mod 4 Strategy &amp; Journey</text>
+  <text x="70" y="445" font-family="sans-serif" font-size="20" fill="#F0F6FC">10:15–11:45  Block 2: Mod 4 Testing, Media &amp; Pricing</text>
+  <text x="70" y="495" font-family="sans-serif" font-size="20" fill="#F0F6FC">12:00–13:00  Block 3: Mod 4/5 Channels &amp; AI CX</text>
+  <text x="70" y="545" font-family="sans-serif" font-size="20" fill="#F0F6FC">14:00–15:30  Block 4: Mod 5 Cyber Risk &amp; Tableau</text>
+  <text x="70" y="595" font-family="sans-serif" font-size="20" fill="#F0F6FC">15:45–17:15  Block 5: Mod 4/5 Practice Drills &amp; Math</text>
+  <text x="70" y="645" font-family="sans-serif" font-size="20" fill="#F0F6FC">17:30–19:00  Block 6: Drill 1 &amp; Active Flashcards</text>
+  <text x="70" y="695" font-family="sans-serif" font-size="20" fill="#F0F6FC">20:00–21:30  Block 7: Drill 1 Error Diagnostics</text>
+  <text x="70" y="745" font-family="sans-serif" font-size="20" fill="#F0F6FC">21:30–22:30  Block 8: Cheat-Sheet Review</text>
+  <text x="70" y="805" font-family="sans-serif" font-size="22" font-weight="bold" fill="#7EE787">23:00–06:30  MANDATORY SLEEP (7.5 hrs)</text>
+
+  <rect x="40" y="980" width="1000" height="520" rx="16" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <text x="70" y="1030" font-family="-apple-system, sans-serif" font-size="26" font-weight="bold" fill="#7EE787">🎯 SUNDAY 16 AUG — EXAM DAY EXECUTION</text>
+  <text x="70" y="1085" font-family="sans-serif" font-size="20" fill="#F0F6FC">07:15–08:15  Block 9: Preflight System Audit</text>
+  <text x="70" y="1135" font-family="sans-serif" font-size="20" font-weight="bold" fill="#FFA657">08:30–09:30  Block 10: DRILL 2 BENCHMARK RUN (35Q)</text>
+  <text x="70" y="1185" font-family="sans-serif" font-size="20" fill="#F0F6FC">09:45–10:45  Block 11: Drill 2 Diagnostics &amp; Repair</text>
+  <text x="70" y="1235" font-family="sans-serif" font-size="20" fill="#F0F6FC">13:00–14:00  Block 13: 30-Min Cram Sheet Review</text>
+  <text x="70" y="1285" font-family="sans-serif" font-size="20" font-weight="bold" fill="#FF7B72">15:00–15:30  LAST 30-MIN NO-NEW-CONTENT BLOCK</text>
+  <text x="70" y="1345" font-family="sans-serif" font-size="24" font-weight="bold" fill="#58A6FF">15:30–16:30  EXAM 2 EXECUTION (45 Qs / 60 Mins)</text>
+
+  <rect x="40" y="1530" width="1000" height="280" rx="16" fill="#161B22" stroke="#58A6FF" stroke-width="2"/>
+  <text x="70" y="1590" font-family="sans-serif" font-size="22" font-weight="bold" fill="#F0F6FC">💡 EXAM DAY RULES &amp; MOTTO</text>
+  <text x="70" y="1640" font-family="sans-serif" font-size="20" fill="#8B949E">• 45 Questions in 60 Minutes (~80 sec / question)</text>
+  <text x="70" y="1685" font-family="sans-serif" font-size="20" fill="#8B949E">• No Negative Marking — Answer 100% of questions!</text>
+  <text x="70" y="1730" font-family="sans-serif" font-size="20" font-weight="bold" fill="#7EE787">• Sleep beats late cramming. Go execute!</text>
+</svg>

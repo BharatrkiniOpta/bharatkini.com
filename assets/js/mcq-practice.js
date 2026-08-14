@@ -36,6 +36,7 @@ const disclaimerBanner = document.querySelector("#disclaimer-banner");
 const disclaimerBannerText = document.querySelector("#disclaimer-banner-text");
 const tabExam1 = document.querySelector("#tab-exam1");
 const tabExam2 = document.querySelector("#tab-exam2");
+const tabExam3 = document.querySelector("#tab-exam3");
 
 const STORAGE_KEY = "bk-mcq-active-attempt-v1";
 const COMPLETION_STORAGE_KEY = "bk-mcq-completions-v1";
@@ -1289,10 +1290,12 @@ disclaimerBanner?.addEventListener("mouseleave", () => {
 const TAB_STORAGE_KEY = "bk-mcq-active-tab-v1";
 
 function loadActiveTab() {
+  if (window.location.hash === "#exam3") return 3;
   if (window.location.hash === "#exam2") return 2;
   if (window.location.hash === "#exam1") return 1;
   const saved = localStorage.getItem(TAB_STORAGE_KEY);
-  return saved ? Number(saved) : 1;
+  const num = Number(saved);
+  return [1, 2, 3].includes(num) ? num : 1;
 }
 
 function setActiveTab(examNumber) {
@@ -1309,25 +1312,29 @@ function setActiveTab(examNumber) {
     specBanner.hidden = examNumber !== 2;
   }
 
-  if (tabExam1 && tabExam2) {
-    if (examNumber === 1) {
-      tabExam1.classList.add("mcq-tabs__button--active");
-      tabExam1.setAttribute("aria-selected", "true");
-      tabExam2.classList.remove("mcq-tabs__button--active");
-      tabExam2.setAttribute("aria-selected", "false");
+  const tabs = [
+    { el: tabExam1, num: 1 },
+    { el: tabExam2, num: 2 },
+    { el: tabExam3, num: 3 },
+  ];
+
+  tabs.forEach(({ el, num }) => {
+    if (!el) return;
+    if (num === examNumber) {
+      el.classList.add("mcq-tabs__button--active");
+      el.setAttribute("aria-selected", "true");
     } else {
-      tabExam2.classList.add("mcq-tabs__button--active");
-      tabExam2.setAttribute("aria-selected", "true");
-      tabExam1.classList.remove("mcq-tabs__button--active");
-      tabExam1.setAttribute("aria-selected", "false");
+      el.classList.remove("mcq-tabs__button--active");
+      el.setAttribute("aria-selected", "false");
     }
-  }
+  });
 
   renderQuizChoices();
 }
 
 tabExam1?.addEventListener("click", () => setActiveTab(1));
 tabExam2?.addEventListener("click", () => setActiveTab(2));
+tabExam3?.addEventListener("click", () => setActiveTab(3));
 
 checkDisclaimer();
 setActiveTab(loadActiveTab());

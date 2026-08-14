@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bgGrad)"/>
+  <rect x="40" y="40" width="1840" height="110" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <text x="70" y="85" font-family="-apple-system, sans-serif" font-size="28" font-weight="bold" fill="#F0F6FC">DDPM EXAM 2 — WEEKEND MASTER PLAN &amp; EXAM DAY EXECUTION</text>
+  <text x="70" y="122" font-family="-apple-system, sans-serif" font-size="18" fill="#58A6FF">Sunday, 16 August 2026 | Launch: 3:30 PM IST | Proctor: Mettl | Status: 45 Questions | 60 Min | No Negative Marking | Target: ≥60%</text>
+
+  <rect x="40" y="170" width="580" height="820" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <text x="65" y="210" font-family="sans-serif" font-size="20" font-weight="bold" fill="#FFA657">📅 SATURDAY 15 AUG (PREP)</text>
+  <text x="65" y="255" font-family="sans-serif" font-size="15" fill="#F0F6FC">08:30–10:00  Block 1: Mod 4 Strategy &amp; Journey</text>
+  <text x="65" y="295" font-family="sans-serif" font-size="15" fill="#F0F6FC">10:15–11:45  Block 2: Mod 4 Testing &amp; Pricing</text>
+  <text x="65" y="335" font-family="sans-serif" font-size="15" fill="#F0F6FC">12:00–13:00  Block 3: Mod 4/5 Channels &amp; AI CX</text>
+  <text x="65" y="375" font-family="sans-serif" font-size="15" fill="#F0F6FC">14:00–15:30  Block 4: Mod 5 Cyber Risk &amp; Tableau</text>
+  <text x="65" y="415" font-family="sans-serif" font-size="15" fill="#F0F6FC">15:45–17:15  Block 5: Mod 4/5 Practice Drills &amp; Math</text>
+  <text x="65" y="455" font-family="sans-serif" font-size="15" fill="#F0F6FC">17:30–19:00  Block 6: Drill 1 &amp; Active Flashcards</text>
+  <text x="65" y="495" font-family="sans-serif" font-size="15" fill="#F0F6FC">20:00–21:30  Block 7: Drill 1 Error Audit</text>
+  <text x="65" y="535" font-family="sans-serif" font-size="15" fill="#F0F6FC">21:30–22:30  Block 8: Cheat-Sheet Skim</text>
+  <text x="65" y="590" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7EE787">23:00–06:30  MANDATORY SLEEP (7.5 hrs)</text>
+
+  <rect x="650" y="170" width="580" height="820" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <text x="675" y="210" font-family="sans-serif" font-size="20" font-weight="bold" fill="#7EE787">🎯 SUNDAY 16 AUG (EXAM DAY)</text>
+  <text x="675" y="255" font-family="sans-serif" font-size="15" fill="#F0F6FC">07:15–08:15  Block 9: Preflight System Audit</text>
+  <text x="675" y="295" font-family="sans-serif" font-size="15" font-weight="bold" fill="#FFA657">08:30–09:30  Block 10: BENCHMARK DRILL 2 RUN (35Q)</text>
+  <text x="675" y="335" font-family="sans-serif" font-size="15" fill="#F0F6FC">09:45–10:45  Block 11: Drill 2 Diagnostics</text>
+  <text x="675" y="375" font-family="sans-serif" font-size="15" fill="#F0F6FC">11:00–12:00  Block 12: Contingency Patching</text>
+  <text x="675" y="415" font-family="sans-serif" font-size="15" fill="#F0F6FC">13:00–14:00  Block 13: Cram Sheet &amp; Traps</text>
+  <text x="675" y="455" font-family="sans-serif" font-size="15" font-weight="bold" fill="#FF7B72">15:00–15:30  LAST 30-MIN NO-NEW-CONTENT BLOCK</text>
+  <text x="675" y="505" font-family="sans-serif" font-size="18" font-weight="bold" fill="#58A6FF">15:30–16:30  EXAM 2 EXECUTION WINDOW</text>
+  <text x="675" y="560" font-family="sans-serif" font-size="15" font-weight="bold" fill="#8B949E">🎯 Drill 2 Benchmark Calibration Targets:</text>
+  <text x="675" y="595" font-family="sans-serif" font-size="14" fill="#7EE787">   ≥28/35: Path A (High Yield Maintenance)</text>
+  <text x="675" y="625" font-family="sans-serif" font-size="14" fill="#FFA657">   24.5–27.5: Path B (Error Audit &amp; Fix)</text>
+  <text x="675" y="655" font-family="sans-serif" font-size="14" fill="#FF7B72">    &lt;24.5: Path C (Core Framework Repair)</text>
+
+  <rect x="1260" y="170" width="620" height="820" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <text x="1285" y="210" font-family="sans-serif" font-size="20" font-weight="bold" fill="#58A6FF">🛠️ METTL PREFLIGHT &amp; TACTICS</text>
+  <text x="1285" y="255" font-family="sans-serif" font-size="15" font-weight="bold" fill="#F0F6FC">🔌 HARDWARE &amp; POWER</text>
+  <text x="1285" y="285" font-family="sans-serif" font-size="14" fill="#8B949E">• Laptop Charger Plugged In | Power Backup Active</text>
+  <text x="1285" y="325" font-family="sans-serif" font-size="15" font-weight="bold" fill="#F0F6FC">🌐 NETWORK &amp; BACKUP</text>
+  <text x="1285" y="355" font-family="sans-serif" font-size="14" fill="#8B949E">• Primary Wi-Fi Speed Tested | Mobile Hotspot Paired</text>
+  <text x="1285" y="395" font-family="sans-serif" font-size="15" font-weight="bold" fill="#F0F6FC">🪪 ENVIRONMENT &amp; ID</text>
+  <text x="1285" y="425" font-family="sans-serif" font-size="14" fill="#8B949E">• Quiet Room, Door Locked | Desk Clear | Photo ID Ready</text>
+  <text x="1285" y="475" font-family="sans-serif" font-size="15" font-weight="bold" fill="#FF7B72">🚨 CONFIRMED EXAM RULES</text>
+  <text x="1285" y="505" font-family="sans-serif" font-size="14" fill="#F0F6FC">1. 45 Questions in 60 Minutes (~80 sec / Q)</text>
+  <text x="1285" y="535" font-family="sans-serif" font-size="14" fill="#F0F6FC">2. No Negative Marking (0 Penalty)</text>
+  <text x="1285" y="565" font-family="sans-serif" font-size="14" fill="#F0F6FC">3. Answer 100% of Questions</text>
+
+  <rect x="40" y="1000" width="1840" height="50" rx="8" fill="#161B22" stroke="#58A6FF" stroke-width="1"/>
+  <text x="70" y="1032" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7EE787">💡 MOTTO: 45 questions. 60 minutes. Answer 100% of items. Sleep beats late cramming. Go execute!</text>
+</svg>

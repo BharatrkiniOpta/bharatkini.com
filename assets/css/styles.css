@@ -1111,6 +1111,41 @@ img {
   color: #475569;
 }
 
+.mcq-download-buttons-grid {
+  display: flex;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+}
+
+.mcq-download-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.65rem;
+  background: #ffffff;
+  border: 1px solid #bae6fd;
+  border-radius: 6px;
+  color: #0369a1;
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.15s ease-in-out;
+}
+
+.mcq-download-btn:hover,
+.mcq-download-btn:focus-visible {
+  background: #e0f2fe;
+  border-color: #0284c7;
+  color: #0c4a6e;
+  text-decoration: none;
+}
+
+.mcq-download-btn small {
+  font-size: 0.72rem;
+  color: #64748b;
+  font-weight: 500;
+}
+
 .mcq-resume {
   display: flex;
   justify-content: space-between;
