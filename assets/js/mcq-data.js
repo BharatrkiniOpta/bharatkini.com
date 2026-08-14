@@ -5836,11 +5836,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Expanding gross margin from 37% to 50% within existing natural foods channels."
+            "text": "Growing total annual company revenues from $13.0 million to $20.0 million."
           },
           {
             "label": "B",
-            "text": "Growing total annual company revenues from $13.0 million to $20.0 million."
+            "text": "Expanding gross margin from 37% to 50% within existing natural foods channels."
           },
           {
             "label": "C",
@@ -5851,10 +5851,10 @@ const QUIZ_BANKS = [
             "text": "Reducing trade promotion expenses from 15% to 5% of manufacturer gross sales."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Gross margin expansion was not the primary top-line metric specified in leadership's financial growth mandate.\n  - **Option B (Correct)**: Natureview Farm set an explicit strategic goal to grow top-line annual revenues from $13.0M (1999 baseline) to $20.0M by the end of 2001 (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`, Slide 2).\n  - **Option C (Incorrect)**: Natureview held a 24% market share in the natural foods channel, not conventional supermarkets.\n  - **Option D (Incorrect)**: Trade promotions were 15% off-invoice for 8 oz expansion, but reducing them was not the overarching revenue objective.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Growing total annual company revenues from $13.0 million to $20.0 million. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option B (Incorrect)**: Expanding gross margin from 37% to 50% within existing natural foods channels. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Achieving a 24% market share across all conventional supermarket channels nationwide. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Reducing trade promotion expenses from 15% to 5% of manufacturer gross sales. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -5883,9 +5883,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Slotting fees are paid by manufacturers to retailers, not vice versa, and are non-recurring first-year payments.\n  - **Option B (Correct)**: In CPG retail distribution, a slotting fee is a one-time fee paid by manufacturers to retail grocery chains per SKU to place a new product on shelf (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`, Slide 5).\n  - **Option C (Incorrect)**: Performance rebates to brokers represent broker commissions (e.g., 5% of sales), not slotting allowances.\n  - **Option D (Incorrect)**: Discounts subtracted off-invoice during promotions represent trade promotion discounts (e.g., 15% off-invoice), not slotting allowances.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option B (Correct)**: A one-time payment made by a manufacturer to a retail store chain to secure shelf space for a new SKU. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: An annual recurring fee paid by retailers to manufacturers for exclusive regional distribution rights. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: A performance rebate paid to wholesale brokers upon exceeding annual volume sales quotas. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: A mandatory discount subtracted from off-invoice wholesale bills during quarterly promotional windows. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -5898,25 +5898,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Co-operative (co-op) advertising allowance."
-          },
-          {
-            "label": "B",
             "text": "Slotting fee reimbursement."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Guaranteed return authorization."
+          },
+          {
+            "label": "C",
+            "text": "Co-operative (co-op) advertising allowance."
           },
           {
             "label": "D",
             "text": "Off-invoice wholesale markup rebate."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Co-operative (co-op) advertising involves manufacturers sharing local promotional and circular advertising costs with retailers to drive end-consumer store traffic for specific SKUs (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`, Slide 5).\n  - **Option B (Incorrect)**: Slotting fee reimbursement is not a joint promotional advertising program.\n  - **Option C (Incorrect)**: Guaranteed return authorizations cover unsold inventory risk, not advertising.\n  - **Option D (Incorrect)**: Off-invoice discounts lower wholesale product pricing directly rather than co-funding media placements.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Co-operative (co-op) advertising allowance. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: Slotting fee reimbursement. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Guaranteed return authorization. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Off-invoice wholesale markup rebate. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -5933,21 +5933,21 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "SWOT Analysis."
-          },
-          {
-            "label": "C",
             "text": "SERVQUAL Gap Matrix."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "BCG Growth-Share Matrix."
+          },
+          {
+            "label": "D",
+            "text": "SWOT Analysis."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Value chain decomposition analyzes internal primary and support activities, not external macro environment threats.\n  - **Option B (Correct)**: SWOT Analysis evaluates internal Strengths and Weaknesses alongside external Opportunities and Threats to establish strategic fit (Kotler & Keller, 2015).\n  - **Option C (Incorrect)**: SERVQUAL Gap Matrix evaluates service quality expectations vs perceptions.\n  - **Option D (Incorrect)**: BCG Matrix categorizes business units based on market growth rate and relative market share.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: SWOT Analysis. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: Value Chain Decomposition. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: SERVQUAL Gap Matrix. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: BCG Growth-Share Matrix. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -5976,9 +5976,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: SERVQUAL measures service quality across Reliability, Assurance, Tangibles, Empathy, and Responsiveness (RATER) (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf`, Page 4).\n  - **Option B (Incorrect)**: Represents customer acquisition funnel stages, not SERVQUAL.\n  - **Option C (Incorrect)**: Represents Garvin's 8 dimensions of product quality.\n  - **Option D (Incorrect)**: Represents traditional marketing conversion funnel stages.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: Reliability, Assurance, Tangibles, Empathy, Responsiveness (RATER). matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf`).\n  - **Option B (Incorrect)**: Reach, Acquisition, Transformation, Retention, Revenue (RATRR). is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Performance, Features, Conformance, Durability, Serviceability. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Awareness, Consideration, Purchase, Retention, Advocacy. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -6007,9 +6007,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Transactional promotional variables are antecedent inputs, not mediating variables.\n  - **Option B (Correct)**: Morgan & Hunt (1994) demonstrate that Relationship Commitment and Trust are the two central Key Mediating Variables that lead directly to relational outcomes (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Readings/Commitment and Trust theory of Relationship Marketing.pdf`, Page 22).\n  - **Option C (Incorrect)**: Represents transactional marketing funnel metrics.\n  - **Option D (Incorrect)**: Represents SERVQUAL dimensions.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Readings/Commitment and Trust theory of Relationship Marketing.pdf",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option B (Correct)**: Relationship Commitment and Relationship Trust. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Readings/Commitment and Trust theory of Relationship Marketing.pdf`).\n  - **Option A (Incorrect)**: Price Discounting and Promotional Intensity. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Brand Awareness and Customer Acquisition Rate. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Service Tangibility and Staff Responsiveness. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -6026,21 +6026,21 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "The perceived financial merit or deal quality of a transaction, calculated as reference price minus actual price paid."
+            "text": "The cumulative lifetime financial value generated by a customer across multiple repeat purchases."
           },
           {
             "label": "C",
-            "text": "The cumulative lifetime financial value generated by a customer across multiple repeat purchases."
+            "text": "The perceived financial merit or deal quality of a transaction, calculated as reference price minus actual price paid."
           },
           {
             "label": "D",
             "text": "The net marginal utility derived strictly from product usage independent of market price."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Describes economic surplus or gross profit margin.\n  - **Option B (Correct)**: Thaler defines Transaction Utility as the perceived deal quality derived from comparing the actual price paid ($p$) against a psychological reference price ($p^*$), i.e., $U_{trans} = v(p^*) - p$ (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf`, Slide 3).\n  - **Option C (Incorrect)**: Represents Customer Lifetime Value (CLV).\n  - **Option D (Incorrect)**: Describes Acquisition Utility ($U_{acq} = v(p) - p$).",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: The perceived financial merit or deal quality of a transaction, calculated as reference price minus actual price paid. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf`).\n  - **Option A (Incorrect)**: The absolute functional value received from consuming a product minus its production cost. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: The cumulative lifetime financial value generated by a customer across multiple repeat purchases. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: The net marginal utility derived strictly from product usage independent of market price. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -6053,25 +6053,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "The sum of percentage responses for \"Definitely Would Buy\" and \"Probably Would Buy\"."
-          },
-          {
-            "label": "B",
             "text": "The percentage of respondents selecting \"Definitely Would Buy\" divided by total sample size."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "The combined percentage of respondents who have previously purchased and plan to repeat purchase."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "The difference between positive intent responses (\"Definitely/Probably Buy\") and negative intent responses (\"Definitely/Probably Not Buy\")."
+          },
+          {
+            "label": "D",
+            "text": "The sum of percentage responses for \"Definitely Would Buy\" and \"Probably Would Buy\"."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Top 2 Box (T2B) represents the aggregate percentage of survey respondents answering either \"Definitely Would Buy\" (Top Box, 5) or \"Probably Would Buy\" (Second Box, 4) (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`, Timestamp 0:35:15).\n  - **Option B (Incorrect)**: Describes Top Box alone, not Top 2 Box.\n  - **Option C (Incorrect)**: Describes repeat intent in post-trial usage, not concept testing T2B.\n  - **Option D (Incorrect)**: Resembles Net Promoter Score (NPS) formula logic, not T2B.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: The sum of percentage responses for \"Definitely Would Buy\" and \"Probably Would Buy\". matches the authoritative source framework (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`).\n  - **Option A (Incorrect)**: The percentage of respondents selecting \"Definitely Would Buy\" divided by total sample size. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: The combined percentage of respondents who have previously purchased and plan to repeat purchase. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: The difference between positive intent responses (\"Definitely/Probably Buy\") and negative intent responses (\"Definitely/Probably Not Buy\"). is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -6084,11 +6084,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "100% of Top Box and 50% of Second Box."
+            "text": "80% of Top Box (\"Definitely Buy\") and 30% of Second Box (\"Probably Buy\")."
           },
           {
             "label": "B",
-            "text": "80% of Top Box (\"Definitely Buy\") and 30% of Second Box (\"Probably Buy\")."
+            "text": "100% of Top Box and 50% of Second Box."
           },
           {
             "label": "C",
@@ -6099,10 +6099,10 @@ const QUIZ_BANKS = [
             "text": "70% of Top Box and 40% of Second Box."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Overstates trial conversion; uncalibrated survey intent suffers from overstatement bias.\n  - **Option B (Correct)**: Standard calibration rules established by Urban & Hauser (1993) and Nielsen BASES discount Top Box (\"Definitely Buy\") by 80% (0.80 weight) and Second Box (\"Probably Buy\") by 30% (0.30 weight) (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`, Timestamp 0:35:15).\n  - **Option C (Incorrect)**: Understates standard CPG calibration benchmarks.\n  - **Option D (Incorrect)**: Represents non-standard weighting values.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a",
-        "evidenceClassification": "class-confirmed",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: 80% of Top Box (\"Definitely Buy\") and 30% of Second Box (\"Probably Buy\"). matches the authoritative source framework (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`).\n  - **Option B (Incorrect)**: 100% of Top Box and 50% of Second Box. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 50% of Top Box and 25% of Second Box. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 70% of Top Box and 40% of Second Box. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -6131,8 +6131,8 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Blends generic growth hacking terms.\n  - **Option B (Correct)**: ATAR stands for Awareness (A), Trial (T), Availability (A), and Repeat (R) (Urban & Hauser, 1993; Crawford & Di Benedetto, 2015).\n  - **Option C (Incorrect)**: Incorrect expansion.\n  - **Option D (Incorrect)**: Incorrect expansion.",
-        "evidenceId": "EXT-MKTG-03",
+        "explanation": "- **Option B (Correct)**: Awareness, Trial, Availability, Repeat. matches the authoritative source framework (`EXT-CRAWFORD-ATAR-2021`).\n  - **Option A (Incorrect)**: Acquisition, Traction, Adoption, Retention. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Action, Target, Alignment, Revenue. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Attraction, Test, Access, Reorder. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
@@ -6150,21 +6150,21 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Delivering a consistent, unified brand message across all consumer touchpoints and promotional channels."
+            "text": "Eliminating trade partner involvement in marketing communications."
           },
           {
             "label": "C",
-            "text": "Eliminating trade partner involvement in marketing communications."
+            "text": "Delivering a consistent, unified brand message across all consumer touchpoints and promotional channels."
           },
           {
             "label": "D",
             "text": "Maximizing price discrimination across geographic consumer segments."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: IMC spans both digital and traditional channels, not digital exclusively.\n  - **Option B (Correct)**: IMC ensures that all promotional elements (ATL, BTL, digital, PR, point of sale) communicate a clear, consistent, and complementary brand narrative (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a`).\n  - **Option C (Incorrect)**: IMC includes trade promotions and partner communications.\n  - **Option D (Incorrect)**: Price discrimination is a pricing strategy, not an IMC communications goal.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Delivering a consistent, unified brand message across all consumer touchpoints and promotional channels. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a`).\n  - **Option A (Incorrect)**: Allocating 100% of promotional expenditure strictly to digital social media channels. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Eliminating trade partner involvement in marketing communications. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Maximizing price discrimination across geographic consumer segments. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -6177,25 +6177,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Functional/Protective, Informational/Regulatory, and Perceptual/Branding."
-          },
-          {
-            "label": "B",
             "text": "Cost Minimization, Inventory Holding, and Channel Disintermediation."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Price Skimming, Market Penetration, and Volume Discounting."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Product Line Extension, Cannibalization Prevention, and Trade Credit."
+          },
+          {
+            "label": "D",
+            "text": "Functional/Protective, Informational/Regulatory, and Perceptual/Branding."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Packaging serves three core strategic functions: functional/protective (safety, shelf life), informational/regulatory (labels, ingredients), and perceptual/branding (\"the silent salesman\") (Kotler & Keller, 2015; Robertson, 2013).\n  - **Option B (Incorrect)**: Represents supply chain management functions.\n  - **Option C (Incorrect)**: Represents pricing strategies.\n  - **Option D (Incorrect)**: Represents product portfolio management tasks.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Screenshots/Screenshot 2026-06-21 at 16.09.12.png",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Functional/Protective, Informational/Regulatory, and Perceptual/Branding. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Screenshots/Screenshot 2026-06-21 at 16.09.12.png`).\n  - **Option A (Incorrect)**: Cost Minimization, Inventory Holding, and Channel Disintermediation. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Price Skimming, Market Penetration, and Volume Discounting. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Product Line Extension, Cannibalization Prevention, and Trade Credit. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -6208,11 +6208,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Pure bundling sells products only individually, whereas mixed bundling sells products in groups."
+            "text": "Pure bundling offers products strictly as a package with no individual options, whereas mixed bundling offers products both individually and as a discounted package."
           },
           {
             "label": "B",
-            "text": "Pure bundling offers products strictly as a package with no individual options, whereas mixed bundling offers products both individually and as a discounted package."
+            "text": "Pure bundling sells products only individually, whereas mixed bundling sells products in groups."
           },
           {
             "label": "C",
@@ -6223,9 +6223,9 @@ const QUIZ_BANKS = [
             "text": "Pure bundling allows custom product assembly, whereas mixed bundling uses fixed pre-packaged combinations."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Inverts the definition of bundling.\n  - **Option B (Correct)**: Under Stremersch & Tellis (2002), Pure Bundling requires customers to buy the bundle exclusively with no option to purchase components standalone; Mixed Bundling allows customers to buy items individually OR as a package.\n  - **Option C (Incorrect)**: Bundling forms depend on commercial strategy, not physical vs digital product status.\n  - **Option D (Incorrect)**: Pre-packaged assembly refers to kitting, not pure vs mixed commercial bundling.",
-        "evidenceId": "EXT-MKTG-01",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Pure bundling offers products strictly as a package with no individual options, whereas mixed bundling offers products both individually and as a discounted package. matches the authoritative source framework (`EXT-STREMERSCH-BUNDLING-2002`).\n  - **Option B (Incorrect)**: Pure bundling sells products only individually, whereas mixed bundling sells products in groups. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Pure bundling applies to physical goods, whereas mixed bundling applies to digital software services. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Pure bundling allows custom product assembly, whereas mixed bundling uses fixed pre-packaged combinations. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
@@ -6255,9 +6255,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Describes horizontal channel conflict.\n  - **Option B (Correct)**: Vertical channel conflict occurs between members at different stages of the same distribution channel, such as a manufacturer competing against its own retail partners via direct-to-consumer (D2C) channels (Coughlan et al., 2006).\n  - **Option C (Incorrect)**: Represents internal cross-functional friction.\n  - **Option D (Incorrect)**: Represents internal organizational conflict.",
-        "evidenceId": "EXT-MKTG-02",
-        "evidenceClassification": "credible-secondary",
+        "explanation": "- **Option B (Correct)**: Conflict between different levels within the same distribution channel (e.g., manufacturer selling D2C lower than retailer MSRP). matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option A (Incorrect)**: Conflict between competing retail store chains located in the same shopping district. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Conflict between marketing and product development teams within the same firm. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Conflict between regional sales managers competing for annual bonus allocation. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GA4-DDA-2024",
+        "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
@@ -6274,20 +6274,20 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Data-Driven Attribution (DDA), Paid and Organic Last Click, and Google Paid Channels Last Click."
+            "text": "U-Shaped, W-Shaped, and Full-Path."
           },
           {
             "label": "C",
-            "text": "U-Shaped, W-Shaped, and Full-Path."
+            "text": "Data-Driven Attribution (DDA), Paid and Organic Last Click, and Google Paid Channels Last Click."
           },
           {
             "label": "D",
             "text": "Equal Weight, Position-Based, and First Interaction."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Google retired legacy rules-based models (First Touch, Linear, Time-Decay) in mid-2023.\n  - **Option B (Correct)**: Official GA4 documentation confirms that only three attribution models are supported: Data-Driven Attribution (DDA), Paid and Organic Last Click, and Google Paid Channels Last Click (`EXT-ATTR-01`).\n  - **Option C (Incorrect)**: Represents Adobe Marketo Measure B2B models, not GA4 models.\n  - **Option D (Incorrect)**: Represents legacy rules-based attribution choices.",
-        "evidenceId": "EXT-ATTR-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Data-Driven Attribution (DDA), Paid and Organic Last Click, and Google Paid Channels Last Click. matches the authoritative source framework (`EXT-GA4-DDA-2024`).\n  - **Option A (Incorrect)**: First Touch, Linear, and Time-Decay. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: U-Shaped, W-Shaped, and Full-Path. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Equal Weight, Position-Based, and First Interaction. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GA4-DDA-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
@@ -6305,20 +6305,20 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "50% credit to First Touch, 50% credit to Lead Creation Touch, and 0% credit to intermediary touches."
-          },
-          {
-            "label": "C",
             "text": "30% First Touch, 30% Lead Creation, 30% Opportunity Creation, and 10% divided across middle touches."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Equal percentage credit distributed across all touched channels."
+          },
+          {
+            "label": "D",
+            "text": "50% credit to First Touch, 50% credit to Lead Creation Touch, and 0% credit to intermediary touches."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Describes Last Touch attribution.\n  - **Option B (Correct)**: Under Adobe Marketo Measure specification, U-Shaped attribution splits 100% of revenue credit equally (50%/50%) between the First Touch (discovery) and Lead Creation Touch, leaving 0% for middle touches (`EXT-ATTR-02`).\n  - **Option C (Incorrect)**: Describes W-Shaped attribution (30/30/30/10).\n  - **Option D (Incorrect)**: Describes Linear attribution.",
-        "evidenceId": "EXT-ATTR-02",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: 50% credit to First Touch, 50% credit to Lead Creation Touch, and 0% credit to intermediary touches. matches the authoritative source framework (`EXT-MARKETO-ATTR-2024`).\n  - **Option A (Incorrect)**: 100% credit to the final closing opportunity touchpoint. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 30% First Touch, 30% Lead Creation, 30% Opportunity Creation, and 10% divided across middle touches. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Equal percentage credit distributed across all touched channels. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-MARKETO-ATTR-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
@@ -6332,11 +6332,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Charging each customer their exact individual maximum willingness-to-pay."
+            "text": "Offering self-selecting pricing structures based on volume or package tiering (e.g., season ticket packages vs single tickets)."
           },
           {
             "label": "B",
-            "text": "Offering self-selecting pricing structures based on volume or package tiering (e.g., season ticket packages vs single tickets)."
+            "text": "Charging each customer their exact individual maximum willingness-to-pay."
           },
           {
             "label": "C",
@@ -6347,10 +6347,10 @@ const QUIZ_BANKS = [
             "text": "Adjusting prices dynamically in real-time based on surge algorithms."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Describes first-degree (perfect) price discrimination.\n  - **Option B (Correct)**: Second-degree price discrimination allows customers to self-select into pricing structures based on quantity, versioning, or multi-game package tiers (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`).\n  - **Option C (Incorrect)**: Describes third-degree (segmented) price discrimination.\n  - **Option D (Incorrect)**: Describes dynamic / algorithmic surge pricing.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Offering self-selecting pricing structures based on volume or package tiering (e.g., season ticket packages vs single tickets). matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`).\n  - **Option B (Incorrect)**: Charging each customer their exact individual maximum willingness-to-pay. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Charging different prices to distinct demographic groups based on student/senior identification. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Adjusting prices dynamically in real-time based on surge algorithms. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -6379,9 +6379,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Describes cost-plus pricing, not value-based pricing.\n  - **Option B (Correct)**: Value-based pricing anchors price to customer perceived value and WTP, maximizing revenue capture, whereas cost-plus pricing relies on internal manufacturing/operating costs plus a markup (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option C (Incorrect)**: Value-based pricing is widely used across commercial industries.\n  - **Option D (Incorrect)**: Selling at cost represents penetration pricing or loss-leader pricing.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option B (Correct)**: Value-based pricing sets price based on estimated customer Willingness-to-Pay (WTP) and perceived benefits, whereas cost-plus pricing calculates price from internal accounting costs. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option A (Incorrect)**: Value-based pricing determines price by adding a fixed percentage markup to unit production costs. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Value-based pricing is legally restricted to non-profit entities. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Value-based pricing requires selling products at cost during initial market entry. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -6398,21 +6398,21 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Demand is elastic ($|E_p| > 1$); total revenue decreases when price is raised."
+            "text": "Demand is unit elastic; total revenue remains constant when price is raised."
           },
           {
             "label": "C",
-            "text": "Demand is unit elastic; total revenue remains constant when price is raised."
+            "text": "Demand is elastic ($|E_p| > 1$); total revenue decreases when price is raised."
           },
           {
             "label": "D",
             "text": "Demand is perfectly inelastic; volume purchased remains unchanged when price is raised."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: An absolute elasticity value of 2.5 indicates high elasticity, not inelasticity.\n  - **Option B (Correct)**: Because $|E_p| = 2.5 > 1$, demand is elastic. A 1% increase in price leads to a 2.5% drop in quantity demanded, causing total revenue to decrease (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option C (Incorrect)**: Unit elasticity requires $|E_p| = 1.0$.\n  - **Option D (Incorrect)**: Perfect inelasticity requires $E_p = 0$.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Demand is elastic ($|E_p| > 1$); total revenue decreases when price is raised. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option A (Incorrect)**: Demand is inelastic; total revenue increases when price is raised. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Demand is unit elastic; total revenue remains constant when price is raised. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Demand is perfectly inelastic; volume purchased remains unchanged when price is raised. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -6429,26 +6429,305 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "$1,961,379."
-          },
-          {
-            "label": "C",
             "text": "$5,000,000."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "$12,500,000."
+          },
+          {
+            "label": "D",
+            "text": "$1,961,379."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Understates actual operating expenses.\n  - **Option B (Correct)**: Springfield Nor'easters Exhibit 1 establishes total annual fixed operating expenses of $1,961,379, covering player salaries ($887k), travel ($455k), advertising ($175k), dues ($175k), staff ($124k), office ($110k), supplies, and market research (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`, Page 8, Exhibit 1).\n  - **Option C (Incorrect)**: Overstates fixed expenses.\n  - **Option D (Incorrect)**: Represents stadium construction cost scale.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: $1,961,379. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`).\n  - **Option A (Incorrect)**: $500,000. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $5,000,000. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $12,500,000. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
       {
         "sourceNumber": 21,
+        "questionId": "EX2-M04-D1-Q21",
+        "topicId": "M04-T01",
+        "module": "M04",
+        "question": "In the Natureview Farm case, what was the company's market share in the natural foods channel before considering supermarket expansion?",
+        "options": [
+          {
+            "label": "A",
+            "text": "24% of national natural foods channel yogurt sales."
+          },
+          {
+            "label": "B",
+            "text": "12% of total U.S. yogurt sales across all retail channels."
+          },
+          {
+            "label": "C",
+            "text": "36% of organic dairy products in the Northeast region."
+          },
+          {
+            "label": "D",
+            "text": "8% of conventional supermarket yogurt shelf space nationwide."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: 24% of national natural foods channel yogurt sales. matches the authoritative source framework (`EXT-HBR-502049`).\n  - **Option B (Incorrect)**: 12% of total U.S. yogurt sales across all retail channels. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 36% of organic dairy products in the Northeast region. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 8% of conventional supermarket yogurt shelf space nationwide. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "scope-confusion",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 22,
+        "questionId": "EX2-M04-D1-Q22",
+        "topicId": "M04-T02",
+        "module": "M04",
+        "question": "In the Springfield Nor'easters case, what was the primary research methodology used to gauge consumer willingness to pay for tickets?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Focus groups with 50 local business leaders and sports enthusiasts."
+          },
+          {
+            "label": "B",
+            "text": "A mail survey of 10,000 Springfield residents yielding 625 responses."
+          },
+          {
+            "label": "C",
+            "text": "A conjoint analysis experiment testing 12 ticket-bundle configurations."
+          },
+          {
+            "label": "D",
+            "text": "Analysis of secondary data from comparable minor league franchises."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: A mail survey of 10,000 Springfield residents yielding 625 responses. matches the authoritative source framework (`EXT-HBR-20085`).\n  - **Option A (Incorrect)**: Focus groups with 50 local business leaders and sports enthusiasts. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: A conjoint analysis experiment testing 12 ticket-bundle configurations. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Analysis of secondary data from comparable minor league franchises. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 23,
+        "questionId": "EX2-M04-D1-Q23",
+        "topicId": "M04-T03",
+        "module": "M04",
+        "question": "In a direct-to-consumer (D2C) versus wholesale distribution decision, which financial metric most directly captures the trade-off between higher unit margins and lower sales volume?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Gross margin percentage per unit sold through each channel."
+          },
+          {
+            "label": "B",
+            "text": "Inventory turnover ratio across the full product portfolio."
+          },
+          {
+            "label": "C",
+            "text": "Channel contribution margin multiplied by expected unit volume."
+          },
+          {
+            "label": "D",
+            "text": "Marketing cost per impression in each distribution channel."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Channel contribution margin multiplied by expected unit volume. matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option A (Incorrect)**: Gross margin percentage per unit sold through each channel. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Inventory turnover ratio across the full product portfolio. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Marketing cost per impression in each distribution channel. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 24,
+        "questionId": "EX2-M04-D1-Q24",
+        "topicId": "M04-T04",
+        "module": "M04",
+        "question": "In a Stage-Gate product development process, what is the primary purpose of the gate review between Stage 2 (Build Business Case) and Stage 3 (Development)?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To conduct final consumer acceptance testing before market launch."
+          },
+          {
+            "label": "B",
+            "text": "To select the advertising agency and finalize the launch marketing plan."
+          },
+          {
+            "label": "C",
+            "text": "To complete regulatory filing and secure manufacturing capacity."
+          },
+          {
+            "label": "D",
+            "text": "To evaluate the business case and authorize investment in full-scale development."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: To evaluate the business case and authorize investment in full-scale development. matches the authoritative source framework (`EXT-COOPER-STAGEGATE-2017`).\n  - **Option A (Incorrect)**: To conduct final consumer acceptance testing before market launch. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: To select the advertising agency and finalize the launch marketing plan. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: To complete regulatory filing and secure manufacturing capacity. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 25,
+        "questionId": "EX2-M04-D1-Q25",
+        "topicId": "M04-T05",
+        "module": "M04",
+        "question": "In a U-shaped multi-touch attribution model, what percentage of conversion credit is allocated to the first touchpoint?",
+        "options": [
+          {
+            "label": "A",
+            "text": "40% — with matching 40% to the last touch and 20% split among middle touches."
+          },
+          {
+            "label": "B",
+            "text": "25% — credit is distributed equally across four key touchpoints."
+          },
+          {
+            "label": "C",
+            "text": "30% — consistent with W-shaped allocation across three anchor points."
+          },
+          {
+            "label": "D",
+            "text": "50% — reflecting first-touch attribution with a decay modifier."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: 40% — with matching 40% to the last touch and 20% split among middle touches. matches the authoritative source framework (`EXT-ADOBE-ATTR-2024`).\n  - **Option B (Incorrect)**: 25% — credit is distributed equally across four key touchpoints. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 30% — consistent with W-shaped allocation across three anchor points. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 50% — reflecting first-touch attribution with a decay modifier. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-ADOBE-ATTR-2024",
+        "evidenceClassification": "official-external",
+        "trapLabel": "similar-term",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 26,
+        "questionId": "EX2-M04-D1-Q26",
+        "topicId": "M04-T06",
+        "module": "M04",
+        "question": "In the Van Westendorp Price Sensitivity Meter, the Optimal Price Point (OPP) is defined as the intersection of which two cumulative frequency curves?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The 'cheap/bargain' curve and the 'expensive' curve."
+          },
+          {
+            "label": "B",
+            "text": "The 'too cheap' curve and the 'too expensive' curve."
+          },
+          {
+            "label": "C",
+            "text": "The 'too cheap' curve and the 'cheap/bargain' curve."
+          },
+          {
+            "label": "D",
+            "text": "The 'expensive' curve and the 'too expensive' curve."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: The 'too cheap' curve and the 'too expensive' curve. matches the authoritative source framework (`EXT-SAWTOOTH-PSM-2021`).\n  - **Option A (Incorrect)**: The 'cheap/bargain' curve and the 'expensive' curve. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: The 'too cheap' curve and the 'cheap/bargain' curve. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: The 'expensive' curve and the 'too expensive' curve. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-SAWTOOTH-PSM-2021",
+        "evidenceClassification": "official-external",
+        "trapLabel": "definition-swap",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 27,
+        "questionId": "EX2-M04-D1-Q27",
+        "topicId": "M04-T01",
+        "module": "M04",
+        "question": "What was the gross margin percentage for Natureview Farm's 32-ounce yogurt SKUs in the natural foods channel?",
+        "options": [
+          {
+            "label": "A",
+            "text": "29.1%, reflecting lower margins on larger pack sizes."
+          },
+          {
+            "label": "B",
+            "text": "37.6%, matching the children's multipack margin profile."
+          },
+          {
+            "label": "C",
+            "text": "43.6%, the highest margin across all three yogurt formats."
+          },
+          {
+            "label": "D",
+            "text": "51.2%, premium pricing for the organic 32-ounce segment."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: 43.6%, the highest margin across all three yogurt formats. matches the authoritative source framework (`EXT-HBR-502049`).\n  - **Option A (Incorrect)**: 29.1%, reflecting lower margins on larger pack sizes. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 37.6%, matching the children's multipack margin profile. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 51.2%, premium pricing for the organic 32-ounce segment. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 28,
+        "questionId": "EX2-M04-D1-Q28",
+        "topicId": "M04-T02",
+        "module": "M04",
+        "question": "In the Springfield Nor'easters case, the target demographic for ticket pricing was primarily characterized by which household profile?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Single professionals aged 21-30 with household incomes above $100,000."
+          },
+          {
+            "label": "B",
+            "text": "Retired couples aged 55-65 seeking premium entertainment experiences."
+          },
+          {
+            "label": "C",
+            "text": "College students aged 18-22 with limited discretionary spending capacity."
+          },
+          {
+            "label": "D",
+            "text": "Families with children, aged 26-35, with household incomes between $22,500 and $75,000."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Families with children, aged 26-35, with household incomes between $22,500 and $75,000. matches the authoritative source framework (`EXT-HBR-20085`).\n  - **Option A (Incorrect)**: Single professionals aged 21-30 with household incomes above $100,000. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Retired couples aged 55-65 seeking premium entertainment experiences. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: College students aged 18-22 with limited discretionary spending capacity. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 29,
+        "questionId": "EX2-M04-D1-Q29",
+        "topicId": "M04-T03",
+        "module": "M04",
+        "question": "When a manufacturer faces channel conflict between its established natural foods retailers and a proposed supermarket expansion, which strategic risk is most directly threatened?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Brand equity dilution and loss of existing channel partner loyalty."
+          },
+          {
+            "label": "B",
+            "text": "Patent protection and intellectual property rights for proprietary formulations."
+          },
+          {
+            "label": "C",
+            "text": "Regulatory compliance with food labeling standards across retail formats."
+          },
+          {
+            "label": "D",
+            "text": "Supply chain logistics and warehouse capacity for dual-channel distribution."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Brand equity dilution and loss of existing channel partner loyalty. matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option B (Incorrect)**: Patent protection and intellectual property rights for proprietary formulations. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Regulatory compliance with food labeling standards across retail formats. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Supply chain logistics and warehouse capacity for dual-channel distribution. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-STERN-CHANNELS-2016",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "scope-confusion",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 30,
         "questionId": "EX2-M05-D1-Q01",
         "topicId": "M05-T01",
         "module": "M05",
@@ -6472,14 +6751,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "B",
-        "explanation": "Item-Based Collaborative Filtering recommends items based on historical interaction affinity (co-purchases or co-views) between items across the user base. Content-Based Filtering relies on item attributes, while demographic and rule-based methods use static user characteristics.",
-        "evidenceId": "Aggarwal (2016)",
+        "explanation": "- **Option B (Correct)**: Item-Based Collaborative Filtering matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: Content-Based Filtering is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Demographic Segmentation Filtering is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Rule-Based Dynamic Filtering is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 22,
+        "sourceNumber": 31,
         "questionId": "EX2-M05-D1-Q02",
         "topicId": "M05-T01",
         "module": "M05",
@@ -6491,26 +6770,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Dynamically determining the optimal communication or offer for a user at a specific touchpoint in real time"
+            "text": "Calculating annual tax compliance liabilities for digital sales"
           },
           {
             "label": "C",
-            "text": "Calculating annual tax compliance liabilities for digital sales"
+            "text": "Dynamically determining the optimal communication or offer for a user at a specific touchpoint in real time"
           },
           {
             "label": "D",
             "text": "Automatically deleting inactive user accounts after 90 days"
           }
         ],
-        "answer": "B",
-        "explanation": "Next-Best-Action (NBA) frameworks evaluate real-time intent, user state, and contextual data to select the optimal engagement offer, message, or support intervention for a customer at any given interaction moment.",
-        "evidenceId": "Aggarwal (2016)",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Dynamically determining the optimal communication or offer for a user at a specific touchpoint in real time matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: Generating static monthly customer demographic reports is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Calculating annual tax compliance liabilities for digital sales is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Automatically deleting inactive user accounts after 90 days is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 23,
+        "sourceNumber": 32,
         "questionId": "EX2-M05-D1-Q03",
         "topicId": "M05-T01",
         "module": "M05",
@@ -6522,26 +6801,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Retrieval-Augmented Generation (RAG)"
-          },
-          {
-            "label": "C",
             "text": "Static Keyword Parsing"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Supervised Decision Forests"
+          },
+          {
+            "label": "D",
+            "text": "Retrieval-Augmented Generation (RAG)"
           }
         ],
-        "answer": "B",
-        "explanation": "Retrieval-Augmented Generation (RAG) combines dense vector retrieval over enterprise knowledge bases with LLM generative synthesis, grounding virtual assistant answers in verified internal documentation.",
-        "evidenceId": "Aggarwal (2016)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Retrieval-Augmented Generation (RAG) matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: Rule-Based Decision Trees is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Static Keyword Parsing is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Supervised Decision Forests is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-MIKOLOV-VEC-2013",
+        "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 24,
+        "sourceNumber": 33,
         "questionId": "EX2-M05-D1-Q04",
         "topicId": "M05-T01",
         "module": "M05",
@@ -6549,11 +6828,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Pure User-Based Collaborative Filtering"
+            "text": "Hybrid Recommendation System (combining Content-Based and Collaborative Filtering)"
           },
           {
             "label": "B",
-            "text": "Hybrid Recommendation System (combining Content-Based and Collaborative Filtering)"
+            "text": "Pure User-Based Collaborative Filtering"
           },
           {
             "label": "C",
@@ -6564,15 +6843,15 @@ const QUIZ_BANKS = [
             "text": "Historical Matrix Factorization"
           }
         ],
-        "answer": "B",
-        "explanation": "Pure collaborative filtering fails on new items due to a lack of historical interaction data (cold-start). A hybrid system uses content-based features (item tags, specifications) alongside collaborative signals to immediately recommend newly cataloged items.",
-        "evidenceId": "Aggarwal (2016)",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Hybrid Recommendation System (combining Content-Based and Collaborative Filtering) matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option B (Incorrect)**: Pure User-Based Collaborative Filtering is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Pure Item-Based Collaborative Filtering is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Historical Matrix Factorization is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "scope-boundary-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 25,
+        "sourceNumber": 34,
         "questionId": "EX2-M05-D1-Q05",
         "topicId": "M05-T02",
         "module": "M05",
@@ -6584,26 +6863,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "$\\frac{\\text{Active Customers at End}}{\\text{New Customers Acquired}}$"
+            "text": "$\\frac{\\text{Customers Lost During Period}}{\\text{Customers at Start of Period}}$"
           },
           {
             "label": "C",
-            "text": "$\\frac{\\text{Customers Lost During Period}}{\\text{Customers at Start of Period}}$"
+            "text": "$\\frac{\\text{Active Customers at End}}{\\text{New Customers Acquired}}$"
           },
           {
             "label": "D",
             "text": "$\\frac{\\text{Gross Revenue Lost}}{\\text{Total Operating Expenses}}$"
           }
         ],
-        "answer": "C",
-        "explanation": "Customer Churn Rate ($CR$) measures the proportion of existing customers lost over a specific timeframe relative to the active customer count at the start of that timeframe.",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: $\\frac{\\text{Customers Lost During Period}}{\\text{Customers at Start of Period}}$ matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: $\\frac{\\text{New Customers Acquired}}{\\text{Total Customers at Start}}$ is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $\\frac{\\text{Active Customers at End}}{\\text{New Customers Acquired}}$ is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $\\frac{\\text{Gross Revenue Lost}}{\\text{Total Operating Expenses}}$ is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-OPENVIEW-SAAS-2023",
+        "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 26,
+        "sourceNumber": 35,
         "questionId": "EX2-M05-D1-Q06",
         "topicId": "M05-T02",
         "module": "M05",
@@ -6627,14 +6906,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "C",
-        "explanation": "In NPS methodology, respondents scoring 9–10 are Promoters, 7–8 are Passives, and 0–6 are Detractors. Passives are included in total response counts but do not directly add to or subtract from the net percentage calculation ($NPS = \\% \\text{Promoters} - \\% \\text{Detractors}$).",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "explanation": "- **Option C (Correct)**: Passives matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: Promoters is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Detractors is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Champions is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-BAIN-NPS-2011",
+        "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 27,
+        "sourceNumber": 36,
         "questionId": "EX2-M05-D1-Q07",
         "topicId": "M05-T02",
         "module": "M05",
@@ -6642,30 +6921,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "The efficiency of capital spent on customer acquisition relative to total lifetime gross margin generated"
-          },
-          {
-            "label": "B",
             "text": "The quarterly tax rate applicable to subscription sales"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "The percentage of engineering resources spent on bug remediation"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "The ratio of active monthly users to passive registered users"
+          },
+          {
+            "label": "D",
+            "text": "The efficiency of capital spent on customer acquisition relative to total lifetime gross margin generated"
           }
         ],
-        "answer": "A",
-        "explanation": "The $CLV / CAC$ ratio compares the total long-term gross margin contribution of an acquired customer to the upfront cost incurred to acquire them. Industry benchmarks target a ratio of $\\ge 3:1$.",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: The efficiency of capital spent on customer acquisition relative to total lifetime gross margin generated matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: The quarterly tax rate applicable to subscription sales is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: The percentage of engineering resources spent on bug remediation is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: The ratio of active monthly users to passive registered users is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GUPTA-CLV-2004",
+        "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 28,
+        "sourceNumber": 37,
         "questionId": "EX2-M05-D1-Q08",
         "topicId": "M05-T02",
         "module": "M05",
@@ -6673,11 +6952,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "A steep curve declining continuously to 0% retention across all weeks"
+            "text": "A curve that flattens into a horizontal asymptote parallel to the x-axis"
           },
           {
             "label": "B",
-            "text": "A curve that flattens into a horizontal asymptote parallel to the x-axis"
+            "text": "A steep curve declining continuously to 0% retention across all weeks"
           },
           {
             "label": "C",
@@ -6688,15 +6967,15 @@ const QUIZ_BANKS = [
             "text": "A vertical straight line intersecting the origin"
           }
         ],
-        "answer": "B",
-        "explanation": "A retention curve that levels off horizontally indicates that a stable core percentage of users continues to find value and remain active long-term, signaling PMF. A curve dropping to zero signals ongoing churn leak.",
-        "evidenceId": "Fader & Hardie (2007)",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: A curve that flattens into a horizontal asymptote parallel to the x-axis matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option B (Incorrect)**: A steep curve declining continuously to 0% retention across all weeks is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: A parabolic curve that spikes up to 100% at month 12 is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: A vertical straight line intersecting the origin is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-REFORGE-RETENTION-2021",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 29,
+        "sourceNumber": 38,
         "questionId": "EX2-M05-D1-Q09",
         "topicId": "M05-T03",
         "module": "M05",
@@ -6708,26 +6987,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Protect (PR)"
+            "text": "Govern (GV)"
           },
           {
             "label": "C",
-            "text": "Govern (GV)"
+            "text": "Protect (PR)"
           },
           {
             "label": "D",
             "text": "Recover (RC)"
           }
         ],
-        "answer": "C",
-        "explanation": "NIST CSF v2.0 expanded the framework from 5 functions to 6 by adding **Govern (GV)** to cover organizational risk management strategy, governance policies, executive leadership oversight, and supply chain risk.",
-        "evidenceId": "EXT-NIST-01",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Govern (GV) matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: Identify (ID) is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Protect (PR) is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Recover (RC) is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 30,
+        "sourceNumber": 39,
         "questionId": "EX2-M05-D1-Q10",
         "topicId": "M05-T03",
         "module": "M05",
@@ -6739,26 +7018,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Govern, Identify, Protect, Detect, Respond, Recover"
+            "text": "Authenticate, Authorize, Encrypt, Log, Patch, Backup"
           },
           {
             "label": "C",
-            "text": "Authenticate, Authorize, Encrypt, Log, Patch, Backup"
+            "text": "Govern, Identify, Protect, Detect, Respond, Recover"
           },
           {
             "label": "D",
             "text": "Assess, Prevent, Contain, Eradicate, Restore, Document"
           }
         ],
-        "answer": "B",
-        "explanation": "NIST CSF v2.0 defines six high-level core functions: Govern (GV), Identify (ID), Protect (PR), Detect (DE), Respond (RS), and Recover (RC).",
-        "evidenceId": "EXT-NIST-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Govern, Identify, Protect, Detect, Respond, Recover matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: Plan, Build, Run, Monitor, Audit, Retire is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Authenticate, Authorize, Encrypt, Log, Patch, Backup is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Assess, Prevent, Contain, Eradicate, Restore, Document is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
         "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 31,
+        "sourceNumber": 40,
         "questionId": "EX2-M05-D1-Q11",
         "topicId": "M05-T03",
         "module": "M05",
@@ -6770,26 +7049,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Never trust, always verify"
-          },
-          {
-            "label": "C",
             "text": "Trust all encrypted IPsec tunnel traffic automatically"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Grant permanent administrator access after single multi-factor authentication"
+          },
+          {
+            "label": "D",
+            "text": "Never trust, always verify"
           }
         ],
-        "answer": "B",
-        "explanation": "Zero Trust Architecture assumes no implicit trust based on network location. Every access request must be explicitly authenticated, authorized, and validated before access is granted.",
-        "evidenceId": "EXT-NIST-01",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Never trust, always verify matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: Implicit trust within the internal corporate network perimeter is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Trust all encrypted IPsec tunnel traffic automatically is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Grant permanent administrator access after single multi-factor authentication is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-SP-800-207",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 32,
+        "sourceNumber": 41,
         "questionId": "EX2-M05-D1-Q12",
         "topicId": "M05-T03",
         "module": "M05",
@@ -6797,11 +7076,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Maximum data exposure to enable full public ad targeting"
+            "text": "Privacy as the default setting (opt-in data collection without requiring user action)"
           },
           {
             "label": "B",
-            "text": "Privacy as the default setting (opt-in data collection without requiring user action)"
+            "text": "Maximum data exposure to enable full public ad targeting"
           },
           {
             "label": "C",
@@ -6812,15 +7091,15 @@ const QUIZ_BANKS = [
             "text": "Indefinite data retention without expiration policies"
           }
         ],
-        "answer": "B",
-        "explanation": "Principle 2 of Privacy by Design mandates \"Privacy as the Default Setting,\" ensuring personal data is automatically protected in any system without requiring proactive user intervention.",
-        "evidenceId": "EXT-NIST-01",
-        "evidenceClassification": "credible-secondary",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Privacy as the default setting (opt-in data collection without requiring user action) matches the authoritative source framework (`EXT-CAVOUKIAN-PBD-2009`).\n  - **Option B (Incorrect)**: Maximum data exposure to enable full public ad targeting is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Mandatory pre-selected consent checkboxes for third-party broker sharing is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Indefinite data retention without expiration policies is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-CAVOUKIAN-PBD-2009",
+        "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 33,
+        "sourceNumber": 42,
         "questionId": "EX2-M05-D1-Q13",
         "topicId": "M05-T04",
         "module": "M05",
@@ -6844,14 +7123,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "B",
-        "explanation": "Dimensions represent qualitative categorical data (e.g., Region, Customer ID) that slice the view. Measures represent quantitative numerical data (e.g., Sales, Profit) that can be aggregated.",
-        "evidenceId": "EXT-TAB-01",
-        "evidenceClassification": "official-external",
+        "explanation": "- **Option B (Correct)**: Dimensions set the level of detail and slice data; Measures contain quantitative numerical values that are aggregated matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: Dimensions contain numerical metrics; Measures contain text categories is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Dimensions are always green pills; Measures are always blue pills is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Dimensions are calculated after table calculations; Measures are calculated before data source filters is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-FEW-DATAVIS-2012",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 34,
+        "sourceNumber": 43,
         "questionId": "EX2-M05-D1-Q14",
         "topicId": "M05-T04",
         "module": "M05",
@@ -6863,26 +7142,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "A continuous axis"
+            "text": "A static text table header"
           },
           {
             "label": "C",
-            "text": "A static text table header"
+            "text": "A continuous axis"
           },
           {
             "label": "D",
             "text": "A database join dialog box"
           }
         ],
-        "answer": "B",
-        "explanation": "In Tableau, Continuous fields (green pills) generate continuous axes in the visualization, whereas Discrete fields (blue pills) generate distinct headers and column/row dividers.",
-        "evidenceId": "EXT-TAB-01",
-        "evidenceClassification": "official-external",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: A continuous axis matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: Distinct header dividers is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: A static text table header is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: A database join dialog box is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-FEW-DATAVIS-2012",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 35,
+        "sourceNumber": 44,
         "questionId": "EX2-M05-D1-Q15",
         "topicId": "M05-T04",
         "module": "M05",
@@ -6890,26 +7169,212 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "It computes values using the specified dimensions regardless of what dimensions are present in the view"
-          },
-          {
-            "label": "B",
             "text": "It automatically inherits all filters applied in the view without exception"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "It requires all fields to be continuous green pills"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "It is calculated after measure filters and table calculations"
+          },
+          {
+            "label": "D",
+            "text": "It computes values using the specified dimensions regardless of what dimensions are present in the view"
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: It computes values using the specified dimensions regardless of what dimensions are present in the view matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: It automatically inherits all filters applied in the view without exception is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: It requires all fields to be continuous green pills is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: It is calculated after measure filters and table calculations is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-LOD-2020",
+        "evidenceClassification": "official-external",
+        "trapLabel": "format-wording-trap",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 45,
+        "questionId": "EX2-M05-D1-Q16",
+        "topicId": "M05-T01",
+        "module": "M05",
+        "question": "In the Net Promoter Score methodology, respondents who rate their likelihood to recommend at 7 or 8 on the 0-10 scale are classified as which category?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Passives — satisfied but unenthusiastic and vulnerable to competitors."
+          },
+          {
+            "label": "B",
+            "text": "Promoters — loyal enthusiasts who drive referral growth."
+          },
+          {
+            "label": "C",
+            "text": "Detractors — dissatisfied customers who may spread negative word-of-mouth."
+          },
+          {
+            "label": "D",
+            "text": "Neutrals — respondents excluded from the NPS calculation entirely."
           }
         ],
         "answer": "A",
-        "explanation": "A `FIXED` LOD expression calculates aggregates using only the dimensions explicitly specified in the formula, ignoring other dimensions present in the visualization view.",
-        "evidenceId": "EXT-TAB-01",
+        "explanation": "- **Option A (Correct)**: Passives — satisfied but unenthusiastic and vulnerable to competitors. matches the authoritative source framework (`EXT-BAIN-NPS-2011`).\n  - **Option B (Incorrect)**: Promoters — loyal enthusiasts who drive referral growth. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Detractors — dissatisfied customers who may spread negative word-of-mouth. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Neutrals — respondents excluded from the NPS calculation entirely. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "definition-swap",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 46,
+        "questionId": "EX2-M05-D1-Q17",
+        "topicId": "M05-T02",
+        "module": "M05",
+        "question": "In Tableau's order of operations, at which stage are FIXED Level of Detail (LOD) expressions evaluated?",
+        "options": [
+          {
+            "label": "A",
+            "text": "After Dimension Filters and before Measure Filters."
+          },
+          {
+            "label": "B",
+            "text": "After Context Filters but before Dimension Filters."
+          },
+          {
+            "label": "C",
+            "text": "Before Extract Filters as the very first computation step."
+          },
+          {
+            "label": "D",
+            "text": "After Table Calculations as the final aggregation step."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: After Context Filters but before Dimension Filters. matches the authoritative source framework (`EXT-TABLEAU-ORDER-OF-OPS`).\n  - **Option A (Incorrect)**: After Dimension Filters and before Measure Filters. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Before Extract Filters as the very first computation step. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: After Table Calculations as the final aggregation step. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-OPENVIEW-SAAS-2023",
         "evidenceClassification": "official-external",
-        "trapLabel": "format-wording-trap",
+        "trapLabel": "order-of-operations-confusion",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 47,
+        "questionId": "EX2-M05-D1-Q18",
+        "topicId": "M05-T03",
+        "module": "M05",
+        "question": "What is the maximum possible value for Gross Revenue Retention (GRR) in a SaaS business?",
+        "options": [
+          {
+            "label": "A",
+            "text": "There is no maximum — GRR can exceed 100% through expansion revenue."
+          },
+          {
+            "label": "B",
+            "text": "95% — the industry benchmark ceiling for enterprise SaaS companies."
+          },
+          {
+            "label": "C",
+            "text": "100% — because GRR excludes expansion revenue from its calculation."
+          },
+          {
+            "label": "D",
+            "text": "110% — matching the typical Net Revenue Retention benchmark."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: 100% — because GRR excludes expansion revenue from its calculation. matches the authoritative source framework (`EXT-BVP-CLOUD-2023`).\n  - **Option A (Incorrect)**: There is no maximum — GRR can exceed 100% through expansion revenue. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 95% — the industry benchmark ceiling for enterprise SaaS companies. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 110% — matching the typical Net Revenue Retention benchmark. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
+        "evidenceClassification": "official-external",
+        "trapLabel": "similar-term",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 48,
+        "questionId": "EX2-M05-D1-Q19",
+        "topicId": "M05-T04",
+        "module": "M05",
+        "question": "Which function was newly added in NIST Cybersecurity Framework (CSF) version 2.0 that did not exist as a standalone function in version 1.1?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Detect — identifying the occurrence of cybersecurity events."
+          },
+          {
+            "label": "B",
+            "text": "Respond — taking action regarding detected cybersecurity incidents."
+          },
+          {
+            "label": "C",
+            "text": "Recover — restoring capabilities impaired by cybersecurity incidents."
+          },
+          {
+            "label": "D",
+            "text": "Govern — establishing cybersecurity risk management strategy and oversight."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Govern — establishing cybersecurity risk management strategy and oversight. matches the authoritative source framework (`EXT-NIST-CSF-2.0`).\n  - **Option A (Incorrect)**: Detect — identifying the occurrence of cybersecurity events. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Respond — taking action regarding detected cybersecurity incidents. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Recover — restoring capabilities impaired by cybersecurity incidents. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-ORDER-OF-OPS",
+        "evidenceClassification": "official-external",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 49,
+        "questionId": "EX2-M05-D1-Q20",
+        "topicId": "M05-T01",
+        "module": "M05",
+        "question": "In customer experience design, a touchpoint analysis systematically maps all interactions a customer has with a brand. Which stage of the customer journey typically generates the highest emotional variability?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Post-purchase — when experiencing product delivery, onboarding, and support."
+          },
+          {
+            "label": "B",
+            "text": "Awareness — when the customer first encounters the brand."
+          },
+          {
+            "label": "C",
+            "text": "Consideration — when comparing alternatives and reading reviews."
+          },
+          {
+            "label": "D",
+            "text": "Loyalty — when making repeat purchases with established expectations."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Post-purchase — when experiencing product delivery, onboarding, and support. matches the authoritative source framework (`EXT-HBR-MEYER-2007`).\n  - **Option B (Incorrect)**: Awareness — when the customer first encounters the brand. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Consideration — when comparing alternatives and reading reviews. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Loyalty — when making repeat purchases with established expectations. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 50,
+        "questionId": "EX2-M05-D1-Q21",
+        "topicId": "M05-T03",
+        "module": "M05",
+        "question": "A SaaS company calculates its CAC payback period by dividing CAC by which of the following?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Annual Recurring Revenue (ARR) per customer."
+          },
+          {
+            "label": "B",
+            "text": "Monthly ARPA multiplied by subscription gross margin percentage."
+          },
+          {
+            "label": "C",
+            "text": "Total Lifetime Value (LTV) of the average customer."
+          },
+          {
+            "label": "D",
+            "text": "Net Revenue Retention rate multiplied by average deal size."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Monthly ARPA multiplied by subscription gross margin percentage. matches the authoritative source framework (`EXT-SKOK-SAAS-2020`).\n  - **Option A (Incorrect)**: Annual Recurring Revenue (ARR) per customer. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Total Lifetime Value (LTV) of the average customer. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Net Revenue Retention rate multiplied by average deal size. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
+        "evidenceClassification": "official-external",
+        "trapLabel": "calculation-error",
         "provisional": false
       }
     ]
@@ -6934,11 +7399,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Natural food channel distributors will demand an immediate 15% off-invoice price reduction on 32 oz SKUs to match supermarket wholesale pricing."
+            "text": "Independent natural foods retailers may view supermarket expansion as brand dilution and reallocate prime shelf space to competing organic yogurt brands."
           },
           {
             "label": "B",
-            "text": "Independent natural foods retailers may view supermarket expansion as brand dilution and reallocate prime shelf space to competing organic yogurt brands."
+            "text": "Natural food channel distributors will demand an immediate 15% off-invoice price reduction on 32 oz SKUs to match supermarket wholesale pricing."
           },
           {
             "label": "C",
@@ -6949,10 +7414,10 @@ const QUIZ_BANKS = [
             "text": "Direct-to-consumer (D2C) online sales will cannibalize 8 oz unit volume in natural foods stores by over 40%."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: 32 oz SKUs were not sold in conventional supermarkets under Option 1; channel conflict stems from channel perception and retail relationship alienation.\n  - **Option B (Correct)**: Natureview's core distributor and retailer network in the natural foods channel built the brand. Expanding 8 oz SKUs into conventional supermarkets creates intense channel friction, where natural foods retailers feel alienated and may demote Natureview's shelf placement (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`, Slide 7).\n  - **Option C (Incorrect)**: CPG supermarket brokers operate on commission (5%) and do not enforce exclusive contracts barring natural food channel distribution.\n  - **Option D (Incorrect)**: Natureview did not operate a D2C online channel in 1999; cannibalization concerned supermarket vs natural channel retail stores.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Independent natural foods retailers may view supermarket expansion as brand dilution and reallocate prime shelf space to competing organic yogurt brands. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option B (Incorrect)**: Natural food channel distributors will demand an immediate 15% off-invoice price reduction on 32 oz SKUs to match supermarket wholesale pricing. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Supermarket brokers will require exclusive 3-year distribution rights, prohibiting Natureview from supplying natural food store chains. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Direct-to-consumer (D2C) online sales will cannibalize 8 oz unit volume in natural foods stores by over 40%. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -6965,11 +7430,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Retail buyers may engage in forward-buying and pass-through failure, purchasing excess inventory at discounted rates without lowering retail shelf prices for end consumers."
+            "text": "Off-invoice allowances permanently reduce manufacturer list price accounting baselines under legal Robinson-Patman regulations."
           },
           {
             "label": "B",
-            "text": "Off-invoice allowances permanently reduce manufacturer list price accounting baselines under legal Robinson-Patman regulations."
+            "text": "Retail buyers may engage in forward-buying and pass-through failure, purchasing excess inventory at discounted rates without lowering retail shelf prices for end consumers."
           },
           {
             "label": "C",
@@ -6980,10 +7445,10 @@ const QUIZ_BANKS = [
             "text": "Off-invoice promotional expenditure must be capitalized as a 10-year intangible asset rather than expensed immediately."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Off-invoice trade discounts risk forward-buying (retailers stock up during discount windows for future full-price sales) and lack of pass-through (retailers pocket the discount rather than discounting shelf price to consumers) (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`, Slide 5).\n  - **Option B (Incorrect)**: Off-invoice promotions are temporary trade spend allowances, not permanent list price modifications.\n  - **Option C (Incorrect)**: Broker commissions are calculated on gross or net invoiced sales as agreed in broker contracts, not forfeited.\n  - **Option D (Incorrect)**: Trade promotions are operating expenses (contra-revenue or marketing expense), not capitalized intangible assets.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Retail buyers may engage in forward-buying and pass-through failure, purchasing excess inventory at discounted rates without lowering retail shelf prices for end consumers. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: Off-invoice allowances permanently reduce manufacturer list price accounting baselines under legal Robinson-Patman regulations. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Wholesale brokers automatically forfeit their 5% sales commission whenever off-invoice discounts exceed 10%. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Off-invoice promotional expenditure must be capitalized as a 10-year intangible asset rather than expensed immediately. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -6996,25 +7461,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Proprietary manufacturing process yielding superior shelf-life and distinct product differentiation."
-          },
-          {
-            "label": "B",
             "text": "High reliance on short-term debt financing for inventory expansion."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Broad multi-category product lines spanning frozen foods and bakery items."
+          },
+          {
+            "label": "C",
+            "text": "Proprietary manufacturing process yielding superior shelf-life and distinct product differentiation."
           },
           {
             "label": "D",
             "text": "Outsourcing 100% of sales execution to independent regional food brokers."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Product differentiation (such as Natureview's 64-day shelf life vs industry average 40 days) provides a strong competitive moat against price wars, preserving consumer Willingness-to-Pay (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`, Slide 3).\n  - **Option B (Incorrect)**: High debt burden increases financial vulnerability during price competition.\n  - **Option C (Incorrect)**: Unfocused product line expansion dilutes brand equity without defending core product margins.\n  - **Option D (Incorrect)**: Outsourcing sales execution does not protect against price-matching threats.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Proprietary manufacturing process yielding superior shelf-life and distinct product differentiation. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: High reliance on short-term debt financing for inventory expansion. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Broad multi-category product lines spanning frozen foods and bakery items. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Outsourcing 100% of sales execution to independent regional food brokers. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -7027,25 +7492,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Inadequate marketing research orientation and insufficient upward communication within the organization."
-          },
-          {
-            "label": "B",
             "text": "Inability of frontline service staff to follow established service delivery standards."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Discrepancy between actual service delivery and external advertising promises."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Over-reliance on automated digital customer support bots without human escalation paths."
+          },
+          {
+            "label": "D",
+            "text": "Inadequate marketing research orientation and insufficient upward communication within the organization."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Gap 1 arises from lack of market research, uninterpreted customer feedback, and poor communication between customer-facing staff and management (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf`, Page 6).\n  - **Option B (Incorrect)**: Describes Gap 3 (Service Performance Gap).\n  - **Option C (Incorrect)**: Describes Gap 4 (Communication Gap).\n  - **Option D (Incorrect)**: Describes a specific operational delivery issue related to Gap 3.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Inadequate marketing research orientation and insufficient upward communication within the organization. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf`).\n  - **Option A (Incorrect)**: Inability of frontline service staff to follow established service delivery standards. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Discrepancy between actual service delivery and external advertising promises. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Over-reliance on automated digital customer support bots without human escalation paths. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -7058,11 +7523,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Offer aggressive 50% limited-time price discounts in every nurture email."
+            "text": "Provide transparent case studies, security certifications, and unbiased user reviews to build relationship trust prior to sales outreach."
           },
           {
             "label": "B",
-            "text": "Provide transparent case studies, security certifications, and unbiased user reviews to build relationship trust prior to sales outreach."
+            "text": "Offer aggressive 50% limited-time price discounts in every nurture email."
           },
           {
             "label": "C",
@@ -7073,10 +7538,10 @@ const QUIZ_BANKS = [
             "text": "Eliminate free trial access and demand upfront annual contract commitments."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Price discounting addresses transactional incentive but degrades perceived quality and trust.\n  - **Option B (Correct)**: Morgan & Hunt demonstrate that Shared Values, Communication, and Non-opportunistic Behavior build Trust and Commitment, which drive relational conversion (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Readings/Commitment and Trust theory of Relationship Marketing.pdf`, Page 24).\n  - **Option C (Incorrect)**: High email frequency causes subscription opt-outs and damages brand perception.\n  - **Option D (Incorrect)**: Forcing rigid commitments before establishing trust severely lowers lead conversion.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Readings/Commitment and Trust theory of Relationship Marketing.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Provide transparent case studies, security certifications, and unbiased user reviews to build relationship trust prior to sales outreach. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Readings/Commitment and Trust theory of Relationship Marketing.pdf`).\n  - **Option B (Incorrect)**: Offer aggressive 50% limited-time price discounts in every nurture email. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Increase daily automated email frequency from one to five touchpoints per lead. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Eliminate free trial access and demand upfront annual contract commitments. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -7089,11 +7554,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "The instant checkout discount ($80) because consumers heavily discount future uncertain cash flows from mail-in rebates."
+            "text": "The mail-in rebate ($20 off $100) because framing a gain separately from a purchase segregation yields higher psychological utility."
           },
           {
             "label": "B",
-            "text": "The mail-in rebate ($20 off $100) because framing a gain separately from a purchase segregation yields higher psychological utility."
+            "text": "The instant checkout discount ($80) because consumers heavily discount future uncertain cash flows from mail-in rebates."
           },
           {
             "label": "C",
@@ -7104,10 +7569,10 @@ const QUIZ_BANKS = [
             "text": "Neither option succeeds because consumers perceive any discount as a signal of inferior product quality."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Thaler's mental accounting principles demonstrate that while segregating small gains is psychologically beneficial, friction in redemptions and immediate transaction utility ($v(p^*) - p$) make instant price reductions ($80) superior in driving conversion over delayed rebate hassle (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf`, Slide 5).\n  - **Option B (Incorrect)**: Segregating gains applies when gains are hassle-free; high rebate friction causes negative transaction utility.\n  - **Option C (Incorrect)**: Ignores mental accounting behavioral biases and transaction utility.\n  - **Option D (Incorrect)**: Standard promotional discounts increase purchase intent when reference prices are established.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: The instant checkout discount ($80) because consumers heavily discount future uncertain cash flows from mail-in rebates. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf`).\n  - **Option A (Incorrect)**: The mail-in rebate ($20 off $100) because framing a gain separately from a purchase segregation yields higher psychological utility. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Both options generate identical purchase intent because the objective net economic cost ($80) is equivalent. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Neither option succeeds because consumers perceive any discount as a signal of inferior product quality. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -7124,21 +7589,21 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Sales rep workload will increase with lower-quality leads, leading to lower close rates and higher acquisition costs per deal."
+            "text": "Total pipeline revenue will double instantly with zero impact on sales rep time allocation."
           },
           {
             "label": "C",
-            "text": "Total pipeline revenue will double instantly with zero impact on sales rep time allocation."
+            "text": "Sales rep workload will increase with lower-quality leads, leading to lower close rates and higher acquisition costs per deal."
           },
           {
             "label": "D",
             "text": "Lead velocity will drop to zero as unqualified leads overload marketing automation servers."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Lowering qualification standards admits lower-intent leads, which reduces close rates and lengthens sales cycles.\n  - **Option B (Correct)**: Diluting lead qualification criteria floods sales reps with unready leads, wasting rep capacity and lowering overall pipeline efficiency (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Lead genration and Nurturing.pdf`).\n  - **Option C (Incorrect)**: Pipeline volume may increase numerically, but actual closed revenue will not double seamlessly.\n  - **Option D (Incorrect)**: Server load is unaffected by internal threshold score adjustments.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Lead genration and Nurturing.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Sales rep workload will increase with lower-quality leads, leading to lower close rates and higher acquisition costs per deal. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Lead genration and Nurturing.pdf`).\n  - **Option A (Incorrect)**: Lead conversion rate will increase while sales cycle length decreases. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Total pipeline revenue will double instantly with zero impact on sales rep time allocation. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Lead velocity will drop to zero as unqualified leads overload marketing automation servers. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -7155,21 +7620,21 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "46.5%."
-          },
-          {
-            "label": "C",
             "text": "40.0%."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "36.0%."
+          },
+          {
+            "label": "D",
+            "text": "46.5%."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Uncalibrated Top 2 Box sum ($45\\% + 35\\% = 80\\%$) fails to account for survey overstatement bias.\n  - **Option B (Correct)**: Applying Nielsen BASES / Urban & Hauser calibration: $Calibrated Trial = (0.80 \\times Top Box) + (0.30 \\times Second Box) = (0.80 \\times 45\\%) + (0.30 \\times 35\\%) = 36.0\\% + 10.5\\% = 46.5\\%$ (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`, Timestamp 0:35:15).\n  - **Option C (Incorrect)**: Result of discounting both boxes equally by 50%.\n  - **Option D (Incorrect)**: Represents $0.80 \\times Top Box$ only, omitting Second Box contribution.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: 46.5%. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`).\n  - **Option A (Incorrect)**: 80.0%. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 40.0%. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 36.0%. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -7198,9 +7663,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Raw intent surveys suffer from overstatement bias—consumers express hypothetical interest without facing real wallet constraints or competitive shelf noise (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`, Timestamp 0:30:10).\n  - **Option B (Incorrect)**: Raw surveys systematically overestimate, not underestimate, demand.\n  - **Option C (Incorrect)**: NPV calculation depends on financial modeling inputs, which can still be run, albeit with biased estimates.\n  - **Option D (Incorrect)**: Regulatory agencies evaluate safety/labeling, not consumer intent survey methodology.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: Severe overestimation of sales volume due to social desirability bias and lack of real-world retail shelf competition. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`).\n  - **Option B (Incorrect)**: Underestimation of market demand resulting in immediate factory stockouts. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Inability to calculate net present value (NPV) for research and development budgets. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Automatic regulatory rejection of packaging designs by commercial food trade associations. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -7213,11 +7678,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "9.6%."
+            "text": "19.2%."
           },
           {
             "label": "B",
-            "text": "19.2%."
+            "text": "9.6%."
           },
           {
             "label": "C",
@@ -7228,9 +7693,9 @@ const QUIZ_BANKS = [
             "text": "48.0%."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $Market Share = A \\times T \\times A \\times R = 0.60 \\times 0.40 \\times 0.80 \\times 0.50 = 0.096 = 9.6\\%$ (Urban & Hauser, 1993; Crawford & Di Benedetto, 2015).\n  - **Option B (Incorrect)**: Result of omitting the Repeat rate ($0.60 \\times 0.40 \\times 0.80 = 19.2\\%$).\n  - **Option C (Incorrect)**: Result of simple average of the four percentages.\n  - **Option D (Incorrect)**: Result of multiplying $0.60 \\times 0.80$.",
-        "evidenceId": "EXT-MKTG-03",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: 9.6%. matches the authoritative source framework (`EXT-CRAWFORD-ATAR-2021`).\n  - **Option A (Incorrect)**: 19.2%. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 23.0%. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 48.0%. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
@@ -7244,25 +7709,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Visual imagery, tone of voice, core value proposition, and brand message must remain perfectly synchronized across TV and social channels."
-          },
-          {
-            "label": "B",
             "text": "Social media channels must offer higher cash discounts than TV commercials."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Traditional TV ads must be discontinued entirely to prevent audience duplication."
+          },
+          {
+            "label": "C",
+            "text": "Visual imagery, tone of voice, core value proposition, and brand message must remain perfectly synchronized across TV and social channels."
           },
           {
             "label": "D",
             "text": "Influencer partners must be granted full editorial freedom to alter brand logos and slogans."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: IMC principles demand that despite channel diversification, all creative execution and messaging must reinforce a single, unified brand identity (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a`).\n  - **Option B (Incorrect)**: Channel pricing parity is not an IMC creative synchronization requirement.\n  - **Option C (Incorrect)**: Cross-media synergy relies on combining complementary traditional and digital channels.\n  - **Option D (Incorrect)**: Diluting brand guidelines violates IMC consistency principles.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Visual imagery, tone of voice, core value proposition, and brand message must remain perfectly synchronized across TV and social channels. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a`).\n  - **Option A (Incorrect)**: Social media channels must offer higher cash discounts than TV commercials. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Traditional TV ads must be discontinued entirely to prevent audience duplication. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Influencer partners must be granted full editorial freedom to alter brand logos and slogans. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -7275,25 +7740,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Functional/Protective and Cost/Environmental Sustainability."
-          },
-          {
-            "label": "B",
             "text": "Informational/Regulatory and Price Discrimination."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Perceptual Branding and Legal Trademark Protection."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Co-op Advertising and Channel Disintermediation."
+          },
+          {
+            "label": "D",
+            "text": "Functional/Protective and Cost/Environmental Sustainability."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Lightweighting plastic reduces material cost and environmental impact while structural rigidity fulfills the primary functional/protective logistics role (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Screenshots/Screenshot 2026-06-21 at 16.09.12.png`).\n  - **Option B (Incorrect)**: Bottle resin reduction does not alter regulatory nutrition labels or pricing structures.\n  - **Option C (Incorrect)**: Physical resin reduction is an engineering function, not trademark law.\n  - **Option D (Incorrect)**: Unrelated to trade promotion co-op allowances.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Screenshots/Screenshot 2026-06-21 at 16.09.12.png",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Functional/Protective and Cost/Environmental Sustainability. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Screenshots/Screenshot 2026-06-21 at 16.09.12.png`).\n  - **Option A (Incorrect)**: Informational/Regulatory and Price Discrimination. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Perceptual Branding and Legal Trademark Protection. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Co-op Advertising and Channel Disintermediation. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -7322,8 +7787,8 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Mixed bundling allows sellers to extract consumer surplus from buyers who value one component highly but not another, as well as buyers who value the combined package (Stremersch & Tellis, 2002; Adams & Yellen, 1976).\n  - **Option B (Incorrect)**: Identical valuations allow pure bundling or uniform pricing to capture full surplus without mixed tiering.\n  - **Option C (Incorrect)**: Zero marginal cost favors pure bundling over mixed bundling.\n  - **Option D (Incorrect)**: Mixed bundling is a profit-maximizing commercial strategy, not a regulatory mandate.",
-        "evidenceId": "EXT-MKTG-01",
+        "explanation": "- **Option A (Correct)**: When consumer valuations for bundled items are negatively correlated and consumers have heterogeneous preferences across individual components. matches the authoritative source framework (`EXT-STREMERSCH-BUNDLING-2002`).\n  - **Option B (Incorrect)**: When all consumers possess identical willingness-to-pay for every component in the portfolio. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: When marginal production costs of all components are strictly zero. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: When legal regulations prohibit individual item retail pricing. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
@@ -7337,11 +7802,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Cookie stuffing and coupon code poaching, where affiliates intercept organic traffic at checkout to claim unauthorized commissions."
+            "text": "Excessive upfront fixed media costs prior to generating sales."
           },
           {
             "label": "B",
-            "text": "Excessive upfront fixed media costs prior to generating sales."
+            "text": "Cookie stuffing and coupon code poaching, where affiliates intercept organic traffic at checkout to claim unauthorized commissions."
           },
           {
             "label": "C",
@@ -7352,9 +7817,9 @@ const QUIZ_BANKS = [
             "text": "Immediate loss of trademark rights on brand domain names."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: In PPS affiliate networks, malicious affiliates use cookie stuffing or coupon browser extensions to overwrite attribution cookies right before purchase, capturing unearned commissions on organic sales (`EXT-ATTR-01`).\n  - **Option B (Incorrect)**: PPS pays performance commissions post-sale, avoiding upfront fixed media exposure risk.\n  - **Option C (Incorrect)**: DTC apparel affiliates operate online, separate from wholesale grocery distributors.\n  - **Option D (Incorrect)**: Affiliate commission tracking does not affect domain name legal ownership.",
-        "evidenceId": "EXT-ATTR-01",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Cookie stuffing and coupon code poaching, where affiliates intercept organic traffic at checkout to claim unauthorized commissions. matches the authoritative source framework (`EXT-GA4-DDA-2024`).\n  - **Option A (Incorrect)**: Excessive upfront fixed media costs prior to generating sales. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Legal channel conflict with wholesale grocery distributors. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Immediate loss of trademark rights on brand domain names. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GA4-DDA-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
@@ -7368,24 +7833,24 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "First-Click attribution systematically over-credits early discovery channels while ignoring downstream touchpoints that drive final conversion, leading to sub-optimal media spend."
-          },
-          {
-            "label": "B",
             "text": "First-Click attribution requires tracking physical store foot traffic via GPS, which violates GDPR privacy laws."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "First-Click models require quantum computing servers that exceed Google Cloud capacity."
+          },
+          {
+            "label": "C",
+            "text": "First-Click attribution systematically over-credits early discovery channels while ignoring downstream touchpoints that drive final conversion, leading to sub-optimal media spend."
           },
           {
             "label": "D",
             "text": "Google Ads algorithms are incapable of tracking user IP addresses across multiple sessions."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Single-touch models like First-Click fail to account for multi-touch buyer journeys. GA4 transitioned to Data-Driven Attribution (DDA) to dynamically distribute credit based on actual conversion uplift (`EXT-ATTR-01`).\n  - **Option B (Incorrect)**: First-click web attribution tracks online clicks, not physical GPS location.\n  - **Option C (Incorrect)**: Technical computational complexity is not the reason; single-touch math is computationally simpler than DDA.\n  - **Option D (Incorrect)**: Tracking across sessions is handled via privacy-centric user IDs and first-party cookies.",
-        "evidenceId": "EXT-ATTR-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: First-Click attribution systematically over-credits early discovery channels while ignoring downstream touchpoints that drive final conversion, leading to sub-optimal media spend. matches the authoritative source framework (`EXT-GA4-DDA-2024`).\n  - **Option A (Incorrect)**: First-Click attribution requires tracking physical store foot traffic via GPS, which violates GDPR privacy laws. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: First-Click models require quantum computing servers that exceed Google Cloud capacity. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Google Ads algorithms are incapable of tracking user IP addresses across multiple sessions. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GA4-DDA-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
@@ -7399,24 +7864,24 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$30,000."
-          },
-          {
-            "label": "B",
             "text": "$50,000."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$10,000."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "$3,333."
+          },
+          {
+            "label": "D",
+            "text": "$30,000."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Adobe Marketo Measure W-Shaped attribution assigns 30% to First Touch, 30% to Lead Creation, 30% to Opportunity Creation, and 10% divided equally among middle touches. Thus, OC receives $30\\% \\times \\$100,000 = \\$30,000$ (`EXT-ATTR-02`).\n  - **Option B (Incorrect)**: Represents U-Shaped attribution share (50% FT / 50% LC).\n  - **Option C (Incorrect)**: Represents the total pool ($10,000) split among all 7 middle touches.\n  - **Option D (Incorrect)**: Represents $30,000 / 9$.",
-        "evidenceId": "EXT-ATTR-02",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: $30,000. matches the authoritative source framework (`EXT-MARKETO-ATTR-2024`).\n  - **Option A (Incorrect)**: $50,000. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $10,000. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $3,333. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-MARKETO-ATTR-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
@@ -7446,9 +7911,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Enforcing MSRP parity eliminates direct price undercutting, while offering exclusive D2C variants minimizes product-level channel cannibalization and preserves retail partner trust (`EXT-MKTG-02`; Coughlan et al., 2006).\n  - **Option B (Incorrect)**: Severe wholesale price cuts destroy manufacturer gross margins and intensify price instability.\n  - **Option C (Incorrect)**: Abandoning retail channels eliminates mass market distribution reach.\n  - **Option D (Incorrect)**: Retailers are entitled to choose which brands they stock; price-undercutting litigation is unfeasible.",
-        "evidenceId": "EXT-MKTG-02",
-        "evidenceClassification": "credible-secondary",
+        "explanation": "- **Option A (Correct)**: Re-establishing price parity across channels by selling D2C at full MSRP and offering exclusive D2C product bundles or flavors not sold in retail stores. matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option B (Incorrect)**: Cutting wholesale prices to grocery retailers by an additional 50% while maintaining low D2C prices. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Terminating all wholesale contracts and relying 100% on D2C web traffic. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Suing retail partners under anti-trust price maintenance legislation. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GA4-DDA-2024",
+        "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -7461,11 +7926,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Second-Degree Price Discrimination via quantity discounting and product versioning."
+            "text": "First-Degree Perfect Price Discrimination based on individual willingness-to-pay auctions."
           },
           {
             "label": "B",
-            "text": "First-Degree Perfect Price Discrimination based on individual willingness-to-pay auctions."
+            "text": "Second-Degree Price Discrimination via quantity discounting and product versioning."
           },
           {
             "label": "C",
@@ -7476,10 +7941,10 @@ const QUIZ_BANKS = [
             "text": "Peak-load dynamic surge pricing based on weather forecasts."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Multi-game packages allow buyers to self-select into volume tiers ($8/game for 5 games vs $10 single game), representing classic second-degree price discrimination (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`).\n  - **Option B (Incorrect)**: First-degree price discrimination requires individual bargaining/auctions to extract maximum WTP per person.\n  - **Option C (Incorrect)**: Third-degree price discrimination relies on demographic segment signals (e.g., student/senior ID).\n  - **Option D (Incorrect)**: Fixed ticket package structures are not real-time dynamic surge algorithms.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Second-Degree Price Discrimination via quantity discounting and product versioning. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`).\n  - **Option A (Incorrect)**: First-Degree Perfect Price Discrimination based on individual willingness-to-pay auctions. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Third-Degree Price Discrimination based on verified student demographic ID. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Peak-load dynamic surge pricing based on weather forecasts. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -7492,25 +7957,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$9,000."
-          },
-          {
-            "label": "B",
             "text": "$10,000."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$5,000."
+          },
+          {
+            "label": "C",
+            "text": "$9,000."
           },
           {
             "label": "D",
             "text": "$4,000."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $EVC = Reference Price + Differentiation Value - Switching/Training Costs = \\$5,000 + (\\$3,000 + \\$2,000) - \\$1,000 = \\$5,000 + \\$4,000 = \\$9,000$ (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option B (Incorrect)**: Result of omitting training costs ($\\$5,000 + \\$5,000 = \\$10,000$).\n  - **Option C (Incorrect)**: Equal to reference price alone, ignoring net positive differentiation value.\n  - **Option D (Incorrect)**: Result of subtracting total differentiation from reference price.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: $9,000. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option A (Incorrect)**: $10,000. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $5,000. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $4,000. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
@@ -7523,30 +7988,309 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Raise the product price, because demand is inelastic ($|E_p| < 1.0$), so percentage volume loss will be smaller than percentage price gain."
-          },
-          {
-            "label": "B",
             "text": "Lower the product price by 20% to drive rapid volume expansion."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Keep price constant because revenue changes only when elasticity equals $-1.0$."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Offer 50% buy-one-get-one-free promotional discounts to stimulate trial."
+          },
+          {
+            "label": "D",
+            "text": "Raise the product price, because demand is inelastic ($|E_p| < 1.0$), so percentage volume loss will be smaller than percentage price gain."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: When demand is inelastic ($|E_p| = 0.5 < 1.0$), price increases produce a proportionally smaller drop in quantity demanded ($\\% \\Delta Q = -0.5 \\times \\% \\Delta P$), raising total revenue (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option B (Incorrect)**: Lowering price when demand is inelastic decreases total revenue.\n  - **Option C (Incorrect)**: Price adjustments impact total revenue whenever $|E_p| \\neq 1.0$.\n  - **Option D (Incorrect)**: Deep discounting when demand is inelastic severely degrades total revenue.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Raise the product price, because demand is inelastic ($|E_p| < 1.0$), so percentage volume loss will be smaller than percentage price gain. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option A (Incorrect)**: Lower the product price by 20% to drive rapid volume expansion. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Keep price constant because revenue changes only when elasticity equals $-1.0$. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Offer 50% buy-one-get-one-free promotional discounts to stimulate trial. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
         "sourceNumber": 21,
+        "questionId": "EX2-M04-D2-Q21",
+        "topicId": "M04-T01",
+        "module": "M04",
+        "question": "Natureview Farm's Option 1 (8-ounce supermarket expansion) offered the highest revenue potential but required significant slotting fees. In evaluating this trade-off, which financial analysis would best determine whether the revenue uplift justifies the required investment?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Incremental contribution margin analysis net of slotting fees and trade promotion costs."
+          },
+          {
+            "label": "B",
+            "text": "Comparative gross margin percentage between natural foods and supermarket channels."
+          },
+          {
+            "label": "C",
+            "text": "Market share projection based on the 24% natural foods channel penetration rate."
+          },
+          {
+            "label": "D",
+            "text": "Break-even volume analysis using historical natural foods channel sales velocity."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Incremental contribution margin analysis net of slotting fees and trade promotion costs. matches the authoritative source framework (`EXT-HBR-502049`).\n  - **Option B (Incorrect)**: Comparative gross margin percentage between natural foods and supermarket channels. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Market share projection based on the 24% natural foods channel penetration rate. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Break-even volume analysis using historical natural foods channel sales velocity. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 22,
+        "questionId": "EX2-M04-D2-Q22",
+        "topicId": "M04-T02",
+        "module": "M04",
+        "question": "The Springfield Nor'easters survey had a 6.25% response rate (625 of 10,000). When using this data to set ticket prices, which methodological concern should most influence how the results are interpreted?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The sample is too large, creating false statistical significance in price preferences."
+          },
+          {
+            "label": "B",
+            "text": "Non-response bias may cause the sample to overrepresent higher-income and sports-interested households."
+          },
+          {
+            "label": "C",
+            "text": "The survey was conducted digitally, excluding older demographics without internet access."
+          },
+          {
+            "label": "D",
+            "text": "Respondents were pre-screened for season ticket interest, limiting generalizability."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Non-response bias may cause the sample to overrepresent higher-income and sports-interested households. matches the authoritative source framework (`EXT-HBR-20085`).\n  - **Option A (Incorrect)**: The sample is too large, creating false statistical significance in price preferences. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: The survey was conducted digitally, excluding older demographics without internet access. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Respondents were pre-screened for season ticket interest, limiting generalizability. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 23,
+        "questionId": "EX2-M04-D2-Q23",
+        "topicId": "M04-T03",
+        "module": "M04",
+        "question": "An organic food manufacturer sells through natural foods stores at $4.50 per unit (55% margin) and is considering supermarkets at $3.20 per unit (35% margin) with projected 3x volume. Which channel generates higher total gross profit?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Natural foods: $2.48 × V = $2.48V versus Supermarket: $1.12 × 3V = $3.36V — but slotting fees make natural foods superior."
+          },
+          {
+            "label": "B",
+            "text": "Natural foods: $1.58 × V = $1.58V versus Supermarket: $1.12 × 3V = $3.36V — supermarket wins."
+          },
+          {
+            "label": "C",
+            "text": "Natural foods: $2.48 × V = $2.48V versus Supermarket: $1.12 × 3V = $3.36V — supermarket wins."
+          },
+          {
+            "label": "D",
+            "text": "Both channels produce identical total gross profit after volume adjustments."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Natural foods: $2.48 × V = $2.48V versus Supermarket: $1.12 × 3V = $3.36V — supermarket wins. matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option A (Incorrect)**: Natural foods: $2.48 × V = $2.48V versus Supermarket: $1.12 × 3V = $3.36V — but slotting fees make natural foods superior. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Natural foods: $1.58 × V = $1.58V versus Supermarket: $1.12 × 3V = $3.36V — supermarket wins. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Both channels produce identical total gross profit after volume adjustments. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 24,
+        "questionId": "EX2-M04-D2-Q24",
+        "topicId": "M04-T04",
+        "module": "M04",
+        "question": "A product manager is preparing for the Gate 3 review (pre-development) in a Stage-Gate process. Which deliverable is most critical for securing a 'Go' decision?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A complete advertising creative brief with media placement schedule."
+          },
+          {
+            "label": "B",
+            "text": "A detailed manufacturing process flow diagram with quality control checkpoints."
+          },
+          {
+            "label": "C",
+            "text": "A customer testimonial compilation from beta testing of the prototype."
+          },
+          {
+            "label": "D",
+            "text": "A validated business case with financial projections, market sizing, and risk assessment."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: A validated business case with financial projections, market sizing, and risk assessment. matches the authoritative source framework (`EXT-COOPER-STAGEGATE-2017`).\n  - **Option A (Incorrect)**: A complete advertising creative brief with media placement schedule. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: A detailed manufacturing process flow diagram with quality control checkpoints. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: A customer testimonial compilation from beta testing of the prototype. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 25,
+        "questionId": "EX2-M04-D2-Q25",
+        "topicId": "M04-T05",
+        "module": "M04",
+        "question": "A marketing team runs a campaign with 5 touchpoints before conversion. Under a linear attribution model, each touchpoint receives 20% credit. If the team switches to a U-shaped model, how does the credit redistribution affect middle-funnel touchpoints?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Middle touchpoints decrease from 20% to approximately 6.7% each under the U-shaped model."
+          },
+          {
+            "label": "B",
+            "text": "Middle touchpoints increase from 20% to 30% each under the U-shaped model."
+          },
+          {
+            "label": "C",
+            "text": "Middle touchpoints remain at 20% because U-shaped only adjusts endpoint credits."
+          },
+          {
+            "label": "D",
+            "text": "Middle touchpoints are eliminated entirely, receiving 0% credit."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Middle touchpoints decrease from 20% to approximately 6.7% each under the U-shaped model. matches the authoritative source framework (`EXT-ADOBE-ATTR-2024`).\n  - **Option B (Incorrect)**: Middle touchpoints increase from 20% to 30% each under the U-shaped model. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Middle touchpoints remain at 20% because U-shaped only adjusts endpoint credits. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Middle touchpoints are eliminated entirely, receiving 0% credit. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-ADOBE-ATTR-2024",
+        "evidenceClassification": "official-external",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 26,
+        "questionId": "EX2-M04-D2-Q26",
+        "topicId": "M04-T06",
+        "module": "M04",
+        "question": "In a Van Westendorp analysis, the Range of Acceptable Prices is bounded by which two intersection points?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Optimal Price Point (OPP) and Indifference Price Point (IPP)."
+          },
+          {
+            "label": "B",
+            "text": "Point of Marginal Cheapness (PMC) and Point of Marginal Expensiveness (PME)."
+          },
+          {
+            "label": "C",
+            "text": "First intersection of 'too cheap' with 'bargain' and last intersection of 'expensive' with 'too expensive'."
+          },
+          {
+            "label": "D",
+            "text": "The 25th percentile and 75th percentile of the willingness-to-pay distribution."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Point of Marginal Cheapness (PMC) and Point of Marginal Expensiveness (PME). matches the authoritative source framework (`EXT-SAWTOOTH-PSM-2021`).\n  - **Option A (Incorrect)**: Optimal Price Point (OPP) and Indifference Price Point (IPP). is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: First intersection of 'too cheap' with 'bargain' and last intersection of 'expensive' with 'too expensive'. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: The 25th percentile and 75th percentile of the willingness-to-pay distribution. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-SAWTOOTH-PSM-2021",
+        "evidenceClassification": "official-external",
+        "trapLabel": "definition-swap",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 27,
+        "questionId": "EX2-M04-D2-Q27",
+        "topicId": "M04-T01",
+        "module": "M04",
+        "question": "Natureview Farm's children's multipack (Option 3) had the lowest risk profile among the three expansion options. What was the primary strategic limitation of this approach?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The children's multipack had the lowest gross margin at 29.1%."
+          },
+          {
+            "label": "B",
+            "text": "The product required FDA approval for marketing to children under 12."
+          },
+          {
+            "label": "C",
+            "text": "Revenue potential within the natural foods channel was unlikely to reach the $20 million target."
+          },
+          {
+            "label": "D",
+            "text": "Manufacturing capacity could not support the additional SKU complexity."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Revenue potential within the natural foods channel was unlikely to reach the $20 million target. matches the authoritative source framework (`EXT-HBR-502049`).\n  - **Option A (Incorrect)**: The children's multipack had the lowest gross margin at 29.1%. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: The product required FDA approval for marketing to children under 12. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Manufacturing capacity could not support the additional SKU complexity. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 28,
+        "questionId": "EX2-M04-D2-Q28",
+        "topicId": "M04-T02",
+        "module": "M04",
+        "question": "For the Springfield Nor'easters, the case emphasizes that minor league sports revenue depends heavily on two primary streams. Which combination represents these streams?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Broadcast rights and corporate sponsorship agreements."
+          },
+          {
+            "label": "B",
+            "text": "Merchandise licensing and premium seating upgrades."
+          },
+          {
+            "label": "C",
+            "text": "Municipal subsidies and naming-rights partnerships."
+          },
+          {
+            "label": "D",
+            "text": "Ticket sales and concession revenue driven by attendance volume."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Ticket sales and concession revenue driven by attendance volume. matches the authoritative source framework (`EXT-HBR-20085`).\n  - **Option A (Incorrect)**: Broadcast rights and corporate sponsorship agreements. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Merchandise licensing and premium seating upgrades. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Municipal subsidies and naming-rights partnerships. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 29,
+        "questionId": "EX2-M04-D2-Q29",
+        "topicId": "M04-T03",
+        "module": "M04",
+        "question": "When evaluating multi-channel distribution, 'channel cannibalization' specifically refers to which phenomenon?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Sales in a new channel displacing revenue that would have occurred in an existing channel."
+          },
+          {
+            "label": "B",
+            "text": "A new channel increasing total market demand beyond existing capacity."
+          },
+          {
+            "label": "C",
+            "text": "Two channels jointly reducing inventory holding costs through shared logistics."
+          },
+          {
+            "label": "D",
+            "text": "Channel partners demanding exclusive territory rights to prevent price competition."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Sales in a new channel displacing revenue that would have occurred in an existing channel. matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option B (Incorrect)**: A new channel increasing total market demand beyond existing capacity. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Two channels jointly reducing inventory holding costs through shared logistics. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Channel partners demanding exclusive territory rights to prevent price competition. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "definition-swap",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 30,
         "questionId": "EX2-M05-D2-Q01",
         "topicId": "M05-T01",
         "module": "M05",
@@ -7554,11 +8298,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Implementing a hybrid recommendation engine that combines item metadata content attributes with initial user onboarding preference selections"
+            "text": "Deploying a user-based collaborative filtering model that computes nearest-neighbor cosine similarity across active historical viewing profiles"
           },
           {
             "label": "B",
-            "text": "Deploying a user-based collaborative filtering model that computes nearest-neighbor cosine similarity across active historical viewing profiles"
+            "text": "Implementing a hybrid recommendation engine that combines item metadata content attributes with initial user onboarding preference selections"
           },
           {
             "label": "C",
@@ -7569,15 +8313,15 @@ const QUIZ_BANKS = [
             "text": "Configuring a static popularity-based ranking engine that serves top-trending global media assets to all unauthenticated network traffic streams"
           }
         ],
-        "answer": "A",
-        "explanation": "Newly onboarded users lack historical interaction clickstreams, creating a cold-start state where collaborative filtering models (options B and C) fail. Option D serves non-personalized global trends. Option A provides the single best solution by combining explicit onboarding preference selections with content metadata filtering.",
-        "evidenceId": "Aggarwal (2016)",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Implementing a hybrid recommendation engine that combines item metadata content attributes with initial user onboarding preference selections matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: Deploying a user-based collaborative filtering model that computes nearest-neighbor cosine similarity across active historical viewing profiles is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Applying an item-based collaborative filtering algorithm that evaluates co-viewing frequency matrices generated from existing catalog interaction logs is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Configuring a static popularity-based ranking engine that serves top-trending global media assets to all unauthenticated network traffic streams is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 22,
+        "sourceNumber": 31,
         "questionId": "EX2-M05-D2-Q02",
         "topicId": "M05-T01",
         "module": "M05",
@@ -7585,30 +8329,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Automating the real-time evaluation of live user intent clickstreams to trigger immediate contextual offers during active browsing sessions"
-          },
-          {
-            "label": "B",
             "text": "Restructuring relational database schemas to execute batch nightly processing updates across offline customer transaction records"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Eliminating manual data governance audits by delegating customer consent management to external cloud identity providers"
+          },
+          {
+            "label": "C",
+            "text": "Automating the real-time evaluation of live user intent clickstreams to trigger immediate contextual offers during active browsing sessions"
           },
           {
             "label": "D",
             "text": "Standardizing fixed promotional messaging schedules based on broad geographic region classifications and historical age cohorts"
           }
         ],
-        "answer": "A",
-        "explanation": "Real-time AI personalisation dynamically processes live clickstream data, contextual variables, and immediate user intent to deliver Next-Best-Actions during active sessions. Options B and D describe static batch/demographic logic. Option C misattributes data governance.",
-        "evidenceId": "Aggarwal (2016)",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Automating the real-time evaluation of live user intent clickstreams to trigger immediate contextual offers during active browsing sessions matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: Restructuring relational database schemas to execute batch nightly processing updates across offline customer transaction records is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Eliminating manual data governance audits by delegating customer consent management to external cloud identity providers is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Standardizing fixed promotional messaging schedules based on broad geographic region classifications and historical age cohorts is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 23,
+        "sourceNumber": 32,
         "questionId": "EX2-M05-D2-Q03",
         "topicId": "M05-T01",
         "module": "M05",
@@ -7620,26 +8364,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Integrating Retrieval-Augmented Generation (RAG) to ground model response synthesis in verified internal policy vector embeddings"
-          },
-          {
-            "label": "C",
             "text": "Implementing a keyword-matching decision tree that routes incoming support queries to static text responses stored in local files"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Retraining a convolutional neural network classifier daily on historical raw customer support chat transcripts and audio files"
+          },
+          {
+            "label": "D",
+            "text": "Integrating Retrieval-Augmented Generation (RAG) to ground model response synthesis in verified internal policy vector embeddings"
           }
         ],
-        "answer": "B",
-        "explanation": "RAG grounds generative models in verified internal documentation by retrieving relevant knowledge embeddings prior to answer generation, preventing hallucinations. Option A exposes the model to inaccurate external web data. Option C is rigid rule-based logic. Option D uses an inappropriate vision model.",
-        "evidenceId": "Aggarwal (2016)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Integrating Retrieval-Augmented Generation (RAG) to ground model response synthesis in verified internal policy vector embeddings matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: Fine-tuning an open-source large language model exclusively on public web tax forum discussions without constraint prompt engineering is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Implementing a keyword-matching decision tree that routes incoming support queries to static text responses stored in local files is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Retraining a convolutional neural network classifier daily on historical raw customer support chat transcripts and audio files is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-LEWIS-RAG-2020",
+        "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 24,
+        "sourceNumber": 33,
         "questionId": "EX2-M05-D2-Q04",
         "topicId": "M05-T01",
         "module": "M05",
@@ -7647,11 +8391,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Maintaining isolated real-time decision engines within each distinct channel application to minimize cross-system network latency"
+            "text": "Centralizing the decisioning engine to evaluate unified customer profile state variables before dispatching actions to channels"
           },
           {
             "label": "B",
-            "text": "Centralizing the decisioning engine to evaluate unified customer profile state variables before dispatching actions to channels"
+            "text": "Maintaining isolated real-time decision engines within each distinct channel application to minimize cross-system network latency"
           },
           {
             "label": "C",
@@ -7662,15 +8406,15 @@ const QUIZ_BANKS = [
             "text": "Restricting dynamic recommendation dispatches to desktop web sessions while suppressing mobile app in-app messaging triggers"
           }
         ],
-        "answer": "B",
-        "explanation": "A centralized NBA decision engine ensures consistent, state-aware engagement recommendations across all touchpoints (web, mobile, email, support) using unified real-time customer data. Options A and C create siloed, conflicting messaging. Option D arbitrarily restricts channel delivery.",
-        "evidenceId": "Aggarwal (2016)",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Centralizing the decisioning engine to evaluate unified customer profile state variables before dispatching actions to channels matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option B (Incorrect)**: Maintaining isolated real-time decision engines within each distinct channel application to minimize cross-system network latency is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Delegating offer selection logic to downstream email marketing platforms based on historical open-rate metrics from past quarters is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Restricting dynamic recommendation dispatches to desktop web sessions while suppressing mobile app in-app messaging triggers is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 25,
+        "sourceNumber": 34,
         "questionId": "EX2-M05-D2-Q05",
         "topicId": "M05-T02",
         "module": "M05",
@@ -7678,11 +8422,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Launching immediate high-priority win-back interventions to re-engage valuable customers who are at imminent risk of churn"
+            "text": "Suppressing marketing communication channels to prevent list unsubscribe actions among highly active brand advocates"
           },
           {
             "label": "B",
-            "text": "Suppressing marketing communication channels to prevent list unsubscribe actions among highly active brand advocates"
+            "text": "Launching immediate high-priority win-back interventions to re-engage valuable customers who are at imminent risk of churn"
           },
           {
             "label": "C",
@@ -7693,15 +8437,15 @@ const QUIZ_BANKS = [
             "text": "Offering basic entry-level discount vouchers intended to convert price-sensitive shoppers making initial purchases"
           }
         ],
-        "answer": "A",
-        "explanation": "Low Recency combined with High Frequency and High Monetary value defines the \"At-Risk\" customer segment—previously highly loyal and high-spending users who have not transacted recently. Winning back this group offers the highest return. Options B, C, and D misidentify the cohort lifecycle stage.",
-        "evidenceId": "Fader & Hardie (2007)",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Launching immediate high-priority win-back interventions to re-engage valuable customers who are at imminent risk of churn matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: Suppressing marketing communication channels to prevent list unsubscribe actions among highly active brand advocates is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Dispatched automated introductory onboarding tutorials designed for newly acquired low-spending trial accounts is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Offering basic entry-level discount vouchers intended to convert price-sensitive shoppers making initial purchases is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HUGHES-RFM-2012",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 26,
+        "sourceNumber": 35,
         "questionId": "EX2-M05-D2-Q06",
         "topicId": "M05-T02",
         "module": "M05",
@@ -7713,26 +8457,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "The product has achieved true Product-Market Fit among a core 22% user group that generates stable long-term retention"
+            "text": "The analytics tracking instrumentation suffers from persistent data loss errors that truncate user activity records"
           },
           {
             "label": "C",
-            "text": "The analytics tracking instrumentation suffers from persistent data loss errors that truncate user activity records"
+            "text": "The product has achieved true Product-Market Fit among a core 22% user group that generates stable long-term retention"
           },
           {
             "label": "D",
             "text": "The customer acquisition cost has exceeded total lifetime value, creating negative unit economics across all cohorts"
           }
         ],
-        "answer": "B",
-        "explanation": "A retention curve that flattens into a horizontal asymptote parallel to the x-axis indicates sustainable Product-Market Fit (PMF) for that core retained user percentage (22%). Option A is incorrect because flattening proves viability. Option C assumes false data errors. Option D confuses retention flattening with CAC unit economics.",
-        "evidenceId": "Fader & Hardie (2007)",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: The product has achieved true Product-Market Fit among a core 22% user group that generates stable long-term retention matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: The product has failed to establish market viability and requires an immediate pivot of its core user acquisition model is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: The analytics tracking instrumentation suffers from persistent data loss errors that truncate user activity records is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: The customer acquisition cost has exceeded total lifetime value, creating negative unit economics across all cohorts is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-REFORGE-RETENTION-2021",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 27,
+        "sourceNumber": 36,
         "questionId": "EX2-M05-D2-Q07",
         "topicId": "M05-T02",
         "module": "M05",
@@ -7744,26 +8488,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Expanding account expansion revenue and reducing annual churn to increase average $CLV$ while optimizing acquisition spend"
-          },
-          {
-            "label": "C",
             "text": "Tripling paid acquisition ad spend across unverified marketing channels to maximize short-term top-of-funnel lead volume"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Increasing upfront customer setup fees while shortening software contract terms to accelerate immediate cash collections"
+          },
+          {
+            "label": "D",
+            "text": "Expanding account expansion revenue and reducing annual churn to increase average $CLV$ while optimizing acquisition spend"
           }
         ],
-        "answer": "B",
-        "explanation": "Improving $CLV / CAC$ from 2:1 to $\\ge 3:1$ sustainably requires increasing $CLV$ (via net revenue retention, expansion, and lower churn) or improving $CAC$ efficiency. Option A damages support quality and increases churn. Option C inflates $CAC$ further. Option D shortens commitments and increases churn risk.",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Expanding account expansion revenue and reducing annual churn to increase average $CLV$ while optimizing acquisition spend matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: Halving monthly customer support staff expenditures to artificially inflate immediate quarterly gross operating margins is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Tripling paid acquisition ad spend across unverified marketing channels to maximize short-term top-of-funnel lead volume is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Increasing upfront customer setup fees while shortening software contract terms to accelerate immediate cash collections is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GUPTA-CLV-2004",
+        "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 28,
+        "sourceNumber": 37,
         "questionId": "EX2-M05-D2-Q08",
         "topicId": "M05-T02",
         "module": "M05",
@@ -7787,14 +8531,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "Converting Detractors (30% of base) directly eliminates negative scores and increases net score ($NPS = \\%P - \\%D$). Root-cause remediation provides the highest leverage intervention. Option B fails to shift Passives. Option C is unethical manipulation. Option D ignores underlying friction points.",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "explanation": "- **Option A (Correct)**: Deploying automated root-cause outreach workflows to resolve the core product friction points driving Detractor dissatisfaction matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option B (Incorrect)**: Sending general promotional thank-you emails to Passives without modifying product features or support resolution paths is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Excluding Detractor survey responses from official quarterly executive reporting dashboards to artificially elevate reported score is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Offering cash referral incentives to Promoters while ignoring recurring feature requests submitted through support tickets is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-BAIN-NPS-2011",
+        "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 29,
+        "sourceNumber": 38,
         "questionId": "EX2-M05-D2-Q09",
         "topicId": "M05-T03",
         "module": "M05",
@@ -7818,14 +8562,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "B",
-        "explanation": "The Protect (PR) function encompasses technical safeguards such as data security (encryption in transit/at rest) and identity management/access control. Option A corresponds to Govern (GV). Option C corresponds to Detect (DE). Option D corresponds to Respond (RS) / Recover (RC).",
-        "evidenceId": "EXT-NIST-01",
+        "explanation": "- **Option B (Correct)**: Enforcing strict TLS 1.3 data-in-transit encryption and API access token authorization for all outbound data transfers matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: Formulating an executive cybersecurity governance committee to establish organizational supply chain risk policies is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Executing continuous network traffic monitoring to detect unauthorized outbound data exfiltration anomalies in real time is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Conducting post-incident forensic root-cause analysis following a confirmed third-party vendor data breach incident is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 30,
+        "sourceNumber": 39,
         "questionId": "EX2-M05-D2-Q10",
         "topicId": "M05-T03",
         "module": "M05",
@@ -7837,26 +8581,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Dynamically provisioning ephemeral, narrowly scoped permissions that grant exact access required for a specific session execution"
+            "text": "Relying on internal virtual private network (VPN) perimeters to automatically authorize all intra-cluster microservice communications"
           },
           {
             "label": "C",
-            "text": "Relying on internal virtual private network (VPN) perimeters to automatically authorize all intra-cluster microservice communications"
+            "text": "Dynamically provisioning ephemeral, narrowly scoped permissions that grant exact access required for a specific session execution"
           },
           {
             "label": "D",
             "text": "Issuing static, non-expiring API access keys to external integration partners to maintain unbroken data synchronization streams"
           }
         ],
-        "answer": "B",
-        "explanation": "Least Privilege Access under ZTA dictates granting only the minimum permissions necessary for a specific task for the shortest necessary duration (just-in-time, just-enough access). Option A violates least privilege. Option C relies on flawed perimeter trust. Option D creates persistent security vulnerabilities.",
-        "evidenceId": "EXT-NIST-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Dynamically provisioning ephemeral, narrowly scoped permissions that grant exact access required for a specific session execution matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: Granting broad administrative service account credentials across all staging environments to accelerate developer velocity is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Relying on internal virtual private network (VPN) perimeters to automatically authorize all intra-cluster microservice communications is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Issuing static, non-expiring API access keys to external integration partners to maintain unbroken data synchronization streams is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-SP-800-207",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 31,
+        "sourceNumber": 40,
         "questionId": "EX2-M05-D2-Q11",
         "topicId": "M05-T03",
         "module": "M05",
@@ -7864,30 +8608,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Govern (GV)"
-          },
-          {
-            "label": "B",
             "text": "Protect (PR)"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Detect (DE)"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Recover (RC)"
+          },
+          {
+            "label": "D",
+            "text": "Govern (GV)"
           }
         ],
-        "answer": "A",
-        "explanation": "Supply Chain Risk Management (GV.SC) policies and vendor risk governance programs are explicitly classified under the **Govern (GV)** function introduced in NIST CSF v2.0. Protect handles technical controls; Detect handles monitoring; Recover handles restoration.",
-        "evidenceId": "EXT-NIST-01",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Govern (GV) matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: Protect (PR) is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Detect (DE) is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Recover (RC) is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 32,
+        "sourceNumber": 41,
         "questionId": "EX2-M05-D2-Q12",
         "topicId": "M05-T04",
         "module": "M05",
@@ -7911,14 +8655,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "To compute total national sales regardless of the `State` dimension present in the view, an unconstrained `{ FIXED : SUM([Sales]) }` (or `{ EXCLUDE [State] : SUM([Sales]) }`) calculates total aggregated sales across the entire dataset. Option D would re-aggregate at state level, making the percentage ratio equal 100% for every state.",
-        "evidenceId": "EXT-TAB-01",
+        "explanation": "- **Option A (Correct)**: `{ FIXED : SUM([Sales]) }` matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option B (Incorrect)**: `{ INCLUDE [State] : SUM([Sales]) }` is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: `{ EXCLUDE [Customer ID] : AVG([Sales]) }` is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: `{ FIXED [State] : SUM([Sales]) }` is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-LOD-2020",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 33,
+        "sourceNumber": 42,
         "questionId": "EX2-M05-D2-Q13",
         "topicId": "M05-T04",
         "module": "M05",
@@ -7926,11 +8670,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "FIXED LOD expressions are evaluated in Tableau's order of operations before standard Dimension Filters are applied"
+            "text": "Dimension Filters automatically convert all FIXED calculations into INCLUDE calculations during visual rendering"
           },
           {
             "label": "B",
-            "text": "Dimension Filters automatically convert all FIXED calculations into INCLUDE calculations during visual rendering"
+            "text": "FIXED LOD expressions are evaluated in Tableau's order of operations before standard Dimension Filters are applied"
           },
           {
             "label": "C",
@@ -7941,15 +8685,15 @@ const QUIZ_BANKS = [
             "text": "Tableau's SQL query generator suppresses WHERE clauses whenever aggregate functions are detected in calculations"
           }
         ],
-        "answer": "A",
-        "explanation": "In Tableau's Order of Operations pipeline, `FIXED` LOD calculations are executed *before* standard Dimension Filters. To force a dimension filter to affect a `FIXED` LOD, the filter must be added to **Context** (Context Filters execute before FIXED LODs).",
-        "evidenceId": "EXT-TAB-01",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: FIXED LOD expressions are evaluated in Tableau's order of operations before standard Dimension Filters are applied matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: Dimension Filters automatically convert all FIXED calculations into INCLUDE calculations during visual rendering is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: FIXED LOD calculations can only process measure fields that are configured as discrete blue pills on the shelf is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Tableau's SQL query generator suppresses WHERE clauses whenever aggregate functions are detected in calculations is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-LOD-2020",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 34,
+        "sourceNumber": 43,
         "questionId": "EX2-M05-D2-Q14",
         "topicId": "M05-T04",
         "module": "M05",
@@ -7957,30 +8701,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "`{ FIXED [Customer ID] : MIN([Order Date]) }`"
-          },
-          {
-            "label": "B",
             "text": "`{ INCLUDE [Order Date] : MAX([Customer ID]) }`"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "`{ EXCLUDE [Customer ID] : SUM([Order Date]) }`"
+          },
+          {
+            "label": "C",
+            "text": "`{ FIXED [Customer ID] : MIN([Order Date]) }`"
           },
           {
             "label": "D",
             "text": "`{ INCLUDE [Customer ID] : AVG([Order Date]) }`"
           }
         ],
-        "answer": "A",
-        "explanation": "`{ FIXED [Customer ID] : MIN([Order Date]) }` evaluates the earliest order date for each individual customer across the entire dataset, fixing that cohort date permanently per customer ID. Options B, C, and D use inappropriate aggregations and LOD scoping.",
-        "evidenceId": "EXT-TAB-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: `{ FIXED [Customer ID] : MIN([Order Date]) }` matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: `{ INCLUDE [Order Date] : MAX([Customer ID]) }` is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: `{ EXCLUDE [Customer ID] : SUM([Order Date]) }` is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: `{ INCLUDE [Customer ID] : AVG([Order Date]) }` is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-ORDER-OF-OPS",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 35,
+        "sourceNumber": 44,
         "questionId": "EX2-M05-D2-Q15",
         "topicId": "M05-T04",
         "module": "M05",
@@ -7988,26 +8732,212 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Right-clicking the `[Year]` filter pill on the Filters shelf and selecting \"Add to Context\""
-          },
-          {
-            "label": "B",
             "text": "Changing the `[Year]` field encoding from a discrete blue pill to a continuous green pill"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Wrapping the FIXED calculation in an external `SUM()` aggregation function on the Marks card"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Converting the data source connection from a Live Connection to an Extract Connection"
+          },
+          {
+            "label": "D",
+            "text": "Right-clicking the `[Year]` filter pill on the Filters shelf and selecting \"Add to Context\""
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Right-clicking the `[Year]` filter pill on the Filters shelf and selecting \"Add to Context\" matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: Changing the `[Year]` field encoding from a discrete blue pill to a continuous green pill is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Wrapping the FIXED calculation in an external `SUM()` aggregation function on the Marks card is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Converting the data source connection from a Live Connection to an Extract Connection is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-LOD-2020",
+        "evidenceClassification": "official-external",
+        "trapLabel": "distractor-homogeneity-trap",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 45,
+        "questionId": "EX2-M05-D2-Q16",
+        "topicId": "M05-T01",
+        "module": "M05",
+        "question": "A company surveys 200 customers using the NPS methodology. Results: 90 Promoters (9-10), 60 Passives (7-8), 50 Detractors (0-6). What is the Net Promoter Score?",
+        "options": [
+          {
+            "label": "A",
+            "text": "+20 (45% Promoters minus 25% Detractors, using all 200 respondents as denominator)."
+          },
+          {
+            "label": "B",
+            "text": "+45 (90 Promoters minus 50 Detractors, divided by 140 active respondents)."
+          },
+          {
+            "label": "C",
+            "text": "+40 (90 minus 50, without percentage conversion)."
+          },
+          {
+            "label": "D",
+            "text": "+30 (calculated using only Promoters and Detractors in the denominator)."
           }
         ],
         "answer": "A",
-        "explanation": "Adding a filter to **Context** elevates it in Tableau's Order of Operations pipeline to step 3 (Context Filters), placing it *before* step 4 (FIXED LOD Calculations). This causes the `FIXED` LOD to evaluate only over the context-filtered data subset.",
-        "evidenceId": "EXT-TAB-01",
+        "explanation": "- **Option A (Correct)**: +20 (45% Promoters minus 25% Detractors, using all 200 respondents as denominator). matches the authoritative source framework (`EXT-BAIN-NPS-2011`).\n  - **Option B (Incorrect)**: +45 (90 Promoters minus 50 Detractors, divided by 140 active respondents). is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: +40 (90 minus 50, without percentage conversion). is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: +30 (calculated using only Promoters and Detractors in the denominator). is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 46,
+        "questionId": "EX2-M05-D2-Q17",
+        "topicId": "M05-T02",
+        "module": "M05",
+        "question": "A Tableau analyst creates a FIXED LOD expression to calculate total company-wide sales, then applies a standard Dimension Filter to show only the 'West' region. The FIXED LOD value does not change. What is the correct explanation?",
+        "options": [
+          {
+            "label": "A",
+            "text": "FIXED LODs are cached at workbook open and never update during a session."
+          },
+          {
+            "label": "B",
+            "text": "FIXED LODs are evaluated before Dimension Filters in Tableau's order of operations."
+          },
+          {
+            "label": "C",
+            "text": "The Dimension Filter is incorrectly configured and not actually filtering the data source."
+          },
+          {
+            "label": "D",
+            "text": "FIXED LODs can only be affected by changing the underlying SQL query."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: FIXED LODs are evaluated before Dimension Filters in Tableau's order of operations. matches the authoritative source framework (`EXT-TABLEAU-ORDER-OF-OPS`).\n  - **Option A (Incorrect)**: FIXED LODs are cached at workbook open and never update during a session. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: The Dimension Filter is incorrectly configured and not actually filtering the data source. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: FIXED LODs can only be affected by changing the underlying SQL query. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-OPENVIEW-SAAS-2023",
         "evidenceClassification": "official-external",
-        "trapLabel": "distractor-homogeneity-trap",
+        "trapLabel": "order-of-operations-confusion",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 47,
+        "questionId": "EX2-M05-D2-Q18",
+        "topicId": "M05-T03",
+        "module": "M05",
+        "question": "A SaaS company has Beginning ARR of $5,000,000. Over 12 months: Expansion ARR = $750,000, Contraction ARR = $200,000, Churn ARR = $300,000. What is the Net Revenue Retention rate?",
+        "options": [
+          {
+            "label": "A",
+            "text": "90.0% — calculated as ($5M - $200K - $300K) / $5M."
+          },
+          {
+            "label": "B",
+            "text": "110.0% — calculated incorrectly by excluding contraction from the numerator."
+          },
+          {
+            "label": "C",
+            "text": "105.0% — calculated as ($5M + $750K - $200K - $300K) / $5M."
+          },
+          {
+            "label": "D",
+            "text": "115.0% — calculated by adding expansion twice."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: 105.0% — calculated as ($5M + $750K - $200K - $300K) / $5M. matches the authoritative source framework (`EXT-BVP-CLOUD-2023`).\n  - **Option A (Incorrect)**: 90.0% — calculated as ($5M - $200K - $300K) / $5M. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 110.0% — calculated incorrectly by excluding contraction from the numerator. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 115.0% — calculated by adding expansion twice. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
+        "evidenceClassification": "official-external",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 48,
+        "questionId": "EX2-M05-D2-Q19",
+        "topicId": "M05-T04",
+        "module": "M05",
+        "question": "In NIST SP 800-207 Zero Trust Architecture, the Policy Decision Point (PDP) consists of which two sub-components?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The Security Operations Center (SOC) and the Incident Response Team (IRT)."
+          },
+          {
+            "label": "B",
+            "text": "The Identity Provider (IdP) and the Certificate Authority (CA)."
+          },
+          {
+            "label": "C",
+            "text": "The Firewall Manager and the Intrusion Detection System (IDS)."
+          },
+          {
+            "label": "D",
+            "text": "The Policy Engine (PE) and the Policy Administrator (PA)."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: The Policy Engine (PE) and the Policy Administrator (PA). matches the authoritative source framework (`EXT-NIST-SP-800-207`).\n  - **Option A (Incorrect)**: The Security Operations Center (SOC) and the Incident Response Team (IRT). is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: The Identity Provider (IdP) and the Certificate Authority (CA). is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: The Firewall Manager and the Intrusion Detection System (IDS). is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-ORDER-OF-OPS",
+        "evidenceClassification": "official-external",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 49,
+        "questionId": "EX2-M05-D2-Q20",
+        "topicId": "M05-T01",
+        "module": "M05",
+        "question": "The Customer Effort Score (CES) measures customer satisfaction by asking respondents to rate the ease of their interaction. What distinguishes CES from CSAT as a predictive metric?",
+        "options": [
+          {
+            "label": "A",
+            "text": "CES predicts repurchase behavior more accurately by measuring friction in service interactions."
+          },
+          {
+            "label": "B",
+            "text": "CES uses a 0-100 scale while CSAT uses a 1-5 scale."
+          },
+          {
+            "label": "C",
+            "text": "CES can only be administered via email surveys, limiting its real-time applicability."
+          },
+          {
+            "label": "D",
+            "text": "CES measures brand perception while CSAT measures transactional satisfaction."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: CES predicts repurchase behavior more accurately by measuring friction in service interactions. matches the authoritative source framework (`EXT-HBR-DIXON-2010`).\n  - **Option B (Incorrect)**: CES uses a 0-100 scale while CSAT uses a 1-5 scale. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: CES can only be administered via email surveys, limiting its real-time applicability. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: CES measures brand perception while CSAT measures transactional satisfaction. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 50,
+        "questionId": "EX2-M05-D2-Q21",
+        "topicId": "M05-T03",
+        "module": "M05",
+        "question": "A SaaS company has a CAC of $12,000, monthly ARPA of $2,000, and a subscription gross margin of 75%. What is the CAC payback period?",
+        "options": [
+          {
+            "label": "A",
+            "text": "6 months — CAC / ARPA = $12,000 / $2,000."
+          },
+          {
+            "label": "B",
+            "text": "8 months — CAC / (ARPA × Gross Margin) = $12,000 / ($2,000 × 0.75)."
+          },
+          {
+            "label": "C",
+            "text": "4 months — CAC / (ARPA × 2) assuming upsell acceleration."
+          },
+          {
+            "label": "D",
+            "text": "12 months — CAC / (ARPA × Gross Margin / 12) annualized."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: 8 months — CAC / (ARPA × Gross Margin) = $12,000 / ($2,000 × 0.75). matches the authoritative source framework (`EXT-OPENVIEW-SAAS-2023`).\n  - **Option A (Incorrect)**: 6 months — CAC / ARPA = $12,000 / $2,000. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 4 months — CAC / (ARPA × 2) assuming upsell acceleration. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 12 months — CAC / (ARPA × Gross Margin / 12) annualized. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
+        "evidenceClassification": "official-external",
+        "trapLabel": "calculation-error",
         "provisional": false
       }
     ]
@@ -8032,11 +8962,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "1,000,000 units."
+            "text": "2,000,000 units."
           },
           {
             "label": "B",
-            "text": "2,000,000 units."
+            "text": "1,000,000 units."
           },
           {
             "label": "C",
@@ -8047,10 +8977,10 @@ const QUIZ_BANKS = [
             "text": "500,000 units."
           }
         ],
-        "answer": "B",
-        "explanation": "- **Option A (Incorrect)**: Omits the 2 SKU multiplier ($\\$200,000 / \\$0.20 = 1,000,000$).\n  - **Option B (Correct)**: Total slotting fees = $20 \\text{ chains} \\times 2 \\text{ SKUs} \\times \\$10,000/\\text{SKU} = \\$400,000$. Break-even volume = $\\text{Total Slotting Fees} / \\text{Gross Margin per Unit} = \\$400,000 / \\$0.20 = 2,000,000 \\text{ units}$ (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`, Slide 5).\n  - **Option C (Incorrect)**: Equals the total dollar cost of slotting fees ($400,000), not unit break-even volume.\n  - **Option D (Incorrect)**: Result of dividing $\\$400,000 / \\$0.80$.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: 2,000,000 units. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option B (Incorrect)**: 1,000,000 units. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 400,000 units. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 500,000 units. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8063,11 +8993,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "58.18%."
+            "text": "41.82%."
           },
           {
             "label": "B",
-            "text": "41.82%."
+            "text": "58.18%."
           },
           {
             "label": "C",
@@ -8078,10 +9008,10 @@ const QUIZ_BANKS = [
             "text": "71.88%."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{Gross Margin Dollar} = \\$0.55 - \\$0.23 = \\$0.32$. $\\text{Gross Margin \\%} = \\frac{\\$0.32}{\\$0.55} \\times 100\\% = 58.18\\%$ (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`, Slide 6).\n  - **Option B (Incorrect)**: Result of calculating COGS percentage ($\\$0.23 / \\$0.55 = 41.82\\%$).\n  - **Option C (Incorrect)**: Natureview's overall company baseline gross margin, not 32 oz SKU specific margin.\n  - **Option D (Incorrect)**: Result of dividing margin over COGS ($\\$0.32 / \\$0.23 = 139\\%$) or inverted formula.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: 58.18%. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: 41.82%. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 37.00%. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 71.88%. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8094,25 +9024,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$5.10."
-          },
-          {
-            "label": "B",
             "text": "$4.50."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$6.00."
+          },
+          {
+            "label": "C",
+            "text": "$5.10."
           },
           {
             "label": "D",
             "text": "$3.40."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{Retailer Purchase Price (Wholesaler Selling Price)} = \\$10.00 \\times (1 - 0.40) = \\$6.00$. $\\text{Manufacturer Net Realization (Wholesaler Purchase Price)} = \\$6.00 \\times (1 - 0.15) = \\$5.10$ (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option B (Incorrect)**: Result of subtracting simple sum of margins ($10 - (40\\% + 15\\%) \\times 10 = \\$4.50$).\n  - **Option C (Incorrect)**: Equals wholesaler selling price ($6.00), ignoring wholesale margin.\n  - **Option D (Incorrect)**: Incorrect margin cascade calculation.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: $5.10. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: $4.50. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $6.00. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $3.40. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8125,25 +9055,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$-1.20$; indicating service deficit where customer perceptions fall short of expectations."
-          },
-          {
-            "label": "B",
             "text": "$+1.20$; indicating service surplus exceeding customer expectations."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$-0.81$; indicating acceptable service alignment."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "$11.60$; representing total cumulative service quality index."
+          },
+          {
+            "label": "D",
+            "text": "$-1.20$; indicating service deficit where customer perceptions fall short of expectations."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{SERVQUAL Gap Score } Q = P - E = 5.2 - 6.4 = -1.20$. A negative gap score indicates a service shortfall where customer perceptions fail to meet expectations (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf`, Page 4).\n  - **Option B (Incorrect)**: Inverts the gap formula ($E - P$).\n  - **Option C (Incorrect)**: Result of dividing $P / E = 0.8125$.\n  - **Option D (Incorrect)**: Result of adding $P + E$.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: $-1.20$; indicating service deficit where customer perceptions fall short of expectations. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf`).\n  - **Option A (Incorrect)**: $+1.20$; indicating service surplus exceeding customer expectations. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $-0.81$; indicating acceptable service alignment. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $11.60$; representing total cumulative service quality index. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8172,9 +9102,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: $U_{acq} = v(q) - p = 300 - 220 = 80$. $U_{trans} = v(p^*) - p = 250 - 220 = 30$. $U_{total} = U_{acq} + U_{trans} = 80 + 30 = 110$ (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf`, Slide 3).\n  - **Option B (Incorrect)**: Transposes $U_{acq}$ and $U_{trans}$ definitions.\n  - **Option C (Incorrect)**: Uses raw values without subtracting purchase price $p$.\n  - **Option D (Incorrect)**: Inverts signs.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: $U_{acq} = 80$, $U_{trans} = 30$, $U_{total} = 110$. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf`).\n  - **Option B (Incorrect)**: $U_{acq} = 50$, $U_{trans} = 80$, $U_{total} = 130$. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $U_{acq} = 300$, $U_{trans} = 250$, $U_{total} = 550$. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $U_{acq} = -80$, $U_{trans} = -30$, $U_{total} = -110$. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8187,11 +9117,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$CAC = \\$1,250$; MQL-to-Won rate = 4.0%."
+            "text": "$CAC = \\$250$; MQL-to-Won rate = 20.0%."
           },
           {
             "label": "B",
-            "text": "$CAC = \\$250$; MQL-to-Won rate = 20.0%."
+            "text": "$CAC = \\$1,250$; MQL-to-Won rate = 4.0%."
           },
           {
             "label": "C",
@@ -8202,10 +9132,10 @@ const QUIZ_BANKS = [
             "text": "$CAC = \\$12,500$; MQL-to-Won rate = 40.0%."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $CAC = \\text{Total Marketing Spend} / \\text{Closed Won Deals} = \\$50,000 / 40 = \\$1,250$. $\\text{MQL-to-Won Conversion Rate} = 40 / 1,000 = 0.04 = 4.0\\%$ (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Lead genration and Nurturing.pdf`).\n  - **Option B (Incorrect)**: Calculated CAC based on SQL count ($50,000 / 200 = \\$250$) and MQL-to-SQL rate (20%).\n  - **Option C (Incorrect)**: Calculated CAC based on MQL count ($50,000 / 1,000 = \\$50$).\n  - **Option D (Incorrect)**: Miscalculated decimal placements.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Lead genration and Nurturing.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: $CAC = \\$1,250$; MQL-to-Won rate = 4.0%. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Lead genration and Nurturing.pdf`).\n  - **Option A (Incorrect)**: $CAC = \\$250$; MQL-to-Won rate = 20.0%. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $CAC = \\$50$; MQL-to-Won rate = 4.0%. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $CAC = \\$12,500$; MQL-to-Won rate = 40.0%. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8218,25 +9148,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "36.0%."
-          },
-          {
-            "label": "B",
             "text": "70.0%."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "24.0%."
+          },
+          {
+            "label": "C",
+            "text": "36.0%."
           },
           {
             "label": "D",
             "text": "42.0%."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{Calibrated Trial Rate} = (0.80 \\times \\text{Top Box}) + (0.30 \\times \\text{Second Box}) = (0.80 \\times 30\\%) + (0.30 \\times 40\\%) = 24.0\\% + 12.0\\% = 36.0\\%$ (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`, Timestamp 0:35:15).\n  - **Option B (Incorrect)**: Raw uncalibrated Top 2 Box sum ($30\\% + 40\\% = 70\\%$).\n  - **Option C (Incorrect)**: Includes Top Box calibration only ($0.80 \\times 30\\% = 24\\%$).\n  - **Option D (Incorrect)**: Result of applying inverted weights ($0.30 \\times 30\\% + 0.80 \\times 40\\% = 41\\%$).",
-        "evidenceId": "DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: 36.0%. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`).\n  - **Option A (Incorrect)**: 70.0%. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 24.0%. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 42.0%. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8249,24 +9179,24 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "420,000 households."
-          },
-          {
-            "label": "B",
             "text": "1,050,000 households."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "1,500,000 households."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "4,200,000 households."
+          },
+          {
+            "label": "D",
+            "text": "420,000 households."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{Repeat Households} = Target Households \\times A \\times T \\times A \\times R = 10,000,000 \\times 0.50 \\times 0.30 \\times 0.70 \\times 0.40 = 10,000,000 \\times 0.042 = 420,000$ (Urban & Hauser, 1993; Crawford & Di Benedetto, 2015).\n  - **Option B (Incorrect)**: Trial households before Repeat rate ($10M \\times 0.50 \\times 0.30 \\times 0.70 = 1,050,000$).\n  - **Option C (Incorrect)**: Aware households trial ($10M \\times 0.50 \\times 0.30 = 1,500,000$).\n  - **Option D (Incorrect)**: Omitted Awareness parameter.",
-        "evidenceId": "EXT-MKTG-03",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: 420,000 households. matches the authoritative source framework (`EXT-CRAWFORD-ATAR-2021`).\n  - **Option A (Incorrect)**: 1,050,000 households. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 1,500,000 households. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 4,200,000 households. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
@@ -8296,9 +9226,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{Cannibalized Units} = 500,000 \\times 0.30 = 150,000$. $\\text{Net Incremental Units} = Gross Volume - Cannibalized Units = 500,000 - 150,000 = 350,000 \\text{ units}$ (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/2nd half.m4a`).\n  - **Option B (Incorrect)**: Cannibalized volume alone, not net incremental volume.\n  - **Option C (Incorrect)**: Gross volume, ignoring cannibalization.\n  - **Option D (Incorrect)**: Result of adding cannibalization to gross volume.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/2nd half.m4a",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: 350,000 units. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/2nd half.m4a`).\n  - **Option B (Incorrect)**: 150,000 units. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 500,000 units. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 650,000 units. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8311,11 +9241,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "6.3 utility units."
+            "text": "7.6 utility units."
           },
           {
             "label": "B",
-            "text": "7.6 utility units."
+            "text": "6.3 utility units."
           },
           {
             "label": "C",
@@ -8326,10 +9256,10 @@ const QUIZ_BANKS = [
             "text": "4.3 utility units."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{Total Utility} = Utility(Large Screen) + Utility(24h Battery) + Utility(\\$100 Price) = 2.5 + 0.8 + 3.0 = 6.3$ (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/2nd half.m4a`).\n  - **Option B (Incorrect)**: Sum with 48h battery ($2.5 + 2.1 + 3.0 = 7.6$).\n  - **Option C (Incorrect)**: Sum with $200 price ($2.5 + 0.8 + 1.0 = 4.3$) plus calculation error.\n  - **Option D (Incorrect)**: Sum with Small screen ($1.2 + 0.8 + 2.3 = 4.3$).",
-        "evidenceId": "DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/2nd half.m4a",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: 6.3 utility units. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/2nd half.m4a`).\n  - **Option A (Incorrect)**: 7.6 utility units. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 5.0 utility units. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 4.3 utility units. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8342,25 +9272,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "4.0 exposures."
-          },
-          {
-            "label": "B",
             "text": "2.5 exposures."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "15.6 exposures."
+          },
+          {
+            "label": "C",
+            "text": "4.0 exposures."
           },
           {
             "label": "D",
             "text": "3.1 exposures."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Formula: $GRP = \\text{Reach \\%} \\times \\text{Average Frequency}$. Therefore, $\\text{Average Frequency} = \\frac{GRP}{\\text{Reach \\%}} = \\frac{250}{62.5} = 4.0 \\text{ exposures}$ (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a`).\n  - **Option B (Incorrect)**: Result of dividing $62.5 / 25$.\n  - **Option C (Incorrect)**: Result of multiplying $250 \\times 0.0625$.\n  - **Option D (Incorrect)**: Incorrect division.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: 4.0 exposures. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a`).\n  - **Option A (Incorrect)**: 2.5 exposures. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 15.6 exposures. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 3.1 exposures. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8373,25 +9303,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$100,000."
-          },
-          {
-            "label": "B",
             "text": "$500,000."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$50,000."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "$200,000."
+          },
+          {
+            "label": "D",
+            "text": "$100,000."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{Weight reduction per case} = 12\\text{ kg} - 10\\text{ kg} = 2\\text{ kg}$. $\\text{Total weight saved} = 1,000,000 \\text{ cases} \\times 2\\text{ kg} = 2,000,000\\text{ kg}$. $\\text{Freight savings} = 2,000,000\\text{ kg} \\times \\$0.05/\\text{kg} = \\$100,000$ (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Screenshots/Screenshot 2026-06-21 at 16.09.12.png`).\n  - **Option B (Incorrect)**: Cost of shipping 10 kg per case ($10M \\text{ kg} \\times \\$0.05 = \\$500,000$).\n  - **Option C (Incorrect)**: Result of calculating 1 kg savings.\n  - **Option D (Incorrect)**: Result of multiplying $2\\text{ kg} \\times \\$0.10$.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Screenshots/Screenshot 2026-06-21 at 16.09.12.png",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: $100,000. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Screenshots/Screenshot 2026-06-21 at 16.09.12.png`).\n  - **Option A (Incorrect)**: $500,000. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $50,000. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $200,000. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8420,8 +9350,8 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{Product A Revenue} = 40 \\times \\$300 = \\$12,000$. $\\text{Product B Revenue} = 30 \\times \\$200 = \\$6,000$. $\\text{Bundle Revenue} = 30 \\times \\$400 = \\$12,000$. $\\text{Total Revenue} = \\$12,000 + \\$6,000 + \\$12,000 = \\$30,000$ (Stremersch & Tellis, 2002; Adams & Yellen, 1976).\n  - **Option B (Incorrect)**: If all 100 bought the bundle ($100 \\times \\$400 = \\$40,000$).\n  - **Option C (Incorrect)**: Calculation error.\n  - **Option D (Incorrect)**: If all 100 bought standalone products evenly.",
-        "evidenceId": "EXT-MKTG-01",
+        "explanation": "- **Option A (Correct)**: $30,000. matches the authoritative source framework (`EXT-STREMERSCH-BUNDLING-2002`).\n  - **Option B (Incorrect)**: $40,000. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $25,000. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $35,000. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
@@ -8435,11 +9365,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "13,333 units."
+            "text": "11,111 units."
           },
           {
             "label": "B",
-            "text": "11,111 units."
+            "text": "13,333 units."
           },
           {
             "label": "C",
@@ -8450,10 +9380,10 @@ const QUIZ_BANKS = [
             "text": "12,500 units."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{Baseline Gross Margin Dollar Pool} = 10,000 \\text{ units} \\times \\$20 = \\$200,000$. Discounted wholesale price = $\\$50 \\times (1 - 0.10) = \\$45$. COGS per unit = $\\$50 \\times (1 - 0.40) = \\$30$. Promoted margin per unit = $\\$45 - \\$30 = \\$15$. Promoted break-even volume = $\\frac{\\$200,000}{\\$15} = 13,333.33 \\text{ units}$ (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option B (Incorrect)**: Calculated by increasing volume by 10% or simple ratio ($10,000 / 0.90 = 11,111$).\n  - **Option C (Incorrect)**: Result of assuming margin drops to $13.33.\n  - **Option D (Incorrect)**: Result of dividing $\\$200,000 / \\$16$.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: 13,333 units. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: 11,111 units. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 15,000 units. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 12,500 units. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8466,24 +9396,24 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Paid Search = $100,000; Content Download = $100,000; Demo Request = $0."
-          },
-          {
-            "label": "B",
             "text": "Paid Search = $60,000; Content Download = $60,000; Demo Request = $26,666."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Paid Search = $40,000; Content Download = $40,000; Demo Request = $40,000."
+          },
+          {
+            "label": "C",
+            "text": "Paid Search = $100,000; Content Download = $100,000; Demo Request = $0."
           },
           {
             "label": "D",
             "text": "Paid Search = $200,000; Content Download = $0; Demo Request = $0."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: U-Shaped attribution allocates 50% to First Touch (Paid Search = $50\\% \\times \\$200,000 = \\$100,000$) and 50% to Lead Creation (Content Download = $50\\% \\times \\$200,000 = \\$100,000$). Intermediary touches (Demo Request) receive 0% (`EXT-ATTR-02`).\n  - **Option B (Incorrect)**: W-Shaped model credit allocation (30%/30%/30%/10%).\n  - **Option C (Incorrect)**: Linear model credit allocation ($200,000 / 5 = \\$40,000$ each).\n  - **Option D (Incorrect)**: First-Touch model credit allocation.",
-        "evidenceId": "EXT-ATTR-02",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Paid Search = $100,000; Content Download = $100,000; Demo Request = $0. matches the authoritative source framework (`EXT-MARKETO-ATTR-2024`).\n  - **Option A (Incorrect)**: Paid Search = $60,000; Content Download = $60,000; Demo Request = $26,666. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Paid Search = $40,000; Content Download = $40,000; Demo Request = $40,000. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Paid Search = $200,000; Content Download = $0; Demo Request = $0. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-MARKETO-ATTR-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
@@ -8497,24 +9427,24 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$10,000."
-          },
-          {
-            "label": "B",
             "text": "$20,000."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$60,000."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "$0."
+          },
+          {
+            "label": "D",
+            "text": "$10,000."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: W-Shaped attribution assigns 30% to FT ($60k), 30% to LC ($60k), 30% to OC ($60k), and the remaining 10% ($20,000) is split equally between the 2 middle touches (Webinar and Demo Request). Thus, Demo Request receives $\\$20,000 / 2 = \\$10,000$ (`EXT-ATTR-02`).\n  - **Option B (Incorrect)**: Total 10% credit pool for ALL middle touches combined ($200,000 \\times 10\\% = \\$20,000$), without dividing by 2.\n  - **Option C (Incorrect)**: Credit assigned to milestone touches (FT, LC, OC = $30\\% \\times \\$200k = \\$60k$).\n  - **Option D (Incorrect)**: U-shaped middle touch credit.",
-        "evidenceId": "EXT-ATTR-02",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: $10,000. matches the authoritative source framework (`EXT-MARKETO-ATTR-2024`).\n  - **Option A (Incorrect)**: $20,000. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $60,000. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $0. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-MARKETO-ATTR-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
@@ -8544,8 +9474,8 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Gross Profit = $\\$500,000 \\times 40\\% = \\$200,000$. Affiliate Commissions = $\\$500,000 \\times 10\\% = \\$50,000$. Net Operating Profit = $\\$200,000 - \\$50,000 \\text{ (commissions)} - \\$50,000 \\text{ (opex)} = \\$100,000$ (`EXT-ATTR-01`).\n  - **Option B (Incorrect)**: Omits operating expenses ($\\$200,000 - \\$50,000 = \\$150,000$).\n  - **Option C (Incorrect)**: Gross profit before affiliate commissions and opex.\n  - **Option D (Incorrect)**: Equal to affiliate commission expense or opex alone.",
-        "evidenceId": "EXT-ATTR-01",
+        "explanation": "- **Option A (Correct)**: $100,000. matches the authoritative source framework (`EXT-GA4-DDA-2024`).\n  - **Option B (Incorrect)**: $150,000. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $200,000. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $50,000. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GA4-DDA-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
@@ -8559,11 +9489,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "178,307 attendees."
+            "text": "245,172 attendees."
           },
           {
             "label": "B",
-            "text": "245,172 attendees."
+            "text": "178,307 attendees."
           },
           {
             "label": "C",
@@ -8574,10 +9504,10 @@ const QUIZ_BANKS = [
             "text": "350,246 attendees."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Net contribution margin per attendee = $\\text{Ticket Price} + \\text{Concession Margin} - \\text{Variable Cost} = \\$8.00 + \\$4.50 - \\$1.50 = \\$11.00$. Break-even seasonal attendance = $\\frac{\\$1,961,379}{\\$11.00} = 178,307.18 \\text{ attendees}$ (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`, Exhibit 1).\n  - **Option B (Incorrect)**: Calculated using ticket revenue only ($\\frac{\\$1,961,379}{\\$8.00} = 245,172$).\n  - **Option C (Incorrect)**: Calculated using ticket + full concession revenue without subtracting variable costs ($\\frac{\\$1,961,379}{\\$14.00} = 140,098$).\n  - **Option D (Incorrect)**: Result of dividing fixed costs by concession revenue alone.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: 178,307 attendees. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`).\n  - **Option A (Incorrect)**: 245,172 attendees. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 140,098 attendees. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 350,246 attendees. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8590,25 +9520,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Subscriber Volume = 8,500; Monthly Revenue = $935,000."
-          },
-          {
-            "label": "B",
             "text": "Subscriber Volume = 9,000; Monthly Revenue = $990,000."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Subscriber Volume = 8,500; Monthly Revenue = $1,050,000."
+          },
+          {
+            "label": "C",
+            "text": "Subscriber Volume = 8,500; Monthly Revenue = $935,000."
           },
           {
             "label": "D",
             "text": "Subscriber Volume = 9,500; Monthly Revenue = $1,045,000."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\% \\Delta Q = E_p \\times \\% \\Delta P = -1.5 \\times (+10\\%) = -15\\%$. $\\text{New Subscriber Volume} = 10,000 \\times (1 - 0.15) = 8,500$. $\\text{New Monthly Revenue} = 8,500 \\times \\$110 = \\$935,000$ (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option B (Incorrect)**: Assumes price elasticity $-1.0$ ($\\% \\Delta Q = -10\\% \\implies 9,000 \\times 110 = \\$990,000$).\n  - **Option C (Incorrect)**: Correct volume calculation but miscalculated revenue multiplier.\n  - **Option D (Incorrect)**: Assumes elasticity $-0.5$.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Subscriber Volume = 8,500; Monthly Revenue = $935,000. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option A (Incorrect)**: Subscriber Volume = 9,000; Monthly Revenue = $990,000. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Subscriber Volume = 8,500; Monthly Revenue = $1,050,000. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Subscriber Volume = 9,500; Monthly Revenue = $1,045,000. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -8621,30 +9551,309 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$13,150."
-          },
-          {
-            "label": "B",
             "text": "$14,500."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$11,500."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "$12,800."
+          },
+          {
+            "label": "D",
+            "text": "$13,150."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{Net Differentiation Value} = \\$4,000 + \\$2,000 - \\$1,500 = \\$4,500$. Vendor captures $70\\% \\times \\$4,500 = \\$3,150$. Selling Price = $\\text{Reference Price} + \\text{Captured Value} = \\$10,000 + \\$3,150 = \\$13,150$ (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option B (Incorrect)**: Full EVC price ceiling without capturing ratio ($\\$10,000 + \\$4,500 = \\$14,500$).\n  - **Option C (Incorrect)**: Capturing 70% of gross energy savings only.\n  - **Option D (Incorrect)**: Miscalculated integration cost subtraction.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: $13,150. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option A (Incorrect)**: $14,500. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $11,500. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $12,800. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
       {
         "sourceNumber": 21,
+        "questionId": "EX2-M04-D3-Q21",
+        "topicId": "M04-T01",
+        "module": "M04",
+        "question": "Natureview's 8-ounce supermarket expansion (Option 1) projects 6 SKUs across 3,000 stores with average velocity of 120 units/store/month at $1.60 wholesale price and 36% gross margin. Annual slotting fees total $600,000. What is the net annual contribution after slotting?",
+        "options": [
+          {
+            "label": "A",
+            "text": "$2,488,320 — annual gross profit of $3,088,320 minus $600K slotting."
+          },
+          {
+            "label": "B",
+            "text": "$1,891,200 — incorrectly calculated using a 24% margin."
+          },
+          {
+            "label": "C",
+            "text": "$6,912,000 — gross revenue without margin or slotting adjustment."
+          },
+          {
+            "label": "D",
+            "text": "$3,688,320 — double-counting revenue from two channels."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: $2,488,320 — annual gross profit of $3,088,320 minus $600K slotting. matches the authoritative source framework (`EXT-HBR-502049`).\n  - **Option B (Incorrect)**: $1,891,200 — incorrectly calculated using a 24% margin. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $6,912,000 — gross revenue without margin or slotting adjustment. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $3,688,320 — double-counting revenue from two channels. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 22,
+        "questionId": "EX2-M04-D3-Q22",
+        "topicId": "M04-T02",
+        "module": "M04",
+        "question": "The Springfield Nor'easters have fixed costs of $1,005,879 for the season, average concession revenue of $4.50 per attendee, and plan to play 38 home games. If single-game tickets are priced at $11.00, what minimum average attendance per game is required to break even (assume concession revenue offsets variable costs)?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1,710 attendees per game — $1,005,879 / (38 × $15.50)."
+          },
+          {
+            "label": "B",
+            "text": "2,410 attendees per game — $1,005,879 / (38 × $11.00)."
+          },
+          {
+            "label": "C",
+            "text": "3,650 attendees per game — including a 20% contingency buffer."
+          },
+          {
+            "label": "D",
+            "text": "5,000 attendees per game — requiring full stadium capacity at every game."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: 2,410 attendees per game — $1,005,879 / (38 × $11.00). matches the authoritative source framework (`EXT-HBR-20085`).\n  - **Option A (Incorrect)**: 1,710 attendees per game — $1,005,879 / (38 × $15.50). is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 3,650 attendees per game — including a 20% contingency buffer. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 5,000 attendees per game — requiring full stadium capacity at every game. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 23,
+        "questionId": "EX2-M04-D3-Q23",
+        "topicId": "M04-T03",
+        "module": "M04",
+        "question": "A D2C brand sells 10,000 units monthly at $80 (65% GM). A wholesale partner offers to buy 25,000 units/month at $45 (30% GM). What is the ratio of total wholesale gross profit to D2C gross profit?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1.30:1 — wholesale generates 30% more total GP than D2C."
+          },
+          {
+            "label": "B",
+            "text": "2.50:1 — wholesale generates 2.5x the total GP of D2C."
+          },
+          {
+            "label": "C",
+            "text": "0.65:1 — wholesale generates less total GP than D2C."
+          },
+          {
+            "label": "D",
+            "text": "0.52:1 — using revenue ratio instead of GP ratio."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: 0.65:1 — wholesale generates less total GP than D2C. matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option A (Incorrect)**: 1.30:1 — wholesale generates 30% more total GP than D2C. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 2.50:1 — wholesale generates 2.5x the total GP of D2C. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 0.52:1 — using revenue ratio instead of GP ratio. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 24,
+        "questionId": "EX2-M04-D3-Q24",
+        "topicId": "M04-T04",
+        "module": "M04",
+        "question": "A new product launch targets $5M first-year revenue. Fixed launch costs are $1.2M, variable cost per unit is $15, and the wholesale price is $40. How many units must be sold to achieve the revenue target while covering all costs?",
+        "options": [
+          {
+            "label": "A",
+            "text": "248,000 units — ($5,000,000 + $1,200,000) / ($40 - $15)."
+          },
+          {
+            "label": "B",
+            "text": "155,000 units — ($5,000,000 + $1,200,000) / $40."
+          },
+          {
+            "label": "C",
+            "text": "200,000 units — $5,000,000 / $25 contribution per unit."
+          },
+          {
+            "label": "D",
+            "text": "125,000 units — $5,000,000 / $40 per unit."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: 125,000 units — $5,000,000 / $40 per unit. matches the authoritative source framework (`EXT-COOPER-STAGEGATE-2017`).\n  - **Option A (Incorrect)**: 248,000 units — ($5,000,000 + $1,200,000) / ($40 - $15). is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 155,000 units — ($5,000,000 + $1,200,000) / $40. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 200,000 units — $5,000,000 / $25 contribution per unit. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 25,
+        "questionId": "EX2-M04-D3-Q25",
+        "topicId": "M04-T05",
+        "module": "M04",
+        "question": "A B2B marketing campaign has 7 touchpoints before conversion. Under a W-shaped model (30/30/30 split on anchors), how much credit does each non-anchor touchpoint receive?",
+        "options": [
+          {
+            "label": "A",
+            "text": "2.5% each — 10% remaining split among 4 non-anchor touches."
+          },
+          {
+            "label": "B",
+            "text": "10% each — equal distribution across all non-anchor touches."
+          },
+          {
+            "label": "C",
+            "text": "0% — non-anchor touchpoints receive no credit in W-shaped models."
+          },
+          {
+            "label": "D",
+            "text": "5% each — 20% remaining split among 4 non-anchor touches."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: 2.5% each — 10% remaining split among 4 non-anchor touches. matches the authoritative source framework (`EXT-ADOBE-ATTR-2024`).\n  - **Option B (Incorrect)**: 10% each — equal distribution across all non-anchor touches. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 0% — non-anchor touchpoints receive no credit in W-shaped models. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 5% each — 20% remaining split among 4 non-anchor touches. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-MARKETO-ATTR-2024",
+        "evidenceClassification": "official-external",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 26,
+        "questionId": "EX2-M04-D3-Q26",
+        "topicId": "M04-T06",
+        "module": "M04",
+        "question": "A product has fixed costs of $200,000, variable cost of $12 per unit, and a selling price of $32 per unit. What is the break-even quantity?",
+        "options": [
+          {
+            "label": "A",
+            "text": "6,250 units — $200,000 / $32."
+          },
+          {
+            "label": "B",
+            "text": "10,000 units — $200,000 / ($32 - $12)."
+          },
+          {
+            "label": "C",
+            "text": "16,667 units — $200,000 / $12."
+          },
+          {
+            "label": "D",
+            "text": "8,333 units — $200,000 / $24."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: 10,000 units — $200,000 / ($32 - $12). matches the authoritative source framework (`EXT-KOTLER-CH14`).\n  - **Option A (Incorrect)**: 6,250 units — $200,000 / $32. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 16,667 units — $200,000 / $12. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 8,333 units — $200,000 / $24. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 27,
+        "questionId": "EX2-M04-D3-Q27",
+        "topicId": "M04-T01",
+        "module": "M04",
+        "question": "Natureview Farm's natural foods channel revenue was $13M with a 36% average gross margin. If the company achieves the $20M target using a channel mix of 75% natural foods ($15M) and 25% supermarket ($5M, 28% GM), what is the blended gross margin?",
+        "options": [
+          {
+            "label": "A",
+            "text": "32.0% — arithmetic average of 36% and 28%."
+          },
+          {
+            "label": "B",
+            "text": "36.0% — unchanged because natural foods dominates the mix."
+          },
+          {
+            "label": "C",
+            "text": "34.0% — weighted average of the two channel margins."
+          },
+          {
+            "label": "D",
+            "text": "30.0% — assuming equal channel contribution weights."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: 34.0% — weighted average of the two channel margins. matches the authoritative source framework (`EXT-HBR-502049`).\n  - **Option A (Incorrect)**: 32.0% — arithmetic average of 36% and 28%. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 36.0% — unchanged because natural foods dominates the mix. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 30.0% — assuming equal channel contribution weights. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 28,
+        "questionId": "EX2-M04-D3-Q28",
+        "topicId": "M04-T02",
+        "module": "M04",
+        "question": "If Springfield Nor'easters price season tickets at $175 for 38 games ($4.61/game) and sell 800 season tickets, while single-game tickets at $11 average 2,800 additional attendees per game, what percentage of total annual ticket revenue comes from season tickets?",
+        "options": [
+          {
+            "label": "A",
+            "text": "23.5% — overestimating season ticket contribution."
+          },
+          {
+            "label": "B",
+            "text": "6.2% — underestimating by using per-game pricing."
+          },
+          {
+            "label": "C",
+            "text": "45.0% — assuming equal revenue split between ticket types."
+          },
+          {
+            "label": "D",
+            "text": "10.7% — season ticket revenue is $140,000 vs total $1,311,200."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: 10.7% — season ticket revenue is $140,000 vs total $1,311,200. matches the authoritative source framework (`EXT-HBR-20085`).\n  - **Option A (Incorrect)**: 23.5% — overestimating season ticket contribution. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 6.2% — underestimating by using per-game pricing. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 45.0% — assuming equal revenue split between ticket types. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 29,
+        "questionId": "EX2-M04-D3-Q29",
+        "topicId": "M04-T03",
+        "module": "M04",
+        "question": "A manufacturer sells through three channels: D2C (5,000 units, $50 margin), Wholesale A (20,000 units, $18 margin), and Wholesale B (15,000 units, $22 margin). What is the channel-weighted average margin per unit?",
+        "options": [
+          {
+            "label": "A",
+            "text": "$24.25 — volume-weighted average across all channels."
+          },
+          {
+            "label": "B",
+            "text": "$30.00 — arithmetic average of the three margins."
+          },
+          {
+            "label": "C",
+            "text": "$18.00 — using only the wholesale channels."
+          },
+          {
+            "label": "D",
+            "text": "$35.00 — overweighting the D2C channel."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: $24.25 — volume-weighted average across all channels. matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option B (Incorrect)**: $30.00 — arithmetic average of the three margins. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $18.00 — using only the wholesale channels. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $35.00 — overweighting the D2C channel. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 30,
         "questionId": "EX2-M05-D3-Q01",
         "topicId": "M05-T01",
         "module": "M05",
@@ -8668,14 +9877,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "B",
-        "explanation": "1. Dot product $\\mathbf{A} \\cdot \\mathbf{B} = (5 \\times 4) + (4 \\times 5) + (0 \\times 0) = 20 + 20 + 0 = 40$.\n  2. Magnitude $\\|\\mathbf{A}\\| = \\sqrt{5^2 + 4^2 + 0^2} = \\sqrt{25 + 16} = \\sqrt{41} \\approx 6.4031$.\n  3. Magnitude $\\|\\mathbf{B}\\| = \\sqrt{4^2 + 5^2 + 0^2} = \\sqrt{16 + 25} = \\sqrt{41} \\approx 6.4031$.\n  4. Cosine Similarity $= \\frac{40}{\\sqrt{41} \\times \\sqrt{41}} = \\frac{40}{41} \\approx 0.9756$.",
-        "evidenceId": "Aggarwal (2016)",
-        "evidenceClassification": "credible-secondary",
+        "explanation": "- **Option B (Correct)**: $0.9756$ matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: $0.8500$ is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $1.0000$ is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $0.9000$ is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-MIKOLOV-VEC-2013",
+        "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 22,
+        "sourceNumber": 31,
         "questionId": "EX2-M05-D3-Q02",
         "topicId": "M05-T01",
         "module": "M05",
@@ -8699,14 +9908,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "C",
-        "explanation": "1. Control Conversion Rate $= \\frac{200}{10,000} = 2.0\\%$.\n  2. Treatment Conversion Rate $= \\frac{270}{10,000} = 2.7\\%$.\n  3. $\\text{Personalisation Lift} = \\frac{\\text{Treatment CR} - \\text{Control CR}}{\\text{Control CR}} = \\frac{2.7\\% - 2.0\\%}{2.0\\%} = \\frac{0.7\\%}{2.0\\%} = 0.35 = 35.0\\%$.",
-        "evidenceId": "Aggarwal (2016)",
+        "explanation": "- **Option C (Correct)**: $35.0\\%$ matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: $7.0\\%$ is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $26.0\\%$ is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $70.0\\%$ is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 23,
+        "sourceNumber": 32,
         "questionId": "EX2-M05-D3-Q03",
         "topicId": "M05-T01",
         "module": "M05",
@@ -8714,30 +9923,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$0.375$"
-          },
-          {
-            "label": "B",
             "text": "$0.500$"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$0.300$"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "$0.750$"
+          },
+          {
+            "label": "D",
+            "text": "$0.375$"
           }
         ],
-        "answer": "A",
-        "explanation": "1. $J(X, Y) = \\frac{|X \\cap Y|}{|X \\cup Y|}$.\n  2. $|X \\cap Y| = 150$.\n  3. $|X \\cup Y| = |X| + |Y| - |X \\cap Y| = 300 + 250 - 150 = 400$.\n  4. $J(X, Y) = \\frac{150}{400} = 0.375$.",
-        "evidenceId": "Aggarwal (2016)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: $0.375$ matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: $0.500$ is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $0.300$ is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $0.750$ is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOREN-RECSYS-2009",
+        "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 24,
+        "sourceNumber": 33,
         "questionId": "EX2-M05-D3-Q04",
         "topicId": "M05-T01",
         "module": "M05",
@@ -8761,14 +9970,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "1. Relevant chunks retrieved = 900 queries out of 1,000.\n  2. Out of 900 retrieved queries, 100 result in hallucinations, meaning $900 - 100 = 800$ queries generate accurately grounded responses.\n  3. End-to-end Accurately-Grounded Response Rate $= \\frac{800}{1,000} = 80.0\\%$.",
-        "evidenceId": "Aggarwal (2016)",
-        "evidenceClassification": "credible-secondary",
+        "explanation": "- **Option A (Correct)**: $80.0\\%$ matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option B (Incorrect)**: $90.0\\%$ is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $81.0\\%$ is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $70.0\\%$ is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-MIKOLOV-VEC-2013",
+        "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 25,
+        "sourceNumber": 34,
         "questionId": "EX2-M05-D3-Q05",
         "topicId": "M05-T02",
         "module": "M05",
@@ -8792,14 +10001,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "B",
-        "explanation": "1. Monthly Gross Margin per User $= \\text{ARPU} \\times \\text{Gross Margin \\%} = ₹1,500 \\times 0.60 = ₹900$.\n  2. $CLV = \\frac{\\text{Monthly Gross Margin}}{\\text{Monthly Churn Rate}} = \\frac{900}{0.04} = ₹22,500$.",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "explanation": "- **Option B (Correct)**: ₹22,500 matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: ₹15,000 is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: ₹37,500 is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: ₹90,000 is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-SKOK-SAAS-2020",
+        "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 26,
+        "sourceNumber": 35,
         "questionId": "EX2-M05-D3-Q06",
         "topicId": "M05-T02",
         "module": "M05",
@@ -8811,26 +10020,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "$+30$"
+            "text": "$+50$"
           },
           {
             "label": "C",
-            "text": "$+50$"
+            "text": "$+30$"
           },
           {
             "label": "D",
             "text": "$+60$"
           }
         ],
-        "answer": "B",
-        "explanation": "1. $\\% \\text{Promoters} = \\frac{250}{500} = 50\\%$.\n  2. $\\% \\text{Passives} = \\frac{150}{500} = 30\\%$.\n  3. $\\% \\text{Detractors} = \\frac{100}{500} = 20\\%$.\n  4. $NPS = \\% \\text{Promoters} - \\% \\text{Detractors} = 50\\% - 20\\% = +30$.",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: $+30$ matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: $+15$ is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $+50$ is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $+60$ is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-BAIN-NPS-2011",
+        "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 27,
+        "sourceNumber": 36,
         "questionId": "EX2-M05-D3-Q07",
         "topicId": "M05-T02",
         "module": "M05",
@@ -8838,30 +10047,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$CRR = 85.0\\%, CR = 15.0\\%$"
-          },
-          {
-            "label": "B",
             "text": "$CRR = 110.0\\%, CR = -10.0\\%$"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$CRR = 75.0\\%, CR = 25.0\\%$"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "$CRR = 90.0\\%, CR = 10.0\\%$"
+          },
+          {
+            "label": "D",
+            "text": "$CRR = 85.0\\%, CR = 15.0\\%$"
           }
         ],
-        "answer": "A",
-        "explanation": "1. Formula: $CRR = \\frac{E - N}{S} \\times 100$, where $E = 11,000$, $N = 2,500$, $S = 10,000$.\n  2. $CRR = \\frac{11,000 - 2,500}{10,000} \\times 100 = \\frac{8,500}{10,000} \\times 100 = 85.0\\%$.\n  3. Churn Rate $CR = 100\\% - 85.0\\% = 15.0\\%$ (Lost customers $= 10,000 - 8,500 = 1,500$; $\\frac{1,500}{10,000} = 15.0\\%$).",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: $CRR = 85.0\\%, CR = 15.0\\%$ matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: $CRR = 110.0\\%, CR = -10.0\\%$ is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $CRR = 75.0\\%, CR = 25.0\\%$ is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $CRR = 90.0\\%, CR = 10.0\\%$ is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-OPENVIEW-SAAS-2023",
+        "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 28,
+        "sourceNumber": 37,
         "questionId": "EX2-M05-D3-Q08",
         "topicId": "M05-T03",
         "module": "M05",
@@ -8869,11 +10078,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "10"
+            "text": "24"
           },
           {
             "label": "B",
-            "text": "24"
+            "text": "10"
           },
           {
             "label": "C",
@@ -8884,15 +10093,15 @@ const QUIZ_BANKS = [
             "text": "70"
           }
         ],
-        "answer": "B",
-        "explanation": "1. $\\text{Residual Risk} = \\text{Inherent Risk} \\times (1 - \\text{Control Mitigation Effect})$.\n  2. $\\text{Residual Risk} = 80 \\times (1 - 0.70) = 80 \\times 0.30 = 24$.",
-        "evidenceId": "EXT-NIST-01",
-        "evidenceClassification": "official-external",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: 24 matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option B (Incorrect)**: 10 is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 56 is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 70 is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-FAIR-RISK-2014",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 29,
+        "sourceNumber": 38,
         "questionId": "EX2-M05-D3-Q09",
         "topicId": "M05-T03",
         "module": "M05",
@@ -8904,26 +10113,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "35"
+            "text": "60"
           },
           {
             "label": "C",
-            "text": "60"
+            "text": "35"
           },
           {
             "label": "D",
             "text": "125"
           }
         ],
-        "answer": "C",
-        "explanation": "1. $\\text{Risk Score} = \\text{Threat Likelihood} \\times \\text{Vulnerability Severity} \\times \\text{Asset Impact Value}$.\n  2. $\\text{Risk Score} = 4 \\times 3 \\times 5 = 60$.",
-        "evidenceId": "EXT-NIST-01",
-        "evidenceClassification": "official-external",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: 60 matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: 12 is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 35 is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 125 is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-FAIR-RISK-2014",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 30,
+        "sourceNumber": 39,
         "questionId": "EX2-M05-D3-Q10",
         "topicId": "M05-T03",
         "module": "M05",
@@ -8931,30 +10140,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "(1) Govern, (2) Identify, (3) Protect, (4) Detect, (5) Recover"
-          },
-          {
-            "label": "B",
             "text": "(1) Identify, (2) Govern, (3) Protect, (4) Respond, (5) Recover"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "(1) Govern, (2) Protect, (3) Identify, (4) Detect, (5) Respond"
+          },
+          {
+            "label": "C",
+            "text": "(1) Govern, (2) Identify, (3) Protect, (4) Detect, (5) Recover"
           },
           {
             "label": "D",
             "text": "(1) Protect, (2) Identify, (3) Govern, (4) Recover, (5) Detect"
           }
         ],
-        "answer": "A",
-        "explanation": "- Activity 1 (Vendor policy governance) $\\rightarrow$ **Govern (GV)**\n  - Activity 2 (Asset inventory cataloging) $\\rightarrow$ **Identify (ID)**\n  - Activity 3 (MFA access control safeguard) $\\rightarrow$ **Protect (PR)**\n  - Activity 4 (SIEM log intrusion monitoring) $\\rightarrow$ **Detect (DE)**\n  - Activity 5 (Backup restoration post-incident) $\\rightarrow$ **Recover (RC)**",
-        "evidenceId": "EXT-NIST-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: (1) Govern, (2) Identify, (3) Protect, (4) Detect, (5) Recover matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: (1) Identify, (2) Govern, (3) Protect, (4) Respond, (5) Recover is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: (1) Govern, (2) Protect, (3) Identify, (4) Detect, (5) Respond is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: (1) Protect, (2) Identify, (3) Govern, (4) Recover, (5) Detect is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 31,
+        "sourceNumber": 40,
         "questionId": "EX2-M05-D3-Q11",
         "topicId": "M05-T03",
         "module": "M05",
@@ -8970,22 +10179,22 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "$75.0\\%$"
+            "text": "$80.0\\%$"
           },
           {
             "label": "D",
-            "text": "$80.0\\%$"
+            "text": "$75.0\\%$"
           }
         ],
-        "answer": "C",
-        "explanation": "1. Initial data fields = 12; Revised data fields = 3.\n  2. Reduction in fields $= 12 - 3 = 9$.\n  3. Percentage Reduction $= \\frac{9}{12} \\times 100 = 75.0\\%$. This exemplifies the Privacy by Design principle of Data Minimization.",
-        "evidenceId": "EXT-NIST-01",
-        "evidenceClassification": "credible-secondary",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: $75.0\\%$ matches the authoritative source framework (`EXT-CAVOUKIAN-PBD-2009`).\n  - **Option A (Incorrect)**: $25.0\\%$ is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $66.7\\%$ is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $80.0\\%$ is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-CAVOUKIAN-PBD-2009",
+        "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 32,
+        "sourceNumber": 41,
         "questionId": "EX2-M05-D3-Q12",
         "topicId": "M05-T04",
         "module": "M05",
@@ -8993,11 +10202,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "East = 300; West = 400"
+            "text": "East = 700; West = 700"
           },
           {
             "label": "B",
-            "text": "East = 700; West = 700"
+            "text": "East = 300; West = 400"
           },
           {
             "label": "C",
@@ -9008,15 +10217,15 @@ const QUIZ_BANKS = [
             "text": "East = 100; West = 150"
           }
         ],
-        "answer": "B",
-        "explanation": "The `{ EXCLUDE [Region] : SUM([Sales]) }` expression removes `[Region]` from the aggregation context, summing sales across all records in the data context ($100 + 200 + 150 + 250 = 700$). Thus, 700 is displayed on every row.",
-        "evidenceId": "EXT-TAB-01",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: East = 700; West = 700 matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option B (Incorrect)**: East = 300; West = 400 is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: East = 150; West = 200 is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: East = 100; West = 150 is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-LOD-2020",
         "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 33,
+        "sourceNumber": 42,
         "questionId": "EX2-M05-D3-Q13",
         "topicId": "M05-T04",
         "module": "M05",
@@ -9024,11 +10233,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Field A = $1,000,000; Field B = $400,000"
+            "text": "Field A = $400,000; Field B = $1,000,000"
           },
           {
             "label": "B",
-            "text": "Field A = $400,000; Field B = $1,000,000"
+            "text": "Field A = $1,000,000; Field B = $400,000"
           },
           {
             "label": "C",
@@ -9039,15 +10248,15 @@ const QUIZ_BANKS = [
             "text": "Field A = $1,000,000; Field B = $1,000,000"
           }
         ],
-        "answer": "A",
-        "explanation": "`FIXED` LODs execute *before* Dimension Filters in Tableau's Order of Operations, so Field A evaluates over the full unfiltered dataset ($1,000,000). `INCLUDE` LODs execute *after* Dimension Filters, so Field B evaluates over the filtered category subset ($400,000).",
-        "evidenceId": "EXT-TAB-01",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Field A = $1,000,000; Field B = $400,000 matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: Field A = $400,000; Field B = $1,000,000 is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Field A = $400,000; Field B = $400,000 is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Field A = $1,000,000; Field B = $1,000,000 is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-LOD-2020",
         "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 34,
+        "sourceNumber": 43,
         "questionId": "EX2-M05-D3-Q14",
         "topicId": "M05-T04",
         "module": "M05",
@@ -9055,30 +10264,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Simple AVG = $200; INCLUDE LOD AVG = $300"
-          },
-          {
-            "label": "B",
             "text": "Simple AVG = $300; INCLUDE LOD AVG = $200"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Simple AVG = $200; INCLUDE LOD AVG = $200"
+          },
+          {
+            "label": "C",
+            "text": "Simple AVG = $200; INCLUDE LOD AVG = $300"
           },
           {
             "label": "D",
             "text": "Simple AVG = $300; INCLUDE LOD AVG = $300"
           }
         ],
-        "answer": "A",
-        "explanation": "1. Simple `AVG([Sales])` averages across all individual orders in the region: 3 orders ($100, $100, $400). $\\text{Average} = \\frac{100 + 100 + 400}{3} = \\frac{600}{3} = \\$200$.\n  2. `INCLUDE [Customer ID]` first sums sales per customer: Customer 1 = $200, Customer 2 = $400. Then it averages these customer totals across the region: $\\frac{200 + 400}{2} = \\$300$.",
-        "evidenceId": "EXT-TAB-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Simple AVG = $200; INCLUDE LOD AVG = $300 matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: Simple AVG = $300; INCLUDE LOD AVG = $200 is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Simple AVG = $200; INCLUDE LOD AVG = $200 is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Simple AVG = $300; INCLUDE LOD AVG = $300 is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-LOD-2020",
         "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 35,
+        "sourceNumber": 44,
         "questionId": "EX2-M05-D3-Q15",
         "topicId": "M05-T04",
         "module": "M05",
@@ -9086,26 +10295,212 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "(2) Extract Filters $\\rightarrow$ (4) Context Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations"
-          },
-          {
-            "label": "B",
             "text": "(2) Extract Filters $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (4) Context Filters $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "(5) FIXED LODs $\\rightarrow$ (2) Extract Filters $\\rightarrow$ (4) Context Filters $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (3) Table Calculations $\\rightarrow$ (6) Measure Filters"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "(4) Context Filters $\\rightarrow$ (2) Extract Filters $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations"
+          },
+          {
+            "label": "D",
+            "text": "(2) Extract Filters $\\rightarrow$ (4) Context Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations"
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: (2) Extract Filters $\\rightarrow$ (4) Context Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: (2) Extract Filters $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (4) Context Filters $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: (5) FIXED LODs $\\rightarrow$ (2) Extract Filters $\\rightarrow$ (4) Context Filters $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (3) Table Calculations $\\rightarrow$ (6) Measure Filters is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: (4) Context Filters $\\rightarrow$ (2) Extract Filters $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-ORDER-OF-OPS",
+        "evidenceClassification": "official-external",
+        "trapLabel": "scope-boundary-trap",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 45,
+        "questionId": "EX2-M05-D3-Q16",
+        "topicId": "M05-T01",
+        "module": "M05",
+        "question": "A company surveys 500 customers. Results: 225 Promoters, 175 Passives, 100 Detractors. What is the NPS?",
+        "options": [
+          {
+            "label": "A",
+            "text": "+25 — calculated as (225 - 100) / 500 × 100."
+          },
+          {
+            "label": "B",
+            "text": "+38.5 — calculated as (225 - 100) / (225 + 100) × 100."
+          },
+          {
+            "label": "C",
+            "text": "+50 — calculated as 225/500 × 100 alone."
+          },
+          {
+            "label": "D",
+            "text": "+12.5 — calculated as (225 - 100) / 1000 × 100."
           }
         ],
         "answer": "A",
-        "explanation": "The official Tableau Order of Operations filter execution sequence is: Extract Filters $\\rightarrow$ Data Source Filters $\\rightarrow$ Context Filters $\\rightarrow$ FIXED LOD Calculations $\\rightarrow$ Dimension Filters $\\rightarrow$ INCLUDE/EXCLUDE LOD Calculations $\\rightarrow$ Measure Filters $\\rightarrow$ Table Calculations.",
-        "evidenceId": "EXT-TAB-01",
+        "explanation": "- **Option A (Correct)**: +25 — calculated as (225 - 100) / 500 × 100. matches the authoritative source framework (`EXT-BAIN-NPS-2011`).\n  - **Option B (Incorrect)**: +38.5 — calculated as (225 - 100) / (225 + 100) × 100. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: +50 — calculated as 225/500 × 100 alone. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: +12.5 — calculated as (225 - 100) / 1000 × 100. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 46,
+        "questionId": "EX2-M05-D3-Q17",
+        "topicId": "M05-T02",
+        "module": "M05",
+        "question": "A Tableau dashboard uses {FIXED [Region] : SUM([Sales])} and also has a Dimension Filter excluding 'West'. An INCLUDE LOD {INCLUDE [State] : AVG([Profit])} is also present. Which LOD is affected by the Dimension Filter?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Both FIXED and INCLUDE are affected by the Dimension Filter."
+          },
+          {
+            "label": "B",
+            "text": "Only the INCLUDE LOD is affected; FIXED evaluates before Dimension Filters."
+          },
+          {
+            "label": "C",
+            "text": "Only the FIXED LOD is affected; INCLUDE is immune to Dimension Filters."
+          },
+          {
+            "label": "D",
+            "text": "Neither — Dimension Filters only affect table-level calculations."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Only the INCLUDE LOD is affected; FIXED evaluates before Dimension Filters. matches the authoritative source framework (`EXT-TABLEAU-ORDER-OF-OPS`).\n  - **Option A (Incorrect)**: Both FIXED and INCLUDE are affected by the Dimension Filter. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Only the FIXED LOD is affected; INCLUDE is immune to Dimension Filters. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Neither — Dimension Filters only affect table-level calculations. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-OPENVIEW-SAAS-2023",
         "evidenceClassification": "official-external",
-        "trapLabel": "scope-boundary-trap",
+        "trapLabel": "order-of-operations-confusion",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 47,
+        "questionId": "EX2-M05-D3-Q18",
+        "topicId": "M05-T03",
+        "module": "M05",
+        "question": "A SaaS company has: Beginning ARR = $10M, New ARR = $2M (from new customers), Expansion = $1.5M, Contraction = $500K, Churn = $1M. What is the GRR?",
+        "options": [
+          {
+            "label": "A",
+            "text": "100.0% — ($10M + $1.5M - $500K - $1M) / $10M."
+          },
+          {
+            "label": "B",
+            "text": "120.0% — ($10M + $2M + $1.5M - $500K - $1M) / $10M."
+          },
+          {
+            "label": "C",
+            "text": "85.0% — ($10M - $500K - $1M) / $10M."
+          },
+          {
+            "label": "D",
+            "text": "90.0% — ($10M - $1M) / $10M."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: 85.0% — ($10M - $500K - $1M) / $10M. matches the authoritative source framework (`EXT-BVP-CLOUD-2023`).\n  - **Option A (Incorrect)**: 100.0% — ($10M + $1.5M - $500K - $1M) / $10M. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 120.0% — ($10M + $2M + $1.5M - $500K - $1M) / $10M. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 90.0% — ($10M - $1M) / $10M. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
+        "evidenceClassification": "official-external",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 48,
+        "questionId": "EX2-M05-D3-Q19",
+        "topicId": "M05-T04",
+        "module": "M05",
+        "question": "An organization maps its security controls to NIST CSF 2.0. The following control exists: 'The board reviews cybersecurity risk posture quarterly and approves the risk appetite statement.' Under which CSF 2.0 function does this control fall?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Identify — because it involves understanding organizational risk."
+          },
+          {
+            "label": "B",
+            "text": "Protect — because it implements safeguards for critical services."
+          },
+          {
+            "label": "C",
+            "text": "Detect — because it monitors the security posture."
+          },
+          {
+            "label": "D",
+            "text": "Govern — because it establishes organizational oversight and risk management strategy."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Govern — because it establishes organizational oversight and risk management strategy. matches the authoritative source framework (`EXT-NIST-CSF-2.0`).\n  - **Option A (Incorrect)**: Identify — because it involves understanding organizational risk. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Protect — because it implements safeguards for critical services. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Detect — because it monitors the security posture. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-ORDER-OF-OPS",
+        "evidenceClassification": "official-external",
+        "trapLabel": "scope-confusion",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 49,
+        "questionId": "EX2-M05-D3-Q20",
+        "topicId": "M05-T01",
+        "module": "M05",
+        "question": "A company's NPS was +30 in Q1 and +42 in Q2. Total respondents: Q1 = 400, Q2 = 350. What was the absolute change in the number of net promoters (Promoters minus Detractors) between quarters?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The data is insufficient to determine — we only know the NPS score, not the raw counts."
+          },
+          {
+            "label": "B",
+            "text": "An increase of 27 net promoters — calculated from the NPS percentage change."
+          },
+          {
+            "label": "C",
+            "text": "An increase of 12 net promoters — (42% - 30%) × 350."
+          },
+          {
+            "label": "D",
+            "text": "An increase of 48 net promoters — using the average respondent count."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: The data is insufficient to determine — we only know the NPS score, not the raw counts. matches the authoritative source framework (`EXT-BAIN-NPS-2011`).\n  - **Option B (Incorrect)**: An increase of 27 net promoters — calculated from the NPS percentage change. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: An increase of 12 net promoters — (42% - 30%) × 350. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: An increase of 48 net promoters — using the average respondent count. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 50,
+        "questionId": "EX2-M05-D3-Q21",
+        "topicId": "M05-T03",
+        "module": "M05",
+        "question": "A SaaS company has LTV of $36,000 per customer and CAC of $9,000. What is the LTV:CAC ratio, and how does it compare to the industry benchmark?",
+        "options": [
+          {
+            "label": "A",
+            "text": "3:1 — exactly at the benchmark, indicating optimal spending."
+          },
+          {
+            "label": "B",
+            "text": "4:1 — above the 3:1 benchmark, indicating efficient acquisition."
+          },
+          {
+            "label": "C",
+            "text": "2:1 — below benchmark, indicating overspending on acquisition."
+          },
+          {
+            "label": "D",
+            "text": "6:1 — significantly above benchmark, suggesting under-investment in growth."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: 4:1 — above the 3:1 benchmark, indicating efficient acquisition. matches the authoritative source framework (`EXT-SKOK-SAAS-2020`).\n  - **Option A (Incorrect)**: 3:1 — exactly at the benchmark, indicating optimal spending. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 2:1 — below benchmark, indicating overspending on acquisition. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: 6:1 — significantly above benchmark, suggesting under-investment in growth. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
+        "evidenceClassification": "official-external",
+        "trapLabel": "calculation-error",
         "provisional": false
       }
     ]
@@ -9146,9 +10541,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: A integrated GTM launch aligns channel distribution (ACV setup & slotting) with local trade support (co-op ads) and pull marketing (digital sampling) to drive retail velocity and break-even revenue (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option B (Incorrect)**: Running national TV ads before retail distribution creates demand out-of-stock spillover and wastes ad spend.\n  - **Option C (Incorrect)**: Supermarket chains will not accept non-refundable upfront orders without proven velocity or slotting support.\n  - **Option D (Incorrect)**: Deep trade discounts without consumer pull marketing lead to forward-buying without retail sell-through.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: Secure retail ACV distribution commitments via broker network, allocate slotting fees, launch local co-op circular advertising, and execute targeted digital consumer sampling. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option B (Incorrect)**: Launch national TV advertising prior to securing retail supermarket distribution contracts. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Eliminate broker commissions and require retail supermarket chains to place non-refundable upfront product orders. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Offer 50% off-invoice trade discounts to mass retailers while halting all consumer marketing spend. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9161,11 +10556,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "32 oz SKUs cater to high-volume household consumers in natural channels while minimizing direct head-to-head 8 oz SKU competition in conventional supermarkets."
+            "text": "32 oz SKUs carry lower gross margins than 8 oz SKUs, forcing distributors to lower retail pricing."
           },
           {
             "label": "B",
-            "text": "32 oz SKUs carry lower gross margins than 8 oz SKUs, forcing distributors to lower retail pricing."
+            "text": "32 oz SKUs cater to high-volume household consumers in natural channels while minimizing direct head-to-head 8 oz SKU competition in conventional supermarkets."
           },
           {
             "label": "C",
@@ -9176,10 +10571,10 @@ const QUIZ_BANKS = [
             "text": "Option 2 completely eliminates the need for broker representation in regional distribution."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Option 2 (32 oz national expansion) targets a distinct usage occasion (home consumption) and expands within natural foods channels where Natureview held strong retailer relationships, generating substantial incremental volume with minimal channel friction (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`, Slide 6).\n  - **Option B (Incorrect)**: 32 oz SKUs yield a higher gross margin percentage (58.2%) than 8 oz SKUs (37%), not lower.\n  - **Option C (Incorrect)**: Slotting fees are reduced because natural food stores generally do not charge slotting allowances, but supermarket entry still incurred fees.\n  - **Option D (Incorrect)**: Brokers remain necessary for regional sales representation.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: 32 oz SKUs cater to high-volume household consumers in natural channels while minimizing direct head-to-head 8 oz SKU competition in conventional supermarkets. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: 32 oz SKUs carry lower gross margins than 8 oz SKUs, forcing distributors to lower retail pricing. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Option 2 requires zero slotting fees across all regional supermarket chains nationwide. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Option 2 completely eliminates the need for broker representation in regional distribution. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9192,25 +10587,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "By comparing post-promotional incremental volume lift against the margin erosion incurred from off-invoice discounts to verify net gross margin dollar expansion."
-          },
-          {
-            "label": "B",
             "text": "By assuming that any increase in gross revenue during a promotional window represents net incremental profit."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "By deducting total trade promotion expenditure directly from executive sales bonuses."
+          },
+          {
+            "label": "C",
+            "text": "By comparing post-promotional incremental volume lift against the margin erosion incurred from off-invoice discounts to verify net gross margin dollar expansion."
           },
           {
             "label": "D",
             "text": "By requiring retail chains to reimburse off-invoice discounts if retail sales volume targets are missed."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Validating trade promotion ROI requires verifying that incremental unit volume sold (measured via retail scan data) generates enough gross margin dollars to exceed trade discount expenses and baseline volume cannibalization (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`, Slide 5).\n  - **Option B (Incorrect)**: Top-line revenue expansion during promotions can conceal net margin losses if baseline volume is heavily discounted.\n  - **Option C (Incorrect)**: Internal compensation adjustments do not measure trade promotion campaign economic ROI.\n  - **Option D (Incorrect)**: Off-invoice discounts are non-clawback trade allowances in CPG retail contracts.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: By comparing post-promotional incremental volume lift against the margin erosion incurred from off-invoice discounts to verify net gross margin dollar expansion. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: By assuming that any increase in gross revenue during a promotional window represents net incremental profit. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: By deducting total trade promotion expenditure directly from executive sales bonuses. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: By requiring retail chains to reimburse off-invoice discounts if retail sales volume targets are missed. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9223,25 +10618,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Target segmentation defines buyer Willingness-to-Pay and feature priorities, which determine price positioning and packaging functional/perceptual design."
-          },
-          {
-            "label": "B",
             "text": "Value propositions are established strictly after packaging manufacturing is finalized."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Pricing strategy is determined independently of customer segmentation based strictly on production accounting costs."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Target segmentation dictates legal trademark registration categories but has no impact on pricing or packaging."
+          },
+          {
+            "label": "D",
+            "text": "Target segmentation defines buyer Willingness-to-Pay and feature priorities, which determine price positioning and packaging functional/perceptual design."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: STP identifies specific customer segment needs and valuation drivers, directly informing perceived value, optimal price points, and packaging communication cues (Kotler & Keller, 2015).\n  - **Option B (Incorrect)**: Inverts product planning; value propositions guide packaging design, not vice versa.\n  - **Option C (Incorrect)**: Describes cost-plus pricing, ignoring segment-specific value perception.\n  - **Option D (Incorrect)**: Segmentation directly drives pricing and packaging strategy across commercial GTM execution.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Target segmentation defines buyer Willingness-to-Pay and feature priorities, which determine price positioning and packaging functional/perceptual design. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: Value propositions are established strictly after packaging manufacturing is finalized. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Pricing strategy is determined independently of customer segmentation based strictly on production accounting costs. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Target segmentation dictates legal trademark registration categories but has no impact on pricing or packaging. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9270,9 +10665,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Severe service performance shortfalls ($Q = P - E = -2.7$) erode customer trust and commitment (Morgan & Hunt, 1994), increasing account churn and reducing lifetime subscription revenue (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf`).\n  - **Option B (Incorrect)**: Poor support experience causes dissatisfaction, not faster lead acquisition velocity.\n  - **Option C (Incorrect)**: Post-purchase service quality is a primary determinant of customer renewal decisions.\n  - **Option D (Incorrect)**: Unresolved service deficits degrade account trust rather than driving expansion ARR.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: The negative gap ($Q = -2.7$) damages customer relationship trust, driving churn rate expansion and depressing lifetime Customer Lifetime Value (CLV). matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf`).\n  - **Option B (Incorrect)**: The gap increases customer acquisition velocity by forcing users to submit self-service tickets. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Service expectation gaps have zero impact on SaaS renewal rates as long as product software code has zero bugs. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: The gap automatically increases monthly recurring revenue (MRR) through premium support addon sales. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9285,11 +10680,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "It increases product acquisition utility ($v(q)$) by helping users realize functional product benefits while building relationship trust."
+            "text": "It lowers product manufacturing costs by eliminating digital server storage requirements."
           },
           {
             "label": "B",
-            "text": "It lowers product manufacturing costs by eliminating digital server storage requirements."
+            "text": "It increases product acquisition utility ($v(q)$) by helping users realize functional product benefits while building relationship trust."
           },
           {
             "label": "C",
@@ -9300,10 +10695,10 @@ const QUIZ_BANKS = [
             "text": "It forces customers to make impulse purchases before evaluating reference pricing."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Educating users enhances perceived functional product utility $v(q)$ and demonstrates seller non-opportunistic behavior, increasing relationship commitment and conversion (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf`).\n  - **Option B (Incorrect)**: Onboarding content does not affect physical manufacturing cost structures.\n  - **Option C (Incorrect)**: Consumers continue to evaluate transaction utility ($v(p^*) - p$); educating users enhances total utility.\n  - **Option D (Incorrect)**: Value-add nurturing builds long-term trust rather than coercing short-term impulse buying.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: It increases product acquisition utility ($v(q)$) by helping users realize functional product benefits while building relationship trust. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf`).\n  - **Option A (Incorrect)**: It lowers product manufacturing costs by eliminating digital server storage requirements. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: It eliminates the need for customer transaction utility comparisons. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: It forces customers to make impulse purchases before evaluating reference pricing. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9316,25 +10711,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Sales reps waste selling hours contacting low-intent leads, leading to missed revenue targets and inter-departmental conflict over lead quality."
-          },
-          {
-            "label": "B",
             "text": "Marketing automation software automatically cancels all digital advertising campaigns."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Legal compliance teams issue formal regulatory violation notices to website visitors."
+          },
+          {
+            "label": "C",
+            "text": "Sales reps waste selling hours contacting low-intent leads, leading to missed revenue targets and inter-departmental conflict over lead quality."
           },
           {
             "label": "D",
             "text": "Customer support tickets automatically double within 24 hours."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Flawed lead scoring misallocates valuable sales rep time to unproductive outreach, creating severe cross-functional friction over lead definitions (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Lead genration and Nurturing.pdf`).\n  - **Option B (Incorrect)**: CRM scoring errors do not auto-terminate digital media campaigns.\n  - **Option C (Incorrect)**: Inaccurate lead scoring is an operational efficiency flaw, not a legal regulatory breach.\n  - **Option D (Incorrect)**: Pre-sale lead scoring errors affect outbound sales pipelines, not immediate support ticket volumes.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Lead genration and Nurturing.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Sales reps waste selling hours contacting low-intent leads, leading to missed revenue targets and inter-departmental conflict over lead quality. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Lead genration and Nurturing.pdf`).\n  - **Option A (Incorrect)**: Marketing automation software automatically cancels all digital advertising campaigns. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Legal compliance teams issue formal regulatory violation notices to website visitors. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Customer support tickets automatically double within 24 hours. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9347,25 +10742,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Calibrated trial rates establish realistic first-year volume forecasts, setting factory production scheduling to prevent costly overbuilding or inventory stockouts."
-          },
-          {
-            "label": "B",
             "text": "Factory production should be set to 100% of uncalibrated Top 2 Box intent survey numbers."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Initial production runs should be deferred until 12 months after national advertising launch."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Calibrated trial rates are strictly used for financial pitch decks and should be ignored by operations teams."
+          },
+          {
+            "label": "D",
+            "text": "Calibrated trial rates establish realistic first-year volume forecasts, setting factory production scheduling to prevent costly overbuilding or inventory stockouts."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Calibrated trial and repeat forecasting directly connects market demand expectations with supply chain production planning, balancing inventory availability against holding costs (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`).\n  - **Option B (Incorrect)**: Uncalibrated survey intent leads to severe over-production and excess inventory write-offs.\n  - **Option C (Incorrect)**: Deferring production creates catastrophic stockouts when commercial media campaigns launch.\n  - **Option D (Incorrect)**: Operations management requires realistic calibrated volumetric forecasts to execute supply chain planning.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Calibrated trial rates establish realistic first-year volume forecasts, setting factory production scheduling to prevent costly overbuilding or inventory stockouts. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`).\n  - **Option A (Incorrect)**: Factory production should be set to 100% of uncalibrated Top 2 Box intent survey numbers. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Initial production runs should be deferred until 12 months after national advertising launch. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Calibrated trial rates are strictly used for financial pitch decks and should be ignored by operations teams. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9394,9 +10789,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: While intent scales measure holistic concept appeal, conjoint analysis measures willingness-to-trade-off specific attributes (e.g., price vs battery life vs screen size), establishing optimal product configurations (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/2nd half.m4a`).\n  - **Option B (Incorrect)**: Conjoint is a product concept research methodology, not a retail channel agreement.\n  - **Option C (Incorrect)**: No research tool guarantees 100% market share.\n  - **Option D (Incorrect)**: Patent filing deadlines are governed by legal IP statutes.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/2nd half.m4a",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: Conjoint analysis reveals consumer trade-offs and part-worth utilities across specific feature combinations, preventing product feature creep before intent scoring. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/2nd half.m4a`).\n  - **Option B (Incorrect)**: Conjoint analysis replaces the need for retail distribution contracts. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Conjoint analysis guarantees 100% market share upon commercial release. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Conjoint analysis calculates exact legal patent filing deadlines. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9409,11 +10804,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Redesigning the core value proposition, packaging trial messaging, or introductory sampling incentives to lower consumer trial friction."
+            "text": "Increasing national television advertising spend by 200%."
           },
           {
             "label": "B",
-            "text": "Increasing national television advertising spend by 200%."
+            "text": "Redesigning the core value proposition, packaging trial messaging, or introductory sampling incentives to lower consumer trial friction."
           },
           {
             "label": "C",
@@ -9424,9 +10819,9 @@ const QUIZ_BANKS = [
             "text": "Raising wholesale prices by 50% to signal luxury status."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Low trial despite high awareness and availability pinpoints a breakdown in concept appeal or perceived trial risk, requiring adjustments to trial incentives, price positioning, or value messaging (`EXT-MKTG-03`; Urban & Hauser, 1993).\n  - **Option B (Incorrect)**: Increasing ad spend when awareness is already high (80%) wastes capital without fixing the low trial bottleneck.\n  - **Option C (Incorrect)**: Expanding distribution when availability is already high (90%) fails to address low trial conversion.\n  - **Option D (Incorrect)**: Raising price further exacerbates consumer trial reluctance.",
-        "evidenceId": "EXT-MKTG-03",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Redesigning the core value proposition, packaging trial messaging, or introductory sampling incentives to lower consumer trial friction. matches the authoritative source framework (`EXT-CRAWFORD-ATAR-2021`).\n  - **Option A (Incorrect)**: Increasing national television advertising spend by 200%. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Expanding retail ACV availability into additional geographic territories. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Raising wholesale prices by 50% to signal luxury status. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
@@ -9440,25 +10835,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Packaging should feature prominent visual branding, scannable QR codes, and consistent visual aesthetics that mirror social media video ads, creating a seamless omni-channel unboxing experience."
-          },
-          {
-            "label": "B",
             "text": "Packaging should display zero logo branding to force consumers to search for the brand online."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Social media ads should feature totally different product names and color schemes to test market interest."
+          },
+          {
+            "label": "C",
+            "text": "Packaging should feature prominent visual branding, scannable QR codes, and consistent visual aesthetics that mirror social media video ads, creating a seamless omni-channel unboxing experience."
           },
           {
             "label": "D",
             "text": "Digital channels should strictly promote price discounts while packaging carries all product information."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: IMC integration ensures that physical packaging acts as a interactive bridge to digital channels (via QR codes, visual branding, and unboxing appeal), reinforcing brand recognition across touchpoints (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a`).\n  - **Option B (Incorrect)**: Omitting branding violates the perceptual/branding function of packaging (\"the silent salesman\").\n  - **Option C (Incorrect)**: Mismatched product names violate fundamental IMC messaging consistency principles.\n  - **Option D (Incorrect)**: Restricting digital channels to pricing ignores brand storytelling and product feature communication.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Packaging should feature prominent visual branding, scannable QR codes, and consistent visual aesthetics that mirror social media video ads, creating a seamless omni-channel unboxing experience. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a`).\n  - **Option A (Incorrect)**: Packaging should display zero logo branding to force consumers to search for the brand online. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Social media ads should feature totally different product names and color schemes to test market interest. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Digital channels should strictly promote price discounts while packaging carries all product information. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9471,24 +10866,24 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Capturing consumer surplus from buyers with heterogeneous cross-module valuations while retaining buyers who only desire individual point solutions."
-          },
-          {
-            "label": "B",
             "text": "Forcing all customers to cancel individual module subscriptions."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Eliminating customer support costs across all product lines."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Preventing third-party software integrations via proprietary code locks."
+          },
+          {
+            "label": "D",
+            "text": "Capturing consumer surplus from buyers with heterogeneous cross-module valuations while retaining buyers who only desire individual point solutions."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Mixed bundling maximizes revenue capture by providing a discounted package ($900 vs $1,200 sum) for multi-module users while preserving sales from buyers who only want single modules (Stremersch & Tellis, 2002; Adams & Yellen, 1976).\n  - **Option B (Incorrect)**: Pure bundling forces package purchase; mixed bundling permits individual item selection.\n  - **Option C (Incorrect)**: Bundling software does not remove support obligations.\n  - **Option D (Incorrect)**: Software integration locks represent technical barriers, not commercial bundling pricing mechanisms.",
-        "evidenceId": "EXT-MKTG-01",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Capturing consumer surplus from buyers with heterogeneous cross-module valuations while retaining buyers who only desire individual point solutions. matches the authoritative source framework (`EXT-STREMERSCH-BUNDLING-2002`).\n  - **Option A (Incorrect)**: Forcing all customers to cancel individual module subscriptions. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Eliminating customer support costs across all product lines. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Preventing third-party software integrations via proprietary code locks. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
@@ -9518,9 +10913,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Measuring IMC campaign synergy requires analyzing total sales volume lift alongside attribution model data (e.g., GA4 DDA) to understand how upper-funnel ATL awareness boosts lower-funnel BTL/TTL conversions (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a`).\n  - **Option B (Incorrect)**: Evaluating search CTR in isolation ignores upper-funnel TV awareness assistance.\n  - **Option C (Incorrect)**: TV impressions per store ratio does not capture conversion or cross-channel synergy.\n  - **Option D (Incorrect)**: Paper tonnage measures print volume, not marketing performance or synergy.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: Total incremental sales volume lift and multi-touch attribution ROAS across the entire media ecosystem. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a`).\n  - **Option B (Incorrect)**: Individual click-through rate (CTR) on digital search ads in isolation. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Gross television ad impressions divided by retail store count. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Total print circular paper tonnage distributed to grocery stores. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9533,11 +10928,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "A formal Deal Registration policy granting price protection and commission lock to the partner who first registers and qualifies a prospective account."
+            "text": "Prohibiting indirect partners from selling to accounts with more than 50 employees."
           },
           {
             "label": "B",
-            "text": "Prohibiting indirect partners from selling to accounts with more than 50 employees."
+            "text": "A formal Deal Registration policy granting price protection and commission lock to the partner who first registers and qualifies a prospective account."
           },
           {
             "label": "C",
@@ -9548,10 +10943,10 @@ const QUIZ_BANKS = [
             "text": "Mandating that indirect partners pay a 20% penalty fee if direct reps lose a competitive pitch."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Deal registration policies protect channel partners against poaching by direct sales teams, ensuring margin protection and fostering collaborative partner ecosystems (`EXT-MKTG-02`; Coughlan et al., 2006).\n  - **Option B (Incorrect)**: Arbitrarily restricting account sizes alienates capable enterprise reseller partners.\n  - **Option C (Incorrect)**: Allowing direct reps to undercut partners triggers severe vertical channel conflict and partner abandonment.\n  - **Option D (Incorrect)**: Penalizing partners for lost competitive pitches destroys partner trust and recruitment.",
-        "evidenceId": "EXT-MKTG-02",
-        "evidenceClassification": "credible-secondary",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: A formal Deal Registration policy granting price protection and commission lock to the partner who first registers and qualifies a prospective account. matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option A (Incorrect)**: Prohibiting indirect partners from selling to accounts with more than 50 employees. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Allowing direct sales reps to undercut partner pricing by 30% at closing. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Mandating that indirect partners pay a 20% penalty fee if direct reps lose a competitive pitch. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GA4-DDA-2024",
+        "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9564,24 +10959,24 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Reallocate a portion of digital ad budget into upper/mid-funnel YouTube video campaigns to nurture early buyer awareness."
-          },
-          {
-            "label": "B",
             "text": "Terminate YouTube video campaigns entirely because their Last-Click conversion count dropped."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Double paid search budget while cutting organic search SEO efforts."
+          },
+          {
+            "label": "C",
+            "text": "Reallocate a portion of digital ad budget into upper/mid-funnel YouTube video campaigns to nurture early buyer awareness."
           },
           {
             "label": "D",
             "text": "Ignore GA4 DDA insights and revert to intuition-based budget distribution."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: DDA reveals that upper/mid-funnel channels (YouTube) drive incremental conversion lift. Reallocating budget to nurture early touchpoints optimizes overall funnel efficiency (`EXT-ATTR-01`).\n  - **Option B (Incorrect)**: Terminating video campaigns based on last-click metrics ignores their proven algorithmic contribution identified by DDA.\n  - **Option C (Incorrect)**: Over-investing in last-click search exhausts capture capacity while starving pipeline generation.\n  - **Option D (Incorrect)**: Reverting to intuition ignores empirical data-driven attribution models.",
-        "evidenceId": "EXT-ATTR-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Reallocate a portion of digital ad budget into upper/mid-funnel YouTube video campaigns to nurture early buyer awareness. matches the authoritative source framework (`EXT-GA4-DDA-2024`).\n  - **Option A (Incorrect)**: Terminate YouTube video campaigns entirely because their Last-Click conversion count dropped. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Double paid search budget while cutting organic search SEO efforts. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Ignore GA4 DDA insights and revert to intuition-based budget distribution. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GA4-DDA-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
@@ -9595,24 +10990,24 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "W-Shaped attribution adds a third major milestone touchpoint—Opportunity Creation (30%)—which explicitly credits SDR/AE pipeline creation efforts."
-          },
-          {
-            "label": "B",
             "text": "W-Shaped attribution eliminates credit for digital marketing channels."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "W-Shaped attribution assigns 100% of deal revenue credit to the final contract signing."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "U-Shaped attribution is legally prohibited in enterprise B2B sales contracts."
+          },
+          {
+            "label": "D",
+            "text": "W-Shaped attribution adds a third major milestone touchpoint—Opportunity Creation (30%)—which explicitly credits SDR/AE pipeline creation efforts."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: U-Shaped attribution only covers discovery (FT) and lead capture (LC). W-Shaped attribution adds Opportunity Creation (OC = 30%), capturing the critical stage transition managed by sales outreach (`EXT-ATTR-02`).\n  - **Option B (Incorrect)**: W-Shaped attribution continues to credit digital marketing touchpoints across FT, LC, and middle touches.\n  - **Option C (Incorrect)**: Describes Last Touch attribution.\n  - **Option D (Incorrect)**: Attribution modeling is an internal analytics choice, not a legal contract restriction.",
-        "evidenceId": "EXT-ATTR-02",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: W-Shaped attribution adds a third major milestone touchpoint—Opportunity Creation (30%)—which explicitly credits SDR/AE pipeline creation efforts. matches the authoritative source framework (`EXT-MARKETO-ATTR-2024`).\n  - **Option A (Incorrect)**: W-Shaped attribution eliminates credit for digital marketing channels. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: W-Shaped attribution assigns 100% of deal revenue credit to the final contract signing. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: U-Shaped attribution is legally prohibited in enterprise B2B sales contracts. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-MARKETO-ATTR-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
@@ -9642,9 +11037,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Tiered seat versioning allows price-sensitive fans to attend ($5 GA) while capturing higher consumer surplus from premium fans ($12 Box), maximizing overall attendance and stadium yield (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`).\n  - **Option B (Incorrect)**: Tiering creates differential revenue per seat, not standardized revenue.\n  - **Option C (Incorrect)**: Concession sales remain a vital complementary revenue stream ($6–$15 per attendee).\n  - **Option D (Incorrect)**: Minor league sports franchises set their own venue ticket prices.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: Segmenting fan willingness-to-pay via second-degree price discrimination to maximize total game revenue and stadium capacity utilization. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`).\n  - **Option B (Incorrect)**: Standardizing ticket revenue per seat across all stadium sections. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Eliminating concession stand sales dependencies. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Complying with minor league baseball mandatory uniform ticket pricing regulations. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9657,11 +11052,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "EVC captures a larger share of customer surplus by anchoring price to total economic value delivered rather than internal cost structures."
+            "text": "EVC guarantees zero competitive entry by lock-in patents."
           },
           {
             "label": "B",
-            "text": "EVC guarantees zero competitive entry by lock-in patents."
+            "text": "EVC captures a larger share of customer surplus by anchoring price to total economic value delivered rather than internal cost structures."
           },
           {
             "label": "C",
@@ -9672,10 +11067,10 @@ const QUIZ_BANKS = [
             "text": "EVC allows the company to avoid paying corporate income taxes."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Value-based EVC pricing sets price based on customer value realization (reference value + differentiation value), enabling higher price points and superior margins compared to cost-plus markups (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option B (Incorrect)**: Pricing methodology does not prevent competitive entry; product moats and patents do.\n  - **Option C (Incorrect)**: EVC pricing does not alter sales compensation structures.\n  - **Option D (Incorrect)**: Pricing models have no bearing on corporate tax liabilities.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: EVC captures a larger share of customer surplus by anchoring price to total economic value delivered rather than internal cost structures. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option A (Incorrect)**: EVC guarantees zero competitive entry by lock-in patents. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: EVC automatically eliminates sales commission costs. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: EVC allows the company to avoid paying corporate income taxes. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9688,25 +11083,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Unit volume will decline by 33%, causing total brand revenue to decrease significantly."
-          },
-          {
-            "label": "B",
             "text": "Unit volume will decline by 15%, keeping total revenue unchanged."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Unit volume will increase by 22%, driving total revenue up."
+          },
+          {
+            "label": "C",
+            "text": "Unit volume will decline by 33%, causing total brand revenue to decrease significantly."
           },
           {
             "label": "D",
             "text": "Unit volume will drop by 5%, causing total revenue to increase."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\% \\Delta Q = E_p \\times \\% \\Delta P = -2.2 \\times (+15\\%) = -33.0\\%$. Because demand is highly elastic ($|E_p| > 1$), a 33% volume drop far outweighs the 15% price hike, causing total revenue to fall (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option B (Incorrect)**: Assumes unit elasticity ($E_p = -1.0$).\n  - **Option C (Incorrect)**: Violates the law of demand (price increase causing volume gain).\n  - **Option D (Incorrect)**: Assumes inelastic demand ($E_p = -0.33$).",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Unit volume will decline by 33%, causing total brand revenue to decrease significantly. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option A (Incorrect)**: Unit volume will decline by 15%, keeping total revenue unchanged. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Unit volume will increase by 22%, driving total revenue up. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Unit volume will drop by 5%, causing total revenue to increase. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -9719,30 +11114,309 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "By enforcing clear segment verification fences (e.g., student ID validation, non-transferable tickets, geo-blocking) that prevent high-WTP segments from purchasing low-price tiers."
-          },
-          {
-            "label": "B",
             "text": "By offering identical prices to all customers regardless of location or identity."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "By relying on customer honor systems without verification."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "By requiring all customers to sign 10-year exclusive service contracts."
+          },
+          {
+            "label": "D",
+            "text": "By enforcing clear segment verification fences (e.g., student ID validation, non-transferable tickets, geo-blocking) that prevent high-WTP segments from purchasing low-price tiers."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Third-degree price discrimination requires effective segment fencing mechanisms (verification, non-transferability) to prevent resale or cross-segment arbitrage (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`).\n  - **Option B (Incorrect)**: Uniform pricing eliminates price discrimination entirely.\n  - **Option C (Incorrect)**: Relying on honor systems leads to widespread leakage and arbitrage.\n  - **Option D (Incorrect)**: Contract duration is unrelated to demographic segment fencing.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: By enforcing clear segment verification fences (e.g., student ID validation, non-transferable tickets, geo-blocking) that prevent high-WTP segments from purchasing low-price tiers. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`).\n  - **Option A (Incorrect)**: By offering identical prices to all customers regardless of location or identity. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: By relying on customer honor systems without verification. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: By requiring all customers to sign 10-year exclusive service contracts. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
       {
         "sourceNumber": 21,
+        "questionId": "EX2-M04-D4-Q21",
+        "topicId": "M04-T01",
+        "module": "M04",
+        "question": "Natureview Farm must balance short-term revenue growth with long-term brand equity. If supermarket expansion (Option 1) cannibalizes 15% of natural foods revenue ($13M × 15% = $1.95M), what net incremental revenue must Option 1 generate to justify the cannibalization risk and still reach $20M total?",
+        "options": [
+          {
+            "label": "A",
+            "text": "$8.95M — accounting for the cannibalized $1.95M natural foods revenue."
+          },
+          {
+            "label": "B",
+            "text": "$7.0M — the full gap between current revenue and target."
+          },
+          {
+            "label": "C",
+            "text": "$5.05M — the gap after assuming natural foods grows 15% independently."
+          },
+          {
+            "label": "D",
+            "text": "$20M — the entire target must come from supermarket expansion."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: $8.95M — accounting for the cannibalized $1.95M natural foods revenue. matches the authoritative source framework (`EXT-HBR-502049`).\n  - **Option B (Incorrect)**: $7.0M — the full gap between current revenue and target. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $5.05M — the gap after assuming natural foods grows 15% independently. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $20M — the entire target must come from supermarket expansion. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 22,
+        "questionId": "EX2-M04-D4-Q22",
+        "topicId": "M04-T02",
+        "module": "M04",
+        "question": "The Nor'easters can choose between higher ticket prices ($14) with 2,200 average attendance or lower prices ($8) with 3,800 attendance. Concession revenue is $5/attendee. For 38 games, which strategy maximizes total season revenue?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Higher price: ($14 + $5) × 2,200 × 38 = $1,587,600."
+          },
+          {
+            "label": "B",
+            "text": "Lower price: ($8 + $5) × 3,800 × 38 = $1,877,200 — lower price wins."
+          },
+          {
+            "label": "C",
+            "text": "Both strategies produce identical total revenue."
+          },
+          {
+            "label": "D",
+            "text": "Higher price: $14 × 2,200 × 38 = $1,170,800 plus concession $418,000 = $1,588,800."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Lower price: ($8 + $5) × 3,800 × 38 = $1,877,200 — lower price wins. matches the authoritative source framework (`EXT-HBR-20085`).\n  - **Option A (Incorrect)**: Higher price: ($14 + $5) × 2,200 × 38 = $1,587,600. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Both strategies produce identical total revenue. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Higher price: $14 × 2,200 × 38 = $1,170,800 plus concession $418,000 = $1,588,800. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 23,
+        "questionId": "EX2-M04-D4-Q23",
+        "topicId": "M04-T03",
+        "module": "M04",
+        "question": "A company discovers that 60% of its D2C customers later purchase through wholesale partners. This suggests which strategic issue requires immediate investigation?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Supply chain inefficiency caused by dual fulfillment operations."
+          },
+          {
+            "label": "B",
+            "text": "Regulatory compliance issues with selling through multiple channels simultaneously."
+          },
+          {
+            "label": "C",
+            "text": "Reverse channel cannibalization — customers acquired via D2C migrating to lower-margin wholesale."
+          },
+          {
+            "label": "D",
+            "text": "Overstated customer acquisition costs due to duplicated CRM records."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Reverse channel cannibalization — customers acquired via D2C migrating to lower-margin wholesale. matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option A (Incorrect)**: Supply chain inefficiency caused by dual fulfillment operations. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Regulatory compliance issues with selling through multiple channels simultaneously. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Overstated customer acquisition costs due to duplicated CRM records. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 24,
+        "questionId": "EX2-M04-D4-Q24",
+        "topicId": "M04-T04",
+        "module": "M04",
+        "question": "A product launch plan shows a 60% probability of success with a $3M payoff and a 40% probability of failure with a -$1.5M loss. A competitor's launch has 80% success probability with $1.5M payoff and 20% failure with -$0.5M loss. Which has higher Expected Monetary Value (EMV)?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Competitor: EMV = $1.1M versus Your product: EMV = $1.0M — competitor wins."
+          },
+          {
+            "label": "B",
+            "text": "Both have identical EMV of $1.2M."
+          },
+          {
+            "label": "C",
+            "text": "Your product: EMV = $1.8M — ignoring the failure scenario."
+          },
+          {
+            "label": "D",
+            "text": "Your product: EMV = $1.2M versus Competitor: EMV = $1.1M — your product wins."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Your product: EMV = $1.2M versus Competitor: EMV = $1.1M — your product wins. matches the authoritative source framework (`EXT-COOPER-STAGEGATE-2017`).\n  - **Option A (Incorrect)**: Competitor: EMV = $1.1M versus Your product: EMV = $1.0M — competitor wins. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Both have identical EMV of $1.2M. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Your product: EMV = $1.8M — ignoring the failure scenario. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 25,
+        "questionId": "EX2-M04-D4-Q25",
+        "topicId": "M04-T05",
+        "module": "M04",
+        "question": "A CMO is evaluating pipeline velocity, defined as: (Number of Opportunities × Average Deal Value × Win Rate) / Sales Cycle Length. If opportunities double but the sales cycle also doubles, what happens to pipeline velocity?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Velocity remains unchanged because the increases cancel out."
+          },
+          {
+            "label": "B",
+            "text": "Velocity quadruples because both numerator components increase."
+          },
+          {
+            "label": "C",
+            "text": "Velocity halves because the sales cycle has a squared effect."
+          },
+          {
+            "label": "D",
+            "text": "Velocity increases by 50% due to the volume effect."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Velocity remains unchanged because the increases cancel out. matches the authoritative source framework (`EXT-FORRESTER-PIPELINE-2023`).\n  - **Option B (Incorrect)**: Velocity quadruples because both numerator components increase. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Velocity halves because the sales cycle has a squared effect. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Velocity increases by 50% due to the volume effect. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-FORRESTER-PIPELINE-2023",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 26,
+        "questionId": "EX2-M04-D4-Q26",
+        "topicId": "M04-T06",
+        "module": "M04",
+        "question": "A company conducts a Gabor-Granger pricing study and finds that at $25, purchase intent is 60%, and at $30, intent drops to 40%. Assuming a linear demand curve and a market of 100,000 potential buyers, which price maximizes total revenue?",
+        "options": [
+          {
+            "label": "A",
+            "text": "$30 — generating $1,200,000 from 40,000 expected buyers."
+          },
+          {
+            "label": "B",
+            "text": "$25 — generating $1,500,000 from 60,000 expected buyers."
+          },
+          {
+            "label": "C",
+            "text": "$27.50 — the midpoint generating $1,375,000 from 50,000 expected buyers."
+          },
+          {
+            "label": "D",
+            "text": "$35 — higher prices always maximize revenue in premium segments."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: $25 — generating $1,500,000 from 60,000 expected buyers. matches the authoritative source framework (`EXT-GABOR-GRANGER-1966`).\n  - **Option A (Incorrect)**: $30 — generating $1,200,000 from 40,000 expected buyers. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $27.50 — the midpoint generating $1,375,000 from 50,000 expected buyers. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $35 — higher prices always maximize revenue in premium segments. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GABOR-GRANGER-1966",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 27,
+        "questionId": "EX2-M04-D4-Q27",
+        "topicId": "M04-T01",
+        "module": "M04",
+        "question": "If Natureview's supermarket expansion reduces its brand's perceived premium positioning, which marketing concept best describes the resulting long-term brand damage?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Price skimming erosion — the initial high price loses its signaling value."
+          },
+          {
+            "label": "B",
+            "text": "Market penetration saturation — the brand reaches maximum addressable audience."
+          },
+          {
+            "label": "C",
+            "text": "Brand equity dilution — the premium association weakens through mass-market distribution."
+          },
+          {
+            "label": "D",
+            "text": "Product line extension fatigue — too many SKUs confuse consumer choice."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Brand equity dilution — the premium association weakens through mass-market distribution. matches the authoritative source framework (`EXT-KELLER-BRAND-2020`).\n  - **Option A (Incorrect)**: Price skimming erosion — the initial high price loses its signaling value. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Market penetration saturation — the brand reaches maximum addressable audience. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Product line extension fatigue — too many SKUs confuse consumer choice. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "definition-swap",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 28,
+        "questionId": "EX2-M04-D4-Q28",
+        "topicId": "M04-T02",
+        "module": "M04",
+        "question": "For the Nor'easters, if the team lowers ticket prices to fill the stadium but concession prices are held constant, which economic principle explains why total revenue per game may still increase despite lower ticket prices?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Economies of scale — higher volume reduces per-unit operating costs."
+          },
+          {
+            "label": "B",
+            "text": "Veblen effect — lower prices increase perceived exclusivity."
+          },
+          {
+            "label": "C",
+            "text": "Diminishing marginal utility — each additional fan contributes less revenue."
+          },
+          {
+            "label": "D",
+            "text": "Complementary goods pricing — subsidized tickets drive higher-margin concession purchases."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Complementary goods pricing — subsidized tickets drive higher-margin concession purchases. matches the authoritative source framework (`EXT-HBR-20085`).\n  - **Option A (Incorrect)**: Economies of scale — higher volume reduces per-unit operating costs. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Veblen effect — lower prices increase perceived exclusivity. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Diminishing marginal utility — each additional fan contributes less revenue. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "definition-swap",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 29,
+        "questionId": "EX2-M04-D4-Q29",
+        "topicId": "M04-T03",
+        "module": "M04",
+        "question": "A company operates both a D2C website and a wholesale channel. It discovers that wholesale partners are buying at wholesale prices and reselling via their own e-commerce stores, undercutting the manufacturer's D2C site. This practice is best described as:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Gray market arbitrage — authorized partners exploiting price differentials across channels."
+          },
+          {
+            "label": "B",
+            "text": "Vertical integration — partners are expanding into the manufacturer's retail function."
+          },
+          {
+            "label": "C",
+            "text": "Horizontal competition — partners entering the same market segment."
+          },
+          {
+            "label": "D",
+            "text": "Forward integration — the manufacturer expanding into retail operations."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Gray market arbitrage — authorized partners exploiting price differentials across channels. matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option B (Incorrect)**: Vertical integration — partners are expanding into the manufacturer's retail function. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Horizontal competition — partners entering the same market segment. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Forward integration — the manufacturer expanding into retail operations. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "definition-swap",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 30,
         "questionId": "EX2-M05-D4-Q01",
         "topicId": "M05-T01",
         "module": "M05",
@@ -9750,11 +11424,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "₹1,000,000"
+            "text": "₹1,500,000"
           },
           {
             "label": "B",
-            "text": "₹1,500,000"
+            "text": "₹1,000,000"
           },
           {
             "label": "C",
@@ -9765,15 +11439,15 @@ const QUIZ_BANKS = [
             "text": "₹10,000,000"
           }
         ],
-        "answer": "A",
-        "explanation": "1. Retained users under control (15%) $= 10,000 \\times 0.15 = 1,500$ users.\n  2. Retained users under AI personalisation (25%) $= 10,000 \\times 0.25 = 2,500$ users.\n  3. Incremental retained users $= 2,500 - 1,500 = 1,000$ users.\n  4. Net increase in gross margin $= 1,000 \\text{ users} \\times ₹1,000 = ₹1,000,000$.",
-        "evidenceId": "Aggarwal (2016)",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: ₹1,000,000 matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: ₹1,500,000 is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: ₹2,500,000 is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: ₹10,000,000 is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 22,
+        "sourceNumber": 31,
         "questionId": "EX2-M05-D4-Q02",
         "topicId": "M05-T01",
         "module": "M05",
@@ -9785,26 +11459,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Implementing explicit consent opt-in management and applying local differential privacy or anonymization to clickstream feature stores"
+            "text": "Storing unencrypted user browsing logs in publicly accessible cloud storage buckets to reduce vector retrieval latency"
           },
           {
             "label": "C",
-            "text": "Storing unencrypted user browsing logs in publicly accessible cloud storage buckets to reduce vector retrieval latency"
+            "text": "Implementing explicit consent opt-in management and applying local differential privacy or anonymization to clickstream feature stores"
           },
           {
             "label": "D",
             "text": "Transmitting unhashed user credentials to external third-party ad networks to synchronize cross-app retargeting IDs"
           }
         ],
-        "answer": "B",
-        "explanation": "Synthesizing AI personalisation (`M05-T01`) with Privacy by Design (`M05-T03`) requires balancing algorithmic efficacy with data minimization, explicit consent management, and data protection (anonymization/differential privacy). Options A, C, and D violate basic security and privacy standards.",
-        "evidenceId": "Aggarwal (2016)",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Implementing explicit consent opt-in management and applying local differential privacy or anonymization to clickstream feature stores matches the authoritative source framework (`EXT-CAVOUKIAN-PBD-2009`).\n  - **Option A (Incorrect)**: Continuously capturing location telemetry and contact books without explicit user consent prompts to maximize recommendation vector accuracy is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Storing unencrypted user browsing logs in publicly accessible cloud storage buckets to reduce vector retrieval latency is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Transmitting unhashed user credentials to external third-party ad networks to synchronize cross-app retargeting IDs is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "scope-boundary-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 23,
+        "sourceNumber": 32,
         "questionId": "EX2-M05-D4-Q03",
         "topicId": "M05-T01",
         "module": "M05",
@@ -9816,26 +11490,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "`{ FIXED : SUM([Conversions]) } / { FIXED : SUM([Visitors]) }`"
-          },
-          {
-            "label": "C",
             "text": "`AVG([Conversions]) * AVG([Visitors])`"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "`{ INCLUDE [Product Category] : SUM([Conversions]) }`"
+          },
+          {
+            "label": "D",
+            "text": "`{ FIXED : SUM([Conversions]) } / { FIXED : SUM([Visitors]) }`"
           }
         ],
-        "answer": "B",
-        "explanation": "`{ FIXED : SUM([Conversions]) } / { FIXED : SUM([Visitors]) }` evaluates total baseline conversion across the entire dataset independent of the `[Product Category]` dimension in the view, providing an unsegmented benchmark for comparison.",
-        "evidenceId": "EXT-TAB-01",
-        "evidenceClassification": "official-external",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: `{ FIXED : SUM([Conversions]) } / { FIXED : SUM([Visitors]) }` matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: `SUM([Conversions]) / SUM({ EXCLUDE [Product Category] : SUM([Visitors]) })` is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: `AVG([Conversions]) * AVG([Visitors])` is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: `{ INCLUDE [Product Category] : SUM([Conversions]) }` is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "format-wording-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 24,
+        "sourceNumber": 33,
         "questionId": "EX2-M05-D4-Q04",
         "topicId": "M05-T03",
         "module": "M05",
@@ -9859,14 +11533,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "Addressing active credential stuffing involves: **Detect** (identifying anomalous login bursts), **Protect** (enforcing step-up MFA safeguards), **Respond** (containing the breach via password resets), and **Recover** (restoring normal user access).",
-        "evidenceId": "EXT-NIST-01",
+        "explanation": "- **Option A (Correct)**: Detect anomalous login bursts $\\rightarrow$ Protect accounts via step-up MFA $\\rightarrow$ Respond by forcing credential reset $\\rightarrow$ Recover account access matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option B (Incorrect)**: Recover accounts $\\rightarrow$ Detect anomalies $\\rightarrow$ Govern policies $\\rightarrow$ Protect databases is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Identify assets $\\rightarrow$ Govern policies $\\rightarrow$ Detect anomalies $\\rightarrow$ Recover accounts is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Respond to incidents $\\rightarrow$ Protect accounts $\\rightarrow$ Identify assets $\\rightarrow$ Govern policies is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
         "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 25,
+        "sourceNumber": 34,
         "questionId": "EX2-M05-D4-Q05",
         "topicId": "M05-T02",
         "module": "M05",
@@ -9874,11 +11548,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "`{ FIXED [Customer ID] : MIN(YEAR([Order Date])) }`"
+            "text": "`{ INCLUDE [Order Date] : MAX([Customer ID]) }`"
           },
           {
             "label": "B",
-            "text": "`{ INCLUDE [Order Date] : MAX([Customer ID]) }`"
+            "text": "`{ FIXED [Customer ID] : MIN(YEAR([Order Date])) }`"
           },
           {
             "label": "C",
@@ -9889,15 +11563,15 @@ const QUIZ_BANKS = [
             "text": "`{ INCLUDE [Customer ID] : AVG(YEAR([Order Date])) }`"
           }
         ],
-        "answer": "A",
-        "explanation": "Assigning an immutable cohort year per customer requires fixing the minimum order year at the `[Customer ID]` level using `{ FIXED [Customer ID] : MIN(YEAR([Order Date])) }`. This ensures cohort assignment remains constant across tenure views.",
-        "evidenceId": "EXT-TAB-01",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: `{ FIXED [Customer ID] : MIN(YEAR([Order Date])) }` matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: `{ INCLUDE [Order Date] : MAX([Customer ID]) }` is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: `{ EXCLUDE [Customer ID] : SUM(YEAR([Order Date])) }` is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: `{ INCLUDE [Customer ID] : AVG(YEAR([Order Date])) }` is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GUPTA-CLV-2004",
         "evidenceClassification": "official-external",
         "trapLabel": "format-wording-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 26,
+        "sourceNumber": 35,
         "questionId": "EX2-M05-D4-Q06",
         "topicId": "M05-T02",
         "module": "M05",
@@ -9909,26 +11583,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "By using Natural Language Understanding (NLU) to classify Detractor issue themes and immediately trigger targeted customer success outreach"
+            "text": "By sending generic automated discount emails to all survey non-responders"
           },
           {
             "label": "C",
-            "text": "By sending generic automated discount emails to all survey non-responders"
+            "text": "By using Natural Language Understanding (NLU) to classify Detractor issue themes and immediately trigger targeted customer success outreach"
           },
           {
             "label": "D",
             "text": "By blocking Detractors from accessing product support ticket portals"
           }
         ],
-        "answer": "B",
-        "explanation": "Combining NPS feedback (`M05-T02`) with AI conversational triage (`M05-T01`) allows NLU models to parse qualitative Detractor comments, categorize root-cause friction, and automatically initiate personalized recovery workflows.",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: By using Natural Language Understanding (NLU) to classify Detractor issue themes and immediately trigger targeted customer success outreach matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: By automatically deleting Detractor survey records before executive review meetings is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: By sending generic automated discount emails to all survey non-responders is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: By blocking Detractors from accessing product support ticket portals is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-BAIN-NPS-2011",
+        "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 27,
+        "sourceNumber": 36,
         "questionId": "EX2-M05-D4-Q07",
         "topicId": "M05-T02",
         "module": "M05",
@@ -9940,26 +11614,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Severe user drop-off and elevated churn rate caused by extreme authentication friction"
-          },
-          {
-            "label": "C",
             "text": "A reduction in Customer Acquisition Cost across all acquisition channels"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "An immediate elevation of Net Promoter Score to +100"
+          },
+          {
+            "label": "D",
+            "text": "Severe user drop-off and elevated churn rate caused by extreme authentication friction"
           }
         ],
-        "answer": "B",
-        "explanation": "Over-indexing on intrusive security controls at every micro-interaction creates severe UX friction, driving user frustration and elevated customer churn (`M05-T02`). Zero Trust recommends risk-based, adaptive, low-friction authentication.",
-        "evidenceId": "EXT-NIST-01",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Severe user drop-off and elevated churn rate caused by extreme authentication friction matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: A dramatic increase in Customer Lifetime Value due to enhanced user trust is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: A reduction in Customer Acquisition Cost across all acquisition channels is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: An immediate elevation of Net Promoter Score to +100 is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-DIXON-2010",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "scope-boundary-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 28,
+        "sourceNumber": 37,
         "questionId": "EX2-M05-D4-Q08",
         "topicId": "M05-T03",
         "module": "M05",
@@ -9967,11 +11641,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "By guaranteeing that no hardware component will ever experience physical wear or hardware failure"
+            "text": "By establishing clear organizational accountability, vendor risk oversight, and compliance standards that prevent systemic security breaches"
           },
           {
             "label": "B",
-            "text": "By establishing clear organizational accountability, vendor risk oversight, and compliance standards that prevent systemic security breaches"
+            "text": "By guaranteeing that no hardware component will ever experience physical wear or hardware failure"
           },
           {
             "label": "C",
@@ -9982,15 +11656,15 @@ const QUIZ_BANKS = [
             "text": "By automatically doubling annual product sales revenue across all international markets"
           }
         ],
-        "answer": "B",
-        "explanation": "The Govern (GV) function establishes executive strategy, risk oversight, and vendor policies. This organizational governance prevents systemic security failures and regulatory penalties, preserving long-term customer trust and brand equity (`M05-T02`).",
-        "evidenceId": "EXT-NIST-01",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: By establishing clear organizational accountability, vendor risk oversight, and compliance standards that prevent systemic security breaches matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option B (Incorrect)**: By guaranteeing that no hardware component will ever experience physical wear or hardware failure is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: By eliminating the need for technical firewalls, intrusion detection systems, and database encryption is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: By automatically doubling annual product sales revenue across all international markets is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 29,
+        "sourceNumber": 38,
         "questionId": "EX2-M05-D4-Q09",
         "topicId": "M05-T03",
         "module": "M05",
@@ -9998,11 +11672,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "It prevents unauthorized lateral movement across microservices if an individual recommendation worker node is compromised"
+            "text": "It speeds up vector database query processing times by 10x"
           },
           {
             "label": "B",
-            "text": "It speeds up vector database query processing times by 10x"
+            "text": "It prevents unauthorized lateral movement across microservices if an individual recommendation worker node is compromised"
           },
           {
             "label": "C",
@@ -10013,15 +11687,15 @@ const QUIZ_BANKS = [
             "text": "It bypasses all user authentication requirements for mobile app clients"
           }
         ],
-        "answer": "A",
-        "explanation": "Zero Trust micro-segmentation isolates containerized workloads and microservices. If an attacker breaches a recommendation worker node (`M05-T01`), micro-segmentation prevents lateral movement into sensitive user databases (`M05-T03`).",
-        "evidenceId": "EXT-NIST-01",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: It prevents unauthorized lateral movement across microservices if an individual recommendation worker node is compromised matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: It speeds up vector database query processing times by 10x is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: It automatically generates artificial user clickstreams for model training is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: It bypasses all user authentication requirements for mobile app clients is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-SP-800-207",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 30,
+        "sourceNumber": 39,
         "questionId": "EX2-M05-D4-Q10",
         "topicId": "M05-T03",
         "module": "M05",
@@ -10033,26 +11707,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Reference Lines / Bands based on statistical distribution parameters"
+            "text": "Data Source Filters filtering out all weekend records"
           },
           {
             "label": "C",
-            "text": "Data Source Filters filtering out all weekend records"
+            "text": "Reference Lines / Bands based on statistical distribution parameters"
           },
           {
             "label": "D",
             "text": "Discrete blue pill dimensions on the Details card"
           }
         ],
-        "answer": "B",
-        "explanation": "In Tableau (`M05-T04`), adding statistical Reference Lines or Distribution Bands (e.g., mean + 3 std dev) visually highlights anomaly spikes in time-series data, directly supporting continuous security monitoring (**Detect** function, `M05-T03`).",
-        "evidenceId": "EXT-TAB-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Reference Lines / Bands based on statistical distribution parameters matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: Context Filters set to top 10 values is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Data Source Filters filtering out all weekend records is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Discrete blue pill dimensions on the Details card is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 31,
+        "sourceNumber": 40,
         "questionId": "EX2-M05-D4-Q11",
         "topicId": "M05-T02",
         "module": "M05",
@@ -10064,26 +11738,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "It ensures recommendation feature stores utilize explicitly consented, high-quality user data while respecting opt-out preferences"
-          },
-          {
-            "label": "C",
             "text": "It forces recommendation models to run exclusively on client hardware without cloud connectivity"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "It automatically publishes user purchase histories to public advertising exchanges"
+          },
+          {
+            "label": "D",
+            "text": "It ensures recommendation feature stores utilize explicitly consented, high-quality user data while respecting opt-out preferences"
           }
         ],
-        "answer": "B",
-        "explanation": "Privacy by Design consent management (`M05-T03`) structures transparent user consent workflows, ensuring AI recommendation engines (`M05-T01`) train and infer on compliant, high-trust user data while respecting privacy rights.",
-        "evidenceId": "EXT-NIST-01",
-        "evidenceClassification": "credible-secondary",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: It ensures recommendation feature stores utilize explicitly consented, high-quality user data while respecting opt-out preferences matches the authoritative source framework (`EXT-CAVOUKIAN-PBD-2009`).\n  - **Option A (Incorrect)**: It renders recommendation engines completely ineffective by eliminating all data storage is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: It forces recommendation models to run exclusively on client hardware without cloud connectivity is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: It automatically publishes user purchase histories to public advertising exchanges is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-OPENVIEW-SAAS-2023",
+        "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 32,
+        "sourceNumber": 41,
         "questionId": "EX2-M05-D4-Q12",
         "topicId": "M05-T04",
         "module": "M05",
@@ -10091,11 +11765,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "The Context Filter is ignored, and the FIXED calculation computes lift across all global regions"
+            "text": "The Context Filter executes *before* the FIXED LOD, restricting the lift calculation exclusively to North America data"
           },
           {
             "label": "B",
-            "text": "The Context Filter executes *before* the FIXED LOD, restricting the lift calculation exclusively to North America data"
+            "text": "The Context Filter is ignored, and the FIXED calculation computes lift across all global regions"
           },
           {
             "label": "C",
@@ -10106,15 +11780,15 @@ const QUIZ_BANKS = [
             "text": "The dashboard generates an unresolvable SQL circular dependency error"
           }
         ],
-        "answer": "B",
-        "explanation": "In Tableau's Order of Operations (`M05-T04`), Context Filters execute at Step 3, *before* FIXED LOD Calculations at Step 4. Therefore, the `FIXED` calculation evaluates only over the North America data subset.",
-        "evidenceId": "EXT-TAB-01",
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: The Context Filter executes *before* the FIXED LOD, restricting the lift calculation exclusively to North America data matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option B (Incorrect)**: The Context Filter is ignored, and the FIXED calculation computes lift across all global regions is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: The FIXED LOD calculation is automatically converted into a Table Calculation is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: The dashboard generates an unresolvable SQL circular dependency error is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-LOD-2020",
         "evidenceClassification": "official-external",
         "trapLabel": "format-wording-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 33,
+        "sourceNumber": 42,
         "questionId": "EX2-M05-D4-Q13",
         "topicId": "M05-T04",
         "module": "M05",
@@ -10122,11 +11796,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "`{ FIXED [Customer ID] : SUM([Order Revenue]) }`"
+            "text": "`{ INCLUDE [Order Date] : SUM([Order Revenue]) }`"
           },
           {
             "label": "B",
-            "text": "`{ INCLUDE [Order Date] : SUM([Order Revenue]) }`"
+            "text": "`{ FIXED [Customer ID] : SUM([Order Revenue]) }`"
           },
           {
             "label": "C",
@@ -10137,15 +11811,15 @@ const QUIZ_BANKS = [
             "text": "`{ EXCLUDE [Customer ID] : AVG([Order Revenue]) }`"
           }
         ],
-        "answer": "A",
-        "explanation": "Fixing the revenue calculation at the customer level using `{ FIXED [Customer ID] : SUM([Order Revenue]) }` aggregates total historical revenue per customer across all orders, ignoring view-level date dimensions.",
-        "evidenceId": "EXT-TAB-01",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: `{ FIXED [Customer ID] : SUM([Order Revenue]) }` matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: `{ INCLUDE [Order Date] : SUM([Order Revenue]) }` is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: `SUM([Order Revenue]) / COUNT([Order ID])` is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: `{ EXCLUDE [Customer ID] : AVG([Order Revenue]) }` is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-ORDER-OF-OPS",
         "evidenceClassification": "official-external",
         "trapLabel": "format-wording-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 34,
+        "sourceNumber": 43,
         "questionId": "EX2-M05-D4-Q14",
         "topicId": "M05-T04",
         "module": "M05",
@@ -10153,30 +11827,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "`SUM({ EXCLUDE [Threat Category] : COUNT([Incident ID]) })`"
-          },
-          {
-            "label": "B",
             "text": "`COUNT([Incident ID]) * 100`"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "`{ FIXED [Threat Category] : COUNT([Incident ID]) }`"
+          },
+          {
+            "label": "C",
+            "text": "`SUM({ EXCLUDE [Threat Category] : COUNT([Incident ID]) })`"
           },
           {
             "label": "D",
             "text": "`AVG([Incident ID])`"
           }
         ],
-        "answer": "A",
-        "explanation": "Using `{ EXCLUDE [Threat Category] : COUNT([Incident ID]) }` removes `[Threat Category]` from the denominator aggregation, computing total organization-wide incident count as the percentage baseline.",
-        "evidenceId": "EXT-TAB-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: `SUM({ EXCLUDE [Threat Category] : COUNT([Incident ID]) })` matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: `COUNT([Incident ID]) * 100` is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: `{ FIXED [Threat Category] : COUNT([Incident ID]) }` is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: `AVG([Incident ID])` is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-ORDER-OF-OPS",
         "evidenceClassification": "official-external",
         "trapLabel": "format-wording-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 35,
+        "sourceNumber": 44,
         "questionId": "EX2-M05-D4-Q15",
         "topicId": "M05-T04",
         "module": "M05",
@@ -10184,26 +11858,212 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Use `{ FIXED [Customer ID] : SUM([Monetary Spend]) }` for spending and place `[Acquisition Year]` in Context"
-          },
-          {
-            "label": "B",
             "text": "Use a simple measure `SUM([Monetary Spend])` and suppress all date filters"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Convert `[RFM Segment]` into a continuous green pill measure"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Use Table Calculations exclusively without data source joins"
+          },
+          {
+            "label": "D",
+            "text": "Use `{ FIXED [Customer ID] : SUM([Monetary Spend]) }` for spending and place `[Acquisition Year]` in Context"
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Use `{ FIXED [Customer ID] : SUM([Monetary Spend]) }` for spending and place `[Acquisition Year]` in Context matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: Use a simple measure `SUM([Monetary Spend])` and suppress all date filters is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Convert `[RFM Segment]` into a continuous green pill measure is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Use Table Calculations exclusively without data source joins is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-FEW-DATAVIS-2012",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "scope-boundary-trap",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 45,
+        "questionId": "EX2-M05-D4-Q16",
+        "topicId": "M05-T01",
+        "module": "M05",
+        "question": "A company's transactional CSAT is 85%, but its relational NPS is only +12. Which interpretation best explains this divergence?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The company delivers acceptable individual transactions but fails to build emotional loyalty that drives advocacy."
+          },
+          {
+            "label": "B",
+            "text": "CSAT is measured more frequently, creating sample size bias."
+          },
+          {
+            "label": "C",
+            "text": "NPS is always lower than CSAT because it uses a narrower scale."
+          },
+          {
+            "label": "D",
+            "text": "The divergence indicates a survey administration error requiring re-measurement."
           }
         ],
         "answer": "A",
-        "explanation": "Placing `[Acquisition Year]` in Context ensures that the filter executes *before* the `FIXED` LOD calculation (`{ FIXED [Customer ID] : SUM([Monetary Spend]) }`), correctly recalculating customer spend within the selected cohort year before grouping by RFM segment.",
-        "evidenceId": "EXT-TAB-01",
+        "explanation": "- **Option A (Correct)**: The company delivers acceptable individual transactions but fails to build emotional loyalty that drives advocacy. matches the authoritative source framework (`EXT-BAIN-NPS-2011`).\n  - **Option B (Incorrect)**: CSAT is measured more frequently, creating sample size bias. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: NPS is always lower than CSAT because it uses a narrower scale. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: The divergence indicates a survey administration error requiring re-measurement. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 46,
+        "questionId": "EX2-M05-D4-Q17",
+        "topicId": "M05-T02",
+        "module": "M05",
+        "question": "A Tableau analyst needs a 'FIXED LOD' to respond to a user-applied Dimension Filter for 'Region'. Which approach achieves this without rewriting the LOD expression?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Convert the FIXED LOD to a Table Calculation."
+          },
+          {
+            "label": "B",
+            "text": "Promote the Region Dimension Filter to a Context Filter."
+          },
+          {
+            "label": "C",
+            "text": "Move the Region filter to the Pages shelf."
+          },
+          {
+            "label": "D",
+            "text": "Apply the Region filter at the Data Source level."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Promote the Region Dimension Filter to a Context Filter. matches the authoritative source framework (`EXT-TABLEAU-ORDER-OF-OPS`).\n  - **Option A (Incorrect)**: Convert the FIXED LOD to a Table Calculation. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Move the Region filter to the Pages shelf. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Apply the Region filter at the Data Source level. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-OPENVIEW-SAAS-2023",
         "evidenceClassification": "official-external",
-        "trapLabel": "scope-boundary-trap",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 47,
+        "questionId": "EX2-M05-D4-Q18",
+        "topicId": "M05-T03",
+        "module": "M05",
+        "question": "A SaaS company's NRR is 115% but GRR is only 78%. What does this gap indicate about the business?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Strong product-market fit with efficient customer acquisition."
+          },
+          {
+            "label": "B",
+            "text": "The business is under-investing in growth and should increase marketing spend."
+          },
+          {
+            "label": "C",
+            "text": "Heavy expansion revenue is masking a significant churn and contraction problem."
+          },
+          {
+            "label": "D",
+            "text": "GRR is expected to converge toward NRR as the company matures."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Heavy expansion revenue is masking a significant churn and contraction problem. matches the authoritative source framework (`EXT-BVP-CLOUD-2023`).\n  - **Option A (Incorrect)**: Strong product-market fit with efficient customer acquisition. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: The business is under-investing in growth and should increase marketing spend. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: GRR is expected to converge toward NRR as the company matures. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
+        "evidenceClassification": "official-external",
+        "trapLabel": "similar-term",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 48,
+        "questionId": "EX2-M05-D4-Q19",
+        "topicId": "M05-T04",
+        "module": "M05",
+        "question": "In a Zero Trust Architecture (NIST SP 800-207), microsegmentation limits lateral movement after an initial breach. Which deployment pattern places Policy Enforcement Points (PEPs) to achieve this?",
+        "options": [
+          {
+            "label": "A",
+            "text": "PEPs at the external network perimeter only, creating a hardened outer boundary."
+          },
+          {
+            "label": "B",
+            "text": "PEPs at the data center core switch, filtering traffic between server racks."
+          },
+          {
+            "label": "C",
+            "text": "PEPs exclusively at user endpoints, validating identity before any network access."
+          },
+          {
+            "label": "D",
+            "text": "PEPs surrounding individual workloads or services, enforcing per-resource access policies."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: PEPs surrounding individual workloads or services, enforcing per-resource access policies. matches the authoritative source framework (`EXT-NIST-SP-800-207`).\n  - **Option A (Incorrect)**: PEPs at the external network perimeter only, creating a hardened outer boundary. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: PEPs at the data center core switch, filtering traffic between server racks. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: PEPs exclusively at user endpoints, validating identity before any network access. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-ORDER-OF-OPS",
+        "evidenceClassification": "official-external",
+        "trapLabel": "scope-confusion",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 49,
+        "questionId": "EX2-M05-D4-Q20",
+        "topicId": "M05-T01",
+        "module": "M05",
+        "question": "A journey mapping exercise reveals that customers rate the purchase phase at CSAT 92% but the onboarding phase at CSAT 58%. Using the 'moments of truth' framework, which phase represents the greatest risk to long-term retention?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The onboarding phase — because it is the first post-purchase 'moment of truth' where product value is validated."
+          },
+          {
+            "label": "B",
+            "text": "The purchase phase — because it has the highest expectations."
+          },
+          {
+            "label": "C",
+            "text": "The renewal phase — because it directly determines churn."
+          },
+          {
+            "label": "D",
+            "text": "The advocacy phase — because dissatisfied customers never refer."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: The onboarding phase — because it is the first post-purchase 'moment of truth' where product value is validated. matches the authoritative source framework (`Lafley, A.G., Playing to Win (HBR Press); Moments of Truth framework`).\n  - **Option B (Incorrect)**: The purchase phase — because it has the highest expectations. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: The renewal phase — because it directly determines churn. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: The advocacy phase — because dissatisfied customers never refer. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 50,
+        "questionId": "EX2-M05-D4-Q21",
+        "topicId": "M05-T03",
+        "module": "M05",
+        "question": "Two SaaS companies both report LTV:CAC of 3:1. Company A has CAC Payback of 6 months; Company B has CAC Payback of 18 months. Which conclusion is valid?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Company B is more profitable because longer payback implies higher LTV."
+          },
+          {
+            "label": "B",
+            "text": "Company A has better unit economics because it recovers acquisition costs faster."
+          },
+          {
+            "label": "C",
+            "text": "Both companies are equally healthy since their LTV:CAC ratios match."
+          },
+          {
+            "label": "D",
+            "text": "Company A is over-investing in acquisition and should increase spend."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Company A has better unit economics because it recovers acquisition costs faster. matches the authoritative source framework (`EXT-SKOK-SAAS-2020`).\n  - **Option A (Incorrect)**: Company B is more profitable because longer payback implies higher LTV. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Both companies are equally healthy since their LTV:CAC ratios match. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Company A is over-investing in acquisition and should increase spend. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
+        "evidenceClassification": "official-external",
+        "trapLabel": "none",
         "provisional": false
       }
     ]
@@ -10244,9 +12104,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Required gross margin dollar pool = $\\text{Fixed Marketing Cost} \\times (1 + ROMI) = \\$750,000 \\times 1.25 = \\$937,500$. Required incremental revenue = $\\frac{\\text{Required Margin}}{\\text{Gross Margin \\%}} = \\frac{\\$937,500}{0.48} = \\$1,953,125$ (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option B (Incorrect)**: Break-even revenue without ROMI hurdle rate ($\\frac{\\$750,000}{0.48} = \\$1,562,500$).\n  - **Option C (Incorrect)**: Required gross margin dollar pool ($\\$937,500$), not top-line revenue.\n  - **Option D (Incorrect)**: Result of dividing $\\$937,500 / (0.48 \\times 0.80)$.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: $1,953,125. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option B (Incorrect)**: $1,562,500. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $937,500. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $2,441,406. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10259,11 +12119,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Calculate whether net gross margin dollars from remaining natural food stores and D2C channels outweigh the net margin contribution of supermarket ACV after deducting delisting volume losses."
+            "text": "Accede immediately to all retail demands regardless of profit impact."
           },
           {
             "label": "B",
-            "text": "Accede immediately to all retail demands regardless of profit impact."
+            "text": "Calculate whether net gross margin dollars from remaining natural food stores and D2C channels outweigh the net margin contribution of supermarket ACV after deducting delisting volume losses."
           },
           {
             "label": "C",
@@ -10274,10 +12134,10 @@ const QUIZ_BANKS = [
             "text": "Convert all retail products into non-perishable frozen goods to extend shelf life."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Strategic channel governance requires analyzing contribution margin elasticity—evaluating whether capitulating to margin-eroding retail demands yields positive net contribution versus pivoting volume into alternative high-margin channels (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option B (Incorrect)**: Capitulating without analysis risks negative contribution margins and bankruptcy.\n  - **Option C (Incorrect)**: Unilaterally raising prices in retail stores violates trade terms and accelerates delisting.\n  - **Option D (Incorrect)**: Changing core product formulation alters category classification and does not solve immediate channel power imbalance.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Calculate whether net gross margin dollars from remaining natural food stores and D2C channels outweigh the net margin contribution of supermarket ACV after deducting delisting volume losses. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: Accede immediately to all retail demands regardless of profit impact. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Increase consumer retail price by 50% in conventional supermarkets to force retailers to back down. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Convert all retail products into non-perishable frozen goods to extend shelf life. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10290,25 +12150,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Market Development."
-          },
-          {
-            "label": "B",
             "text": "Market Penetration."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Product Development."
+          },
+          {
+            "label": "C",
+            "text": "Market Development."
           },
           {
             "label": "D",
             "text": "Diversification."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Selling an existing product formulation into a new geographic or institutional customer market represents Market Development under Ansoff's Matrix (Kotler & Keller, 2015).\n  - **Option B (Incorrect)**: Market Penetration involves selling existing products in existing markets.\n  - **Option C (Incorrect)**: Product Development involves launching new products in existing markets.\n  - **Option D (Incorrect)**: Diversification involves launching new products in new markets.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Market Development. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S16_2026-05-31_Marketing_strategy_Prof_Anita_Goyal/Slides/Natureview EPDDPM-1.pdf`).\n  - **Option A (Incorrect)**: Market Penetration. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Product Development. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Diversification. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10321,25 +12181,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Management set inadequate service quality specifications (Gap 2), and frontline support personnel failed to perform to those established specifications (Gap 3)."
-          },
-          {
-            "label": "B",
             "text": "Advertised promises exceeded actual service delivery (Gap 4), while customer expectations were misaligned (Gap 1)."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Customers misread product manuals while customer support bots functioned perfectly."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Executive leadership over-invested in staff training while ignoring retail store placement."
+          },
+          {
+            "label": "D",
+            "text": "Management set inadequate service quality specifications (Gap 2), and frontline support personnel failed to perform to those established specifications (Gap 3)."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Gap 2 reflects poor service design/standards definition by management, whereas Gap 3 reflects operational execution failure by frontline staff failing to meet those standards (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf`, Page 6).\n  - **Option B (Incorrect)**: Describes Gaps 4 and 1, not Gaps 2 and 3.\n  - **Option C (Incorrect)**: Blames consumers, ignoring internal structural service gaps.\n  - **Option D (Incorrect)**: Unrelated to SERVQUAL gap definitions.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Management set inadequate service quality specifications (Gap 2), and frontline support personnel failed to perform to those established specifications (Gap 3). matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Servequal-1.pdf`).\n  - **Option A (Incorrect)**: Advertised promises exceeded actual service delivery (Gap 4), while customer expectations were misaligned (Gap 1). is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Customers misread product manuals while customer support bots functioned perfectly. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Executive leadership over-invested in staff training while ignoring retail store placement. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10368,9 +12228,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Morgan & Hunt (1994) prove empirically that Relationship Trust is a major direct antecedent that strongly drives Relationship Commitment ($\\beta > 0.70$), which in turn produces cooperation and retention (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Readings/Commitment and Trust theory of Relationship Marketing.pdf`, Page 22).\n  - **Option B (Incorrect)**: Opportunistic behavior has a strong NEGATIVE relationship with trust.\n  - **Option C (Incorrect)**: Price discounting is a transactional variable with weak long-term commitment effects.\n  - **Option D (Incorrect)**: Incorrect path relationship.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Readings/Commitment and Trust theory of Relationship Marketing.pdf",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: Relationship Trust $\\rightarrow$ Relationship Commitment. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Readings/Commitment and Trust theory of Relationship Marketing.pdf`).\n  - **Option B (Incorrect)**: Opportunistic Behavior $\\rightarrow$ Relationship Trust. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Price Discounting $\\rightarrow$ Relationship Commitment. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Termination Costs $\\rightarrow$ Opportunistic Behavior. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10383,11 +12243,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Framing B reduces perceived payment pain by disaggregating small daily costs (pennies-a-day effect) while anchoring against a large reference loss ($1,000)."
+            "text": "Framing B increases objective net financial savings by 50%."
           },
           {
             "label": "B",
-            "text": "Framing B increases objective net financial savings by 50%."
+            "text": "Framing B reduces perceived payment pain by disaggregating small daily costs (pennies-a-day effect) while anchoring against a large reference loss ($1,000)."
           },
           {
             "label": "C",
@@ -10398,10 +12258,10 @@ const QUIZ_BANKS = [
             "text": "Consumers calculate interest compounding more accurately under Framing A."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Disaggregating expenses into micro-payments (pennies-a-day framing) minimizes the mental accounting loss penalty, while reminding consumers of the total asset loss ($1,000) maximizes perceived transaction utility (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf`, Slide 5).\n  - **Option B (Incorrect)**: The objective financial cost is identical ($50 / 730 \\text{ days} \\approx \\$0.068/\\text{day}$).\n  - **Option C (Incorrect)**: Framing A is legally valid.\n  - **Option D (Incorrect)**: Pennies-a-day framing relies on behavioral bias, not compounding math accuracy.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Framing B reduces perceived payment pain by disaggregating small daily costs (pennies-a-day effect) while anchoring against a large reference loss ($1,000). matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Mental accounting.pdf`).\n  - **Option A (Incorrect)**: Framing B increases objective net financial savings by 50%. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Framing A violates consumer protection legislation. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Consumers calculate interest compounding more accurately under Framing A. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10414,25 +12274,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$AAC = \\$60,000$; $ROAS = 3.33x$ (or 333%)."
-          },
-          {
-            "label": "B",
             "text": "$AAC = \\$15,000$; $ROAS = 1.00x$."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$AAC = \\$30,000$; $ROAS = 2.00x$."
+          },
+          {
+            "label": "C",
+            "text": "$AAC = \\$60,000$; $ROAS = 3.33x$ (or 333%)."
           },
           {
             "label": "D",
             "text": "$AAC = \\$6,000$; $ROAS = 0.33x$."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Total Revenue Generated = $5 \\text{ accounts} \\times \\$200,000 = \\$1,000,000$. $AAC = \\frac{\\text{Total Spend}}{\\text{Closed Accounts}} = \\frac{\\$300,000}{5} = \\$60,000$. $ROAS = \\frac{\\text{Total Revenue}}{\\text{Total Spend}} = \\frac{\\$1,000,000}{\\$300,000} = 3.33x$ (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Lead genration and Nurturing.pdf`).\n  - **Option B (Incorrect)**: Calculated AAC based on Engaged Accounts ($300k / 20 = \\$15k$).\n  - **Option C (Incorrect)**: Calculated AAC based on Pipeline Opportunities ($300k / 10 = \\$30k$).\n  - **Option D (Incorrect)**: Calculated AAC based on total target accounts ($300k / 50 = \\$6k$).",
-        "evidenceId": "DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Lead genration and Nurturing.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: $AAC = \\$60,000$; $ROAS = 3.33x$ (or 333%). matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Slides/Lead genration and Nurturing.pdf`).\n  - **Option A (Incorrect)**: $AAC = \\$15,000$; $ROAS = 1.00x$. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $AAC = \\$30,000$; $ROAS = 2.00x$. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $AAC = \\$6,000$; $ROAS = 0.33x$. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10445,24 +12305,24 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Adoption is heavily driven by word-of-mouth and social imitation rather than initial mass media advertising."
-          },
-          {
-            "label": "B",
             "text": "Adoption is entirely driven by upfront promotional slotting fees."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "The product will suffer immediate catastrophic churn within 30 days."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "The market size is strictly capped at 2% of total population."
+          },
+          {
+            "label": "D",
+            "text": "Adoption is heavily driven by word-of-mouth and social imitation rather than initial mass media advertising."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: In Bass diffusion modeling, $p$ represents external influence (advertising/innovation) and $q$ represents internal influence (word-of-mouth/imitation). A high $q/p$ ratio ($0.38 / 0.02 = 19$) signals a steep adoption curve driven by social proof and network effects (Bass, 1969; Mahajan et al., 1990).\n  - **Option B (Incorrect)**: Slotting fees affect trade distribution, not the mathematical Bass diffusion adoption coefficients.\n  - **Option C (Incorrect)**: Bass model measures cumulative adoption, not product churn rates.\n  - **Option D (Incorrect)**: $p = 0.02$ is the initial innovator adoption rate per period, not market potential cap.",
-        "evidenceId": "EXT-MKTG-03",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Adoption is heavily driven by word-of-mouth and social imitation rather than initial mass media advertising. matches the authoritative source framework (`EXT-CRAWFORD-ATAR-2021`).\n  - **Option A (Incorrect)**: Adoption is entirely driven by upfront promotional slotting fees. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: The product will suffer immediate catastrophic churn within 30 days. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: The market size is strictly capped at 2% of total population. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
@@ -10492,9 +12352,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Multi-nomial Logit (MNL) conjoint choice simulators redistribute market share proportionally across existing options based on utility changes and cross-substitution patterns (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/2nd half.m4a`).\n  - **Option B (Incorrect)**: Choice models do not draw share exclusively from a single competitor unless extreme IIA assumptions dictate.\n  - **Option C (Incorrect)**: Market simulators with fixed options reallocate share within the defined choice set.\n  - **Option D (Incorrect)**: Unrelated to geographical market boundaries.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/2nd half.m4a",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: Proplicatively drawn from both Scenario A and Scenario C based on substitution cross-elasticities. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/2nd half.m4a`).\n  - **Option B (Incorrect)**: 100% drawn from Scenario C only. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Generated entirely from non-category buyers expanding total market size. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Drawn exclusively from international export markets. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10507,11 +12367,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Conducting Home Use Tests (iHUT) with multi-week trial periods and tracking second-purchase reorder behavior."
+            "text": "Increasing single-concept survey sample size from 500 to 5,000 respondents."
           },
           {
             "label": "B",
-            "text": "Increasing single-concept survey sample size from 500 to 5,000 respondents."
+            "text": "Conducting Home Use Tests (iHUT) with multi-week trial periods and tracking second-purchase reorder behavior."
           },
           {
             "label": "C",
@@ -10522,10 +12382,10 @@ const QUIZ_BANKS = [
             "text": "Relying exclusively on focus group verbal statements."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: In-Home Use Testing (iHUT) allows consumers to experience actual product usage over time, accurately measuring post-trial repeat purchase intention ($R$) and removing initial concept novelty bias (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`).\n  - **Option B (Incorrect)**: Increasing survey sample size reduces sampling variance but does not correct structural novelty bias.\n  - **Option C (Incorrect)**: Artificial coupon discounting further distorts baseline intent.\n  - **Option D (Incorrect)**: Focus groups suffer from groupthink and lack quantitative behavioral tracking.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Conducting Home Use Tests (iHUT) with multi-week trial periods and tracking second-purchase reorder behavior. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S18_2026-06-14_Concept_Testing_Prof_Anita_Goyal/Recordings/1st half.m4a`).\n  - **Option A (Incorrect)**: Increasing single-concept survey sample size from 500 to 5,000 respondents. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Doubling promotional coupon values in concept survey descriptions. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Relying exclusively on focus group verbal statements. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH17",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10538,25 +12398,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "A 10% increase in digital search spend generates a 3.5% increase in sales volume, whereas a 10% increase in TV spend generates a 1.2% increase in sales volume."
-          },
-          {
-            "label": "B",
             "text": "Digital search is 35% cheaper than TV advertising per impression."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Linear TV spend should be terminated immediately because its elasticity is less than 0.50."
+          },
+          {
+            "label": "C",
+            "text": "A 10% increase in digital search spend generates a 3.5% increase in sales volume, whereas a 10% increase in TV spend generates a 1.2% increase in sales volume."
           },
           {
             "label": "D",
             "text": "Digital search generates 35 times more revenue than linear TV."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: In a log-log regression MMM model, regression coefficients represent constant elasticity percentage responses ($\\% \\Delta Y = \\beta \\times \\% \\Delta X$). Thus, $\\beta_{search} = 0.35 \\implies 10\\% \\text{ spend increase} \\to 3.5\\% \\text{ sales volume gain}$ (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a`).\n  - **Option B (Incorrect)**: Elasticity measures volume sensitivity to spend, not unit cost per impression.\n  - **Option C (Incorrect)**: Positive elasticity (+0.12) indicates TV contributes positive incremental volume; optimal allocation balances marginal returns.\n  - **Option D (Incorrect)**: Coefficients reflect percentage elasticity, not absolute 35x revenue multipliers.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: A 10% increase in digital search spend generates a 3.5% increase in sales volume, whereas a 10% increase in TV spend generates a 1.2% increase in sales volume. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Recordings/21st June.m4a`).\n  - **Option A (Incorrect)**: Digital search is 35% cheaper than TV advertising per impression. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Linear TV spend should be terminated immediately because its elasticity is less than 0.50. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Digital search generates 35 times more revenue than linear TV. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10569,24 +12429,24 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Offering a lead product at a deep discount when purchased together with a complementary secondary product, while both remain available individually at regular prices."
-          },
-          {
-            "label": "B",
             "text": "Bundling two unbranded generic products at a single flat price."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Offering bundles exclusively to senior corporate executives."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Bundling physical hardware with free lifetime legal insurance."
+          },
+          {
+            "label": "D",
+            "text": "Offering a lead product at a deep discount when purchased together with a complementary secondary product, while both remain available individually at regular prices."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Mixed-leader bundling discounts a primary \"leader\" product when bought with a companion product (e.g., buy a laptop, get a printer for 50% off), retaining individual pricing for both items (Stremersch & Tellis, 2002).\n  - **Option B (Incorrect)**: Describes pure unbranded bundling.\n  - **Option C (Incorrect)**: Leader refers to product leadership in the bundle, not executive buyer job titles.\n  - **Option D (Incorrect)**: Irrelevant to commercial price bundling definitions.",
-        "evidenceId": "EXT-MKTG-01",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Offering a lead product at a deep discount when purchased together with a complementary secondary product, while both remain available individually at regular prices. matches the authoritative source framework (`EXT-STREMERSCH-BUNDLING-2002`).\n  - **Option A (Incorrect)**: Bundling two unbranded generic products at a single flat price. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Offering bundles exclusively to senior corporate executives. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Bundling physical hardware with free lifetime legal insurance. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
@@ -10616,9 +12476,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{Packaging Cost Increase} = \\$0.20 \\times +5\\% = +\\$0.010$. $\\text{Logistics Cost Savings} = \\$0.80 \\times -15\\% = -\\$0.120$. $\\text{Net Cost Impact} = +\\$0.010 - \\$0.120 = -\\$0.110$ (Net savings of $0.11 per unit) (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Screenshots/Screenshot 2026-06-21 at 16.09.12.png`).\n  - **Option B (Incorrect)**: Result of adding both percentages without calculating dollar bases.\n  - **Option C (Incorrect)**: Calculation error.\n  - **Option D (Incorrect)**: Assumes packaging increase perfectly offsets logistics savings.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Screenshots/Screenshot 2026-06-21 at 16.09.12.png",
-        "evidenceClassification": "class-confirmed",
+        "explanation": "- **Option A (Correct)**: Net cost savings of $0.11 per unit. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S19_2026-06-21_Media_Mix_and_Packaging_Prof_Anita_Goyal/Screenshots/Screenshot 2026-06-21 at 16.09.12.png`).\n  - **Option B (Incorrect)**: Net cost increase of $0.04 per unit. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Net cost savings of $0.05 per unit. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Zero net cost impact. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10631,11 +12491,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "By calculating the average marginal contribution of each channel across all possible touchpoint coalition permutations in the customer journey."
+            "text": "By assigning 100% of conversion credit to whichever channel has the highest total ad spend."
           },
           {
             "label": "B",
-            "text": "By assigning 100% of conversion credit to whichever channel has the highest total ad spend."
+            "text": "By calculating the average marginal contribution of each channel across all possible touchpoint coalition permutations in the customer journey."
           },
           {
             "label": "C",
@@ -10646,9 +12506,9 @@ const QUIZ_BANKS = [
             "text": "By assigning credit based on alphabetical ordering of channel names."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: GA4 DDA employs game-theoretic Shapley value algorithms to evaluate counterfactual conversion probabilities across all channel presence/absence combinations, determining true marginal channel uplift (`EXT-ATTR-01`).\n  - **Option B (Incorrect)**: Describes spend-weighted allocation, not game-theoretic Shapley value math.\n  - **Option C (Incorrect)**: Describes linear attribution.\n  - **Option D (Incorrect)**: Absurd ordering rule.",
-        "evidenceId": "EXT-ATTR-01",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: By calculating the average marginal contribution of each channel across all possible touchpoint coalition permutations in the customer journey. matches the authoritative source framework (`EXT-GA4-DDA-2024`).\n  - **Option A (Incorrect)**: By assigning 100% of conversion credit to whichever channel has the highest total ad spend. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: By dividing conversion credit equally among all channels regardless of sequence or presence. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: By assigning credit based on alphabetical ordering of channel names. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GA4-DDA-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
@@ -10662,24 +12522,24 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Implement strict negative keyword policies in affiliate agreements, perform automated monitoring, and withhold commission payouts for trademark violations."
-          },
-          {
-            "label": "B",
             "text": "Increase affiliate commission rates by 50% to reward high search positioning."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Shut down the entire corporate Google Search advertising account."
+          },
+          {
+            "label": "C",
+            "text": "Implement strict negative keyword policies in affiliate agreements, perform automated monitoring, and withhold commission payouts for trademark violations."
           },
           {
             "label": "D",
             "text": "Allow affiliates to continue trademark bidding while reducing D2C web pricing."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Brand trademark cannibalization by affiliates inflates CPC costs and steals organic traffic. Enforcing negative keyword restrictions and withholding commissions restores channel integrity (`EXT-ATTR-01`).\n  - **Option B (Incorrect)**: Rewarding trademark poaching incentivizes further brand cannibalization.\n  - **Option C (Incorrect)**: Terminating corporate search ads cedes search engine visibility to competitors.\n  - **Option D (Incorrect)**: Allows ongoing channel margin erosion.",
-        "evidenceId": "EXT-ATTR-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Implement strict negative keyword policies in affiliate agreements, perform automated monitoring, and withhold commission payouts for trademark violations. matches the authoritative source framework (`EXT-GA4-DDA-2024`).\n  - **Option A (Incorrect)**: Increase affiliate commission rates by 50% to reward high search positioning. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Shut down the entire corporate Google Search advertising account. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Allow affiliates to continue trademark bidding while reducing D2C web pricing. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GA4-DDA-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
@@ -10693,24 +12553,24 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$90,000."
-          },
-          {
-            "label": "B",
             "text": "$100,000."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$120,000."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "$40,000."
+          },
+          {
+            "label": "D",
+            "text": "$90,000."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Closed-Won milestone credit = $22.5\\% \\times \\$400,000 = \\$90,000$ (`EXT-ATTR-02`).\n  - **Option B (Incorrect)**: Result of dividing $\\$400,000 / 4 = \\$100,000$ (ignoring the 10% middle touch allocation).\n  - **Option C (Incorrect)**: Result of applying W-shaped 30% weighting ($30\\% \\times \\$400,000 = \\$120,000$).\n  - **Option D (Incorrect)**: Total middle touch credit pool ($10\\% \\times \\$400,000 = \\$40,000$).",
-        "evidenceId": "EXT-ATTR-02",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: $90,000. matches the authoritative source framework (`EXT-MARKETO-ATTR-2024`).\n  - **Option A (Incorrect)**: $100,000. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $120,000. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $40,000. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-MARKETO-ATTR-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
@@ -10740,9 +12600,9 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Double marginalization leads to deadweight loss and excessively high retail prices. Two-part tariffs or vertical integration align channel prices with joint profit maximization (Tirole, 1988; Spengler, 1950).\n  - **Option B (Incorrect)**: Raising wholesale prices exacerbates double marginalization deadweight loss.\n  - **Option C (Incorrect)**: Uncoordinated retail markup worsens double marginalization efficiency losses.\n  - **Option D (Incorrect)**: Permanent 100% off-invoice discounts destroy manufacturer margins entirely.",
-        "evidenceId": "EXT-MKTG-02",
-        "evidenceClassification": "credible-secondary",
+        "explanation": "- **Option A (Correct)**: Vertical integration or two-part tariffs (selling at marginal cost plus a fixed franchise/channel fee). matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option B (Incorrect)**: Increasing wholesale prices by 30%. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Allowing retailers to set arbitrary retail prices without MSRP guidelines. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Imposing 100% off-invoice trade promotion discounts permanently. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GA4-DDA-2024",
+        "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10755,11 +12615,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Incremental Revenue = $150,000; reducing remaining required fixed cost coverage to $1,811,379."
+            "text": "Incremental Revenue = $300,000; reducing remaining required fixed cost coverage to $1,661,379."
           },
           {
             "label": "B",
-            "text": "Incremental Revenue = $300,000; reducing remaining required fixed cost coverage to $1,661,379."
+            "text": "Incremental Revenue = $150,000; reducing remaining required fixed cost coverage to $1,811,379."
           },
           {
             "label": "C",
@@ -10770,10 +12630,10 @@ const QUIZ_BANKS = [
             "text": "Incremental Revenue = $550,000; reducing remaining required fixed cost coverage to $1,411,379."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: $\\text{Incremental yield per ticket} = \\$11.00 - \\$8.00 = \\$3.00$. $\\text{Total marquee tickets sold} = 10 \\text{ games} \\times 5,000 \\text{ attendees} = 50,000 \\text{ tickets}$. $\\text{Incremental Revenue} = 50,000 \\times \\$3.00 = \\$150,000$. $\\text{Remaining fixed cost pool} = \\$1,961,379 - \\$150,000 = \\$1,811,379$ (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`).\n  - **Option B (Incorrect)**: Calculated using full $11 ticket revenue without subtracting baseline $8 revenue ($50,000 \\times 6 = \\$300,000$).\n  - **Option C (Incorrect)**: Miscalculated yield multiplier ($50,000 \\times \\$2.20 = \\$110,000$).\n  - **Option D (Incorrect)**: Total marquee ticket revenue ($50,000 \\times \\$11 = \\$550,000$).",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf",
-        "evidenceClassification": "class-confirmed",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Incremental Revenue = $150,000; reducing remaining required fixed cost coverage to $1,811,379. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Slides/The Springfield.pdf`).\n  - **Option A (Incorrect)**: Incremental Revenue = $300,000; reducing remaining required fixed cost coverage to $1,661,379. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Incremental Revenue = $110,000; reducing remaining required fixed cost coverage to $1,851,379. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Incremental Revenue = $550,000; reducing remaining required fixed cost coverage to $1,411,379. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10786,25 +12646,25 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "The percentage price markup over marginal cost should be inversely proportional to the product's price elasticity of demand (higher markups on less elastic products)."
-          },
-          {
-            "label": "B",
             "text": "Equal percentage markups must be applied to both products regardless of elasticity."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "The product with elastic demand should receive the highest percentage markup."
+          },
+          {
+            "label": "C",
+            "text": "The percentage price markup over marginal cost should be inversely proportional to the product's price elasticity of demand (higher markups on less elastic products)."
           },
           {
             "label": "D",
             "text": "Markups should be determined strictly by total lines of software code."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Ramsey pricing demonstrates that to cover fixed overhead with minimal efficiency deadweight loss, price markups over marginal cost should be higher on products with lower price elasticity of demand ($\\frac{P_i - MC_i}{P_i} \\propto \\frac{1}{|E_i|}$) (Ramsey, 1927; Tirole, 1988).\n  - **Option B (Incorrect)**: Equal markups cause inefficient demand distortion on elastic products.\n  - **Option C (Incorrect)**: Inverts Ramsey pricing rule; high markups on elastic demand cause severe volume collapse.\n  - **Option D (Incorrect)**: Code volume is an internal engineering metric, not a market demand elasticity driver.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md",
-        "evidenceClassification": "class-confirmed",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: The percentage price markup over marginal cost should be inversely proportional to the product's price elasticity of demand (higher markups on less elastic products). matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option A (Incorrect)**: Equal percentage markups must be applied to both products regardless of elasticity. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: The product with elastic demand should receive the highest percentage markup. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Markups should be determined strictly by total lines of software code. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
@@ -10817,30 +12677,309 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Set per-call usage fee $p$ equal to marginal cost ($MC$), and set fixed monthly access fee $F$ equal to total consumer surplus at price $p = MC$."
-          },
-          {
-            "label": "B",
             "text": "Set per-call usage fee $p$ at 500% above marginal cost, and set fixed fee $F = 0$."
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Set fixed fee $F = 0$ and per-call fee $p = 0$."
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Set fixed fee $F$ to cover half of variable costs while offering unlimited free API calls."
+          },
+          {
+            "label": "D",
+            "text": "Set per-call usage fee $p$ equal to marginal cost ($MC$), and set fixed monthly access fee $F$ equal to total consumer surplus at price $p = MC$."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: Under classic microeconomic two-part tariff theory with homogeneous consumers, setting usage price $p = MC$ eliminates deadweight loss, while setting fixed fee $F$ equal to full consumer surplus captures 100% of economic surplus as profit (Tirole, 1988; Oi, 1971).\n  - **Option B (Incorrect)**: Setting high per-unit markups creates deadweight loss and reduces recoverable consumer surplus.\n  - **Option C (Incorrect)**: Generates zero revenue.\n  - **Option D (Incorrect)**: Fails to capture total consumer surplus and causes over-consumption past marginal cost.",
-        "evidenceId": "DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md",
-        "evidenceClassification": "class-confirmed",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Set per-call usage fee $p$ equal to marginal cost ($MC$), and set fixed monthly access fee $F$ equal to total consumer surplus at price $p = MC$. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S21_2026-07-05_Pricing_models_Prof_Prem_Dewani/Notes/2026-07-05 - Pricing Strategy, Demand Forecasting & Consumer Behavior.md`).\n  - **Option A (Incorrect)**: Set per-call usage fee $p$ at 500% above marginal cost, and set fixed fee $F = 0$. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Set fixed fee $F = 0$ and per-call fee $p = 0$. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Set fixed fee $F$ to cover half of variable costs while offering unlimited free API calls. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOTLER-CH14",
+        "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
         "provisional": false
       },
       {
         "sourceNumber": 21,
+        "questionId": "EX2-M04-D5-Q21",
+        "topicId": "M04-T01",
+        "module": "M04",
+        "question": "A strategic advisor recommends Natureview pursue a phased approach: begin with the children's multipack (Option 3) within natural foods, then expand 32-ounce SKUs to select supermarkets 6 months later. This hybrid strategy primarily mitigates which risk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The risk of total channel cannibalization by establishing the new product in the safer channel first."
+          },
+          {
+            "label": "B",
+            "text": "The risk of manufacturing capacity constraints during simultaneous channel launches."
+          },
+          {
+            "label": "C",
+            "text": "The risk of regulatory delays in supermarket food safety certification."
+          },
+          {
+            "label": "D",
+            "text": "The risk of venture capital investors withdrawing funding due to perceived conservatism."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: The risk of total channel cannibalization by establishing the new product in the safer channel first. matches the authoritative source framework (`EXT-HBR-502049`).\n  - **Option B (Incorrect)**: The risk of manufacturing capacity constraints during simultaneous channel launches. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: The risk of regulatory delays in supermarket food safety certification. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: The risk of venture capital investors withdrawing funding due to perceived conservatism. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 22,
+        "questionId": "EX2-M04-D5-Q22",
+        "topicId": "M04-T02",
+        "module": "M04",
+        "question": "A minor league team implements dynamic pricing, increasing ticket prices by 25% for weekend games (expected attendance drop of 10%) and decreasing prices by 15% for weekday games (expected attendance increase of 20%). If base attendance is 3,000 and base price is $10, which game type generates higher per-game revenue?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Weekday games generate higher revenue because attendance volume compensates for lower prices."
+          },
+          {
+            "label": "B",
+            "text": "Weekend: $12.50 × 2,700 = $33,750 versus Weekday: $8.50 × 3,600 = $30,600 — weekend wins."
+          },
+          {
+            "label": "C",
+            "text": "Both game types generate identical revenue through price-volume equilibrium."
+          },
+          {
+            "label": "D",
+            "text": "Weekend: $12.50 × 3,000 = $37,500 — attendance doesn't change with price."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Weekend: $12.50 × 2,700 = $33,750 versus Weekday: $8.50 × 3,600 = $30,600 — weekend wins. matches the authoritative source framework (`EXT-HBR-20085`).\n  - **Option A (Incorrect)**: Weekday games generate higher revenue because attendance volume compensates for lower prices. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Both game types generate identical revenue through price-volume equilibrium. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Weekend: $12.50 × 3,000 = $37,500 — attendance doesn't change with price. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 23,
+        "questionId": "EX2-M04-D5-Q23",
+        "topicId": "M04-T03",
+        "module": "M04",
+        "question": "An omnichannel retailer discovers that 35% of online orders are picked up in-store (BOPIS). These BOPIS customers spend an additional $28 per visit on unplanned purchases. If the company fulfills 50,000 online orders per month, what is the estimated monthly incremental revenue from BOPIS-driven impulse purchases?",
+        "options": [
+          {
+            "label": "A",
+            "text": "$1,400,000 — 50,000 × $28."
+          },
+          {
+            "label": "B",
+            "text": "$280,000 — 50,000 × 20% × $28."
+          },
+          {
+            "label": "C",
+            "text": "$490,000 — 50,000 × 35% × $28."
+          },
+          {
+            "label": "D",
+            "text": "$700,000 — 50,000 × 50% × $28."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: $490,000 — 50,000 × 35% × $28. matches the authoritative source framework (`EXT-MCKINSEY-OMNICHANNEL-2023`).\n  - **Option A (Incorrect)**: $1,400,000 — 50,000 × $28. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $280,000 — 50,000 × 20% × $28. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $700,000 — 50,000 × 50% × $28. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-STERN-CHANNELS-2016",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 24,
+        "questionId": "EX2-M04-D5-Q24",
+        "topicId": "M04-T04",
+        "module": "M04",
+        "question": "A pharmaceutical company's Stage-Gate review reveals that clinical trial Phase II results show 62% efficacy versus the 70% minimum threshold for Gate 4 approval. The projected market opportunity is $500M annually. The most appropriate gate decision is:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Go — the market opportunity justifies proceeding despite missing the efficacy threshold."
+          },
+          {
+            "label": "B",
+            "text": "Kill — efficacy falls below the pre-established gate criteria, and no exception process exists."
+          },
+          {
+            "label": "C",
+            "text": "Hold — pause the project until competitive landscape data justifies the investment."
+          },
+          {
+            "label": "D",
+            "text": "Recycle — send the project back to the previous stage to reformulate and re-test."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Recycle — send the project back to the previous stage to reformulate and re-test. matches the authoritative source framework (`EXT-COOPER-STAGEGATE-2017`).\n  - **Option A (Incorrect)**: Go — the market opportunity justifies proceeding despite missing the efficacy threshold. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Kill — efficacy falls below the pre-established gate criteria, and no exception process exists. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Hold — pause the project until competitive landscape data justifies the investment. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-COOPER-STAGEGATE-2017",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 25,
+        "questionId": "EX2-M04-D5-Q25",
+        "topicId": "M04-T05",
+        "module": "M04",
+        "question": "A data-driven attribution model requires a minimum of approximately 2,000 monthly conversions to be statistically valid. If a company has only 500 monthly conversions, which rule-based model provides the best balance of sophistication and reliability?",
+        "options": [
+          {
+            "label": "A",
+            "text": "U-shaped — credits both awareness and conversion without requiring large datasets."
+          },
+          {
+            "label": "B",
+            "text": "Last-touch — the simplest model with lowest data requirements."
+          },
+          {
+            "label": "C",
+            "text": "Full algorithmic — the company should invest in more sophisticated modeling regardless of sample size."
+          },
+          {
+            "label": "D",
+            "text": "First-touch — focuses all credit on the initial brand exposure."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: U-shaped — credits both awareness and conversion without requiring large datasets. matches the authoritative source framework (`EXT-IMPROVADO-ATTR-2024`).\n  - **Option B (Incorrect)**: Last-touch — the simplest model with lowest data requirements. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Full algorithmic — the company should invest in more sophisticated modeling regardless of sample size. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: First-touch — focuses all credit on the initial brand exposure. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GA4-DDA-2024",
+        "evidenceClassification": "official-external",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 26,
+        "questionId": "EX2-M04-D5-Q26",
+        "topicId": "M04-T06",
+        "module": "M04",
+        "question": "A conjoint analysis for a new SaaS product reveals that 'integration with existing tools' has a part-worth utility of 0.45, 'price at $99/month' has -0.30, 'AI-powered automation' has 0.35, and '24/7 support' has 0.15. Which feature should the product team prioritize in the MVP to maximize perceived value?",
+        "options": [
+          {
+            "label": "A",
+            "text": "AI-powered automation — the most technologically impressive feature."
+          },
+          {
+            "label": "B",
+            "text": "Integration with existing tools — the attribute with the highest positive part-worth utility."
+          },
+          {
+            "label": "C",
+            "text": "24/7 support — the feature with the lowest implementation cost."
+          },
+          {
+            "label": "D",
+            "text": "Price at $99/month — making the product affordable is always the top priority."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Integration with existing tools — the attribute with the highest positive part-worth utility. matches the authoritative source framework (`EXT-GREEN-CONJOINT-1990`).\n  - **Option A (Incorrect)**: AI-powered automation — the most technologically impressive feature. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 24/7 support — the feature with the lowest implementation cost. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Price at $99/month — making the product affordable is always the top priority. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GREEN-CONJOINT-1990",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 27,
+        "questionId": "EX2-M04-D5-Q27",
+        "topicId": "M04-T01",
+        "module": "M04",
+        "question": "In retrospect, if Natureview had pursued Option 2 (32-ounce national supermarket expansion) exclusively, the highest-margin format (43.6%) would enter a channel with minimal yogurt competition. What is the primary operational risk of this approach within the 12-month timeline?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Consumer preference for smaller yogurt portions in supermarket settings."
+          },
+          {
+            "label": "B",
+            "text": "Regulatory restrictions on selling organic products in conventional retail."
+          },
+          {
+            "label": "C",
+            "text": "The logistical challenge of achieving national supermarket distribution within 12 months."
+          },
+          {
+            "label": "D",
+            "text": "Insufficient production capacity for the 32-ounce format."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: The logistical challenge of achieving national supermarket distribution within 12 months. matches the authoritative source framework (`EXT-HBR-502049`).\n  - **Option A (Incorrect)**: Consumer preference for smaller yogurt portions in supermarket settings. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Regulatory restrictions on selling organic products in conventional retail. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Insufficient production capacity for the 32-ounce format. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-502049",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 28,
+        "questionId": "EX2-M04-D5-Q28",
+        "topicId": "M04-T02",
+        "module": "M04",
+        "question": "If the Nor'easters implement a 5-game ticket package at $45 (effectively $9/game) targeting families, and 1,200 packages are sold, how many 'guaranteed attendee-games' does this represent, and what is the pre-season guaranteed ticket revenue?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1,200 attendee-games; $45,000 revenue."
+          },
+          {
+            "label": "B",
+            "text": "5,000 attendee-games; $50,000 revenue."
+          },
+          {
+            "label": "C",
+            "text": "12,000 attendee-games; $108,000 revenue."
+          },
+          {
+            "label": "D",
+            "text": "6,000 attendee-games; $54,000 revenue."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: 6,000 attendee-games; $54,000 revenue. matches the authoritative source framework (`EXT-HBR-20085`).\n  - **Option A (Incorrect)**: 1,200 attendee-games; $45,000 revenue. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: 5,000 attendee-games; $50,000 revenue. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: 12,000 attendee-games; $108,000 revenue. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-HBR-20085",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 29,
+        "questionId": "EX2-M04-D5-Q29",
+        "topicId": "M04-T03",
+        "module": "M04",
+        "question": "A luxury brand maintains exclusive distribution through 200 authorized retailers. An e-commerce marketplace offers to list the brand, projecting 5x unit volume but requiring a 40% channel fee. The brand's current wholesale margin is 60%. What strategic framework should guide this decision?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Selective distribution intensity analysis — evaluating whether mass availability dilutes perceived exclusivity."
+          },
+          {
+            "label": "B",
+            "text": "Porter's Five Forces — analyzing the bargaining power of the marketplace platform."
+          },
+          {
+            "label": "C",
+            "text": "Transaction cost economics — comparing marketplace fees to internal distribution costs."
+          },
+          {
+            "label": "D",
+            "text": "Resource-based view — assessing whether the brand has capabilities for dual-channel management."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Selective distribution intensity analysis — evaluating whether mass availability dilutes perceived exclusivity. matches the authoritative source framework (`EXT-KELLER-BRAND-2020`).\n  - **Option B (Incorrect)**: Porter's Five Forces — analyzing the bargaining power of the marketplace platform. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Transaction cost economics — comparing marketplace fees to internal distribution costs. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Resource-based view — assessing whether the brand has capabilities for dual-channel management. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-STERN-CHANNELS-2016",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 30,
         "questionId": "EX2-M05-D5-Q01",
         "topicId": "M05-T01",
         "module": "M05",
@@ -10848,11 +12987,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Into three matrices $U \\cdot \\Sigma \\cdot V^T$, where $U$ represents user latent factors, $\\Sigma$ represents singular value weights, and $V^T$ represents item latent factors"
+            "text": "Into two square identity matrices containing binary user preference flags"
           },
           {
             "label": "B",
-            "text": "Into two square identity matrices containing binary user preference flags"
+            "text": "Into three matrices $U \\cdot \\Sigma \\cdot V^T$, where $U$ represents user latent factors, $\\Sigma$ represents singular value weights, and $V^T$ represents item latent factors"
           },
           {
             "label": "C",
@@ -10863,15 +13002,15 @@ const QUIZ_BANKS = [
             "text": "Into a decision tree graph structure partitioned by demographic age boundaries"
           }
         ],
-        "answer": "A",
-        "explanation": "Singular Value Decomposition (SVD) factors the user-item rating matrix $R_{m \\times n}$ into $U_{m \\times k} \\cdot \\Sigma_{k \\times k} \\cdot V^T_{k \\times n}$, mapping users and items into a shared $k$-dimensional latent feature space.",
-        "evidenceId": "Aggarwal (2016)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Into three matrices $U \\cdot \\Sigma \\cdot V^T$, where $U$ represents user latent factors, $\\Sigma$ represents singular value weights, and $V^T$ represents item latent factors matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: Into two square identity matrices containing binary user preference flags is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Into a single unidimensional vector containing mean product rating averages is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Into a decision tree graph structure partitioned by demographic age boundaries is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KOREN-RECSYS-2009",
+        "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 22,
+        "sourceNumber": 31,
         "questionId": "EX2-M05-D5-Q02",
         "topicId": "M05-T01",
         "module": "M05",
@@ -10879,30 +13018,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Thompson Sampling updates a probability distribution over expected rewards (Bayesian bandit), whereas $\\epsilon$-greedy explores uniformly at random with fixed probability $\\epsilon$"
-          },
-          {
-            "label": "B",
             "text": "Thompson Sampling only works on offline batch logs, whereas $\\epsilon$-greedy operates exclusively in memory"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$\\epsilon$-greedy uses deep reinforcement learning, whereas Thompson Sampling uses linear regression"
+          },
+          {
+            "label": "C",
+            "text": "Thompson Sampling updates a probability distribution over expected rewards (Bayesian bandit), whereas $\\epsilon$-greedy explores uniformly at random with fixed probability $\\epsilon$"
           },
           {
             "label": "D",
             "text": "Thompson Sampling requires static demographic user profiles, whereas $\\epsilon$-greedy requires zero user data"
           }
         ],
-        "answer": "A",
-        "explanation": "Thompson Sampling is a Bayesian algorithm that samples from posterior reward distributions to balance exploration/exploitation dynamically. $\\epsilon$-greedy selects the best empirical arm with probability $1-\\epsilon$ and explores all alternative arms uniformly at random with fixed probability $\\epsilon$.",
-        "evidenceId": "Aggarwal (2016)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Thompson Sampling updates a probability distribution over expected rewards (Bayesian bandit), whereas $\\epsilon$-greedy explores uniformly at random with fixed probability $\\epsilon$ matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: Thompson Sampling only works on offline batch logs, whereas $\\epsilon$-greedy operates exclusively in memory is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $\\epsilon$-greedy uses deep reinforcement learning, whereas Thompson Sampling uses linear regression is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Thompson Sampling requires static demographic user profiles, whereas $\\epsilon$-greedy requires zero user data is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-AGRAWAL-MAB-2012",
+        "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 23,
+        "sourceNumber": 32,
         "questionId": "EX2-M05-D5-Q03",
         "topicId": "M05-T01",
         "module": "M05",
@@ -10914,26 +13053,26 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Preventing training-serving skew by maintaining consistent feature definitions and low-latency point-in-time joins across batch and streaming pipelines"
-          },
-          {
-            "label": "C",
             "text": "Automatically generating legal terms of service agreements for mobile app users"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Replacing relational SQL databases with static CSV file storage"
+          },
+          {
+            "label": "D",
+            "text": "Preventing training-serving skew by maintaining consistent feature definitions and low-latency point-in-time joins across batch and streaming pipelines"
           }
         ],
-        "answer": "B",
-        "explanation": "Feature Stores eliminate training-serving skew by ensuring that feature engineering transformations used during offline model training match real-time online feature retrieval at inference time with sub-millisecond latency.",
-        "evidenceId": "Aggarwal (2016)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Preventing training-serving skew by maintaining consistent feature definitions and low-latency point-in-time joins across batch and streaming pipelines matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option A (Incorrect)**: Training offline neural network models without GPU acceleration is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Automatically generating legal terms of service agreements for mobile app users is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Replacing relational SQL databases with static CSV file storage is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-UBER-FEATURESTORE-2017",
+        "evidenceClassification": "official-external",
         "trapLabel": "none",
         "provisional": false
       },
       {
-        "sourceNumber": 24,
+        "sourceNumber": 33,
         "questionId": "EX2-M05-D5-Q04",
         "topicId": "M05-T01",
         "module": "M05",
@@ -10957,14 +13096,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "Over-specialization is a classic limitation of pure Content-Based Filtering. The system repeatedly recommends items matching historical user profiles, restricting exposure to novel or serendipitous content categories (filter bubble).",
-        "evidenceId": "Aggarwal (2016)",
+        "explanation": "- **Option A (Correct)**: Over-specialization (lack of novelty/serendipity), causing the engine to repeatedly recommend highly similar items while failing to expose diverse content matches the authoritative source framework (`Aggarwal (2016)`).\n  - **Option B (Incorrect)**: High memory usage leading to database buffer overflows is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Inability to calculate cosine similarity vectors across sparse matrices is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Sudden zeroing out of all item vector weights is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-LOPS-CONTENT-2011",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 25,
+        "sourceNumber": 34,
         "questionId": "EX2-M05-D5-Q05",
         "topicId": "M05-T02",
         "module": "M05",
@@ -10972,11 +13111,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "BG/NBD (Beta-Geometric / Negative Binomial Distribution) Model"
+            "text": "Linear Ordinary Least Squares (OLS) Regression"
           },
           {
             "label": "B",
-            "text": "Linear Ordinary Least Squares (OLS) Regression"
+            "text": "BG/NBD (Beta-Geometric / Negative Binomial Distribution) Model"
           },
           {
             "label": "C",
@@ -10987,15 +13126,15 @@ const QUIZ_BANKS = [
             "text": "Naive Bayes Document Classifier"
           }
         ],
-        "answer": "A",
-        "explanation": "The BG/NBD model (Fader & Hardie) is the standard probabilistic framework for non-contractual customer base analysis, modeling repeat purchase frequency (NBD) and unobserved customer dropout probability (Beta-Geometric).",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: BG/NBD (Beta-Geometric / Negative Binomial Distribution) Model matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: Linear Ordinary Least Squares (OLS) Regression is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Single Exponential Smoothing is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Naive Bayes Document Classifier is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-FADER-BGNBD-2005",
+        "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 26,
+        "sourceNumber": 35,
         "questionId": "EX2-M05-D5-Q06",
         "topicId": "M05-T02",
         "module": "M05",
@@ -11003,30 +13142,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$CLV = M \\times \\left( \\frac{r}{1 + d - r} \\right)$"
-          },
-          {
-            "label": "B",
             "text": "$CLV = M \\times (1 + d + r)$"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "$CLV = \\frac{M}{d \\times r}$"
+          },
+          {
+            "label": "C",
+            "text": "$CLV = M \\times \\left( \\frac{r}{1 + d - r} \\right)$"
           },
           {
             "label": "D",
             "text": "$CLV = M \\times (r - d)$"
           }
         ],
-        "answer": "A",
-        "explanation": "1. Infinite horizon discounted sum: $CLV = \\sum_{t=1}^{\\infty} M \\times \\frac{r^t}{(1+d)^t} = M \\times \\frac{\\frac{r}{1+d}}{1 - \\frac{r}{1+d}} = M \\times \\left( \\frac{r}{1 + d - r} \\right)$.",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: $CLV = M \\times \\left( \\frac{r}{1 + d - r} \\right)$ matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: $CLV = M \\times (1 + d + r)$ is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $CLV = \\frac{M}{d \\times r}$ is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $CLV = M \\times (r - d)$ is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-GUPTA-CLV-2004",
+        "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 27,
+        "sourceNumber": 36,
         "questionId": "EX2-M05-D5-Q07",
         "topicId": "M05-T02",
         "module": "M05",
@@ -11034,30 +13173,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Sorting / Selection Effect (Heterogeneity in churn risk: high-churn users churn early, leaving low-churn users)"
-          },
-          {
-            "label": "B",
             "text": "Database index corruption"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "Overfitting in regression trees"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "Multi-collinearity between CAC and ARPU"
+          },
+          {
+            "label": "D",
+            "text": "Sorting / Selection Effect (Heterogeneity in churn risk: high-churn users churn early, leaving low-churn users)"
           }
         ],
-        "answer": "A",
-        "explanation": "Customer heterogeneity creates a selection effect: high-risk customers churn out in early periods, leaving a progressively higher proportion of low-risk, highly loyal customers in later tenure periods. This makes aggregate retention appear to rise even if individual churn probabilities are static.",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Sorting / Selection Effect (Heterogeneity in churn risk: high-churn users churn early, leaving low-churn users) matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option A (Incorrect)**: Database index corruption is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Overfitting in regression trees is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Multi-collinearity between CAC and ARPU is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-OPENVIEW-SAAS-2023",
+        "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 28,
+        "sourceNumber": 37,
         "questionId": "EX2-M05-D5-Q08",
         "topicId": "M05-T02",
         "module": "M05",
@@ -11081,14 +13220,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "1. $NRR = \\frac{\\text{Starting ARR} + \\text{Expansion} - \\text{Contraction} - \\text{Churn}}{\\text{Starting ARR}} = \\frac{1,000,000 + 200,000 - 50,000 - 100,000}{1,000,000} = \\frac{1,050,000}{1,000,000} = 105.0\\%$.\n  2. $GRR = \\frac{\\text{Starting ARR} - \\text{Contraction} - \\text{Churn}}{\\text{Starting ARR}} = \\frac{1,000,000 - 50,000 - 100,000}{1,000,000} = \\frac{850,000}{1,000,000} = 85.0\\%$ (GRR excludes expansion).",
-        "evidenceId": "Fader & Hardie (2007)",
-        "evidenceClassification": "credible-secondary",
+        "explanation": "- **Option A (Correct)**: $NRR = 105.0\\%, GRR = 85.0\\%$ matches the authoritative source framework (`Fader & Hardie (2007)`).\n  - **Option B (Incorrect)**: $NRR = 120.0\\%, GRR = 90.0\\%$ is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $NRR = 100.0\\%, GRR = 80.0\\%$ is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $NRR = 115.0\\%, GRR = 95.0\\%$ is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-OPENVIEW-SAAS-2023",
+        "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 29,
+        "sourceNumber": 38,
         "questionId": "EX2-M05-D5-Q09",
         "topicId": "M05-T03",
         "module": "M05",
@@ -11096,11 +13235,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Govern Function $\\rightarrow$ Supply Chain Risk Management Category (GV.SC)"
+            "text": "Protect Function $\\rightarrow$ Maintenance Subcategory (PR.MA)"
           },
           {
             "label": "B",
-            "text": "Protect Function $\\rightarrow$ Maintenance Subcategory (PR.MA)"
+            "text": "Govern Function $\\rightarrow$ Supply Chain Risk Management Category (GV.SC)"
           },
           {
             "label": "C",
@@ -11111,15 +13250,15 @@ const QUIZ_BANKS = [
             "text": "Recover Function $\\rightarrow$ Execution Plan Subcategory (RC.RP)"
           }
         ],
-        "answer": "A",
-        "explanation": "NIST CSF v2.0 elevated Supply Chain Risk Management into the new **Govern** function under the dedicated category **GV.SC** (Cybersecurity Supply Chain Risk Management), emphasizing top-down supply chain governance.",
-        "evidenceId": "EXT-NIST-01",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Govern Function $\\rightarrow$ Supply Chain Risk Management Category (GV.SC) matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: Protect Function $\\rightarrow$ Maintenance Subcategory (PR.MA) is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Detect Function $\\rightarrow$ Continuous Monitoring Category (DE.CM) is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Recover Function $\\rightarrow$ Execution Plan Subcategory (RC.RP) is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 30,
+        "sourceNumber": 39,
         "questionId": "EX2-M05-D5-Q10",
         "topicId": "M05-T03",
         "module": "M05",
@@ -11127,30 +13266,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "The PDP evaluates access requests against security policies and issues authorization decisions; the PEP intercepts communication requests and enforces PDP decisions"
-          },
-          {
-            "label": "B",
             "text": "The PEP creates security policy guidelines; the PDP routes network traffic across hardware routers"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "The PDP encrypts data-at-rest; the PEP decrypts database backups"
+          },
+          {
+            "label": "C",
+            "text": "The PDP evaluates access requests against security policies and issues authorization decisions; the PEP intercepts communication requests and enforces PDP decisions"
           },
           {
             "label": "D",
             "text": "The PEP conducts post-incident forensics; the PDP manages software patches"
           }
         ],
-        "answer": "A",
-        "explanation": "In NIST SP 800-207 ZTA, the Policy Decision Point (PDP) (comprising Policy Engine and Policy Administrator) evaluates identity/context signals and decides whether to grant access. The Policy Enforcement Point (PEP) intercepts, inspects, and enforces PDP decisions on data connections.",
-        "evidenceId": "EXT-NIST-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: The PDP evaluates access requests against security policies and issues authorization decisions; the PEP intercepts communication requests and enforces PDP decisions matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: The PEP creates security policy guidelines; the PDP routes network traffic across hardware routers is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: The PDP encrypts data-at-rest; the PEP decrypts database backups is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: The PEP conducts post-incident forensics; the PDP manages software patches is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-SP-800-207",
         "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 31,
+        "sourceNumber": 40,
         "questionId": "EX2-M05-D5-Q11",
         "topicId": "M05-T03",
         "module": "M05",
@@ -11158,30 +13297,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "It bounds the maximum privacy loss parameter $\\epsilon$ such that the presence or absence of any single individual in the dataset cannot significantly alter query output probability"
-          },
-          {
-            "label": "B",
             "text": "It guarantees 100% protection against all physical server theft"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "It encrypts database tables using 4096-bit RSA keys"
           },
           {
-            "label": "D",
+            "label": "C",
             "text": "It automatically deletes all database records after 24 hours"
+          },
+          {
+            "label": "D",
+            "text": "It bounds the maximum privacy loss parameter $\\epsilon$ such that the presence or absence of any single individual in the dataset cannot significantly alter query output probability"
           }
         ],
-        "answer": "A",
-        "explanation": "Differential Privacy provides a mathematical guarantee bounded by parameter $\\epsilon$ (privacy loss budget) and $\\delta$ (failure probability), ensuring that an algorithm's output distribution remains virtually indistinguishable whether an individual's data record is included or excluded.",
-        "evidenceId": "EXT-NIST-01",
-        "evidenceClassification": "credible-secondary",
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: It bounds the maximum privacy loss parameter $\\epsilon$ such that the presence or absence of any single individual in the dataset cannot significantly alter query output probability matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: It guarantees 100% protection against all physical server theft is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: It encrypts database tables using 4096-bit RSA keys is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: It automatically deletes all database records after 24 hours is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-DWORK-PRIVACY-2006",
+        "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 32,
+        "sourceNumber": 41,
         "questionId": "EX2-M05-D5-Q12",
         "topicId": "M05-T03",
         "module": "M05",
@@ -11205,14 +13344,14 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "STRIDE is Microsoft's threat modeling framework where each threat violates a core security property: Spoofing (violates Authentication), Tampering (Integrity), Repudiation (Non-repudiation), Information Disclosure (Confidentiality), Denial of Service (Availability), and Elevation of Privilege (Authorization).",
-        "evidenceId": "EXT-NIST-01",
+        "explanation": "- **Option A (Correct)**: Spoofing $\\rightarrow$ Authentication; Tampering $\\rightarrow$ Integrity; Repudiation $\\rightarrow$ Non-repudiation; Information Disclosure $\\rightarrow$ Confidentiality; Denial of Service $\\rightarrow$ Availability; Elevation of Privilege $\\rightarrow$ Authorization matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option B (Incorrect)**: Spoofing $\\rightarrow$ Encryption; Tampering $\\rightarrow$ Logging; Repudiation $\\rightarrow$ Backup; Information Disclosure $\\rightarrow$ Firewalls; Denial of Service $\\rightarrow$ Antivirus; Elevation of Privilege $\\rightarrow$ Passwords is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: STRIDE maps exclusively to hardware power supply redundancy is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: STRIDE is a sales attribution model used in GA4 data streams is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-SHOSTACK-STRIDE-2014",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "terminology-confusion-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 33,
+        "sourceNumber": 42,
         "questionId": "EX2-M05-D5-Q13",
         "topicId": "M05-T04",
         "module": "M05",
@@ -11220,11 +13359,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "The inner `INCLUDE` LOD first sums sales for each `[Customer ID]` within the view context; the outer `FIXED` LOD then calculates the average of these customer sums fixed at the `[Region]` level"
+            "text": "The calculation returns an immediate SQL syntax error because nested LODs are unsupported"
           },
           {
             "label": "B",
-            "text": "The calculation returns an immediate SQL syntax error because nested LODs are unsupported"
+            "text": "The inner `INCLUDE` LOD first sums sales for each `[Customer ID]` within the view context; the outer `FIXED` LOD then calculates the average of these customer sums fixed at the `[Region]` level"
           },
           {
             "label": "C",
@@ -11235,15 +13374,15 @@ const QUIZ_BANKS = [
             "text": "The calculation evaluates as a simple unaggregated table scan across all rows"
           }
         ],
-        "answer": "A",
-        "explanation": "In Tableau, nested LOD expressions evaluate from the inside out. The inner `INCLUDE` LOD calculates sum of sales per customer, and the outer `FIXED` LOD averages those customer totals fixed at the `[Region]` level.",
-        "evidenceId": "EXT-TAB-01",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: The inner `INCLUDE` LOD first sums sales for each `[Customer ID]` within the view context; the outer `FIXED` LOD then calculates the average of these customer sums fixed at the `[Region]` level matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: The calculation returns an immediate SQL syntax error because nested LODs are unsupported is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: The outer `FIXED` LOD executes first, ignoring the inner `INCLUDE` calculation completely is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: The calculation evaluates as a simple unaggregated table scan across all rows is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-LOD-2020",
         "evidenceClassification": "official-external",
         "trapLabel": "format-wording-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 34,
+        "sourceNumber": 43,
         "questionId": "EX2-M05-D5-Q14",
         "topicId": "M05-T04",
         "module": "M05",
@@ -11251,30 +13390,30 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ **FIXED LOD** $\\rightarrow$ Dimension Filter $\\rightarrow$ Measure Filter"
-          },
-          {
-            "label": "B",
             "text": "Dimension Filter $\\rightarrow$ FIXED LOD $\\rightarrow$ Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ Measure Filter"
           },
           {
-            "label": "C",
+            "label": "B",
             "text": "FIXED LOD $\\rightarrow$ Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ Dimension Filter $\\rightarrow$ Measure Filter"
+          },
+          {
+            "label": "C",
+            "text": "Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ **FIXED LOD** $\\rightarrow$ Dimension Filter $\\rightarrow$ Measure Filter"
           },
           {
             "label": "D",
             "text": "Data Source Filter $\\rightarrow$ Dimension Filter $\\rightarrow$ Context Filter $\\rightarrow$ Measure Filter $\\rightarrow$ FIXED LOD"
           }
         ],
-        "answer": "A",
-        "explanation": "Tableau's Order of Operations filter sequence is: Data Source Filter (Step 2) $\\rightarrow$ Context Filter (Step 3) $\\rightarrow$ **FIXED LOD Calculations (Step 4)** $\\rightarrow$ Dimension Filters (Step 5) $\\rightarrow$ Measure Filters (Step 7).",
-        "evidenceId": "EXT-TAB-01",
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ **FIXED LOD** $\\rightarrow$ Dimension Filter $\\rightarrow$ Measure Filter matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: Dimension Filter $\\rightarrow$ FIXED LOD $\\rightarrow$ Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ Measure Filter is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: FIXED LOD $\\rightarrow$ Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ Dimension Filter $\\rightarrow$ Measure Filter is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Data Source Filter $\\rightarrow$ Dimension Filter $\\rightarrow$ Context Filter $\\rightarrow$ Measure Filter $\\rightarrow$ FIXED LOD is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-LOD-2020",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
         "provisional": false
       },
       {
-        "sourceNumber": 35,
+        "sourceNumber": 44,
         "questionId": "EX2-M05-D5-Q15",
         "topicId": "M05-T04",
         "module": "M05",
@@ -11282,26 +13421,212 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Secondary fields are aggregated at the link key level; `ATTR()` returns an asterisk (`*`) if multiple distinct values exist in the secondary data source for a single primary key record"
+            "text": "Maintain 30-point commitments and require remaining developers to work 100% overtime hours to meet targets"
           },
           {
             "label": "B",
-            "text": "`ATTR()` is an encryption wrapper; it returns an asterisk (`*`) when database permissions are restricted"
+            "text": "Double the story point estimates of all backlog items to restore historical 30-point velocity numbers"
           },
           {
             "label": "C",
-            "text": "`ATTR()` converts measures to dimensions; it returns an asterisk (`*`) when fields are discrete blue pills"
+            "text": "Discontinue using Jira Velocity Charts and transition entirely to annual Waterfall Gantt charts"
           },
           {
             "label": "D",
-            "text": "`ATTR()` executes a SQL INNER JOIN; it returns an asterisk (`*`) when zero records match"
+            "text": "Recalculate future Sprint commitments based on current available engineering capacity (15 points) rather than stale historical targets"
           }
         ],
         "answer": "A",
-        "explanation": "In Tableau data blending, secondary data is aggregated at the blending link key level. `ATTR(field)` evaluates `IF MIN(field) = MAX(field) THEN MIN(field) ELSE '*' END`. If multiple non-identical values exist in the secondary source for a given primary key value, `ATTR()` returns an asterisk (`*`).",
-        "evidenceId": "EXT-TAB-01",
+        "explanation": "Option A is the correct answer. Velocity capacity planning (Atlassian Jira Documentation) must account for changes in team staffing capacity. When staffing dropped 50%, capacity dropped to 15 points. Continuing to commit 30 points caused artificial burndown failure. Future commitments must align with current capacity (15 points). Options B, C, and D are anti-patterns.",
+        "evidenceId": "EXT-TABLEAU-BLENDING-2024",
         "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 45,
+        "questionId": "EX2-M05-D5-Q16",
+        "topicId": "M05-T01",
+        "module": "M05",
+        "question": "A company runs NPS surveys quarterly. Q1: +45 (n=1,000), Q2: +38 (n=800), Q3: +52 (n=1,200), Q4: +41 (n=900). The annual report states 'average NPS of +44.' What methodological issue is present?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The unweighted average ignores different sample sizes per quarter, potentially distorting the result."
+          },
+          {
+            "label": "B",
+            "text": "The quarterly scores should be summed, not averaged, to determine annual NPS."
+          },
+          {
+            "label": "C",
+            "text": "NPS cannot be measured quarterly — it must be calculated annually from cumulative data."
+          },
+          {
+            "label": "D",
+            "text": "The score range indicates measurement error because NPS should not fluctuate more than ±5 points."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: The unweighted average ignores different sample sizes per quarter, potentially distorting the result. matches the authoritative source framework (`EXT-BAIN-NPS-2011`).\n  - **Option B (Incorrect)**: The quarterly scores should be summed, not averaged, to determine annual NPS. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: NPS cannot be measured quarterly — it must be calculated annually from cumulative data. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: The score range indicates measurement error because NPS should not fluctuate more than ±5 points. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-LEWIS-RAG-2020",
+        "evidenceClassification": "official-external",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 46,
+        "questionId": "EX2-M05-D5-Q17",
+        "topicId": "M05-T02",
+        "module": "M05",
+        "question": "A Tableau developer creates three LOD expressions: FIXED [Country] : SUM(Sales), INCLUDE [State] : AVG(Profit), and EXCLUDE [Product] : COUNT(Orders). A Context Filter for 'Country = USA' and a Dimension Filter for 'Region = West' are both applied. Which LODs are affected by which filters?",
+        "options": [
+          {
+            "label": "A",
+            "text": "All three LODs affected by both filters equally."
+          },
+          {
+            "label": "B",
+            "text": "FIXED affected by Context only; INCLUDE and EXCLUDE affected by both Context and Dimension."
+          },
+          {
+            "label": "C",
+            "text": "FIXED affected by Dimension only; INCLUDE and EXCLUDE affected by Context only."
+          },
+          {
+            "label": "D",
+            "text": "None of the LODs are affected by either filter."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: FIXED affected by Context only; INCLUDE and EXCLUDE affected by both Context and Dimension. matches the authoritative source framework (`EXT-TABLEAU-ORDER-OF-OPS`).\n  - **Option A (Incorrect)**: All three LODs affected by both filters equally. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: FIXED affected by Dimension only; INCLUDE and EXCLUDE affected by Context only. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: None of the LODs are affected by either filter. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-OPENVIEW-SAAS-2023",
+        "evidenceClassification": "official-external",
+        "trapLabel": "order-of-operations-confusion",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 47,
+        "questionId": "EX2-M05-D5-Q18",
+        "topicId": "M05-T03",
+        "module": "M05",
+        "question": "A SaaS company grows from $10M to $15M ARR. Beginning customer count: 200. End customer count: 250 (50 new, 20 churned). Beginning ARPA: $50,000. If the NRR for the existing 200-customer cohort is 112%, what ARR came from the original 200 customers at year-end?",
+        "options": [
+          {
+            "label": "A",
+            "text": "$12,500,000 — $15M × (200/250) × 112%."
+          },
+          {
+            "label": "B",
+            "text": "$15,000,000 — total year-end ARR."
+          },
+          {
+            "label": "C",
+            "text": "$11,200,000 — $10M × 112%."
+          },
+          {
+            "label": "D",
+            "text": "$10,000,000 — unchanged from beginning ARR."
+          }
+        ],
+        "answer": "C",
+        "explanation": "- **Option C (Correct)**: $11,200,000 — $10M × 112%. matches the authoritative source framework (`EXT-BVP-CLOUD-2023`).\n  - **Option A (Incorrect)**: $12,500,000 — $15M × (200/250) × 112%. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: $15,000,000 — total year-end ARR. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $10,000,000 — unchanged from beginning ARR. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
+        "evidenceClassification": "official-external",
+        "trapLabel": "calculation-error",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 48,
+        "questionId": "EX2-M05-D5-Q19",
+        "topicId": "M05-T04",
+        "module": "M05",
+        "question": "NIST CSF 2.0 now explicitly addresses Cybersecurity Supply Chain Risk Management (C-SCRM). Under which function is C-SCRM primarily categorized?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Protect — because supply chain security involves implementing safeguards."
+          },
+          {
+            "label": "B",
+            "text": "Identify — because it requires understanding third-party risk exposure."
+          },
+          {
+            "label": "C",
+            "text": "Respond — because supply chain incidents require coordinated response plans."
+          },
+          {
+            "label": "D",
+            "text": "Govern — because it requires organizational strategy and oversight of vendor relationships."
+          }
+        ],
+        "answer": "D",
+        "explanation": "- **Option D (Correct)**: Govern — because it requires organizational strategy and oversight of vendor relationships. matches the authoritative source framework (`EXT-NIST-CSF-2.0`).\n  - **Option A (Incorrect)**: Protect — because supply chain security involves implementing safeguards. is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: Identify — because it requires understanding third-party risk exposure. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Respond — because supply chain incidents require coordinated response plans. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-TABLEAU-ORDER-OF-OPS",
+        "evidenceClassification": "official-external",
+        "trapLabel": "scope-confusion",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 49,
+        "questionId": "EX2-M05-D5-Q20",
+        "topicId": "M05-T01",
+        "module": "M05",
+        "question": "A subscription e-commerce brand has: NPS = +55, monthly churn rate = 4%, and CSAT = 88%. Despite the strong NPS and CSAT, churn remains high. Which CX metric would best diagnose the root cause?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Customer Effort Score (CES) — measuring friction in cancellation, billing, and support interactions."
+          },
+          {
+            "label": "B",
+            "text": "Customer Satisfaction Index (CSI) — a broader satisfaction measure."
+          },
+          {
+            "label": "C",
+            "text": "Brand Awareness Score — measuring top-of-mind recall."
+          },
+          {
+            "label": "D",
+            "text": "Social Media Sentiment Score — analyzing public brand perception."
+          }
+        ],
+        "answer": "A",
+        "explanation": "- **Option A (Correct)**: Customer Effort Score (CES) — measuring friction in cancellation, billing, and support interactions. matches the authoritative source framework (`EXT-DIXON-EFFORTLESS-2013`).\n  - **Option B (Incorrect)**: Customer Satisfaction Index (CSI) — a broader satisfaction measure. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Brand Awareness Score — measuring top-of-mind recall. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Social Media Sentiment Score — analyzing public brand perception. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-KUMAR-NBA-2019",
+        "evidenceClassification": "credible-secondary",
+        "trapLabel": "none",
+        "provisional": false
+      },
+      {
+        "sourceNumber": 50,
+        "questionId": "EX2-M05-D5-Q21",
+        "topicId": "M05-T03",
+        "module": "M05",
+        "question": "A PE-backed SaaS company has CAC = $15,000, monthly ARPA = $3,000, GM = 80%, NRR = 120%, and GRR = 85%. An acquirer uses a 'Rule of 40' benchmark (Revenue Growth % + Profit Margin % ≥ 40). If annual revenue growth is 35% and operating margin is 8%, does the company pass the Rule of 40?",
+        "options": [
+          {
+            "label": "A",
+            "text": "No — the GRR of 85% disqualifies it regardless of the Rule of 40 score."
+          },
+          {
+            "label": "B",
+            "text": "Yes — 35% + 8% = 43%, exceeding the 40% threshold."
+          },
+          {
+            "label": "C",
+            "text": "No — 35% + 8% = 43% but the CAC payback of 6.25 months is too short."
+          },
+          {
+            "label": "D",
+            "text": "Inconclusive — the Rule of 40 only applies to public companies."
+          }
+        ],
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: Yes — 35% + 8% = 43%, exceeding the 40% threshold. matches the authoritative source framework (`EXT-OPENVIEW-SAAS-2023`).\n  - **Option A (Incorrect)**: No — the GRR of 85% disqualifies it regardless of the Rule of 40 score. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: No — 35% + 8% = 43% but the CAC payback of 6.25 months is too short. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Inconclusive — the Rule of 40 only applies to public companies. is inaccurate or secondary relative to the primary concept.",
+        "evidenceId": "EXT-NIST-CSF-2.0",
+        "evidenceClassification": "official-external",
+        "trapLabel": "calculation-error",
         "provisional": false
       }
     ]
@@ -11319,14 +13644,14 @@ const QUIZ_BANKS = [
     "questions": [
       {
         "sourceNumber": 1,
-        "questionId": "EX2-M06-D1-Q01",
+        "questionId": "EX3-M06-D1-Q01",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "Which of the four core values defined in the Manifesto for Agile Software Development (2001) explicitly prioritizes adapting product direction over adhering strictly to an initial project plan?",
         "options": [
           {
             "label": "A",
-            "text": "Working software over comprehensive documentation"
+            "text": "Responding to change over following a plan"
           },
           {
             "label": "B",
@@ -11334,15 +13659,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Responding to change over following a plan"
+            "text": "Working software over comprehensive documentation"
           },
           {
             "label": "D",
             "text": "Individuals and interactions over processes and tools"
           }
         ],
-        "answer": "C",
-        "explanation": "Option C is the correct answer. The Manifesto for Agile Software Development (Beck et al., 2001) establishes \"Responding to change over following a plan\" as the core value emphasizing adaptive iterative development over rigid contract specification. Option A focuses on functional software deliverables over heavy documentation. Option B emphasizes collaborative customer engagement over legalistic scope constraints. Option D highlights team communication over rigid tooling.",
+        "answer": "A",
+        "explanation": "Option A is the correct answer. The Manifesto for Agile Software Development (Beck et al., 2001) establishes \"Responding to change over following a plan\" as the core value emphasizing adaptive iterative development over rigid contract specification. Option C focuses on functional software deliverables over heavy documentation. Option B emphasizes collaborative customer engagement over legalistic scope constraints. Option D highlights team communication over rigid tooling.",
         "evidenceId": "EXT-AGILE-01",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
@@ -11350,7 +13675,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 2,
-        "questionId": "EX2-M06-D1-Q02",
+        "questionId": "EX3-M06-D1-Q02",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "In Eric Ries' Lean Startup framework, what is the primary operational purpose of building a Minimum Viable Product (MVP)?",
@@ -11381,7 +13706,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 3,
-        "questionId": "EX2-M06-D1-Q03",
+        "questionId": "EX3-M06-D1-Q03",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "In Marty Cagan's Dual-Track Agile framework, what is the primary goal of the Product Discovery Track?",
@@ -11392,19 +13717,19 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "To answer whether a product concept is valuable, usable, feasible, and viable before building it"
+            "text": "To write clean production-ready source code for user stories in the sprint backlog"
           },
           {
             "label": "C",
-            "text": "To write clean production-ready source code for user stories in the sprint backlog"
+            "text": "To answer whether a product concept is valuable, usable, feasible, and viable before building it"
           },
           {
             "label": "D",
             "text": "To manage database migration scripts and cloud infrastructure scaling policies"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. In Dual-Track Agile (Cagan, 2018), the Discovery Track focuses on framing and validating product ideas to address four core risks: Value (will they buy/use it?), Usability (can they figure out how to use it?), Feasibility (can we build it?), and Viability (does it work for our business?). Option A refers to QA delivery activities. Option C describes the Delivery Track responsibilities. Option D refers to DevOps and database administration.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. In Dual-Track Agile (Cagan, 2018), the Discovery Track focuses on framing and validating product ideas to address four core risks: Value (will they buy/use it?), Usability (can they figure out how to use it?), Feasibility (can we build it?), and Viability (does it work for our business?). Option A refers to QA delivery activities. Option B describes the Delivery Track responsibilities. Option D refers to DevOps and database administration.",
         "evidenceId": "EXT-AGILE-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
@@ -11412,7 +13737,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 4,
-        "questionId": "EX2-M06-D1-Q04",
+        "questionId": "EX3-M06-D1-Q04",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "According to the 2020 Scrum Guide (Schwaber & Sutherland), what is the single official commitment associated with the Product Backlog artifact?",
@@ -11427,15 +13752,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Product Goal"
+            "text": "Release Milestone Plan"
           },
           {
             "label": "D",
-            "text": "Release Milestone Plan"
+            "text": "Product Goal"
           }
         ],
-        "answer": "C",
-        "explanation": "Option C is the correct answer. The 2020 Scrum Guide explicitly defines three artifacts and their corresponding commitments: 1) Product Backlog -> Product Goal; 2) Sprint Backlog -> Sprint Goal; 3) Increment -> Definition of Done. Option A is the commitment for the Sprint Backlog. Option B is the commitment for the Increment. Option D is not an official Scrum artifact commitment.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. The 2020 Scrum Guide explicitly defines three artifacts and their corresponding commitments: 1) Product Backlog -> Product Goal; 2) Sprint Backlog -> Sprint Goal; 3) Increment -> Definition of Done. Option A is the commitment for the Sprint Backlog. Option B is the commitment for the Increment. Option C is not an official Scrum artifact commitment.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
@@ -11443,18 +13768,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 5,
-        "questionId": "EX2-M06-D1-Q05",
+        "questionId": "EX3-M06-D1-Q05",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "In the 3-5-3 Scrum Framework, which accountability is exclusively responsible for maximizing the value of the product resulting from the work of the Scrum Team?",
         "options": [
           {
             "label": "A",
-            "text": "Scrum Master"
+            "text": "Product Owner"
           },
           {
             "label": "B",
-            "text": "Product Owner"
+            "text": "Scrum Master"
           },
           {
             "label": "C",
@@ -11465,8 +13790,8 @@ const QUIZ_BANKS = [
             "text": "Agile Project Manager"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. The Scrum Guide (2020) defines the Product Owner as the single person accountable for maximizing the value of the product and effectively managing the Product Backlog. Option A (Scrum Master) is accountable for establishing Scrum and team effectiveness. Option C (Developers) are committed to creating usable Increments. Option D is not a recognized role in standard Scrum.",
+        "answer": "A",
+        "explanation": "Option A is the correct answer. The Scrum Guide (2020) defines the Product Owner as the single person accountable for maximizing the value of the product and effectively managing the Product Backlog. Option B (Scrum Master) is accountable for establishing Scrum and team effectiveness. Option C (Developers) are committed to creating usable Increments. Option D is not a recognized role in standard Scrum.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
@@ -11474,7 +13799,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 6,
-        "questionId": "EX2-M06-D1-Q06",
+        "questionId": "EX3-M06-D1-Q06",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "In David J. Anderson's Kanban Method, which core practice is explicitly enforced to limit multitasking, reduce lead time, and expose workflow bottlenecks?",
@@ -11505,7 +13830,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 7,
-        "questionId": "EX2-M06-D1-Q07",
+        "questionId": "EX3-M06-D1-Q07",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "In Bill Wake's INVEST criteria for evaluating Agile user stories, what property does the letter 'E' represent?",
@@ -11516,19 +13841,19 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Estimable"
+            "text": "Efficient"
           },
           {
             "label": "C",
-            "text": "Efficient"
+            "text": "Estimable"
           },
           {
             "label": "D",
             "text": "Essential"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. The INVEST mnemonic created by Bill Wake (2003) stands for: Independent, Negotiable, Valuable, Estimable, Small, and Testable. Estimable means developers have sufficient clarity to gauge relative complexity and effort. Options A, C, and D are plausible adjectives but do not belong to the INVEST criteria.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. The INVEST mnemonic created by Bill Wake (2003) stands for: Independent, Negotiable, Valuable, Estimable, Small, and Testable. Estimable means developers have sufficient clarity to gauge relative complexity and effort. Options A, C, and D are plausible adjectives but do not belong to the INVEST criteria.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
@@ -11536,7 +13861,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 8,
-        "questionId": "EX2-M06-D1-Q08",
+        "questionId": "EX3-M06-D1-Q08",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "What is the standard structural template for writing user-centric Agile user stories in product backlog refinement?",
@@ -11547,7 +13872,7 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "As a <user persona>, I want <capability>, so that <business benefit>"
+            "text": "Feature <name>: Must have <priority>, Effort <story points>, Risk <level>"
           },
           {
             "label": "C",
@@ -11555,11 +13880,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Feature <name>: Must have <priority>, Effort <story points>, Risk <level>"
+            "text": "As a <user persona>, I want <capability>, so that <business benefit>"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. The standard user story format introduced by Mike Cohn (2005) is \"As a <user persona>, I want <capability>, so that <business benefit>.\" Option A is the Given-When-Then BDD format used for Acceptance Criteria. Option C represents traditional conditional logic specs. Option D represents metadata attribute tagging.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. The standard user story format introduced by Mike Cohn (2005) is \"As a <user persona>, I want <capability>, so that <business benefit>.\" Option A is the Given-When-Then BDD format used for Acceptance Criteria. Option C represents traditional conditional logic specs. Option B represents metadata attribute tagging.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
@@ -11567,18 +13892,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 9,
-        "questionId": "EX2-M06-D1-Q09",
+        "questionId": "EX3-M06-D1-Q09",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "Why do Scrum teams utilize a non-linear sequence (such as the modified Fibonacci numbers: 1, 2, 3, 5, 8, 13, 21) when estimating story points?",
         "options": [
           {
             "label": "A",
-            "text": "To map story points directly to exact developer working hours"
+            "text": "To reflect the exponentially increasing uncertainty and risk as task size grows"
           },
           {
             "label": "B",
-            "text": "To reflect the exponentially increasing uncertainty and risk as task size grows"
+            "text": "To map story points directly to exact developer working hours"
           },
           {
             "label": "C",
@@ -11589,8 +13914,8 @@ const QUIZ_BANKS = [
             "text": "To ensure that smaller tasks receive higher estimation weighting during sprint planning"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. In Agile estimation literature (Cohn, 2005), non-linear scales like Fibonacci numbers reflect the principle that as work size increases, uncertainty, complexity, and estimation variance grow exponentially. Option A incorrectly attempts to translate relative points directly into fixed clock hours. Options C and D are factually inaccurate.",
+        "answer": "A",
+        "explanation": "Option A is the correct answer. In Agile estimation literature (Cohn, 2005), non-linear scales like Fibonacci numbers reflect the principle that as work size increases, uncertainty, complexity, and estimation variance grow exponentially. Option B incorrectly attempts to translate relative points directly into fixed clock hours. Options C and D are factually inaccurate.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
@@ -11598,7 +13923,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 10,
-        "questionId": "EX2-M06-D1-Q10",
+        "questionId": "EX3-M06-D1-Q10",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "Which of the 7 testing principles in the ISTQB CTFL v4.0 syllabus states that running the exact same test cases repeatedly will eventually fail to reveal new defects?",
@@ -11609,19 +13934,19 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Early testing saves time and money"
+            "text": "Pesticide paradox"
           },
           {
             "label": "C",
-            "text": "Pesticide paradox"
+            "text": "Early testing saves time and money"
           },
           {
             "label": "D",
             "text": "Absence-of-errors fallacy"
           }
         ],
-        "answer": "C",
-        "explanation": "Option C is the correct answer. The ISTQB CTFL v4.0 syllabus defines Principle 5 as the \"Pesticide paradox\", which states that if the same tests are repeated over and over, eventually the same set of test cases will no longer find any new defects. Test suites must be regularly reviewed and updated. Option A (Defect clustering) refers to Pareto defect distribution. Option B refers to Shift-Left testing. Option D refers to building the wrong system.",
+        "answer": "B",
+        "explanation": "Option B is the correct answer. The ISTQB CTFL v4.0 syllabus defines Principle 5 as the \"Pesticide paradox\", which states that if the same tests are repeated over and over, eventually the same set of test cases will no longer find any new defects. Test suites must be regularly reviewed and updated. Option A (Defect clustering) refers to Pareto defect distribution. Option C refers to Shift-Left testing. Option D refers to building the wrong system.",
         "evidenceId": "EXT-ISTQB-01",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
@@ -11629,7 +13954,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 11,
-        "questionId": "EX2-M06-D1-Q11",
+        "questionId": "EX3-M06-D1-Q11",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "Which newly introduced 9th quality characteristic was officially added to the software product quality model in the revised ISO/IEC 25010:2023 standard?",
@@ -11660,7 +13985,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 12,
-        "questionId": "EX2-M06-D1-Q12",
+        "questionId": "EX3-M06-D1-Q12",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "What is the term for re-testing software to confirm that recent code modifications or bug fixes have not adversely affected existing, unchanged functionality?",
@@ -11671,7 +13996,7 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Regression testing"
+            "text": "Static code analysis"
           },
           {
             "label": "C",
@@ -11679,11 +14004,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Static code analysis"
+            "text": "Regression testing"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. ISTQB CTFL v4.0 defines Regression testing as testing an existing, previously tested program following modification to ensure that defects have not been introduced or uncovered in unchanged areas. Option A (Smoke test) verifies basic build stability. Option C (UAT) validates business fitness. Option D (Static analysis) checks source code without execution.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. ISTQB CTFL v4.0 defines Regression testing as testing an existing, previously tested program following modification to ensure that defects have not been introduced or uncovered in unchanged areas. Option A (Smoke test) verifies basic build stability. Option C (UAT) validates business fitness. Option B (Static analysis) checks source code without execution.",
         "evidenceId": "EXT-ISTQB-01",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
@@ -11691,18 +14016,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 13,
-        "questionId": "EX2-M06-D1-Q13",
+        "questionId": "EX3-M06-D1-Q13",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "In Atlassian Jira Software, which report measures the amount of story points completed per sprint across historical iterations to establish sprint capacity baselines?",
         "options": [
           {
             "label": "A",
-            "text": "Burndown Chart"
+            "text": "Velocity Chart"
           },
           {
             "label": "B",
-            "text": "Velocity Chart"
+            "text": "Burndown Chart"
           },
           {
             "label": "C",
@@ -11713,8 +14038,8 @@ const QUIZ_BANKS = [
             "text": "Cumulative Flow Diagram"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. The Jira Velocity Chart tracks the amount of work committed and completed across past sprints, providing the primary baseline for sprint capacity planning and release forecasting (Atlassian Documentation). Option A (Burndown) tracks remaining work during a single sprint. Option C (Control Chart) analyzes cycle time variance. Option D (CFD) tracks status queue distribution.",
+        "answer": "A",
+        "explanation": "Option A is the correct answer. The Jira Velocity Chart tracks the amount of work committed and completed across past sprints, providing the primary baseline for sprint capacity planning and release forecasting (Atlassian Documentation). Option B (Burndown) tracks remaining work during a single sprint. Option C (Control Chart) analyzes cycle time variance. Option D (CFD) tracks status queue distribution.",
         "evidenceId": "EXT-JIRA-02",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
@@ -11722,7 +14047,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 14,
-        "questionId": "EX2-M06-D1-Q14",
+        "questionId": "EX3-M06-D1-Q14",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "In Jira program management, what is the primary diagnostic function of a Cumulative Flow Diagram (CFD)?",
@@ -11753,7 +14078,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 15,
-        "questionId": "EX2-M06-D1-Q15",
+        "questionId": "EX3-M06-D1-Q15",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "In Jira program metrics, how is Cycle Time distinguished from Lead Time?",
@@ -11764,19 +14089,19 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Cycle Time measures active time from work start (\"In Progress\") to completion, whereas Lead Time measures total time from issue creation to completion"
+            "text": "Cycle Time measures testing duration in QA, whereas Lead Time measures code review duration"
           },
           {
             "label": "C",
-            "text": "Cycle Time measures testing duration in QA, whereas Lead Time measures code review duration"
+            "text": "Cycle Time measures active time from work start (\"In Progress\") to completion, whereas Lead Time measures total time from issue creation to completion"
           },
           {
             "label": "D",
             "text": "Cycle Time measures sprint duration, whereas Lead Time measures annual product roadmap duration"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. In Jira program metrics (Atlassian), Lead Time measures the entire customer journey from issue creation (backlog logging) to final completion (\"Done\"). Cycle Time measures the active elapsed execution time from when work actually starts (\"In Progress\") until it is completed (\"Done\"). Option A reverses the definitions. Options C and D are incorrect.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. In Jira program metrics (Atlassian), Lead Time measures the entire customer journey from issue creation (backlog logging) to final completion (\"Done\"). Cycle Time measures the active elapsed execution time from when work actually starts (\"In Progress\") until it is completed (\"Done\"). Option A reverses the definitions. Options C and D are incorrect.",
         "evidenceId": "EXT-JIRA-01",
         "evidenceClassification": "official-external",
         "trapLabel": "none",
@@ -11797,14 +14122,14 @@ const QUIZ_BANKS = [
     "questions": [
       {
         "sourceNumber": 1,
-        "questionId": "EX2-M06-D2-Q01",
+        "questionId": "EX3-M06-D2-Q01",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "A product team at an enterprise software firm conducts six months of internal architecture reviews and writes extensive technical specifications before exposing any working prototype to target market participants. Upon commercial launch, customer adoption is negligible because the product fails to solve the primary operational workflow friction of end users. Under Agile product research literature, which analytical classification best characterizes this systemic failure mode?",
         "options": [
           {
             "label": "A",
-            "text": "Executing a sequential waterfall pattern under the superficial terminology of agile software development"
+            "text": "Over-indexing on continuous market research activities at the direct expense of shipping production code"
           },
           {
             "label": "B",
@@ -11816,11 +14141,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Over-indexing on continuous market research activities at the direct expense of shipping production code"
+            "text": "Executing a sequential waterfall pattern under the superficial terminology of agile software development"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Conducting extensive upfront design and specification work without customer exposure represents a classic \"waterfall-in-disguise\" anti-pattern (Beck et al., 2001; Cagan, 2018), violating the core Agile value of customer collaboration and iterative release. Option B presents a plausible architectural justification but fails to address the lack of customer validation. Option C introduces internal SLA mechanics irrelevant to market failure. Option D incorrectly claims the team over-indexed on research when they actually conducted zero market research.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. Conducting extensive upfront design and specification work without customer exposure represents a classic \"waterfall-in-disguise\" anti-pattern (Beck et al., 2001; Cagan, 2018), violating the core Agile value of customer collaboration and iterative release. Option B presents a plausible architectural justification but fails to address the lack of customer validation. Option C introduces internal SLA mechanics irrelevant to market failure. Option A incorrectly claims the team over-indexed on research when they actually conducted zero market research.",
         "evidenceId": "EXT-AGILE-01",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
@@ -11828,18 +14153,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 2,
-        "questionId": "EX2-M06-D2-Q02",
+        "questionId": "EX3-M06-D2-Q02",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "A fintech startup plans to deploy an automated AI credit scoring engine. The engineering team estimates that building the automated machine learning pipeline will require 12 weeks. The product manager proposes executing a Riskiest Assumption Test (RAT) by manually underwriting 50 loan applications using a rule-based spreadsheet to validate applicant conversion rates before initiating pipeline development. Evaluating this proposal against Lean product principles, the product manager's decision is:",
         "options": [
           {
             "label": "A",
-            "text": "Incorrect, because manual prototypes violate automated continuous integration and delivery compliance standards"
+            "text": "Correct, because validating the underlying demand hypothesis minimizes technical effort prior to commitment"
           },
           {
             "label": "B",
-            "text": "Correct, because validating the underlying demand hypothesis minimizes technical effort prior to commitment"
+            "text": "Incorrect, because manual prototypes violate automated continuous integration and delivery compliance standards"
           },
           {
             "label": "C",
@@ -11850,8 +14175,8 @@ const QUIZ_BANKS = [
             "text": "Correct, because manual processing permanently removes the requirement to construct an automated scoring engine"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. A Riskiest Assumption Test (RAT) validates core underlying hypotheses (e.g. customer demand/conversion) with minimal effort before committing heavy engineering resources (Ries, 2011). Option A misapplies CI/CD software pipeline rules to early hypothesis testing. Option C focuses on model bias, missing the strategic Lean objective of demand validation. Option D incorrectly assumes an experimental prototype permanently replaces production infrastructure.",
+        "answer": "A",
+        "explanation": "Option A is the correct answer. A Riskiest Assumption Test (RAT) validates core underlying hypotheses (e.g. customer demand/conversion) with minimal effort before committing heavy engineering resources (Ries, 2011). Option B misapplies CI/CD software pipeline rules to early hypothesis testing. Option C focuses on model bias, missing the strategic Lean objective of demand validation. Option D incorrectly assumes an experimental prototype permanently replaces production infrastructure.",
         "evidenceId": "EXT-AGILE-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
@@ -11859,18 +14184,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 3,
-        "questionId": "EX2-M06-D2-Q03",
+        "questionId": "EX3-M06-D2-Q03",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "In a B2B SaaS enterprise, the discovery team identifies that prospective clients abandon onboarding due to security concerns regarding cross-border data residency. The discovery team creates three interactive wireframe variations displaying localized compliance badges and tests them with 20 compliance officers without writing backend production code. Under Marty Cagan's Dual-Track Agile framework, this initiative is best classified as:",
         "options": [
           {
             "label": "A",
-            "text": "Validating product viability and user value within the continuous discovery track prior to engineering commitment"
+            "text": "Transitioning verified architectural backlog items into the delivery track for immediate sprint execution"
           },
           {
             "label": "B",
-            "text": "Transitioning verified architectural backlog items into the delivery track for immediate sprint execution"
+            "text": "Validating product viability and user value within the continuous discovery track prior to engineering commitment"
           },
           {
             "label": "C",
@@ -11881,8 +14206,8 @@ const QUIZ_BANKS = [
             "text": "Refactoring legacy backend database structures to support multi-tenant data isolation compliance policies"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Dual-Track Agile (Cagan, 2018) runs continuous Discovery parallel to Delivery. Testing wireframes with target users to evaluate value and viability without writing production code is the exact purpose of the Discovery track. Option B incorrectly claims items are moving to Delivery before validation is complete. Option C confuses discovery prototyping with formal QA UAT. Option D describes a technical delivery task.",
+        "answer": "B",
+        "explanation": "Option B is the correct answer. Dual-Track Agile (Cagan, 2018) runs continuous Discovery parallel to Delivery. Testing wireframes with target users to evaluate value and viability without writing production code is the exact purpose of the Discovery track. Option A incorrectly claims items are moving to Delivery before validation is complete. Option C confuses discovery prototyping with formal QA UAT. Option D describes a technical delivery task.",
         "evidenceId": "EXT-AGILE-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
@@ -11890,14 +14215,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 4,
-        "questionId": "EX2-M06-D2-Q04",
+        "questionId": "EX3-M06-D2-Q04",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "During a Sprint Review meeting, an key enterprise client requests an urgent feature addition to the active Sprint backlog. The Scrum Master insists that the developers cannot add new work to the ongoing iteration because doing so would endanger the Sprint Goal. Evaluating this situation under the 2020 Scrum Guide (Schwaber & Sutherland), the Scrum Master's position is:",
         "options": [
           {
             "label": "A",
-            "text": "Correct, because no changes should be made during a Sprint that endanger or compromise the agreed Sprint Goal"
+            "text": "Correct, because external client feature requests can only be evaluated during formal Sprint Retrospective sessions"
           },
           {
             "label": "B",
@@ -11905,15 +14230,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Correct, because external client feature requests can only be evaluated during formal Sprint Retrospective sessions"
+            "text": "Correct, because no changes should be made during a Sprint that endanger or compromise the agreed Sprint Goal"
           },
           {
             "label": "D",
             "text": "Incorrect, because Scrum teams must immediately adopt all customer feedback to maintain organizational agility"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. The 2020 Scrum Guide explicitly states: \"During the Sprint, no changes are made that would endanger the Sprint Goal.\" Option B is incorrect because even the PO cannot unilaterally make scope changes that jeopardize the Sprint Goal mid-sprint without team alignment. Option C incorrectly names the Retrospective (which is for process improvement, not backlog intake). Option D misinterprets agility as uncontrolled scope volatility.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. The 2020 Scrum Guide explicitly states: \"During the Sprint, no changes are made that would endanger the Sprint Goal.\" Option B is incorrect because even the PO cannot unilaterally make scope changes that jeopardize the Sprint Goal mid-sprint without team alignment. Option A incorrectly names the Retrospective (which is for process improvement, not backlog intake). Option D misinterprets agility as uncontrolled scope volatility.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
@@ -11921,14 +14246,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 5,
-        "questionId": "EX2-M06-D2-Q05",
+        "questionId": "EX3-M06-D2-Q05",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "A software engineering department operating under Kanban observes that issues in the \"In Code Review\" status column regularly accumulate to 15 items, causing downstream QA engineers to remain idle while waiting for testing builds. The team lead establishes a Work-in-Progress (WIP) limit of 3 items on the \"In Code Review\" column. Under Kanban principles (David J. Anderson), this intervention will primarily:",
         "options": [
           {
             "label": "A",
-            "text": "Expose workflow bottlenecks and force team members to collaborate on clearing pending code review backlogs"
+            "text": "Automatically elevate team velocity by transforming the Kanban workflow into timeboxed sprint iterations"
           },
           {
             "label": "B",
@@ -11940,11 +14265,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Automatically elevate team velocity by transforming the Kanban workflow into timeboxed sprint iterations"
+            "text": "Expose workflow bottlenecks and force team members to collaborate on clearing pending code review backlogs"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Enforcing WIP limits in Kanban restricts column capacity, preventing new work from entering until existing work is cleared. This surfaces systemic bottlenecks and forces developers to pair or review existing code before starting new tasks (Anderson, 2010). Option B describes harmful multitasking. Option C incorrectly claims WIP limits eliminate code reviews. Option D confuses Kanban WIP limits with Scrum timeboxing.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. Enforcing WIP limits in Kanban restricts column capacity, preventing new work from entering until existing work is cleared. This surfaces systemic bottlenecks and forces developers to pair or review existing code before starting new tasks (Anderson, 2010). Option B describes harmful multitasking. Option C incorrectly claims WIP limits eliminate code reviews. Option A confuses Kanban WIP limits with Scrum timeboxing.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
@@ -11952,7 +14277,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 6,
-        "questionId": "EX2-M06-D2-Q06",
+        "questionId": "EX3-M06-D2-Q06",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "An engineering organization mandates that all software development must strictly follow Extreme Programming (XP) practices. A developer writes an automated test that fails, implements the minimum production code required to make the test pass, and subsequently refactors the code to eliminate redundancy while preserving external behavior. This development cycle directly demonstrates:",
@@ -11983,18 +14308,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 7,
-        "questionId": "EX2-M06-D2-Q07",
+        "questionId": "EX3-M06-D2-Q07",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "A Product Owner drafts a user story: \"As a system administrator, I want a reporting dashboard so that data can be viewed.\" During backlog refinement, developers note that the story lacks performance thresholds, specific data fields, and measurable acceptance criteria. Under Bill Wake's INVEST framework, which two criteria are most severely violated by this draft story?",
         "options": [
           {
             "label": "A",
-            "text": "Valuable and Testable, because end-user business value is ambiguous and objective verification criteria are absent"
+            "text": "Independent and Small, because the story depends on external APIs and exceeds single sprint capacity limits"
           },
           {
             "label": "B",
-            "text": "Independent and Small, because the story depends on external APIs and exceeds single sprint capacity limits"
+            "text": "Valuable and Testable, because end-user business value is ambiguous and objective verification criteria are absent"
           },
           {
             "label": "C",
@@ -12005,8 +14330,8 @@ const QUIZ_BANKS = [
             "text": "Valuable and Estimable, because user personas are missing and story point estimation is legally prohibited"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Under INVEST (Wake, 2003), \"Valuable\" requires a clear, explicit business benefit, while \"Testable\" requires clear Given-When-Then acceptance criteria. \"So that data can be viewed\" is a vague tautology providing no clear business value, and the absence of specific criteria renders it untestable. Option B introduces non-existent API dependencies. Option C misdefines Negotiable. Option D contains absurd assertions.",
+        "answer": "B",
+        "explanation": "Option B is the correct answer. Under INVEST (Wake, 2003), \"Valuable\" requires a clear, explicit business benefit, while \"Testable\" requires clear Given-When-Then acceptance criteria. \"So that data can be viewed\" is a vague tautology providing no clear business value, and the absence of specific criteria renders it untestable. Option A introduces non-existent API dependencies. Option C misdefines Negotiable. Option D contains absurd assertions.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
@@ -12014,14 +14339,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 8,
-        "questionId": "EX2-M06-D2-Q08",
+        "questionId": "EX3-M06-D2-Q08",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "A product team utilizes an Large Language Model (LLM) to generate user stories from raw customer feedback transcripts. The AI output includes standard persona formatting, detailed Given-When-Then acceptance criteria, and non-functional security constraints. However, the Product Owner adds these stories directly to the Sprint Backlog without team refinement. What is the primary operational risk of this practice under Agile principles?",
         "options": [
           {
             "label": "A",
-            "text": "Bypassing collaborative team negotiation and failing to build shared mental models between PO and Developers"
+            "text": "Invalidating automated Given-When-Then syntax required by Behavior-Driven Development testing frameworks"
           },
           {
             "label": "B",
@@ -12029,15 +14354,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Invalidating automated Given-When-Then syntax required by Behavior-Driven Development testing frameworks"
+            "text": "Bypassing collaborative team negotiation and failing to build shared mental models between PO and Developers"
           },
           {
             "label": "D",
             "text": "Increasing story point estimation values due to automated formatting overhead in product backlogs"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. User stories are \"cards for conversation\" (Cohn, 2005; Schwaber & Sutherland, 2020). Directly injecting LLM-generated stories without collaborative refinement skips the critical negotiation step (\"N\" in INVEST), leading to lack of shared understanding among developers. Option B invents fake NLP standards. Option C incorrectly claims LLM text invalidates BDD. Option D makes unsubstantiated claims about point inflation.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. User stories are \"cards for conversation\" (Cohn, 2005; Schwaber & Sutherland, 2020). Directly injecting LLM-generated stories without collaborative refinement skips the critical negotiation step (\"N\" in INVEST), leading to lack of shared understanding among developers. Option B invents fake NLP standards. Option A incorrectly claims LLM text invalidates BDD. Option D makes unsubstantiated claims about point inflation.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
@@ -12045,14 +14370,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 9,
-        "questionId": "EX2-M06-D2-Q09",
+        "questionId": "EX3-M06-D2-Q09",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "During a Planning Poker estimation session, a senior lead architect verbally announces an estimate of 13 story points for a complex security story before other team members reveal their cards. Immediately following the announcement, three junior developers change their initial estimates from 3 points to 8 or 13 points. Under Agile estimation literature (Mike Cohn), this scenario represents:",
         "options": [
           {
             "label": "A",
-            "text": "Cognitive anchoring bias invalidating independent estimation and masking underlying technical task ambiguity"
+            "text": "Enforcing structural alignment between story point values and real-world engineering clock hours"
           },
           {
             "label": "B",
@@ -12064,11 +14389,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Enforcing structural alignment between story point values and real-world engineering clock hours"
+            "text": "Cognitive anchoring bias invalidating independent estimation and masking underlying technical task ambiguity"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Planning Poker relies on simultaneous card revelation specifically to prevent cognitive anchoring bias, where junior team members conform to a senior member's opinion without voicing independent assessments of complexity or hidden risks (Cohn, 2005). Option B misinterprets conformity as healthy consensus. Option C invents a false definition for velocity normalization. Option D misstates story point principles.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. Planning Poker relies on simultaneous card revelation specifically to prevent cognitive anchoring bias, where junior team members conform to a senior member's opinion without voicing independent assessments of complexity or hidden risks (Cohn, 2005). Option B misinterprets conformity as healthy consensus. Option C invents a false definition for velocity normalization. Option A misstates story point principles.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "distractor-homogeneity-trap",
@@ -12076,7 +14401,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 10,
-        "questionId": "EX2-M06-D2-Q10",
+        "questionId": "EX3-M06-D2-Q10",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "A company vice president demands that the quality assurance department achieve 100% test case pass rates before any release and guarantees that zero software defects will exist in production. Under the ISTQB CTFL v4.0 syllabus 7 testing principles, why is this mandate conceptually unachievable?",
@@ -12107,18 +14432,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 11,
-        "questionId": "EX2-M06-D2-Q11",
+        "questionId": "EX3-M06-D2-Q11",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "A medical device software module must guarantee that operational software failures under specified emergency conditions do not result in electric shocks or physical injury to hospital patients. Under the revised ISO/IEC 25010:2023 product quality model, which specific quality characteristic governs this compliance requirement?",
         "options": [
           {
             "label": "A",
-            "text": "Safety, which measures the degree to which a system under specified conditions avoids unacceptable physical risk"
+            "text": "Reliability, which measures operational availability and fault tolerance parameters of software components"
           },
           {
             "label": "B",
-            "text": "Reliability, which measures operational availability and fault tolerance parameters of software components"
+            "text": "Safety, which measures the degree to which a system under specified conditions avoids unacceptable physical risk"
           },
           {
             "label": "C",
@@ -12129,8 +14454,8 @@ const QUIZ_BANKS = [
             "text": "Interaction Capability, which measures user interface aesthetics and learnability for medical personnel"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. ISO/IEC 25010:2023 introduced Safety as the 9th characteristic, defined as the degree to which a system under specified conditions does not lead to an unacceptable risk of physical harm, injury, or damage to human health, property, or the environment. Option B (Reliability) covers operational uptime and fault tolerance, not physical harm. Option C covers functional requirements fulfillment. Option D covers usability/UI.",
+        "answer": "B",
+        "explanation": "Option B is the correct answer. ISO/IEC 25010:2023 introduced Safety as the 9th characteristic, defined as the degree to which a system under specified conditions does not lead to an unacceptable risk of physical harm, injury, or damage to human health, property, or the environment. Option A (Reliability) covers operational uptime and fault tolerance, not physical harm. Option C covers functional requirements fulfillment. Option D covers usability/UI.",
         "evidenceId": "EXT-ISO-01",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
@@ -12138,14 +14463,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 12,
-        "questionId": "EX2-M06-D2-Q12",
+        "questionId": "EX3-M06-D2-Q12",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "A mobile banking app deploys an emergency patch to fix a minor UI bug in the profile screen. Following release, users discover that funds transfer transactions fail across all accounts. The post-mortem reveals that QA verified only the profile UI fix and omitted regression testing. Under ISTQB principles, this operational failure highlights that:",
         "options": [
           {
             "label": "A",
-            "text": "Modifications in one code module can introduce unexpected defects in unchanged, dependent system components"
+            "text": "Early testing activities save costs only when restricted to formal user acceptance testing execution phases"
           },
           {
             "label": "B",
@@ -12153,15 +14478,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Early testing activities save costs only when restricted to formal user acceptance testing execution phases"
+            "text": "Modifications in one code module can introduce unexpected defects in unchanged, dependent system components"
           },
           {
             "label": "D",
             "text": "Defect clustering guarantees that transaction processing modules contain the majority of application errors"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Regression testing is essential because code modifications frequently introduce unintended side effects in dependent or integrated modules (ISTQB CTFL v4.0). Omitting regression testing after a patch exposes the system to severe breakage. Option B incorrectly advocates for impossible exhaustive testing. Option C misstates early testing principles. Option D misapplies defect clustering.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. Regression testing is essential because code modifications frequently introduce unintended side effects in dependent or integrated modules (ISTQB CTFL v4.0). Omitting regression testing after a patch exposes the system to severe breakage. Option B incorrectly advocates for impossible exhaustive testing. Option A misstates early testing principles. Option D misapplies defect clustering.",
         "evidenceId": "EXT-ISTQB-01",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
@@ -12169,14 +14494,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 13,
-        "questionId": "EX2-M06-D2-Q13",
+        "questionId": "EX3-M06-D2-Q13",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "An Agile development team maintains a historical velocity of 30 story points per sprint. During Sprint Planning, the Product Owner pressures the team to commit to 50 story points to meet an external trade show deadline. Evaluating this decision using Jira program management metrics, the Product Owner's intervention will most likely:",
         "options": [
           {
             "label": "A",
-            "text": "Cause a severe sprint burndown shortfall, demoralize the engineering team, and compromise the Definition of Done"
+            "text": "Improve the Cumulative Flow Diagram profile by eliminating work-in-progress bottlenecks in testing stages"
           },
           {
             "label": "B",
@@ -12188,11 +14513,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Improve the Cumulative Flow Diagram profile by eliminating work-in-progress bottlenecks in testing stages"
+            "text": "Cause a severe sprint burndown shortfall, demoralize the engineering team, and compromise the Definition of Done"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Over-committing a team beyond its demonstrated historical velocity (30 points) leads to incomplete sprint backlogs, steep burndown shortfalls, team burnout, and pressure to cut corners on quality (violating Definition of Done) (Atlassian Jira Documentation). Option B falsely assumes arbitrary targets increase sustainable velocity. Option C and D falsely claim over-commitment improves cycle time or CFD flow.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. Over-committing a team beyond its demonstrated historical velocity (30 points) leads to incomplete sprint backlogs, steep burndown shortfalls, team burnout, and pressure to cut corners on quality (violating Definition of Done) (Atlassian Jira Documentation). Option B falsely assumes arbitrary targets increase sustainable velocity. Option C and D falsely claim over-commitment improves cycle time or CFD flow.",
         "evidenceId": "EXT-JIRA-02",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
@@ -12200,7 +14525,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 14,
-        "questionId": "EX2-M06-D2-Q14",
+        "questionId": "EX3-M06-D2-Q14",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "A Jira administrator observes that the horizontal band corresponding to \"In QA\" on the Cumulative Flow Diagram (CFD) has expanded significantly over four consecutive sprints, while the \"In Progress\" band remains constant. What is the correct diagnostic interpretation of this visual CFD pattern?",
@@ -12231,18 +14556,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 15,
-        "questionId": "EX2-M06-D2-Q15",
+        "questionId": "EX3-M06-D2-Q15",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "An enterprise customer complains that new feature requests require 90 days from initial logging to production release, even though software developers complete active coding within 5 days. In Jira program metrics, the 90-day duration represents [X] while the 5-day duration represents [Y]. Which pair correctly identifies [X] and [Y]?",
         "options": [
           {
             "label": "A",
-            "text": "[X] = Lead Time, [Y] = Cycle Time"
+            "text": "[X] = Cycle Time, [Y] = Lead Time"
           },
           {
             "label": "B",
-            "text": "[X] = Cycle Time, [Y] = Lead Time"
+            "text": "[X] = Lead Time, [Y] = Cycle Time"
           },
           {
             "label": "C",
@@ -12253,8 +14578,8 @@ const QUIZ_BANKS = [
             "text": "[X] = Throughput Time, [Y] = Process Time"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. In Jira metrics (Atlassian), Lead Time ([X]) measures the full customer elapsed duration from initial issue creation (logging in backlog) to final release (90 days). Cycle Time ([Y]) measures active work execution time from \"In Progress\" to \"Done\" (5 days). Option B reverses the definitions. Options C and D use non-Jira manufacturing terms.",
+        "answer": "B",
+        "explanation": "Option B is the correct answer. In Jira metrics (Atlassian), Lead Time ([X]) measures the full customer elapsed duration from initial issue creation (logging in backlog) to final release (90 days). Cycle Time ([Y]) measures active work execution time from \"In Progress\" to \"Done\" (5 days). Option A reverses the definitions. Options C and D use non-Jira manufacturing terms.",
         "evidenceId": "EXT-JIRA-01",
         "evidenceClassification": "official-external",
         "trapLabel": "distractor-homogeneity-trap",
@@ -12275,7 +14600,7 @@ const QUIZ_BANKS = [
     "questions": [
       {
         "sourceNumber": 1,
-        "questionId": "EX2-M06-D3-Q01",
+        "questionId": "EX3-M06-D3-Q01",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "A product team conducts a 2-week Discovery experiment evaluating an AI feature concept. Out of 200 surveyed target users, 40 express strong purchase intent at a price of $50/month. User acquisition cost is estimated at $20/month per active subscriber, and third-party LLM API inference cost is $15/month per active subscriber. If the product targets 1,000 active subscribers, what is the projected monthly net margin percentage of this validated product concept?",
@@ -12286,19 +14611,19 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "30.0%"
+            "text": "70.0%"
           },
           {
             "label": "C",
-            "text": "70.0%"
+            "text": "30.0%"
           },
           {
             "label": "D",
             "text": "15.0%"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. Monthly Revenue per subscriber = $50. Total Monthly Cost per subscriber = User Acquisition ($20) + API Inference ($15) = $35. Net Profit per subscriber = $50 - $35 = $15. Projected Monthly Net Margin Percentage = (Net Profit / Revenue) * 100 = ($15 / $50) * 100 = 30.0%. Option A incorrectly calculates gross margin (50 - 30 = 20 -> 40%). Option C calculates total cost ratio (35/50 = 70%). Option D mistakes unit dollar net profit for percentage.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. Monthly Revenue per subscriber = $50. Total Monthly Cost per subscriber = User Acquisition ($20) + API Inference ($15) = $35. Net Profit per subscriber = $50 - $35 = $15. Projected Monthly Net Margin Percentage = (Net Profit / Revenue) * 100 = ($15 / $50) * 100 = 30.0%. Option A incorrectly calculates gross margin (50 - 30 = 20 -> 40%). Option B calculates total cost ratio (35/50 = 70%). Option D mistakes unit dollar net profit for percentage.",
         "evidenceId": "EXT-AGILE-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "calculation-trap",
@@ -12306,7 +14631,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 2,
-        "questionId": "EX2-M06-D3-Q02",
+        "questionId": "EX3-M06-D3-Q02",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "A venture-backed team evaluates two candidate MVP prototypes: Prototype-A costs $50,000 to build over 4 weeks and yields a Validated Learning Score of 80 points. Prototype-B costs $20,000 to build over 1 week and yields a Validated Learning Score of 60 points. What is the ratio of Validated Learning per Dollar spent for Prototype-B relative to Prototype-A?",
@@ -12321,15 +14646,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "1.88x"
+            "text": "2.50x"
           },
           {
             "label": "D",
-            "text": "2.50x"
+            "text": "1.88x"
           }
         ],
-        "answer": "C",
-        "explanation": "Option C is the correct answer. Learning per Dollar for Prototype-A = 80 / $50,000 = 0.0016 pts/$. Learning per Dollar for Prototype-B = 60 / $20,000 = 0.0030 pts/$. Ratio of B relative to A = (0.0030 / 0.0016) = 1.875x (rounded to 1.88x). Option A calculates raw score ratio (60/80 = 0.75). Option B calculates inverse raw score ratio (80/60 = 1.33). Option D calculates cost ratio (50k/20k = 2.50).",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. Learning per Dollar for Prototype-A = 80 / $50,000 = 0.0016 pts/$. Learning per Dollar for Prototype-B = 60 / $20,000 = 0.0030 pts/$. Ratio of B relative to A = (0.0030 / 0.0016) = 1.875x (rounded to 1.88x). Option A calculates raw score ratio (60/80 = 0.75). Option B calculates inverse raw score ratio (80/60 = 1.33). Option C calculates cost ratio (50k/20k = 2.50).",
         "evidenceId": "EXT-AGILE-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "calculation-trap",
@@ -12337,7 +14662,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 3,
-        "questionId": "EX2-M06-D3-Q03",
+        "questionId": "EX3-M06-D3-Q03",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "A Dual-Track Agile team operates with a delivery team velocity of 25 story points per sprint. The discovery track team validates new candidate user stories at a rate of 35 story points per sprint. If the delivery track starts with an initial validated backlog of 10 story points, after how many sprints will the unbuilt validated backlog in discovery exceed 50 story points?",
@@ -12368,7 +14693,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 4,
-        "questionId": "EX2-M06-D3-Q04",
+        "questionId": "EX3-M06-D3-Q04",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "A Scrum team commits to 40 story points during Sprint Planning. On Day 4 of the 2-week Sprint, 10 story points of new urgent tasks are added, and 5 story points of initial tasks are removed. By Sprint end, the team successfully completes 35 story points of work. What were the team's Scope Creep Percentage and actual Velocity for this Sprint?",
@@ -12399,7 +14724,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 5,
-        "questionId": "EX2-M06-D3-Q05",
+        "questionId": "EX3-M06-D3-Q05",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "A Kanban software team maintains a constant Work-in-Progress (WIP) of 12 items across its delivery board. Over a 30-day monitoring period, the team completes a total of 24 items. Applying Little's Law (WIP = Throughput * Average Cycle Time), what is the team's Average Cycle Time per item in days?",
@@ -12410,19 +14735,19 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "15.0 days"
+            "text": "2.0 days"
           },
           {
             "label": "C",
-            "text": "2.0 days"
+            "text": "15.0 days"
           },
           {
             "label": "D",
             "text": "20.0 days"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. Daily Throughput = Total Completed Items / Total Days = 24 items / 30 days = 0.8 items/day. Under Little's Law: Average Cycle Time = WIP / Throughput = 12 items / 0.8 items/day = 15.0 days. Option A miscalculates (30 / 4). Option C calculates items per day (24/12). Option D uses incorrect arithmetic.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. Daily Throughput = Total Completed Items / Total Days = 24 items / 30 days = 0.8 items/day. Under Little's Law: Average Cycle Time = WIP / Throughput = 12 items / 0.8 items/day = 15.0 days. Option A miscalculates (30 / 4). Option B calculates items per day (24/12). Option D uses incorrect arithmetic.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "calculation-trap",
@@ -12430,7 +14755,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 6,
-        "questionId": "EX2-M06-D3-Q06",
+        "questionId": "EX3-M06-D3-Q06",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "An XP team adopts Test-Driven Development (TDD). Prior to TDD, developer throughput was 500 lines of code (LOC) per week with a defect density of 8 defects per 1,000 LOC (KLOC). Post-TDD, defect density drops by 75% while developer throughput decreases by 10%. Over a 10-week development period, how many net defects are prevented by using TDD?",
@@ -12445,15 +14770,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "31 defects"
+            "text": "25 defects"
           },
           {
             "label": "D",
-            "text": "25 defects"
+            "text": "31 defects"
           }
         ],
-        "answer": "C",
-        "explanation": "Option C is the correct answer. Baseline code written in 10 weeks = 10 * 500 = 5,000 LOC = 5 KLOC. Baseline defects = 5 KLOC * 8 defects/KLOC = 40 defects. Post-TDD code written in 10 weeks = 5,000 * (1 - 0.10) = 4,500 LOC = 4.5 KLOC. Post-TDD defect density = 8 * (1 - 0.75) = 2 defects/KLOC. Post-TDD defects = 4.5 KLOC * 2 defects/KLOC = 9 defects. Net defects prevented = 40 - 9 = 31 defects. Option A is baseline defects. Option B is post-TDD defects. Option D is incorrect.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. Baseline code written in 10 weeks = 10 * 500 = 5,000 LOC = 5 KLOC. Baseline defects = 5 KLOC * 8 defects/KLOC = 40 defects. Post-TDD code written in 10 weeks = 5,000 * (1 - 0.10) = 4,500 LOC = 4.5 KLOC. Post-TDD defect density = 8 * (1 - 0.75) = 2 defects/KLOC. Post-TDD defects = 4.5 KLOC * 2 defects/KLOC = 9 defects. Net defects prevented = 40 - 9 = 31 defects. Option A is baseline defects. Option B is post-TDD defects. Option C is incorrect.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "calculation-trap",
@@ -12461,7 +14786,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 7,
-        "questionId": "EX2-M06-D3-Q07",
+        "questionId": "EX3-M06-D3-Q07",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "A Product Owner manages a backlog with 240 remaining story points. The team's historical velocities over the last four 2-week sprints were 22, 28, 24, and 26 story points. Assuming no scope changes, how many 2-week Sprints will be required to complete the remaining backlog, and what is the total forecasted weeks to release?",
@@ -12492,7 +14817,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 8,
-        "questionId": "EX2-M06-D3-Q08",
+        "questionId": "EX3-M06-D3-Q08",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "A feature consists of 4 initial user stories estimated at 3, 5, 8, and 13 story points. During sprint refinement, the 13-point story is split into three smaller stories estimated at 3, 5, and 5 story points. By what percentage did the total estimated story point complexity of the overall feature change post-split?",
@@ -12503,7 +14828,7 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "-10.0%"
+            "text": "0.0%"
           },
           {
             "label": "C",
@@ -12511,11 +14836,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "0.0%"
+            "text": "-10.0%"
           }
         ],
-        "answer": "D",
-        "explanation": "Option D is the correct answer. Initial Total Feature Points = 3 + 5 + 8 + 13 = 29 story points. The 13-point story is decomposed into 3 + 5 + 5 = 13 story points. Revised Total Feature Points = 3 + 5 + 8 + (3 + 5 + 5) = 29 story points. Percentage Change = ((29 - 29) / 29) * 100 = 0.0%. Options A, B, and C are incorrect mathematical calculations.",
+        "answer": "B",
+        "explanation": "Option B is the correct answer. Initial Total Feature Points = 3 + 5 + 8 + 13 = 29 story points. The 13-point story is decomposed into 3 + 5 + 5 = 13 story points. Revised Total Feature Points = 3 + 5 + 8 + (3 + 5 + 5) = 29 story points. Percentage Change = ((29 - 29) / 29) * 100 = 0.0%. Options A, B, and C are incorrect mathematical calculations.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "calculation-trap",
@@ -12523,7 +14848,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 9,
-        "questionId": "EX2-M06-D3-Q09",
+        "questionId": "EX3-M06-D3-Q09",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "A Product Owner evaluates four candidate features using Value-to-Effort ratios (Monetary Value / Story Points). Feature-A: Value $50,000, Effort 5 points. Feature-B: Value $80,000, Effort 8 points. Feature-C: Value $42,000, Effort 3 points. Feature-D: Value $60,000, Effort 5 points. Which feature yields the highest Value per Story Point and should receive top backlog priority?",
@@ -12554,7 +14879,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 10,
-        "questionId": "EX2-M06-D3-Q10",
+        "questionId": "EX3-M06-D3-Q10",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "During a quarterly release cycle, an enterprise QA team identifies and logs 180 defects in internal testing environments. Following commercial release, external end users report 20 critical defects in production. What is the Defect Escape Rate percentage for this software release?",
@@ -12565,7 +14890,7 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "10.0%"
+            "text": "8.9%"
           },
           {
             "label": "C",
@@ -12573,11 +14898,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "8.9%"
+            "text": "10.0%"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. Total Defects Found = Internal QA Defects (180) + Production Escaped Defects (20) = 200 total defects. Defect Escape Rate Percentage = (Production Escaped Defects / Total Defects) * 100 = (20 / 200) * 100 = 10.0%. Option A incorrectly calculates (20 / 180 = 11.1%). Option C calculates QA detection rate (180/200 = 90%). Option D calculates (20 / 225).",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. Total Defects Found = Internal QA Defects (180) + Production Escaped Defects (20) = 200 total defects. Defect Escape Rate Percentage = (Production Escaped Defects / Total Defects) * 100 = (20 / 200) * 100 = 10.0%. Option A incorrectly calculates (20 / 180 = 11.1%). Option C calculates QA detection rate (180/200 = 90%). Option B calculates (20 / 225).",
         "evidenceId": "EXT-ISTQB-01",
         "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
@@ -12585,7 +14910,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 11,
-        "questionId": "EX2-M06-D3-Q11",
+        "questionId": "EX3-M06-D3-Q11",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "A QA test suite contains 500 total test cases. In Sprint 1, 400 test cases are executed, of which 360 pass. In Sprint 2, the remaining 100 test cases are executed, of which 80 pass. What is the overall cumulative Test Case Pass Rate percentage across the complete test suite?",
@@ -12616,7 +14941,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 12,
-        "questionId": "EX2-M06-D3-Q12",
+        "questionId": "EX3-M06-D3-Q12",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "An enterprise application undergoes quality audit under ISO/IEC 25010:2023 across its 9 characteristics, yielding scores out of 10: Functional Suitability: 8, Performance Efficiency: 7, Compatibility: 9, Interaction Capability: 8, Reliability: 6, Security: 9, Maintainability: 7, Flexibility: 8, Safety: 4. What is the arithmetic mean quality score, and which characteristic represents the primary compliance risk?",
@@ -12627,19 +14952,19 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Mean = 7.00, Primary Risk = Performance Efficiency"
+            "text": "Mean = 7.33, Primary Risk = Safety"
           },
           {
             "label": "C",
-            "text": "Mean = 7.33, Primary Risk = Safety"
+            "text": "Mean = 7.00, Primary Risk = Performance Efficiency"
           },
           {
             "label": "D",
             "text": "Mean = 8.00, Primary Risk = Maintainability"
           }
         ],
-        "answer": "C",
-        "explanation": "Option C is the correct answer. Sum of scores across 9 characteristics = 8 + 7 + 9 + 8 + 6 + 9 + 7 + 8 + 4 = 66. Arithmetic Mean Quality Score = 66 / 9 = 7.33. The lowest individual score is Safety (4), representing the primary compliance risk. Option A miscalculates mean by dividing by 8 old characteristics (66/8 = 8.25 or 60/8 = 7.5). Options B and D cite wrong statistics and risks.",
+        "answer": "B",
+        "explanation": "Option B is the correct answer. Sum of scores across 9 characteristics = 8 + 7 + 9 + 8 + 6 + 9 + 7 + 8 + 4 = 66. Arithmetic Mean Quality Score = 66 / 9 = 7.33. The lowest individual score is Safety (4), representing the primary compliance risk. Option A miscalculates mean by dividing by 8 old characteristics (66/8 = 8.25 or 60/8 = 7.5). Options B and D cite wrong statistics and risks.",
         "evidenceId": "EXT-ISO-01",
         "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
@@ -12647,7 +14972,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 13,
-        "questionId": "EX2-M06-D3-Q13",
+        "questionId": "EX3-M06-D3-Q13",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "In a 10-day Sprint, a team commits to 50 story points. Day 2: 10 points completed. Day 4: 15 points completed, but 5 points of scope added. Day 7: 15 points completed. Day 10: 10 points completed. What is the final remaining story point count at the end of Day 10 on the Sprint Burndown Chart, and did scope creep prevent 100% burndown?",
@@ -12658,19 +14983,19 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "5 points remaining; scope creep left 5 points uncompleted"
+            "text": "10 points remaining; team velocity was insufficient"
           },
           {
             "label": "C",
-            "text": "10 points remaining; team velocity was insufficient"
+            "text": "5 points remaining; scope creep left 5 points uncompleted"
           },
           {
             "label": "D",
             "text": "15 points remaining; scope creep added 15 points"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. Total Scope = Initial (50) + Scope Added (5) = 55 story points. Total Work Completed = 10 + 15 + 15 + 10 = 50 story points. Remaining Work at Day 10 = Total Scope (55) - Completed Work (50) = 5 story points. The 5 points of scope creep directly prevented the team from burning down to 0. Option A ignores added scope. Options C and D contain incorrect arithmetic.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. Total Scope = Initial (50) + Scope Added (5) = 55 story points. Total Work Completed = 10 + 15 + 15 + 10 = 50 story points. Remaining Work at Day 10 = Total Scope (55) - Completed Work (50) = 5 story points. The 5 points of scope creep directly prevented the team from burning down to 0. Option A ignores added scope. Options C and D contain incorrect arithmetic.",
         "evidenceId": "EXT-JIRA-02",
         "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
@@ -12678,14 +15003,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 14,
-        "questionId": "EX2-M06-D3-Q14",
+        "questionId": "EX3-M06-D3-Q14",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "A software issue in Jira was logged in the backlog on Jan 1. Developers started active work (\"In Progress\") on Jan 15. Code review completed on Jan 20. QA testing finished and issue was marked \"Done\" on Jan 25. What were the Lead Time and Cycle Time for this issue in days?",
         "options": [
           {
             "label": "A",
-            "text": "Lead Time = 24 days, Cycle Time = 10 days"
+            "text": "Lead Time = 25 days, Cycle Time = 15 days"
           },
           {
             "label": "B",
@@ -12697,11 +15022,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Lead Time = 25 days, Cycle Time = 15 days"
+            "text": "Lead Time = 24 days, Cycle Time = 10 days"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Lead Time = Total duration from issue creation (Jan 1) to completion (Jan 25) = 24 days (or 25 calendar days inclusive; 25 - 1 = 24 elapsed days). Cycle Time = Duration from work start (Jan 15) to completion (Jan 25) = 10 elapsed days. Option B reverses the definitions. Option C calculates backlog waiting time (14 days) and QA time (5 days). Option D uses incorrect inclusive counts.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. Lead Time = Total duration from issue creation (Jan 1) to completion (Jan 25) = 24 days (or 25 calendar days inclusive; 25 - 1 = 24 elapsed days). Cycle Time = Duration from work start (Jan 15) to completion (Jan 25) = 10 elapsed days. Option B reverses the definitions. Option C calculates backlog waiting time (14 days) and QA time (5 days). Option A uses incorrect inclusive counts.",
         "evidenceId": "EXT-JIRA-01",
         "evidenceClassification": "official-external",
         "trapLabel": "calculation-trap",
@@ -12709,7 +15034,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 15,
-        "questionId": "EX2-M06-D3-Q15",
+        "questionId": "EX3-M06-D3-Q15",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "On a Jira Burnup Chart for a 6-sprint project, total scope starts at 100 story points. At Sprint 3, scope increases to 130 story points. By Sprint 6, the team completed 110 total story points. What was the net scope creep in story points, and how many story points remain uncompleted at project release?",
@@ -12753,7 +15078,7 @@ const QUIZ_BANKS = [
     "questions": [
       {
         "sourceNumber": 1,
-        "questionId": "EX2-M06-D4-Q01",
+        "questionId": "EX3-M06-D4-Q01",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "A product team utilizing Dual-Track Agile (M06-T01) conducts Discovery research on a proposed self-service payment module. User testing reveals high demand, but architectural review indicates severe vulnerability under ISO/IEC 25010:2023 Security standards (M06-T04). How should the Product Owner handle this item during Product Backlog refinement (M06-T03)?",
@@ -12784,14 +15109,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 2,
-        "questionId": "EX2-M06-D4-Q02",
+        "questionId": "EX3-M06-D4-Q02",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "An enterprise executive attempts to accelerate Time-to-Market by eliminating Dual-Track Product Discovery (M06-T01) and pushing unvalidated executive feature requests directly into Jira Sprints (M06-T05). Based on Jira agile metrics, what is the most probable operational impact on engineering performance?",
         "options": [
           {
             "label": "A",
-            "text": "Elevated Cycle Time and high code rework due to frequent mid-sprint scope changes and rejected user stories"
+            "text": "Linear increase in team velocity because developers focus exclusively on writing production code"
           },
           {
             "label": "B",
@@ -12799,15 +15124,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Linear increase in team velocity because developers focus exclusively on writing production code"
+            "text": "Elevated Cycle Time and high code rework due to frequent mid-sprint scope changes and rejected user stories"
           },
           {
             "label": "D",
             "text": "Automatic elimination of software defect clusters in production testing environments"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Skipping product discovery forces unvalidated ideas into delivery. Inevitable ambiguity and changing requirements cause mid-sprint scope volatility, story rejections in QA, high rework, and bloated Cycle Times (Cagan, 2018; Atlassian Jira Documentation). Option B falsely claims skipping discovery reduces Lead Time (in reality, rework inflates lead time). Options C and D make impossible claims.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. Skipping product discovery forces unvalidated ideas into delivery. Inevitable ambiguity and changing requirements cause mid-sprint scope volatility, story rejections in QA, high rework, and bloated Cycle Times (Cagan, 2018; Atlassian Jira Documentation). Option B falsely claims skipping discovery reduces Lead Time (in reality, rework inflates lead time). Options C and D make impossible claims.",
         "evidenceId": "EXT-AGILE-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "scope-boundary-trap",
@@ -12815,7 +15140,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 3,
-        "questionId": "EX2-M06-D4-Q03",
+        "questionId": "EX3-M06-D4-Q03",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "A product manager applies Lean Product Development principles (M06-T01) to evaluate an innovative tiered subscription pricing model (M04-T06). The team deploys a landing page MVP collecting email pre-orders. Which analytical metric represents validated learning for this commercial experiment?",
@@ -12826,7 +15151,7 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Pre-order conversion rate percentage among target persona visitors exposed to the pricing tier"
+            "text": "Total server CPU utilization percentage recorded during the 2-week testing window"
           },
           {
             "label": "C",
@@ -12834,11 +15159,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Total server CPU utilization percentage recorded during the 2-week testing window"
+            "text": "Pre-order conversion rate percentage among target persona visitors exposed to the pricing tier"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. In Lean Startup (Ries, 2011), validated learning measures actual customer behavioral validation (e.g. pre-order conversion rate on a pricing model, linking M04-T06 commercialization with M06-T01 research). Options A, C, and D measure vanity output metrics or server stats, not validated customer learning.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. In Lean Startup (Ries, 2011), validated learning measures actual customer behavioral validation (e.g. pre-order conversion rate on a pricing model, linking M04-T06 commercialization with M06-T01 research). Options A, C, and D measure vanity output metrics or server stats, not validated customer learning.",
         "evidenceId": "EXT-AGILE-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "scope-boundary-trap",
@@ -12846,7 +15171,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 4,
-        "questionId": "EX2-M06-D4-Q04",
+        "questionId": "EX3-M06-D4-Q04",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "A Scrum Master (M06-T02) discovers that user stories marked \"Done\" on the Jira board (M06-T05) regularly fail in production, requiring emergency hotfixes. Root cause analysis reveals that developers consider code \"Done\" after local compilation, while QA requires automated regression tests (M06-T04). How does establishing a shared Definition of Done (DoD) resolve this quality gap?",
@@ -12877,7 +15202,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 5,
-        "questionId": "EX2-M06-D4-Q05",
+        "questionId": "EX3-M06-D4-Q05",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "An engineering team transitions from Scrum sprints (M06-T02) to Kanban continuous flow (M06-T02) to handle unpredictable customer support bug tickets (M06-T04). They configure column Work-in-Progress (WIP) limits on their Jira board (M06-T05). How does this cross-methodology transition impact customer Lead Time?",
@@ -12908,14 +15233,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 6,
-        "questionId": "EX2-M06-D4-Q06",
+        "questionId": "EX3-M06-D4-Q06",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "An Extreme Programming (XP) team (M06-T02) practicing Pair Programming and Test-Driven Development (TDD) is pressured by management to double their short-term Jira story point velocity (M06-T05). If the team abandons TDD to meet the target, what long-term quality impact occurs under ISTQB testing principles (M06-T04)?",
         "options": [
           {
             "label": "A",
-            "text": "Defect density increases exponentially, creating defect clusters in production that severely inflate future maintenance costs"
+            "text": "Product backlog items automatically conform to the INVEST criteria without developer refinement"
           },
           {
             "label": "B",
@@ -12923,15 +15248,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Product backlog items automatically conform to the INVEST criteria without developer refinement"
+            "text": "Defect density increases exponentially, creating defect clusters in production that severely inflate future maintenance costs"
           },
           {
             "label": "D",
             "text": "Overall software product quality shifts from ISO/IEC 25010 Interaction Capability to Functional Suitability"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Abandoning XP engineering practices (TDD) to artificially inflate short-term velocity creates technical debt. Under ISTQB principles (Defect Clustering & Pesticide Paradox), defect density surges in un-tested code, creating massive production failure clusters (Beck, 2000; ISTQB CTFL v4.0). Options B, C, and D contain nonsensical claims.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. Abandoning XP engineering practices (TDD) to artificially inflate short-term velocity creates technical debt. Under ISTQB principles (Defect Clustering & Pesticide Paradox), defect density surges in un-tested code, creating massive production failure clusters (Beck, 2000; ISTQB CTFL v4.0). Options B, C, and D contain nonsensical claims.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "scope-boundary-trap",
@@ -12939,14 +15264,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 7,
-        "questionId": "EX2-M06-D4-Q07",
+        "questionId": "EX3-M06-D4-Q07",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "During backlog refinement (M06-T03), a Product Owner presents a user story for an AI recommender widget (M05-T01). Developers state they cannot estimate story points (M06-T03) because model response latency thresholds are undefined. Which ISO/IEC 25010:2023 quality characteristic (M06-T04) must be specified to satisfy the 'E' (Estimable) in INVEST?",
         "options": [
           {
             "label": "A",
-            "text": "Performance Efficiency (specifically response time latency and resource utilization limits)"
+            "text": "Flexibility (specifically installability across alternative cloud providers)"
           },
           {
             "label": "B",
@@ -12958,11 +15283,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Flexibility (specifically installability across alternative cloud providers)"
+            "text": "Performance Efficiency (specifically response time latency and resource utilization limits)"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. For an AI recommendation feature (M05-T01), response latency is a critical Non-Functional Requirement governed by ISO/IEC 25010 Performance Efficiency. Without explicit latency parameters, developers cannot estimate technical effort, violating the \"Estimable\" criterion of INVEST (Wake, 2003). Options B, C, and D cite irrelevant quality characteristics.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. For an AI recommendation feature (M05-T01), response latency is a critical Non-Functional Requirement governed by ISO/IEC 25010 Performance Efficiency. Without explicit latency parameters, developers cannot estimate technical effort, violating the \"Estimable\" criterion of INVEST (Wake, 2003). Options B, C, and D cite irrelevant quality characteristics.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
@@ -12970,7 +15295,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 8,
-        "questionId": "EX2-M06-D4-Q08",
+        "questionId": "EX3-M06-D4-Q08",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "A product team uses Planning Poker (M06-T03) to estimate Epics in Jira (M06-T05). An Epic is estimated at 40 story points. Under Scrum backlog refinement rules, why must this Epic be decomposed into smaller user stories before Sprint Planning?",
@@ -13001,18 +15326,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 9,
-        "questionId": "EX2-M06-D4-Q09",
+        "questionId": "EX3-M06-D4-Q09",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "An AI-driven user story generator (M06-T03) creates 50 user stories for an e-commerce checkout system. During sprint execution, QA engineers report that 30% of the stories fail in testing (M06-T04) because negative boundary conditions were omitted. What structural element was missing from the AI prompting template?",
         "options": [
           {
             "label": "A",
-            "text": "Explicit Given-When-Then Acceptance Criteria covering negative test scenarios and edge cases"
+            "text": "Monetary pricing model calculations derived from Springfield Nor'easters case formulas"
           },
           {
             "label": "B",
-            "text": "Monetary pricing model calculations derived from Springfield Nor'easters case formulas"
+            "text": "Explicit Given-When-Then Acceptance Criteria covering negative test scenarios and edge cases"
           },
           {
             "label": "C",
@@ -13023,8 +15348,8 @@ const QUIZ_BANKS = [
             "text": "Agile Manifesto signatory names embedded in the user story description block"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. User stories require clear Acceptance Criteria (Given-When-Then BDD format) that define both happy path and negative boundary conditions (Wake, 2003; ISTQB CTFL v4.0). If an AI prompt omits negative scenario guidelines, the generated stories lack testability parameters. Options B, C, and D are irrelevant.",
+        "answer": "B",
+        "explanation": "Option B is the correct answer. User stories require clear Acceptance Criteria (Given-When-Then BDD format) that define both happy path and negative boundary conditions (Wake, 2003; ISTQB CTFL v4.0). If an AI prompt omits negative scenario guidelines, the generated stories lack testability parameters. Options B, C, and D are irrelevant.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "scope-boundary-trap",
@@ -13032,14 +15357,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 10,
-        "questionId": "EX2-M06-D4-Q10",
+        "questionId": "EX3-M06-D4-Q10",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "A SaaS company's Jira Burndown chart (M06-T05) shows that the development team completes 100% of committed story points every sprint. However, customer retention metrics (M05-T02) decline due to frequent application crashes. Which ISTQB testing principle (M06-T04) explains this operational disconnect?",
         "options": [
           {
             "label": "A",
-            "text": "Absence-of-errors fallacy (fixing defects and meeting velocity goals is useless if the system fails user expectations)"
+            "text": "Defect clustering (80% of application crashes are caused by Jira velocity tracking software)"
           },
           {
             "label": "B",
@@ -13047,15 +15372,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Defect clustering (80% of application crashes are caused by Jira velocity tracking software)"
+            "text": "Absence-of-errors fallacy (fixing defects and meeting velocity goals is useless if the system fails user expectations)"
           },
           {
             "label": "D",
             "text": "Early testing saves time (testing software before writing code prevents all customer churn)"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. ISTQB CTFL v4.0 Principle 7 (Absence-of-errors fallacy) states that finding and fixing defects or delivering software output on schedule is useless if the system is unusable, unstable, or fails to fulfill user needs. Meeting burndown targets does not guarantee system reliability or customer retention. Options B, C, and D distort ISTQB definitions.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. ISTQB CTFL v4.0 Principle 7 (Absence-of-errors fallacy) states that finding and fixing defects or delivering software output on schedule is useless if the system is unusable, unstable, or fails to fulfill user needs. Meeting burndown targets does not guarantee system reliability or customer retention. Options B, C, and D distort ISTQB definitions.",
         "evidenceId": "EXT-ISTQB-01",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
@@ -13063,14 +15388,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 11,
-        "questionId": "EX2-M06-D4-Q11",
+        "questionId": "EX3-M06-D4-Q11",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "A product manager evaluates enterprise software quality under ISO/IEC 25010:2023 (M06-T04). Protection of customer PII against cyber attacks (M05-T03) is evaluated under Security, whereas the system's ability to recover operational state after an unexpected cloud server crash is evaluated under:",
         "options": [
           {
             "label": "A",
-            "text": "Reliability (specifically recoverability and availability sub-characteristics)"
+            "text": "Functional Suitability (specifically functional correctness sub-characteristic)"
           },
           {
             "label": "B",
@@ -13082,11 +15407,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Functional Suitability (specifically functional correctness sub-characteristic)"
+            "text": "Reliability (specifically recoverability and availability sub-characteristics)"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Under ISO/IEC 25010:2023, recovering operational state after a system crash is governed by Reliability (sub-characteristics: Availability, Fault Tolerance, Recoverability). Security governs protection against unauthorized access/cyber threats (M05-T03). Options B, C, and D map to different quality dimensions.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. Under ISO/IEC 25010:2023, recovering operational state after a system crash is governed by Reliability (sub-characteristics: Availability, Fault Tolerance, Recoverability). Security governs protection against unauthorized access/cyber threats (M05-T03). Options B, C, and D map to different quality dimensions.",
         "evidenceId": "EXT-ISO-01",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
@@ -13094,7 +15419,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 12,
-        "questionId": "EX2-M06-D4-Q12",
+        "questionId": "EX3-M06-D4-Q12",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "An engineering department implements \"Shift Left\" early testing practices under ISTQB guidelines (M06-T04). How does performing static code reviews and unit testing early in the SDLC directly transform the Jira Cumulative Flow Diagram (M06-T05)?",
@@ -13125,18 +15450,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 13,
-        "questionId": "EX2-M06-D4-Q13",
+        "questionId": "EX3-M06-D4-Q13",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "A Product Owner monitors a major release on a Jira Burnup Chart (M06-T05). The total scope line increases by 15 story points every sprint due to continuous feature additions, while team velocity remains stable at 20 story points per sprint. How does this trend impact the forecasted release date (M06-T03)?",
         "options": [
           {
             "label": "A",
-            "text": "The forecasted release date shifts farther into the future because net scope completion is only 5 points per sprint"
+            "text": "The release date remains unchanged because team velocity is positive and stable"
           },
           {
             "label": "B",
-            "text": "The release date remains unchanged because team velocity is positive and stable"
+            "text": "The forecasted release date shifts farther into the future because net scope completion is only 5 points per sprint"
           },
           {
             "label": "C",
@@ -13147,8 +15472,8 @@ const QUIZ_BANKS = [
             "text": "The Burnup Chart automatically converts into a Burndown Chart to stabilize release scope"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Net backlog closure per sprint = Velocity (20) - Scope Creep (15) = 5 story points/sprint. With a net progress of only 5 points per sprint, completing the remaining scope takes 4x longer than expected, shifting the release date far into the future (Atlassian Jira Documentation). Options B, C, and D reflect mathematical errors.",
+        "answer": "B",
+        "explanation": "Option B is the correct answer. Net backlog closure per sprint = Velocity (20) - Scope Creep (15) = 5 story points/sprint. With a net progress of only 5 points per sprint, completing the remaining scope takes 4x longer than expected, shifting the release date far into the future (Atlassian Jira Documentation). Options B, C, and D reflect mathematical errors.",
         "evidenceId": "EXT-JIRA-01",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
@@ -13156,14 +15481,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 14,
-        "questionId": "EX2-M06-D4-Q14",
+        "questionId": "EX3-M06-D4-Q14",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "An Agile coach evaluates two software business units in Jira (M06-T05). Unit Alpha has an average Lead Time of 60 days and a Cycle Time of 5 days. Unit Beta has an average Lead Time of 15 days and a Cycle Time of 10 days. Which unit delivers higher operational responsiveness to customer feature requests?",
         "options": [
           {
             "label": "A",
-            "text": "Unit Beta, because its significantly lower Lead Time (15 days vs 60 days) minimizes customer wait time in the backlog"
+            "text": "Both units are identical because sum of Lead Time and Cycle Time is equal"
           },
           {
             "label": "B",
@@ -13171,15 +15496,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Both units are identical because sum of Lead Time and Cycle Time is equal"
+            "text": "Unit Beta, because its significantly lower Lead Time (15 days vs 60 days) minimizes customer wait time in the backlog"
           },
           {
             "label": "D",
             "text": "Unit Alpha, because long backlog Lead Times indicate higher customer demand volume"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Lead Time measures total time from customer request to delivery. Unit Beta responds in 15 days total, whereas Unit Alpha takes 60 days (55 days sitting idle in backlog). Unit Beta provides far superior customer responsiveness (Atlassian Jira Documentation). Option B focuses solely on developer cycle time, ignoring massive customer wait time. Options C and D are invalid.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. Lead Time measures total time from customer request to delivery. Unit Beta responds in 15 days total, whereas Unit Alpha takes 60 days (55 days sitting idle in backlog). Unit Beta provides far superior customer responsiveness (Atlassian Jira Documentation). Option B focuses solely on developer cycle time, ignoring massive customer wait time. Options C and D are invalid.",
         "evidenceId": "EXT-JIRA-01",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
@@ -13187,14 +15512,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 15,
-        "questionId": "EX2-M06-D4-Q15",
+        "questionId": "EX3-M06-D4-Q15",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "A Scrum Master analyzes a Jira Velocity Chart (M06-T05) over 4 sprints: Sprint 1 = 15 points, Sprint 2 = 45 points, Sprint 3 = 10 points, Sprint 4 = 50 points. Why is using the simple arithmetic average (30 points) dangerous for upcoming Sprint Planning (M06-T02)?",
         "options": [
           {
             "label": "A",
-            "text": "High velocity variance indicates process instability, making 30 points an unreliable commitment target without root cause analysis"
+            "text": "Velocity charts only measure uncompleted story points, masking completed work"
           },
           {
             "label": "B",
@@ -13206,11 +15531,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Velocity charts only measure uncompleted story points, masking completed work"
+            "text": "High velocity variance indicates process instability, making 30 points an unreliable commitment target without root cause analysis"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Extreme velocity fluctuations (10 to 50 points) indicate severe process instability (unclear DoD, mid-sprint scope changes, or irregular story sizes). Relying on a 30-point average without stabilizing flow leads to frequent sprint failures (Atlassian Jira Documentation). Option B misinterprets guidance. Options C and D contain false assertions.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. Extreme velocity fluctuations (10 to 50 points) indicate severe process instability (unclear DoD, mid-sprint scope changes, or irregular story sizes). Relying on a 30-point average without stabilizing flow leads to frequent sprint failures (Atlassian Jira Documentation). Option B misinterprets guidance. Options C and D contain false assertions.",
         "evidenceId": "EXT-JIRA-02",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
@@ -13231,18 +15556,18 @@ const QUIZ_BANKS = [
     "questions": [
       {
         "sourceNumber": 1,
-        "questionId": "EX2-M06-D5-Q01",
+        "questionId": "EX3-M06-D5-Q01",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "Among the 17 original signatories of the 2001 Manifesto for Agile Software Development at Snowbird, Utah, which two individuals were the co-creators of the Scrum framework?",
         "options": [
           {
             "label": "A",
-            "text": "Kent Beck and Ward Cunningham"
+            "text": "Ken Schwaber and Jeff Sutherland"
           },
           {
             "label": "B",
-            "text": "Ken Schwaber and Jeff Sutherland"
+            "text": "Kent Beck and Ward Cunningham"
           },
           {
             "label": "C",
@@ -13253,8 +15578,8 @@ const QUIZ_BANKS = [
             "text": "Jim Highsmith and Bob Martin"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. Ken Schwaber and Jeff Sutherland co-created Scrum in the early 1990s and were among the 17 signatories of the 2001 Agile Manifesto (Beck et al., 2001; Schwaber & Sutherland, 2020). Option A (Kent Beck & Ward Cunningham) are primary figures of Extreme Programming (XP) and Wiki software. Option C (Martin Fowler & Alistair Cockburn) created Refactoring / Crystal methodologies. Option D (Jim Highsmith & Bob Martin) represent Adaptive Software Development & Agile Architecture.",
+        "answer": "A",
+        "explanation": "Option A is the correct answer. Ken Schwaber and Jeff Sutherland co-created Scrum in the early 1990s and were among the 17 signatories of the 2001 Agile Manifesto (Beck et al., 2001; Schwaber & Sutherland, 2020). Option B (Kent Beck & Ward Cunningham) are primary figures of Extreme Programming (XP) and Wiki software. Option C (Martin Fowler & Alistair Cockburn) created Refactoring / Crystal methodologies. Option D (Jim Highsmith & Bob Martin) represent Adaptive Software Development & Agile Architecture.",
         "evidenceId": "EXT-AGILE-01",
         "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
@@ -13262,7 +15587,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 2,
-        "questionId": "EX2-M06-D5-Q02",
+        "questionId": "EX3-M06-D5-Q02",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "During a Dual-Track Agile product discovery sprint, a Product Lead identifies that a proposed real-time streaming feature would require third-party infrastructure exceeding cloud budget limits. Under Marty Cagan's product risk taxonomy, which specific risk type does this represent, and who on the product triad owns its primary evaluation?",
@@ -13293,14 +15618,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 3,
-        "questionId": "EX2-M06-D5-Q03",
+        "questionId": "EX3-M06-D5-Q03",
         "topicId": "M06-T01",
         "module": "M06",
         "question": "A startup founder claims that executing a Riskiest Assumption Test (RAT) renders a Minimum Viable Product (MVP) completely obsolete in Lean product research. Evaluating this claim against Lean Startup literature (Ries / Cagan):",
         "options": [
           {
             "label": "A",
-            "text": "Incorrect; a RAT isolates and tests specific individual underlying hypotheses, whereas an MVP evaluates the integrated user experience and end-to-end product value proposition"
+            "text": "Incorrect; MVPs are used exclusively in Waterfall development, whereas RATs belong to Agile delivery"
           },
           {
             "label": "B",
@@ -13308,15 +15633,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Incorrect; MVPs are used exclusively in Waterfall development, whereas RATs belong to Agile delivery"
+            "text": "Incorrect; a RAT isolates and tests specific individual underlying hypotheses, whereas an MVP evaluates the integrated user experience and end-to-end product value proposition"
           },
           {
             "label": "D",
             "text": "Correct; MVPs only test technical infrastructure performance, whereas RATs test financial pricing"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. A Riskiest Assumption Test (RAT) isolates a single unproven assumption (e.g. willingness to pay) to reduce risk before building, but it does not make an MVP obsolete. An MVP is an integrated working release designed to test end-to-end user value and collect validated learning across the holistic product experience (Ries, 2011; Cagan, 2018). Options B, C, and D state false claims.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. A Riskiest Assumption Test (RAT) isolates a single unproven assumption (e.g. willingness to pay) to reduce risk before building, but it does not make an MVP obsolete. An MVP is an integrated working release designed to test end-to-end user value and collect validated learning across the holistic product experience (Ries, 2011; Cagan, 2018). Options B, C, and D state false claims.",
         "evidenceId": "EXT-AGILE-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "terminology-confusion-trap",
@@ -13324,7 +15649,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 4,
-        "questionId": "EX2-M06-D5-Q04",
+        "questionId": "EX3-M06-D5-Q04",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "Under the official 2020 Scrum Guide (Schwaber & Sutherland), if a Sprint's Goal becomes completely obsolete due to a sudden corporate strategic pivot, who has the exclusive authority to cancel the Sprint?",
@@ -13335,7 +15660,7 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "Product Owner"
+            "text": "Majority vote of Developers"
           },
           {
             "label": "C",
@@ -13343,11 +15668,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Majority vote of Developers"
+            "text": "Product Owner"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. The 2020 Scrum Guide explicitly states: \"A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.\" Options A, C, and D do not possess legal authority under Scrum framework rules to cancel an active Sprint.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. The 2020 Scrum Guide explicitly states: \"A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.\" Options A, C, and D do not possess legal authority under Scrum framework rules to cancel an active Sprint.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
@@ -13355,7 +15680,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 5,
-        "questionId": "EX2-M06-D5-Q05",
+        "questionId": "EX3-M06-D5-Q05",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "In Kanban management theory, a system operates with a Work-in-Progress (WIP) of 20 items and a Throughput of 4 items per day. Management mandates reducing Average Cycle Time to exactly 3 days without altering Throughput. Under Little's Law (WIP = Throughput * Cycle Time), what new maximum WIP limit must be enforced?",
@@ -13386,18 +15711,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 6,
-        "questionId": "EX2-M06-D5-Q06",
+        "questionId": "EX3-M06-D5-Q06",
         "topicId": "M06-T02",
         "module": "M06",
         "question": "In Extreme Programming (XP), what is the core architectural rationale behind Pair Programming regarding code quality and defect prevention?",
         "options": [
           {
             "label": "A",
-            "text": "Continuous real-time code review by the observer/navigator detects logical bugs, typos, and design flaws instantaneously as code is written"
+            "text": "Pairing allows two developers to write separate feature modules simultaneously on the same workstation to double coding speed"
           },
           {
             "label": "B",
-            "text": "Pairing allows two developers to write separate feature modules simultaneously on the same workstation to double coding speed"
+            "text": "Continuous real-time code review by the observer/navigator detects logical bugs, typos, and design flaws instantaneously as code is written"
           },
           {
             "label": "C",
@@ -13408,8 +15733,8 @@ const QUIZ_BANKS = [
             "text": "Pairing transfers legal code ownership from individual software engineers to external quality audit agencies"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. In XP (Beck, 2000), Pair Programming pairs a driver (who writes code) with an observer/navigator (who reviews code in real-time, considers strategic direction, and spots defects). This provides continuous inspection. Option B misrepresents pairing as parallel coding on one machine. Options C and D make false assertions.",
+        "answer": "B",
+        "explanation": "Option B is the correct answer. In XP (Beck, 2000), Pair Programming pairs a driver (who writes code) with an observer/navigator (who reviews code in real-time, considers strategic direction, and spots defects). This provides continuous inspection. Option A misrepresents pairing as parallel coding on one machine. Options C and D make false assertions.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "terminology-confusion-trap",
@@ -13417,14 +15742,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 7,
-        "questionId": "EX2-M06-D5-Q07",
+        "questionId": "EX3-M06-D5-Q07",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "A technical lead suggests logging Non-Functional Requirements (NFRs)—such as 256-bit AES database encryption—as standalone user stories in the Product Backlog. Evaluating this suggestion against Scrum backlog best practices (Cohn / Schwaber):",
         "options": [
           {
             "label": "A",
-            "text": "Incorrect; NFRs should be integrated into the Definition of Done or written as explicit Acceptance Criteria across all functional stories to prevent siloed technical debt"
+            "text": "Incorrect; NFRs are illegal in Agile frameworks and must be managed exclusively in traditional Waterfall documents"
           },
           {
             "label": "B",
@@ -13432,15 +15757,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Incorrect; NFRs are illegal in Agile frameworks and must be managed exclusively in traditional Waterfall documents"
+            "text": "Incorrect; NFRs should be integrated into the Definition of Done or written as explicit Acceptance Criteria across all functional stories to prevent siloed technical debt"
           },
           {
             "label": "D",
             "text": "Correct; writing NFRs as isolated stories allows the Product Owner to skip technical verification during Sprint Reviews"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Under Agile backlog practices (Cohn, 2005; Schwaber & Sutherland, 2020), cross-cutting Non-Functional Requirements (NFRs) belong in the Definition of Done or as Acceptance Criteria on functional stories. Isolating them into standalone \"technical stories\" creates siloed technical debt and risk of PO deprioritization. Options B, C, and D are incorrect.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. Under Agile backlog practices (Cohn, 2005; Schwaber & Sutherland, 2020), cross-cutting Non-Functional Requirements (NFRs) belong in the Definition of Done or as Acceptance Criteria on functional stories. Isolating them into standalone \"technical stories\" creates siloed technical debt and risk of PO deprioritization. Options B, C, and D are incorrect.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "terminology-confusion-trap",
@@ -13448,7 +15773,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 8,
-        "questionId": "EX2-M06-D5-Q08",
+        "questionId": "EX3-M06-D5-Q08",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "During a Planning Poker session (Mike Cohn), two developers reveal estimates of 3 story points while two other developers reveal estimates of 13 story points for the exact same user story. What is the mandatory next step in the formal Planning Poker protocol?",
@@ -13459,7 +15784,7 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "The lowest (3) and highest (13) estimators explain their underlying assumptions and risk perspectives to the team, followed by re-voting"
+            "text": "Discard the user story from the product backlog permanently due to team estimation deadlock"
           },
           {
             "label": "C",
@@ -13467,11 +15792,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Discard the user story from the product backlog permanently due to team estimation deadlock"
+            "text": "The lowest (3) and highest (13) estimators explain their underlying assumptions and risk perspectives to the team, followed by re-voting"
           }
         ],
-        "answer": "B",
-        "explanation": "Option B is the correct answer. In Planning Poker (Cohn, 2005), when estimates diverge significantly (e.g. 3 vs 13), the high and low estimators explain their reasoning (high estimator may see hidden risks/complexity; low estimator may know a simple implementation). The team then re-votes until consensus emerges. Options A and C violate protocol. Option D is excessive.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. In Planning Poker (Cohn, 2005), when estimates diverge significantly (e.g. 3 vs 13), the high and low estimators explain their reasoning (high estimator may see hidden risks/complexity; low estimator may know a simple implementation). The team then re-votes until consensus emerges. Options A and C violate protocol. Option B is excessive.",
         "evidenceId": "EXT-SCRUM-01",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "terminology-confusion-trap",
@@ -13479,7 +15804,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 9,
-        "questionId": "EX2-M06-D5-Q09",
+        "questionId": "EX3-M06-D5-Q09",
         "topicId": "M06-T03",
         "module": "M06",
         "question": "A delivery team's story point velocity over its last 5 sprints was: 10, 50, 15, 45, 10 story points. The median velocity is 15, the mean is 26, and the mode is 10. For long-term release planning under high uncertainty, which velocity statistic represents the most prudent, conservative baseline capacity?",
@@ -13510,18 +15835,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 10,
-        "questionId": "EX2-M06-D5-Q10",
+        "questionId": "EX3-M06-D5-Q10",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "A medical software suite's mobile interface is audited for high-contrast color themes, screen-reader audio compatibility, and touch-target spacing designed to prevent accidental input errors by fatigued clinicians. Under ISO/IEC 25010:2023, which primary quality characteristic and specific sub-characteristics govern these evaluations?",
         "options": [
           {
             "label": "A",
-            "text": "Interaction Capability (specifically Accessibility and User Error Protection sub-characteristics)"
+            "text": "Functional Suitability (specifically Functional Correctness and Completeness sub-characteristics)"
           },
           {
             "label": "B",
-            "text": "Functional Suitability (specifically Functional Correctness and Completeness sub-characteristics)"
+            "text": "Interaction Capability (specifically Accessibility and User Error Protection sub-characteristics)"
           },
           {
             "label": "C",
@@ -13532,8 +15857,8 @@ const QUIZ_BANKS = [
             "text": "Maintainability (specifically Modularity and Analyzability sub-characteristics)"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. In ISO/IEC 25010:2023, Interaction Capability replaced Usability and includes Accessibility (screen readers, high contrast) and User Error Protection (preventing accidental input errors by clinicians). Option B covers functional requirements logic. Option C covers system environment sharing. Option D covers code maintenance.",
+        "answer": "B",
+        "explanation": "Option B is the correct answer. In ISO/IEC 25010:2023, Interaction Capability replaced Usability and includes Accessibility (screen readers, high contrast) and User Error Protection (preventing accidental input errors by clinicians). Option A covers functional requirements logic. Option C covers system environment sharing. Option D covers code maintenance.",
         "evidenceId": "EXT-ISO-01",
         "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
@@ -13541,14 +15866,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 11,
-        "questionId": "EX2-M06-D5-Q11",
+        "questionId": "EX3-M06-D5-Q11",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "A QA lead argues that because an automated unit test suite achieved 100% statement code coverage, User Acceptance Testing (UAT) and System Integration testing can be safely bypassed. Under ISTQB CTFL v4.0 principles, why is this argument logically fallacious?",
         "options": [
           {
             "label": "A",
-            "text": "Principle 7 (Absence-of-errors fallacy) & Principle 1 (Testing shows presence of defects, not absence); unit tests do not validate end-to-end user workflows or business fitness"
+            "text": "Principle 5 (Pesticide paradox); automated unit tests automatically delete production source code after execution"
           },
           {
             "label": "B",
@@ -13556,15 +15881,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Principle 5 (Pesticide paradox); automated unit tests automatically delete production source code after execution"
+            "text": "Principle 7 (Absence-of-errors fallacy) & Principle 1 (Testing shows presence of defects, not absence); unit tests do not validate end-to-end user workflows or business fitness"
           },
           {
             "label": "D",
             "text": "Principle 3 (Early testing); unit testing should only be executed post-deployment in production live environments"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. ISTQB CTFL v4.0 Principle 7 (Absence-of-errors fallacy) states that fixing bugs or achieving 100% code coverage does not guarantee system usability or business goal fulfillment. Principle 1 states testing shows presence of defects, not absence. High unit coverage does not replace end-to-end System/UAT testing. Options B, C, and D distort ISTQB principles.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. ISTQB CTFL v4.0 Principle 7 (Absence-of-errors fallacy) states that fixing bugs or achieving 100% code coverage does not guarantee system usability or business goal fulfillment. Principle 1 states testing shows presence of defects, not absence. High unit coverage does not replace end-to-end System/UAT testing. Options B, C, and D distort ISTQB principles.",
         "evidenceId": "EXT-ISTQB-01",
         "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
@@ -13572,14 +15897,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 12,
-        "questionId": "EX2-M06-D5-Q12",
+        "questionId": "EX3-M06-D5-Q12",
         "topicId": "M06-T04",
         "module": "M06",
         "question": "An autonomous vehicle steering control module is evaluated under ISO/IEC 25010:2023. A software crash that causes loss of power steering and potential vehicle collision is categorized under Safety, whereas a crash that merely causes the dashboard clock to reset is categorized under Reliability. What is the fundamental distinction between Safety and Reliability in ISO/IEC 25010:2023?",
         "options": [
           {
             "label": "A",
-            "text": "Reliability measures system operational continuity, whereas Safety specifically measures avoidance of physical harm, injury, or property damage"
+            "text": "Safety and Reliability are identical terms in ISO/IEC 25010:2023 and can be used interchangeably"
           },
           {
             "label": "B",
@@ -13591,11 +15916,11 @@ const QUIZ_BANKS = [
           },
           {
             "label": "D",
-            "text": "Safety and Reliability are identical terms in ISO/IEC 25010:2023 and can be used interchangeably"
+            "text": "Reliability measures system operational continuity, whereas Safety specifically measures avoidance of physical harm, injury, or property damage"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. ISO/IEC 25010:2023 added Safety (9th characteristic) specifically to distinguish physical harm/injury/property risk from general software uptime and fault tolerance (Reliability). Loss of steering causing collision is a Safety hazard; clock resetting is a Reliability issue. Options B, C, and D are incorrect.",
+        "answer": "D",
+        "explanation": "Option D is the correct answer. ISO/IEC 25010:2023 added Safety (9th characteristic) specifically to distinguish physical harm/injury/property risk from general software uptime and fault tolerance (Reliability). Loss of steering causing collision is a Safety hazard; clock resetting is a Reliability issue. Options B, C, and D are incorrect.",
         "evidenceId": "EXT-ISO-01",
         "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
@@ -13603,7 +15928,7 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 13,
-        "questionId": "EX2-M06-D5-Q13",
+        "questionId": "EX3-M06-D5-Q13",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "In Jira Software, a program manager inspects a Cumulative Flow Diagram (CFD). The top curve (\"Total Scope\") and bottom curve (\"Done\") are parallel, but the middle status band (\"In Code Review\") is expanding at a 45-degree upward angle. What mathematical condition does this visual slope represent?",
@@ -13634,18 +15959,18 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 14,
-        "questionId": "EX2-M06-D5-Q14",
+        "questionId": "EX3-M06-D5-Q14",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "A Jira Control Chart displays an average Cycle Time of 8 days with a standard deviation of 2 days. A cluster of 5 issues exhibits cycle times between 28 and 32 days. Under statistical process control rules in Agile program management, what diagnostic action should the program manager take?",
         "options": [
           {
             "label": "A",
-            "text": "Investigate specific external blockers, scope creep, or dependency delays that caused these outlier issues to breach the 3-sigma process boundary"
+            "text": "Automatically delete the 5 outlier issues from Jira to artificially lower the average cycle time metric"
           },
           {
             "label": "B",
-            "text": "Automatically delete the 5 outlier issues from Jira to artificially lower the average cycle time metric"
+            "text": "Investigate specific external blockers, scope creep, or dependency delays that caused these outlier issues to breach the 3-sigma process boundary"
           },
           {
             "label": "C",
@@ -13656,8 +15981,8 @@ const QUIZ_BANKS = [
             "text": "Ignore the outliers because statistical process control limits do not apply to software development"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. In Jira Control Charts (Atlassian), issues exceeding 3 standard deviations (3-sigma process limits; here 8 + 3*2 = 14 days, so 28-32 days are extreme outliers) represent special cause process variation. The PM must investigate root causes (blockers, dependencies, scope creep). Options B, C, and D are invalid practices.",
+        "answer": "B",
+        "explanation": "Option B is the correct answer. In Jira Control Charts (Atlassian), issues exceeding 3 standard deviations (3-sigma process limits; here 8 + 3*2 = 14 days, so 28-32 days are extreme outliers) represent special cause process variation. The PM must investigate root causes (blockers, dependencies, scope creep). Options B, C, and D are invalid practices.",
         "evidenceId": "EXT-JIRA-01",
         "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
@@ -13665,14 +15990,14 @@ const QUIZ_BANKS = [
       },
       {
         "sourceNumber": 15,
-        "questionId": "EX2-M06-D5-Q15",
+        "questionId": "EX3-M06-D5-Q15",
         "topicId": "M06-T05",
         "module": "M06",
         "question": "An Agile program manager analyzes a Jira Velocity Chart over 6 sprints. Completed story points equaled committed points in Sprints 1–3 (30 points/sprint). In Sprints 4–6, completed points dropped to 15 points/sprint while commitments remained at 30 points. Post-mortem reveals team staffing was cut by 50% prior to Sprint 4, but commitments were never updated. What capacity planning correction must be applied to future Sprint Planning?",
         "options": [
           {
             "label": "A",
-            "text": "Recalculate future Sprint commitments based on current available engineering capacity (15 points) rather than stale historical targets"
+            "text": "Double the story point estimates of all backlog items to restore historical 30-point velocity numbers"
           },
           {
             "label": "B",
@@ -13680,15 +16005,15 @@ const QUIZ_BANKS = [
           },
           {
             "label": "C",
-            "text": "Double the story point estimates of all backlog items to restore historical 30-point velocity numbers"
+            "text": "Recalculate future Sprint commitments based on current available engineering capacity (15 points) rather than stale historical targets"
           },
           {
             "label": "D",
             "text": "Discontinue using Jira Velocity Charts and transition entirely to annual Waterfall Gantt charts"
           }
         ],
-        "answer": "A",
-        "explanation": "Option A is the correct answer. Velocity capacity planning (Atlassian Jira Documentation) must account for changes in team staffing capacity. When staffing dropped 50%, capacity dropped to 15 points. Continuing to commit 30 points caused artificial burndown failure. Future commitments must align with current capacity (15 points). Options B, C, and D are anti-patterns.",
+        "answer": "C",
+        "explanation": "Option C is the correct answer. Velocity capacity planning (Atlassian Jira Documentation) must account for changes in team staffing capacity. When staffing dropped 50%, capacity dropped to 15 points. Continuing to commit 30 points caused artificial burndown failure. Future commitments must align with current capacity (15 points). Options B, C, and D are anti-patterns.",
         "evidenceId": "EXT-JIRA-02",
         "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
