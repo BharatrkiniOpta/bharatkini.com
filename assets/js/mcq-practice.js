@@ -34,6 +34,8 @@ const disclaimerDeny = document.querySelector("#disclaimer-deny");
 const disclaimerAccept = document.querySelector("#disclaimer-accept");
 const disclaimerBanner = document.querySelector("#disclaimer-banner");
 const disclaimerBannerText = document.querySelector("#disclaimer-banner-text");
+const tabExam1 = document.querySelector("#tab-exam1");
+const tabExam2 = document.querySelector("#tab-exam2");
 
 const STORAGE_KEY = "bk-mcq-active-attempt-v1";
 const COMPLETION_STORAGE_KEY = "bk-mcq-completions-v1";
