@@ -72,7 +72,7 @@
             type="button"
             aria-expanded="false"
             aria-controls="site-nav"
-            aria-label="Open navigation"
+            aria-label="Open menu"
           >
             Menu
           </button>
@@ -127,9 +127,41 @@
             <p class="eyebrow">Choose Drill</p>
             <h2 id="quiz-selection-title">Select your MCQ set.</h2>
             <p class="page-intro">
-              Five drills tiered by difficulty. Completion time is saved on this device only.
+              Five drills per exam, tiered by difficulty. Completion time is saved on this device only.
             </p>
           </div>
+
+          <div class="mcq-tabs" role="tablist">
+            <button role="tab" class="mcq-tabs__button mcq-tabs__button--active" aria-selected="true" id="tab-exam1" type="button">Exam 1</button>
+            <button role="tab" class="mcq-tabs__button" aria-selected="false" id="tab-exam2" type="button">Exam 2 (250 MCQs)</button>
+          </div>
+
+          <!-- Exam 2 Confirmed Specification Banner -->
+          <div id="exam2-spec-banner" class="mcq-exam2-spec-card" hidden>
+            <div class="mcq-exam2-spec-card__header">
+              <span class="mcq-badge" style="background:#0284c7; color:#fff;">CONFIRMED EXAM RULES</span>
+              <h3>Exam 2 Specifications</h3>
+            </div>
+            <div class="mcq-exam2-spec-card__grid">
+              <div class="spec-item"><strong>45 Questions</strong><span>Single Attempt</span></div>
+              <div class="spec-item"><strong>60 Minutes</strong><span>Duration</span></div>
+              <div class="spec-item"><strong>Sun 16 Aug, 3:30–4:30 PM</strong><span>Exam Window</span></div>
+              <div class="spec-item"><strong>No Negative Marking</strong><span>0 Penalty</span></div>
+            </div>
+            <div class="mcq-exam2-spec-card__resources" style="margin-top: 0.75rem; padding-top: 0.75rem; border-top: 1px dashed #bae6fd;">
+              <strong style="font-size: 0.85rem; color: #0369a1; display: block; margin-bottom: 0.35rem;">Integrated Exam 2 Study Pack Assets:</strong>
+              <div style="display: flex; gap: 0.4rem; flex-wrap: wrap;">
+                <span class="mcq-badge" style="background:#e0f2fe; color:#0369a1;">Cheat Sheet</span>
+                <span class="mcq-badge" style="background:#e0f2fe; color:#0369a1;">Active Flashcards</span>
+                <span class="mcq-badge" style="background:#e0f2fe; color:#0369a1;">30-Min Cram Sheet</span>
+                <span class="mcq-badge" style="background:#e0f2fe; color:#0369a1;">Test-Day Tactics</span>
+                <span class="mcq-badge" style="background:#e0f2fe; color:#0369a1;">Preflight Checklist</span>
+                <span class="mcq-badge" style="background:#e0f2fe; color:#0369a1;">Wallpapers (PNG/SVG)</span>
+              </div>
+            </div>
+            <p class="spec-note" style="margin-top: 0.5rem;"><small>Note: Module 6 content is tagged <strong>[PROVISIONAL]</strong> for contingency coverage.</small></p>
+          </div>
+
           <div id="quiz-options" class="mcq-drill-table-wrap"></div>
           <p class="mcq-table-footnote">
             <button id="reset-completions" type="button" class="link-button">Reset completion times</button>

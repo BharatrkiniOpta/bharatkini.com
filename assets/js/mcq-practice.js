@@ -64,6 +64,7 @@ let timerId;
 let reportRows = [];
 let sortState = { key: "result", direction: "asc" };
 let isAttemptActive = false;
+let activeExam = 1;
 
 function pad(value) {
   return String(value).padStart(2, "0");
@@ -240,6 +241,8 @@ function sanitizeReportRow(row) {
     answer: String(row.answer ?? "").slice(0, 1000),
     reviewStatus: String(row.reviewStatus ?? "").slice(0, 500),
     result: ALLOWED_RESULTS.includes(row.result) ? row.result : "Unanswered",
+    explanation: String(row.explanation ?? "").slice(0, 2000),
+    provisional: Boolean(row.provisional),
   };
 }
 
@@ -391,7 +394,9 @@ function renderQuizChoices() {
   const completions = loadCompletions();
   const inProgressId = savedAttempt ? savedAttempt.quizId : null;
 
-  const rowsHtml = QUIZ_BANKS.map((quiz, index) => {
+  const filteredQuizzes = QUIZ_BANKS.filter((quiz) => (quiz.exam ?? 1) === activeExam);
+
+  const rowsHtml = filteredQuizzes.map((quiz, index) => {
     const completion = completions[quiz.id];
     const isInProgress = quiz.id === inProgressId;
     const rowClasses = ["mcq-drill-row"];
@@ -595,7 +600,11 @@ function renderQuestion() {
 
   questionProgress.textContent = `Question ${activeQuestionIndex + 1} of ${total}`;
   answeredCount.textContent = `${answeredTotal} answered, ${flaggedTotal} marked`;
-  questionText.textContent = question.question;
+  if (question.provisional) {
+    questionText.innerHTML = `<span class="mcq-badge mcq-badge--provisional">[PROVISIONAL]</span> ${escapeHtml(question.question)}`;
+  } else {
+    questionText.textContent = question.question;
+  }
   optionList.innerHTML = selectedOptionMarkup(question, selected);
   prevQuestion.disabled = activeQuestionIndex === 0;
   nextQuestion.textContent = activeQuestionIndex === total - 1 ? "Submit" : "Next";
@@ -851,12 +860,26 @@ function resultClass(row) {
 
 function renderReportTable() {
   const rows = sortRows(filteredRows());
+  resultsTable?.querySelectorAll("thead tr:first-child th[data-sort]").forEach((header) => {
+    const key = header.dataset.sort;
+    if (sortState.key === key) {
+      header.setAttribute("aria-sort", sortState.direction === "asc" ? "ascending" : "descending");
+    } else {
+      header.setAttribute("aria-sort", "none");
+    }
+  });
   resultsBody.innerHTML = rows.map((row) => `
     <tr class="${resultClass(row)}">
-      <td>${escapeHtml(row.question)}</td>
+      <td>
+        ${row.provisional ? '<span class="mcq-badge mcq-badge--provisional">[PROVISIONAL]</span>' : ''}
+        ${escapeHtml(row.question)}
+      </td>
       <td>${escapeHtml(row.options)}</td>
       <td>${escapeHtml(row.selected)}</td>
-      <td>${escapeHtml(row.answer)}</td>
+      <td>
+        <strong>${escapeHtml(row.answer)}</strong>
+        ${row.explanation ? `<div class="mcq-explanation-box"><strong>Explanation:</strong> ${escapeHtml(row.explanation)}</div>` : ''}
+      </td>
       <td>${escapeHtml(row.reviewStatus)}</td>
       <td><span class="mcq-result-pill ${resultClass(row)}">${escapeHtml(row.result)}</span></td>
     </tr>
@@ -1028,6 +1051,8 @@ function buildDownloadRowsFromAttempt(quiz, attempt) {
       answer: optionText(question, question.answer),
       reviewStatus: rvStatus,
       result: sel ? (sel === question.answer ? "Right" : "Wrong") : "Unattempted",
+      explanation: question.explanation || "",
+      provisional: Boolean(question.provisional),
     };
   });
 }
@@ -1259,6 +1284,49 @@ disclaimerBanner?.addEventListener("mouseleave", () => {
   bannerRotateId = window.setInterval(rotateBannerSegment, 5000);
 });
 
+const TAB_STORAGE_KEY = "bk-mcq-active-tab-v1";
+
+function loadActiveTab() {
+  if (window.location.hash === "#exam2") return 2;
+  if (window.location.hash === "#exam1") return 1;
+  const saved = localStorage.getItem(TAB_STORAGE_KEY);
+  return saved ? Number(saved) : 1;
+}
+
+function setActiveTab(examNumber) {
+  activeExam = examNumber;
+  try {
+    localStorage.setItem(TAB_STORAGE_KEY, String(examNumber));
+    if (window.history?.replaceState) {
+      window.history.replaceState(null, "", `#exam${examNumber}`);
+    }
+  } catch (e) {}
+
+  const specBanner = document.querySelector("#exam2-spec-banner");
+  if (specBanner) {
+    specBanner.hidden = examNumber !== 2;
+  }
+
+  if (tabExam1 && tabExam2) {
+    if (examNumber === 1) {
+      tabExam1.classList.add("mcq-tabs__button--active");
+      tabExam1.setAttribute("aria-selected", "true");
+      tabExam2.classList.remove("mcq-tabs__button--active");
+      tabExam2.setAttribute("aria-selected", "false");
+    } else {
+      tabExam2.classList.add("mcq-tabs__button--active");
+      tabExam2.setAttribute("aria-selected", "true");
+      tabExam1.classList.remove("mcq-tabs__button--active");
+      tabExam1.setAttribute("aria-selected", "false");
+    }
+  }
+
+  renderQuizChoices();
+}
+
+tabExam1?.addEventListener("click", () => setActiveTab(1));
+tabExam2?.addEventListener("click", () => setActiveTab(2));
+
 checkDisclaimer();
-renderQuizChoices();
+setActiveTab(loadActiveTab());
 renderSavedAttemptNotice();
