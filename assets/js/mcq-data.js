@@ -9582,7 +9582,7 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$2,488,320 — annual gross profit of $3,088,320 minus $600K slotting."
+            "text": "$1,888,320 — annual gross profit of $2,488,320 minus $600K slotting."
           },
           {
             "label": "B",
@@ -9598,7 +9598,7 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: $2,488,320 — annual gross profit of $3,088,320 minus $600K slotting. matches the authoritative source framework (`EXT-HBR-502049`).\n  - **Option B (Incorrect)**: $1,891,200 — incorrectly calculated using a 24% margin. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $6,912,000 — gross revenue without margin or slotting adjustment. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $3,688,320 — double-counting revenue from two channels. is inaccurate or secondary relative to the primary concept.",
+        "explanation": "- **Option A (Correct)**: $1,888,320 — annual gross profit of $2,488,320 minus $600K slotting. matches the authoritative source framework (`EXT-HBR-502049`).\n  - **Option B (Incorrect)**: $1,891,200 — incorrectly calculated using a 24% margin. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $6,912,000 — gross revenue without margin or slotting adjustment. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $3,688,320 — double-counting revenue from two channels. is inaccurate or secondary relative to the primary concept.",
         "evidenceId": "EXT-HBR-502049",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "calculation-error",
@@ -9671,7 +9671,7 @@ const QUIZ_BANKS = [
         "questionId": "EX2-M04-D3-Q24",
         "topicId": "M04-T04",
         "module": "M04",
-        "question": "A new product launch targets $5M first-year revenue. Fixed launch costs are $1.2M, variable cost per unit is $15, and the wholesale price is $40. How many units must be sold to achieve the revenue target while covering all costs?",
+        "question": "A new product launch targets $5M first-year gross revenue. Fixed launch costs are $1.2M, variable cost per unit is $15, and the wholesale price is $40. Ignoring costs, how many units must be sold strictly to achieve the $5M revenue target?",
         "options": [
           {
             "label": "A",
@@ -9830,7 +9830,7 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "$24.25 — volume-weighted average across all channels."
+            "text": "$23.50 — volume-weighted average across all channels."
           },
           {
             "label": "B",
@@ -9846,7 +9846,7 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: $24.25 — volume-weighted average across all channels. matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option B (Incorrect)**: $30.00 — arithmetic average of the three margins. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $18.00 — using only the wholesale channels. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $35.00 — overweighting the D2C channel. is inaccurate or secondary relative to the primary concept.",
+        "explanation": "- **Option A (Correct)**: $23.50 — volume-weighted average across all channels. matches the authoritative source framework (`EXT-KOTLER-CH17`).\n  - **Option B (Incorrect)**: $30.00 — arithmetic average of the three margins. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: $18.00 — using only the wholesale channels. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: $35.00 — overweighting the D2C channel. is inaccurate or secondary relative to the primary concept.",
         "evidenceId": "EXT-KOTLER-CH17",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "calculation-error",
@@ -10454,19 +10454,19 @@ const QUIZ_BANKS = [
           },
           {
             "label": "B",
-            "text": "An increase of 27 net promoters — calculated from the NPS percentage change."
+            "text": "An increase of +27 net promoters — calculated as (350 × 0.42) - (400 × 0.30) = 147 - 120 = +27."
           },
           {
             "label": "C",
-            "text": "An increase of 12 net promoters — (42% - 30%) × 350."
+            "text": "An increase of +12 net promoters — (42% - 30%) × 350."
           },
           {
             "label": "D",
-            "text": "An increase of 48 net promoters — using the average respondent count."
+            "text": "An increase of +48 net promoters — using the average respondent count."
           }
         ],
-        "answer": "A",
-        "explanation": "- **Option A (Correct)**: The data is insufficient to determine — we only know the NPS score, not the raw counts. matches the authoritative source framework (`EXT-BAIN-NPS-2011`).\n  - **Option B (Incorrect)**: An increase of 27 net promoters — calculated from the NPS percentage change. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: An increase of 12 net promoters — (42% - 30%) × 350. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: An increase of 48 net promoters — using the average respondent count. is inaccurate or secondary relative to the primary concept.",
+        "answer": "B",
+        "explanation": "- **Option B (Correct)**: An increase of +27 net promoters — calculated as (350 × 0.42) - (400 × 0.30) = 147 - 120 = +27. matches the authoritative source framework (`EXT-KUMAR-NBA-2019`).\n  - **Option A (Incorrect)**: The data is insufficient to determine — we only know the NPS score, not the raw counts. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: An increase of +12 net promoters — (42% - 30%) × 350. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: An increase of 48 net promoters — using the average respondent count. is inaccurate or secondary relative to the primary concept.",
         "evidenceId": "EXT-KUMAR-NBA-2019",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "calculation-error",
