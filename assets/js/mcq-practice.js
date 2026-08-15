@@ -1387,12 +1387,10 @@ disclaimerBanner?.addEventListener("mouseleave", () => {
 const TAB_STORAGE_KEY = "bk-mcq-active-tab-v1";
 
 function loadActiveTab() {
-  if (window.location.hash === "#exam3") return 3;
-  if (window.location.hash === "#exam2") return 2;
-  if (window.location.hash === "#exam1") return 1;
-  const saved = localStorage.getItem(TAB_STORAGE_KEY);
-  const num = Number(saved);
-  return [1, 2, 3].includes(num) ? num : 1;
+  if (window.history?.replaceState && window.location.hash !== "#exam2") {
+    window.history.replaceState(null, "", "#exam2");
+  }
+  return 2;
 }
 
 function setActiveTab(examNumber) {
