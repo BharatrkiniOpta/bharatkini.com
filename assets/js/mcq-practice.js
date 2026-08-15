@@ -69,14 +69,38 @@ let sortState = { key: "result", direction: "asc" };
 let isAttemptActive = false;
 let activeExam = 1;
 
+// ── Test seam for controllable clock in automated QA ──
+if (typeof window !== "undefined") {
+  window.__timerOffsetMs = window.__timerOffsetMs || 0;
+  window.__setTimerOffset = function (offsetMs) {
+    window.__timerOffsetMs = Number(offsetMs) || 0;
+    if (typeof updateTimer === "function" && isAttemptActive) {
+      updateTimer();
+    }
+  };
+}
+
+function getCurrentTime() {
+  const offset = typeof window !== "undefined" && window.__timerOffsetMs ? window.__timerOffsetMs : 0;
+  return Date.now() + offset;
+}
+
+function isOvertimeAllowed(quiz) {
+  return Boolean(quiz && quiz.exam === 2);
+}
+
 function pad(value) {
   return String(value).padStart(2, "0");
 }
 
 function formatTime(ms) {
   const totalSeconds = Math.max(0, Math.ceil(ms / 1000));
-  const minutes = Math.floor(totalSeconds / 60);
+  const hours = Math.floor(totalSeconds / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
   const seconds = totalSeconds % 60;
+  if (hours > 0) {
+    return `${hours}:${pad(minutes)}:${pad(seconds)}`;
+  }
   return `${pad(minutes)}:${pad(seconds)}`;
 }
 
@@ -193,12 +217,40 @@ function clearSavedAttempt() {
 }
 
 function updateTimer() {
-  const remaining = deadline - Date.now();
-  timerDisplay.textContent = formatTime(remaining);
+  if (!activeQuiz || !isAttemptActive) {
+    return;
+  }
 
-  if (remaining <= 0) {
-    window.clearInterval(timerId);
-    finishAttempt("Time is up.");
+  const now = getCurrentTime();
+  const remaining = deadline - now;
+  const allowOvertime = isOvertimeAllowed(activeQuiz);
+
+  if (remaining > 0) {
+    timerDisplay.textContent = formatTime(remaining);
+    if (headerTimerWrap) {
+      headerTimerWrap.classList.remove("is-overtime");
+      const badge = headerTimerWrap.querySelector(".mcq-timer__overtime-badge");
+      if (badge) badge.remove();
+    }
+  } else {
+    if (allowOvertime) {
+      const elapsedMs = Math.max(0, now - startedAt);
+      timerDisplay.textContent = formatTime(elapsedMs);
+      if (headerTimerWrap) {
+        headerTimerWrap.classList.add("is-overtime");
+        let badge = headerTimerWrap.querySelector(".mcq-timer__overtime-badge");
+        if (!badge) {
+          badge = document.createElement("span");
+          badge.className = "mcq-timer__overtime-badge";
+          badge.textContent = "Target time exceeded";
+          badge.setAttribute("aria-label", "Target time exceeded");
+          headerTimerWrap.appendChild(badge);
+        }
+      }
+    } else {
+      window.clearInterval(timerId);
+      finishAttempt("Time is up.");
+    }
   }
 }
 
@@ -211,12 +263,30 @@ function renderSavedAttemptNotice() {
   }
 
   const quiz = QUIZ_BANKS.find((bank) => bank.id === savedAttempt.quizId);
+  if (!quiz) {
+    resumePanel.hidden = true;
+    return;
+  }
+
   const answeredTotal = savedAttempt.answers.filter(Boolean).length;
   const flaggedTotal = savedAttempt.reviewFlags.filter(Boolean).length;
-  const remaining = savedAttempt.deadline - Date.now();
-  const timingText = remaining > 0 ? `${formatTime(remaining)} remaining` : "timer expired, resume to view results";
+  const now = getCurrentTime();
+  const remaining = savedAttempt.deadline - now;
+  const allowOvertime = isOvertimeAllowed(quiz);
+  const isExpired = remaining <= 0 && !allowOvertime;
+
+  let timingText = "";
+  if (remaining > 0) {
+    timingText = `${formatTime(remaining)} remaining`;
+  } else if (allowOvertime) {
+    const elapsedMs = Math.max(0, now - savedAttempt.startedAt);
+    timingText = `${formatTime(elapsedMs)} elapsed (target exceeded)`;
+  } else {
+    timingText = "timer expired, resume to view results";
+  }
+
   resumeSummary.textContent = `${quiz.title}: question ${savedAttempt.activeQuestionIndex + 1} of ${quiz.questions.length}, ${answeredTotal} answered, ${flaggedTotal} marked, ${timingText}.`;
-  resumeAttempt.textContent = remaining > 0 ? "Resume" : "View results";
+  resumeAttempt.textContent = isExpired ? "View results" : "Resume";
   resumePanel.hidden = false;
 }
 
@@ -387,9 +457,13 @@ function checkDisclaimer() {
 
 function formatDuration(seconds) {
   const total = Math.max(0, Math.round(seconds));
-  const m = Math.floor(total / 60);
+  const hours = Math.floor(total / 3600);
+  const minutes = Math.floor((total % 3600) / 60);
   const s = total % 60;
-  return `${pad(m)}:${pad(s)}`;
+  if (hours > 0) {
+    return `${hours}:${pad(minutes)}:${pad(s)}`;
+  }
+  return `${pad(minutes)}:${pad(s)}`;
 }
 
 function renderQuizChoices() {
@@ -498,6 +572,11 @@ function beginAttempt(attempt) {
   isAttemptActive = true;
 
   window.clearInterval(timerId);
+  if (headerTimerWrap) {
+    headerTimerWrap.classList.remove("is-overtime");
+    const badge = headerTimerWrap.querySelector(".mcq-timer__overtime-badge");
+    if (badge) badge.remove();
+  }
   timerId = window.setInterval(updateTimer, 1000);
   updateTimer();
 
@@ -688,6 +767,10 @@ function toggleReviewFlag() {
 }
 
 function submitAttempt() {
+  if (!activeQuiz || !isAttemptActive) {
+    return;
+  }
+
   storeSelectedAnswer();
   const unansweredTotal = answers.filter((answer) => !answer).length;
   const flaggedTotal = reviewFlags.filter(Boolean).length;
@@ -783,7 +866,12 @@ function finishAttempt(message) {
   window.clearInterval(timerId);
   isAttemptActive = false;
   clearSavedAttempt();
-  if (headerTimerWrap) headerTimerWrap.hidden = true;
+  if (headerTimerWrap) {
+    headerTimerWrap.hidden = true;
+    headerTimerWrap.classList.remove("is-overtime");
+    const badge = headerTimerWrap.querySelector(".mcq-timer__overtime-badge");
+    if (badge) badge.remove();
+  }
   quizPanel.hidden = true;
   resumePanel.hidden = true;
   resultsPanel.hidden = false;
@@ -793,7 +881,7 @@ function finishAttempt(message) {
   const attempted = reportRows.filter((row) => row.result !== "Unanswered").length;
   const total = reportRows.length;
   const percent = Math.round((correct / total) * 100);
-  const durationSeconds = Math.max(0, (Date.now() - startedAt) / 1000);
+  const durationSeconds = Math.max(0, (getCurrentTime() - startedAt) / 1000);
 
   saveCompletion(activeQuiz.id, {
     durationSeconds,
@@ -1151,7 +1239,11 @@ resumeAttempt?.addEventListener("click", () => {
   const savedAttempt = loadSavedAttempt();
 
   if (savedAttempt) {
-    if (savedAttempt.deadline <= Date.now()) {
+    const quiz = QUIZ_BANKS.find((bank) => bank.id === savedAttempt.quizId);
+    const allowOvertime = isOvertimeAllowed(quiz);
+    const now = getCurrentTime();
+
+    if (savedAttempt.deadline <= now && !allowOvertime) {
       restoreAttemptState(savedAttempt);
       finishAttempt("Time is up.");
       return;
@@ -1174,7 +1266,12 @@ restartQuiz?.addEventListener("click", () => {
   isAttemptActive = false;
   activeQuiz = undefined;
   timerDisplay.textContent = "60:00";
-  if (headerTimerWrap) headerTimerWrap.hidden = true;
+  if (headerTimerWrap) {
+    headerTimerWrap.hidden = true;
+    headerTimerWrap.classList.remove("is-overtime");
+    const badge = headerTimerWrap.querySelector(".mcq-timer__overtime-badge");
+    if (badge) badge.remove();
+  }
   if (mcqPageHeader) mcqPageHeader.hidden = false;
   if (loadDisclaimerStatus() === "accepted") startRotatingBanner();
   resultsPanel.hidden = true;

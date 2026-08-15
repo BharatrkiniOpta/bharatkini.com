@@ -825,6 +825,23 @@ img {
   letter-spacing: 0.04em;
 }
 
+.mcq-header-timer.is-overtime {
+  border: 1px solid var(--warm);
+}
+
+.mcq-header-timer.is-overtime .mcq-timer__label {
+  color: var(--warm);
+}
+
+.mcq-timer__overtime-badge {
+  font-size: 0.6rem;
+  font-weight: 600;
+  color: var(--warm);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-top: 0.05rem;
+}
+
 .mcq-option-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
