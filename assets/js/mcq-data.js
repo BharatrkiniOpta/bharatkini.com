@@ -10295,23 +10295,23 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "(2) Extract Filters $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (4) Context Filters $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations"
+            "text": "(2) Extract Filters → (1) Dimension Filters → (5) FIXED LODs → (4) Context Filters → (6) Measure Filters → (3) Table Calculations"
           },
           {
             "label": "B",
-            "text": "(5) FIXED LODs $\\rightarrow$ (2) Extract Filters $\\rightarrow$ (4) Context Filters $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (3) Table Calculations $\\rightarrow$ (6) Measure Filters"
+            "text": "(5) FIXED LODs → (2) Extract Filters → (4) Context Filters → (1) Dimension Filters → (3) Table Calculations → (6) Measure Filters"
           },
           {
             "label": "C",
-            "text": "(4) Context Filters $\\rightarrow$ (2) Extract Filters $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations"
+            "text": "(4) Context Filters → (2) Extract Filters → (1) Dimension Filters → (5) FIXED LODs → (6) Measure Filters → (3) Table Calculations"
           },
           {
             "label": "D",
-            "text": "(2) Extract Filters $\\rightarrow$ (4) Context Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations"
+            "text": "(2) Extract Filters → (4) Context Filters → (5) FIXED LODs → (1) Dimension Filters → (6) Measure Filters → (3) Table Calculations"
           }
         ],
         "answer": "D",
-        "explanation": "- **Option D (Correct)**: (2) Extract Filters $\\rightarrow$ (4) Context Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: (2) Extract Filters $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (4) Context Filters $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: (5) FIXED LODs $\\rightarrow$ (2) Extract Filters $\\rightarrow$ (4) Context Filters $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (3) Table Calculations $\\rightarrow$ (6) Measure Filters is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: (4) Context Filters $\\rightarrow$ (2) Extract Filters $\\rightarrow$ (1) Dimension Filters $\\rightarrow$ (5) FIXED LODs $\\rightarrow$ (6) Measure Filters $\\rightarrow$ (3) Table Calculations is inaccurate or secondary relative to the primary concept.",
+        "explanation": "- **Option D (Correct)**: (2) Extract Filters → (4) Context Filters → (5) FIXED LODs → (1) Dimension Filters → (6) Measure Filters → (3) Table Calculations matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: (2) Extract Filters → (1) Dimension Filters → (5) FIXED LODs → (4) Context Filters → (6) Measure Filters → (3) Table Calculations is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: (5) FIXED LODs → (2) Extract Filters → (4) Context Filters → (1) Dimension Filters → (3) Table Calculations → (6) Measure Filters is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: (4) Context Filters → (2) Extract Filters → (1) Dimension Filters → (5) FIXED LODs → (6) Measure Filters → (3) Table Calculations is inaccurate or secondary relative to the primary concept.",
         "evidenceId": "EXT-TABLEAU-ORDER-OF-OPS",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
@@ -11517,23 +11517,23 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Detect anomalous login bursts $\\rightarrow$ Protect accounts via step-up MFA $\\rightarrow$ Respond by forcing credential reset $\\rightarrow$ Recover account access"
+            "text": "Detect anomalous login bursts → Protect accounts via step-up MFA → Respond by forcing credential reset → Recover account access"
           },
           {
             "label": "B",
-            "text": "Recover accounts $\\rightarrow$ Detect anomalies $\\rightarrow$ Govern policies $\\rightarrow$ Protect databases"
+            "text": "Recover accounts → Detect anomalies → Govern policies → Protect databases"
           },
           {
             "label": "C",
-            "text": "Identify assets $\\rightarrow$ Govern policies $\\rightarrow$ Detect anomalies $\\rightarrow$ Recover accounts"
+            "text": "Identify assets → Govern policies → Detect anomalies → Recover accounts"
           },
           {
             "label": "D",
-            "text": "Respond to incidents $\\rightarrow$ Protect accounts $\\rightarrow$ Identify assets $\\rightarrow$ Govern policies"
+            "text": "Respond to incidents → Protect accounts → Identify assets → Govern policies"
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Detect anomalous login bursts $\\rightarrow$ Protect accounts via step-up MFA $\\rightarrow$ Respond by forcing credential reset $\\rightarrow$ Recover account access matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option B (Incorrect)**: Recover accounts $\\rightarrow$ Detect anomalies $\\rightarrow$ Govern policies $\\rightarrow$ Protect databases is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Identify assets $\\rightarrow$ Govern policies $\\rightarrow$ Detect anomalies $\\rightarrow$ Recover accounts is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Respond to incidents $\\rightarrow$ Protect accounts $\\rightarrow$ Identify assets $\\rightarrow$ Govern policies is inaccurate or secondary relative to the primary concept.",
+        "explanation": "- **Option A (Correct)**: Detect anomalous login bursts → Protect accounts via step-up MFA → Respond by forcing credential reset → Recover account access matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option B (Incorrect)**: Recover accounts → Detect anomalies → Govern policies → Protect databases is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Identify assets → Govern policies → Detect anomalies → Recover accounts is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Respond to incidents → Protect accounts → Identify assets → Govern policies is inaccurate or secondary relative to the primary concept.",
         "evidenceId": "EXT-NIST-CSF-2.0",
         "evidenceClassification": "official-external",
         "trapLabel": "terminology-confusion-trap",
@@ -12212,23 +12212,23 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Relationship Trust $\\rightarrow$ Relationship Commitment."
+            "text": "Relationship Trust → Relationship Commitment."
           },
           {
             "label": "B",
-            "text": "Opportunistic Behavior $\\rightarrow$ Relationship Trust."
+            "text": "Opportunistic Behavior → Relationship Trust."
           },
           {
             "label": "C",
-            "text": "Price Discounting $\\rightarrow$ Relationship Commitment."
+            "text": "Price Discounting → Relationship Commitment."
           },
           {
             "label": "D",
-            "text": "Termination Costs $\\rightarrow$ Opportunistic Behavior."
+            "text": "Termination Costs → Opportunistic Behavior."
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Relationship Trust $\\rightarrow$ Relationship Commitment. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Readings/Commitment and Trust theory of Relationship Marketing.pdf`).\n  - **Option B (Incorrect)**: Opportunistic Behavior $\\rightarrow$ Relationship Trust. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Price Discounting $\\rightarrow$ Relationship Commitment. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Termination Costs $\\rightarrow$ Opportunistic Behavior. is inaccurate or secondary relative to the primary concept.",
+        "explanation": "- **Option A (Correct)**: Relationship Trust → Relationship Commitment. matches the authoritative source framework (`DDPM_Organized/03_Sessions/S17_2026-06-07_Lead_Generation_and_Customer_Journey_Prof_Prem_Dewani/Readings/Commitment and Trust theory of Relationship Marketing.pdf`).\n  - **Option B (Incorrect)**: Opportunistic Behavior → Relationship Trust. is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Price Discounting → Relationship Commitment. is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Termination Costs → Opportunistic Behavior. is inaccurate or secondary relative to the primary concept.",
         "evidenceId": "EXT-HBR-20085",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "none",
@@ -12580,7 +12580,7 @@ const QUIZ_BANKS = [
         "questionId": "EX2-M04-D5-Q17",
         "topicId": "M04-T05",
         "module": "M04",
-        "question": "When managing multi-tier indirect distribution (Manufacturer $\\rightarrow$ Wholesaler $\\rightarrow$ Retailer $\\rightarrow$ Consumer), double marginalization occurs when both wholesaler and retailer add independent profit markups. What pricing mechanism eliminates double marginalization efficiency losses?",
+        "question": "When managing multi-tier indirect distribution (Manufacturer → Wholesaler → Retailer → Consumer), double marginalization occurs when both wholesaler and retailer add independent profit markups. What pricing mechanism eliminates double marginalization efficiency losses?",
         "options": [
           {
             "label": "A",
@@ -13235,23 +13235,23 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Protect Function $\\rightarrow$ Maintenance Subcategory (PR.MA)"
+            "text": "Protect Function → Maintenance Subcategory (PR.MA)"
           },
           {
             "label": "B",
-            "text": "Govern Function $\\rightarrow$ Supply Chain Risk Management Category (GV.SC)"
+            "text": "Govern Function → Supply Chain Risk Management Category (GV.SC)"
           },
           {
             "label": "C",
-            "text": "Detect Function $\\rightarrow$ Continuous Monitoring Category (DE.CM)"
+            "text": "Detect Function → Continuous Monitoring Category (DE.CM)"
           },
           {
             "label": "D",
-            "text": "Recover Function $\\rightarrow$ Execution Plan Subcategory (RC.RP)"
+            "text": "Recover Function → Execution Plan Subcategory (RC.RP)"
           }
         ],
         "answer": "B",
-        "explanation": "- **Option B (Correct)**: Govern Function $\\rightarrow$ Supply Chain Risk Management Category (GV.SC) matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: Protect Function $\\rightarrow$ Maintenance Subcategory (PR.MA) is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Detect Function $\\rightarrow$ Continuous Monitoring Category (DE.CM) is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Recover Function $\\rightarrow$ Execution Plan Subcategory (RC.RP) is inaccurate or secondary relative to the primary concept.",
+        "explanation": "- **Option B (Correct)**: Govern Function → Supply Chain Risk Management Category (GV.SC) matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option A (Incorrect)**: Protect Function → Maintenance Subcategory (PR.MA) is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: Detect Function → Continuous Monitoring Category (DE.CM) is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Recover Function → Execution Plan Subcategory (RC.RP) is inaccurate or secondary relative to the primary concept.",
         "evidenceId": "EXT-NIST-CSF-2.0",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
@@ -13328,11 +13328,11 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Spoofing $\\rightarrow$ Authentication; Tampering $\\rightarrow$ Integrity; Repudiation $\\rightarrow$ Non-repudiation; Information Disclosure $\\rightarrow$ Confidentiality; Denial of Service $\\rightarrow$ Availability; Elevation of Privilege $\\rightarrow$ Authorization"
+            "text": "Spoofing → Authentication; Tampering → Integrity; Repudiation → Non-repudiation; Information Disclosure → Confidentiality; Denial of Service → Availability; Elevation of Privilege → Authorization"
           },
           {
             "label": "B",
-            "text": "Spoofing $\\rightarrow$ Encryption; Tampering $\\rightarrow$ Logging; Repudiation $\\rightarrow$ Backup; Information Disclosure $\\rightarrow$ Firewalls; Denial of Service $\\rightarrow$ Antivirus; Elevation of Privilege $\\rightarrow$ Passwords"
+            "text": "Spoofing → Encryption; Tampering → Logging; Repudiation → Backup; Information Disclosure → Firewalls; Denial of Service → Antivirus; Elevation of Privilege → Passwords"
           },
           {
             "label": "C",
@@ -13344,7 +13344,7 @@ const QUIZ_BANKS = [
           }
         ],
         "answer": "A",
-        "explanation": "- **Option A (Correct)**: Spoofing $\\rightarrow$ Authentication; Tampering $\\rightarrow$ Integrity; Repudiation $\\rightarrow$ Non-repudiation; Information Disclosure $\\rightarrow$ Confidentiality; Denial of Service $\\rightarrow$ Availability; Elevation of Privilege $\\rightarrow$ Authorization matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option B (Incorrect)**: Spoofing $\\rightarrow$ Encryption; Tampering $\\rightarrow$ Logging; Repudiation $\\rightarrow$ Backup; Information Disclosure $\\rightarrow$ Firewalls; Denial of Service $\\rightarrow$ Antivirus; Elevation of Privilege $\\rightarrow$ Passwords is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: STRIDE maps exclusively to hardware power supply redundancy is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: STRIDE is a sales attribution model used in GA4 data streams is inaccurate or secondary relative to the primary concept.",
+        "explanation": "- **Option A (Correct)**: Spoofing → Authentication; Tampering → Integrity; Repudiation → Non-repudiation; Information Disclosure → Confidentiality; Denial of Service → Availability; Elevation of Privilege → Authorization matches the authoritative source framework (`EXT-NIST-01`).\n  - **Option B (Incorrect)**: Spoofing → Encryption; Tampering → Logging; Repudiation → Backup; Information Disclosure → Firewalls; Denial of Service → Antivirus; Elevation of Privilege → Passwords is inaccurate or secondary relative to the primary concept.\n  - **Option C (Incorrect)**: STRIDE maps exclusively to hardware power supply redundancy is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: STRIDE is a sales attribution model used in GA4 data streams is inaccurate or secondary relative to the primary concept.",
         "evidenceId": "EXT-SHOSTACK-STRIDE-2014",
         "evidenceClassification": "credible-secondary",
         "trapLabel": "terminology-confusion-trap",
@@ -13390,23 +13390,23 @@ const QUIZ_BANKS = [
         "options": [
           {
             "label": "A",
-            "text": "Dimension Filter $\\rightarrow$ FIXED LOD $\\rightarrow$ Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ Measure Filter"
+            "text": "Dimension Filter → FIXED LOD → Data Source Filter → Context Filter → Measure Filter"
           },
           {
             "label": "B",
-            "text": "FIXED LOD $\\rightarrow$ Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ Dimension Filter $\\rightarrow$ Measure Filter"
+            "text": "FIXED LOD → Data Source Filter → Context Filter → Dimension Filter → Measure Filter"
           },
           {
             "label": "C",
-            "text": "Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ **FIXED LOD** $\\rightarrow$ Dimension Filter $\\rightarrow$ Measure Filter"
+            "text": "Data Source Filter → Context Filter → **FIXED LOD** → Dimension Filter → Measure Filter"
           },
           {
             "label": "D",
-            "text": "Data Source Filter $\\rightarrow$ Dimension Filter $\\rightarrow$ Context Filter $\\rightarrow$ Measure Filter $\\rightarrow$ FIXED LOD"
+            "text": "Data Source Filter → Dimension Filter → Context Filter → Measure Filter → FIXED LOD"
           }
         ],
         "answer": "C",
-        "explanation": "- **Option C (Correct)**: Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ **FIXED LOD** $\\rightarrow$ Dimension Filter $\\rightarrow$ Measure Filter matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: Dimension Filter $\\rightarrow$ FIXED LOD $\\rightarrow$ Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ Measure Filter is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: FIXED LOD $\\rightarrow$ Data Source Filter $\\rightarrow$ Context Filter $\\rightarrow$ Dimension Filter $\\rightarrow$ Measure Filter is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Data Source Filter $\\rightarrow$ Dimension Filter $\\rightarrow$ Context Filter $\\rightarrow$ Measure Filter $\\rightarrow$ FIXED LOD is inaccurate or secondary relative to the primary concept.",
+        "explanation": "- **Option C (Correct)**: Data Source Filter → Context Filter → **FIXED LOD** → Dimension Filter → Measure Filter matches the authoritative source framework (`EXT-TAB-01`).\n  - **Option A (Incorrect)**: Dimension Filter → FIXED LOD → Data Source Filter → Context Filter → Measure Filter is inaccurate or secondary relative to the primary concept.\n  - **Option B (Incorrect)**: FIXED LOD → Data Source Filter → Context Filter → Dimension Filter → Measure Filter is inaccurate or secondary relative to the primary concept.\n  - **Option D (Incorrect)**: Data Source Filter → Dimension Filter → Context Filter → Measure Filter → FIXED LOD is inaccurate or secondary relative to the primary concept.",
         "evidenceId": "EXT-TABLEAU-LOD-2020",
         "evidenceClassification": "official-external",
         "trapLabel": "scope-boundary-trap",
